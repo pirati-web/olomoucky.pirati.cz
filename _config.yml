@@ -1,0 +1,93 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Piráti Olomoucký kraj
+email: olomoucko@pirati.cz
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor
+
+sass:
+    style: compressed
+
+permalink: /tiskove-zpravy/:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+  program:
+    output: false
+    permalink: /program/:path/
+  teams:
+    output: true
+    permalink: /mistni-sdruzeni/:title/
+  elections:
+    output: false
+    permalink: /volby/:path/
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "page"
+      rbar: "people, foto"
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "page"
+      rbar: "program"
+  -
+    scope:
+      path: "_program/psp2017"
+    values:
+      layout: "page"
+      rbar: "program program_item"
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "team"
+      rbar: "team-summary, teams-toc"
+  -
+    scope:
+      path: "_elections"
+    values:
+      layout: "kandidatka"
+
+calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=0014epo7k8kbgpgq3gaudeodnc%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
+fb: https://www.facebook.com/pirati.olomoucko/
+tw: PiratskaStrana
+
+emptyArray: []
+
+ftp_host: 'pirati-olomoucko.xf.cz'  
+ftp_dir: '/'  
+ftp_passive: false

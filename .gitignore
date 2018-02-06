@@ -1,0 +1,11 @@
+_site
+_podklady/html/pirati.cz/
+
+.sass-cache/
+.jekyll-metadata
+
+Gemfile.lock
+desktop.ini
+
+node_modules
+bower_components

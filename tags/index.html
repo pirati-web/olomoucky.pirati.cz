@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section o-section--noSpaceBottom">
+      <div class="o-section-inner">
+        <div class="c-BasicPage">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
+                <h1 class="c-BasicPage__title">Články podle tagu</h1>
+              </div>
+							{% capture tags %}
+  							{% for tag in site.tags %}
+    							{{ tag[0] }}
+  							{% endfor %}
+								{% for team in site.teams %}
+									{{ team.tags }}
+								{% endfor %}
+							{% endcapture %}
+							{% assign sortedtags = tags | split:' ' | uniq | sort %}
+
+							{% for tag in sortedtags %}
+							<h3 id="{{ tag }}">{{ tag }}</h3>
+							<ul>
+								{% for post in site.tags[tag] %}
+								<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+							</ul>
+							{% endfor %}
+            </div>
+          </div>          
+        </div>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
