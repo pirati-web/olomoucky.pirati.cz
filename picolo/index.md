@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Olomoucké pirátské centrum OlPiCe
+title: Olomoucké pirátské centrum Picolo
 category: pratske-centrum
 ---
 
@@ -13,5 +13,5 @@ Vzniká zde tzv. Pirátské centrum Olomouc (ta přední část co je vidět z c
 
 Poslanecká kancelář, regionální kancelář Olomouckého poslance za Pirátskou stranu, současně místopředsedy Poslanecké sněmovny Vojtěcha Pikala bude sloužit jednak jako jeho pracovní zázemí v čase, kdy bude pracovat v regionu, ale bude to především prostor a příležitost pro aktivní setkání občanů s poslancem. 
 
-<img src="/assets/img/miscellaneous/olpice.jpg" height="400" width="711" align="left">
+<img src="{{ 'picolo.jpg' | prepend: '/assets/img/miscellaneous/' | relative_url }}" height="400" width="711" align="left">
 

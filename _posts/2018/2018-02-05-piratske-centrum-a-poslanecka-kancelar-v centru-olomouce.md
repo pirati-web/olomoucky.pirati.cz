@@ -19,6 +19,7 @@ Práce poslanců je rozdělena do 6týdenního neustále se opakujícího cyklu.
 Právě ty dva týdny, variabilní a poslanecký, jsou časem, kdy poslanec může/měl by být k dispozici ve svém regionu.
 
 Je na občanech, zda tuto možnost využijí. Konkrétně třeba právě na Vás, kteří čtete tento text. A co by jste mohli vlastně s poslancem řešit? 
+<img src="{{ '2018-02-05-piratske-centrum-a-poslanecka-kancelar-v centru-olomouce.jpg' | prepend: '/assets/img/miscellaneous/' | relative_url }}" height="600" width="450" align="right">
 
 Uvedu zcela konkrétní příklad: Poslankyně za Pirátskou stranu Olga  Richterová interpelovala<span>*)</span> paní ministryni Němcovou ohledně alarmující situace na úřadech práce. Tam si totiž třeba maminky zařizují rodičovskou, příspěvky na bydlení nebo hmotnou nouzi. Lidé na úřadech absolvují hodiny ve frontách i s malými dětmi, jsou často opakovaně odmítáni kvůli administrativním drobnostem, marně čekají na vystavení jakéhosi potvrzení atd. A to je třeba změnit. Nevyhovuje to ani lidem, kteří si vyřizují potřebné věci, ani samotným úředníkům, kteří v takových podmínkách a atmosféře musí fungovat.
 
