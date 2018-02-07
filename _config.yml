@@ -9,8 +9,8 @@
 title: Piráti Olomoucký kraj
 email: olomoucko@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
+baseurl: "/olomoucky.pirati.cz" # the subpath of your site, e.g. /blog
+url: "https://pirati-web.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -87,7 +87,3 @@ fb: https://www.facebook.com/pirati.olomoucko/
 tw: PiratskaStrana
 
 emptyArray: []
-
-ftp_host: 'pirati-olomoucko.xf.cz'  
-ftp_dir: '/'  
-ftp_passive: false
