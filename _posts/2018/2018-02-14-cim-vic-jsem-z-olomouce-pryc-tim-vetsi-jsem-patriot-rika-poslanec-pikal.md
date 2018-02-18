@@ -67,4 +67,5 @@ Se vším, co jim vadí, nebo naopak kvitují. Poslance si zvolili sami lidé, t
 
 Uvedu příklad z poslední doby. Poslankyně za Pirátskou stranu Olga Richterová interpelovala paní ministryni Jaroslavu Němcovou ohledně situace na úřadech práce. Lidé tam tráví hodiny ve frontách, systém nevyhovuje jim, ani úředníkům. Paní ministryně nám nabídla na toto téma schůzku. A právě to je ten moment, kdy občané jednají s vládou skrze poslance, kterého delegovali. Proto Olga Richterová vyzvala přes sociální sítě, aby jí lidé své zkušenosti z úřadu práce napsali. Pokud má něco fungovat, musí se na tom podílet co nejvíc zúčastněných. 
 
-Zdroj: [https://olomoucky.denik.cz/zpravy_region/cim-vic-jsem-z-olomouce-pryc-tim-vetsi-jsem-patriot-rika-poslanec-pikal-20180206.html](https://olomoucky.denik.cz/zpravy_region/cim-vic-jsem-z-olomouce-pryc-tim-vetsi-jsem-patriot-rika-poslanec-pikal-20180206.html)
+Zdroj: [https://olomoucky.denik.cz/zpravy_region/cim-vic-jsem-z-olomouce-pryc-tim-vetsi-jsem-patriot-rika-poslanec-pikal-20180206.html](https://olomoucky.denik.cz/zpravy_region/cim-vic-jsem-z-olomouce-pryc-tim-vetsi-jsem-patriot-rika-poslanec-pikal-20180206.html)  
+Foto: Eva Minárová, Olomoucký deník
