@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátská Tvrz chystá další VyOsení
-date: 2016-02-03-08T08:29:00+01:00  
+date: 2016-02-03
 tags: piratska-tvrz
 author: Martin Šmída
 image: assets/img/articles/2016/2016-02-03-piratska-tvrz-chysta-dalsi-vyoseni.jpg   #751x422 pixelu

@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti dobývají Šumpersko
-date: 2017-12-30-08T08:29:00+01:00
+date: 2017-12-30
 tags: 
 - sumpersko
 author: Michal Hlaváč

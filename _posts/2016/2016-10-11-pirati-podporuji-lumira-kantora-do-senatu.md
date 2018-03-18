@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti podporují Lumíra Kantora do senátu
-date: 2016-10-11-08T08:29:00+01:00  
+date: 2016-10-11
 tags: olomouc
 author: Martin Šmída
 image: assets/img/articles/2016/2016-10-11-pirati-podporuji-lumira-kantora-do-senatu.jpg   #751x422 pixelu
