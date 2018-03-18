@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráty v Olomouci do podzimních voleb povede Hynek Melichar
-date: 2018-03-15T08:29:00+01:00
+date: 2018-03-15
 tags: 
 - olomouc
 author: Tomáš Svoboda
