@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Report z Celostátního fóra KSOLK
-date: 2018-01-11-08T08:29:00+01:00
+date: 2018-01-11
 tags: 
 - celostatni-forum
 author: Tomáš Karlík

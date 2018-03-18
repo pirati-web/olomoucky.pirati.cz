@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátská Tvrz přeje pohodové Vánoce
-date: 2016-12-06-08T08:29:00+01:00  
+date: 2016-12-06
 tags: piratska-tvrz
 author: Martin Šmída
 image: assets/img/articles/2016/2016-12-06-piratska-tvrz-preje-pohodove-vanoce.jpg   #751x422 pixelu

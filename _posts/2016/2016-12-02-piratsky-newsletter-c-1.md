@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátský newsletter č. 1
-date: 2016-12-02-08T08:29:00+01:00  
+date: 2016-12-02
 tags: olomoucky-kraj, newsletter
 author: Petr Kapounek
 image: assets/img/articles/2016/2016-12-02-piratsky-newsletter-c-1.jpg   #751x422 pixelu

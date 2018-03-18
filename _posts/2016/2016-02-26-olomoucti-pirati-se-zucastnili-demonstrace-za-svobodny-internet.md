@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Olomoučtí piráti se zúčastnili demonstrace za svobodný Internet
-date: 2016-03-22-08T08:29:00+01:00  
+date: 2016-03-22
 tags: olomouc
 author: Jakub Nepejchal
 image: assets/img/articles/2016/2016-02-26-olomoucti-pirati-se-zucastnili-demonstrace-za-svobodny-internet.jpg   #751x422 pixelu

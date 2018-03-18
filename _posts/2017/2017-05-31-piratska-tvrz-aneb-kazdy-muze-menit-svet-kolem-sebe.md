@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátská Tvrz aneb každý může měnit svět kolem sebe
-date: 2017-05-31-08T08:29:00+01:00  
+date: 2017-05-31
 tags: piratska-tvrz
 author: Martin Šmída
 tags: piratska-tvrz

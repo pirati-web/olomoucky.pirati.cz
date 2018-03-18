@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Strana zelených a Piráti mají nový zastupitelský klub
-date: 2016-12-12-08T08:29:00+01:00  
+date: 2016-12-12
 tags: olomouc
 author: Vojtěch Pikal
 image: assets/img/articles/2016/2016-12-12-strana-zelenych-a-pirati-maji-novy-zastupitelsky-klub.jpg   #751x422 pixelu

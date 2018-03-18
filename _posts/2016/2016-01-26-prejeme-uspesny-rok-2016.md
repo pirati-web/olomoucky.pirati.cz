@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Přejeme úspěšný rok 2016
-date: 2016-01-26-08T08:29:00+01:00  
+date: 2016-01-26
 tags: piratska-tvrz
 author: Martin Šmída
 image: assets/img/articles/2016/2016-01-26-prejeme-uspesny-rok-2016.jpg   #751x422 pixelu

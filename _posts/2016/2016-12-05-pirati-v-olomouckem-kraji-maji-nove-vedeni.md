@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti v Olomouckém kraji mají nové vedení
-date: 2016-12-05-08T08:29:00+01:00  
+date: 2016-12-05
 tags: olomoucky-kraj
 author: Vojtěch Pikal
 image: assets/img/articles/2016/2016-12-05-pirati-v-olomouckem-kraji-maji-nove-vedeni.jpg   #751x422 pixelu

@@ -7,8 +7,8 @@ category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Místopředseda místního sdružení
 img: people/jan-bednarik.jpg   # 165 x 220
 description: 1. místopředseda olomouckého místního sdružení           # kratký popis, max 160 znaků
-mail:
-- 
+mail: 
+- jan.bednarik@pirati.cz
 mob:
 profiles:
   github:                 
