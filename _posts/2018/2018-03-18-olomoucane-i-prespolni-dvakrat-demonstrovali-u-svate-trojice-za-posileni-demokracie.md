@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Olomoučané i přespolní dvakrát demonstrovali u Svaté Trojice za posílení demokracie
-date: 2018-03-18-08T08:29:00+01:00
+date: 2018-03-18
 tags: 
 - olomouc
 author: Tomáš Svoboda
