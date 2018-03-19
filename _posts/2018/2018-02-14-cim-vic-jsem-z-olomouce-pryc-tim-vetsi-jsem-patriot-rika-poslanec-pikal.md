@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Čím víc jsem z Olomouce pryč, tím větší jsem patriot, říká poslanec Pikal
-date: 2018-02-14-08T08:29:00+01:00
+date: 2018-02-14
 tags: 
 - olomouc
 - clanky

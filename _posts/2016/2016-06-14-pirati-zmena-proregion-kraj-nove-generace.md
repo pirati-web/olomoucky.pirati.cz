@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti + Změna + ProRegion --> Kraj nové generace
-date: 2016-06-14-08T08:29:00+01:00  
+date: 2016-06-14
 tags: olomoucky-kraj
 author: Martin Šmída
 image: assets/img/articles/2016/2016-06-14-pirati-zmena-proregion-kraj-nove-generace.jpg   #751x422 pixelu

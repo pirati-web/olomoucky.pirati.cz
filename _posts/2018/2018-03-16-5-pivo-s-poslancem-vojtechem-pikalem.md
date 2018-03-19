@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 5. pivo s poslancem Vojtěchem Pikalem
-date: 2018-03-16-08T08:29:00+01:00
+date: 2018-03-16
 tags: 
 - olomouc
 author: Tomáš Svoboda
