@@ -2,11 +2,11 @@
 layout: post
 category: CLANKY
 title: Olomoučané i přespolní dvakrát demonstrovali u Svaté Trojice za posílení demokracie
-date: 2018-03-18
+date: 2018-03-13
 tags: 
 - olomouc
 author: Tomáš Svoboda
-image: assets/img/articles/2018/2018-03-18-olomoucane-i-prespolni-dvakrat-demonstrovali-u-svate-trojice-za-posileni-demokracie.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-03-13-olomoucane-i-prespolni-dvakrat-demonstrovali-u-svate-trojice-za-posileni-demokracie.jpg   #751x422 pixelu
 ---
 Dvě akce pořádané Pirátskou stranou a s podporou demokratických stran proběhly v srdci hanácké metropole během jediného týdne a přilákaly stovky občanů nejen z Olomouce, ale i z Libiny, Šumperka a dalších okolních měst a dědin.
 
