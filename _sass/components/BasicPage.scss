@@ -257,7 +257,6 @@
   position: relative;
   min-height: 420px;
   background: #f3f3f3;
-  z-index: -1;
 
   @include breakpoint(medium down) {
     min-height: 250px;
@@ -293,6 +292,7 @@
     opacity: 0.1;
     user-select: none;
     cursor: default;
+    z-index: -1;
   }
 }
 
