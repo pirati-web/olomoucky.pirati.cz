@@ -63,7 +63,7 @@
   .c-BasicPage__meta-filter-block {
     display: inline-block;
     vertical-align: middle;
-    
+
     @include breakpoint(mobile down) {
       display: block;
     }
@@ -277,6 +277,7 @@
   right: 0;
   bottom: 0;
   left: 0;
+  z-index: -1;
 
   img {
     min-width: 100%;
