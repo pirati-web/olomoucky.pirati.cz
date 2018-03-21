@@ -15,7 +15,7 @@ url: https://olomoucko.pirati.cz/mistni-sdruzeni/prerov
 categories:
 - mistni-sdruzeni
 tags:
-- prerov
+- přerov
 facebook: https://www.facebook.com/Prerovsko/
 redmine:
 forum: https://forum.pirati.cz/prerov-f664/

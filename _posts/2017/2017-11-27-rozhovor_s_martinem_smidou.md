@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Rozhovor s Martinem Šmídou nejen o volbách a o MS Pirátská Tvrz
 date: 2017-11-27
-tags: piratska-tvrz
+tags: pirátská-tvrz
 author: Radek Vojtek
 image: assets/img/articles/2017/2017-11-27-rozhovor_s_martinem_smidou.jpg   #751x422 pixelu
 ---

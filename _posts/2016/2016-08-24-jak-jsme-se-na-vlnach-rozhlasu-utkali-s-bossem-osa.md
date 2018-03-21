@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Jak jsme se na vlnách rozhlasu utkali s bossem OSA
 date: 2016-08-24
-tags: osa
+tags: piráti
 author: Martin Šmída
 image: assets/img/articles/2016/2016-08-24-jak-jsme-se-na-vlnach-rozhlasu-utkali-s-bossem-osa.jpg   #751x422 pixelu
 ---

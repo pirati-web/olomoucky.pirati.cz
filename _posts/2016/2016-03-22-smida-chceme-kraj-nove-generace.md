@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Šmída: Chceme kraj nové generace"
 date: 2016-03-22
-tags: piratska-tvrz
+tags: pirátská-tvrz
 author: Martin Šmída
 image: assets/img/articles/2016/2016-03-22-smida-chceme-kraj-nove-generace.jpg   #751x422 pixelu
 ---

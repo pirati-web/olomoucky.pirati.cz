@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Piráti z Olomouckého kraje mají nové předsednictvo
 date: 2016-02-03
-tags: olomoucky-kraj
+tags: olomoucký-kraj
 author: Martin Šmída
 image: assets/img/articles/2016/2016-02-03-pirati-z-olomouckeho-kraje-maji-nove-predsednictvo.jpg   #751x422 pixelu
 ---

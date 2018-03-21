@@ -15,7 +15,7 @@ url: https://olomoucko.pirati.cz/mistni-sdruzeni/piratska-tvrz
 categories:
 - mistni-sdruzeni
 tags:
-- piratska-tvrz
+- pirátská-tvrz
 facebook: https://www.facebook.com/PiratskaTvrz/?fref=ts
 redmine: 
 forum: https://forum.pirati.cz/piratska-tvrz-f640/

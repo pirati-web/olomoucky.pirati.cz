@@ -4,7 +4,7 @@ category: CLANKY
 title: Pirátské centrum a Poslanecká kancelář v centru Olomouce
 date: 2018-02-05
 tags: 
-- olomouc
+- olomoucký-kraj
 author: Tomáš Svoboda
 image: assets/img/articles/2018/2018-02-05-piratske-centrum-a-poslanecka-kancelar-v centru-olomouce.jpg   #751x422 pixelu
 ---

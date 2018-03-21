@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Prostějovští Piráti podporují přiměřenou úpravu prostoru bývalého židovského hřbitova a vyzývají k pokračování jednání
 date: 2017-01-16
-tags: prostejov
+tags: prostějov
 author: Petr Lysek
 image: assets/img/articles/2017/2017-01-16-prostejovsti-pirati-podporuji-primerenou-upravu-prostoru-byvaleho-zidovskeho-hrbitova-a-vyzyvaji-k-pokracovani-jednani.jpg   #751x422 pixelu
 ---

@@ -15,7 +15,7 @@ url: https://olomoucko.pirati.cz/mistni-sdruzeni/sumpersko
 categories:
 - mistni-sdruzeni
 tags:
-- sumpersko
+- šumpersko
 facebook: https://www.facebook.com/Piráti-Šumpersko-a-okolí-1201476926617478/
 redmine: 
 forum: https://forum.pirati.cz/sumpersko-f741/
