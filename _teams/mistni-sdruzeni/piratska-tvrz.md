@@ -3,7 +3,7 @@ uid: piratska-tvrz
 cid: piratska-tvrz
 name: Pirátská Tvrz
 fullname: Místní sdružení Pirátská Tvrz
-img: teams/olomouc.jpg
+img: teams/piratska-tvrz.jpg
 leader: radim.studeny
 deputy:
 - radek.vojtek

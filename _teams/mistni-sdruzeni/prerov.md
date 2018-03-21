@@ -3,7 +3,7 @@ uid: prerov
 cid: prerov
 name: Přerov
 fullname: Místní sdružení Přerov
-img: teams/olomouc.jpg
+img: teams/prerov.jpg
 leader: martin.svadlenka
 deputy:
 - jan.gebauer
