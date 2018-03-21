@@ -3,7 +3,7 @@ uid: prostejov
 cid: prostejov
 name: Prostějov
 fullname: Místní sdružení Prostějov
-img: teams/olomouc.jpg
+img: teams/prostejov.jpg
 leader: petr.lysek
 deputy:
 - petr.kapounek

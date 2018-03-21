@@ -3,7 +3,7 @@ uid: sumpersko
 cid: sumpersko
 name: Šumpersko
 fullname: Místní sdružení Šumpersko
-img: teams/olomouc.jpg
+img: teams/sumpersko.jpg
 leader: lubomir.vlcek
 deputy:
 - marek.blaha
