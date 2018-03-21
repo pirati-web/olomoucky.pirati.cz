@@ -33,7 +33,7 @@ Místní sdružení Přerov sdružuje Piráty z Přerova a Dobrčic.
 ### Články
 {% assign counter = 0 %}
 {% for article in site.posts %}
-{% if article.tags contains "prerov" and counter < 6 %}
+{% if article.tags contains "přerov" and counter < 6 %}
 {% assign counter = counter | plus: 1 %}
 <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
   <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
