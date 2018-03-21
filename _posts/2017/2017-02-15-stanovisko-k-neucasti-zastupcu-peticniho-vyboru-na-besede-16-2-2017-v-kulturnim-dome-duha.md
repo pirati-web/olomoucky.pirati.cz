@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Stanovisko k neúčasti zástupců petičního výboru na besedě 16.2.2017 v Kulturním domě Duha
 date: 2017-02-15
-tags: prostejov
+tags: prostějov
 author: Petr Lysek
 image: assets/img/articles/2017/2017-02-15-stanovisko-k-neucasti-zastupcu-peticniho-vyboru-na-besede-16-2-2017-v-kulturnim-dome-duha.jpg   #751x422 pixelu
 ---

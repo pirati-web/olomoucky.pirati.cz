@@ -5,7 +5,6 @@ title: Čím víc jsem z Olomouce pryč, tím větší jsem patriot, říká pos
 date: 2018-02-14
 tags: 
 - olomouc
-- clanky
 author: Olomoucký deník
 image: assets/img/articles/2018/2018-02-14-cim-vic-jsem-z-olomouce-pryc-tim-vetsi-jsem-patriot-rika-poslanec-pikal.jpg   #751x422 pixelu
 ---

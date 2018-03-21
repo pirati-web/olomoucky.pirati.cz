@@ -15,7 +15,7 @@ url: https://olomoucko.pirati.cz/mistni-sdruzeni/prostejov
 categories:
 - mistni-sdruzeni
 tags:
-- prostejov
+- prostějov
 facebook: https://www.facebook.com/PiratiProstejov
 redmine:
 forum: https://forum.pirati.cz/prostejov-f655/

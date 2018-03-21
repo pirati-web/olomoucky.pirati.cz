@@ -112,7 +112,7 @@ img: miscellaneous/residence.png
 </div>
 <hr>
 <div class="row o-section-block o-section-block--divided">
-  <div class="medium-12 large-12 columns">
+  <div class="medium-6 large-6 columns">
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner">
         <div class="o-section-block">
@@ -121,7 +121,18 @@ img: miscellaneous/residence.png
               <h2>Kontakt pro média</h2>
                 {% assign team = site.people | where_exp:"item","item.uid contains 'tomas.svoboda'" %}
                 {% include people/list-2col.html param=team %}
-              <br>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div class="medium-6 large-6 columns">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <div class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
               <h2>Kontakt pro veřejnost</h2>
                 {% assign team = site.people | where_exp:"item","item.uid contains 'milos.zmeskal'" | sort:"ordkontakty" %}
                 {% include people/list-2col.html param=team %}
@@ -131,4 +142,5 @@ img: miscellaneous/residence.png
       </div>
     </section>
   </div>
+
 </div>

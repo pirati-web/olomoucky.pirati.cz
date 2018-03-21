@@ -1,12 +1,12 @@
 ---
 layout: post
 category: CLANKY
-title: Report z Celostátního fóra KSOLK
+title: Report z Celostátního fóra
 date: 2018-01-11
 tags: 
-- celostatni-forum
+- piráti
 author: Tomáš Karlík
-image: assets/img/articles/2018/2018-01-11-report-z-celostatniho-fora-ksolk.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-01-11-report-z-celostatniho-fora.jpg   #751x422 pixelu
 ---
 První víkend v novém roce Piráti nezaháleli, v Brně zasedal nejmocnější orgán strany - Celostátní fórum. Sjezdu se účastnili také přerovští Piráti i krajské sdružení Olomouc.
 

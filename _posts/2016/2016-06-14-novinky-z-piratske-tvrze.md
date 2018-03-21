@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Novinky z Pirátské Tvrze
 date: 2016-06-14
-tags: piratska-tvrz
+tags: pirátská-tvrz
 author: Martin Šmída
 image: assets/img/articles/2016/2016-06-14-novinky-z-piratske-tvrze.jpg   #751x422 pixelu
 ---

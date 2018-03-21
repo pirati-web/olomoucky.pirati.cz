@@ -4,7 +4,7 @@ category: CLANKY
 title: Piráti dobývají Šumpersko
 date: 2017-12-30
 tags: 
-- sumpersko
+- šumpersko
 author: Michal Hlaváč
 image: assets/img/articles/2017/2017-12-30-pirati-dobyvaji-sumpersko.jpg   #751x422 pixelu
 ---

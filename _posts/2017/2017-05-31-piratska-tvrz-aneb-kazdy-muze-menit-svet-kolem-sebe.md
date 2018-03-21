@@ -3,9 +3,8 @@ layout: post
 category: CLANKY
 title: Pirátská Tvrz aneb každý může měnit svět kolem sebe
 date: 2017-05-31
-tags: piratska-tvrz
+tags: pirátská-tvrz
 author: Martin Šmída
-tags: piratska-tvrz
 image: assets/img/articles/2017/2017-05-31-piratska-tvrz-aneb-kazdy-muze-menit-svet-kolem-sebe.jpg   #751x422 pixelu
 ---
 Několik (nejen) mladých lidí se to snaží vytrvale dokazovat v Majetíně a okolních obcích na pomezí olomouckého a přerovského okresu. Začli už před více než než 10 lety, když rozčeřili vody tradičního vesnického kulturního programu svým rockovým festivalem Kytary in Majetín. Na festivalu vystupovaly méně známé kapely z regionu a vstupné bývalo zpravidla dobrovolné. S Piráty se především radili, jak uspořádat festival bez poplatků OSA a dalším kolektirvním správcům. Později k hudebním vystoupením na festivale Kytary in Majetín přibylo i promítání filmů regionálních tvůrců. Letos 1. a 2. září bude již desátý ročník této akce, který se mezitím rozrostl na dvoudenní multižánrový festival s odpoledním programem pro rodiny s dětmi. „Kytary in Majetín dospívají s námi. Když jsme byli mladí pankáči, bylo to hlavně o punku, metalu a jiné hlasité kytarové muzice. Teď když má Martin dvě děti a všichni dostudovali, tak se se to trochu zklidnilo a každej si tam najde to svoje.“ říká jeden z pravidelných účastníků festivalu Vladimír Kubala.

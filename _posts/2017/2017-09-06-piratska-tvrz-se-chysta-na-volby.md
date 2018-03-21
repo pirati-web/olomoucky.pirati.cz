@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Pirátská Tvrz se chystá na volby!
 date: 2017-09-06
-tags: piratska-tvrz
+tags: pirátská-tvrz
 author: Martin Šmída
 image: assets/img/articles/2017/2017-09-06-piratska-tvrz-se-chysta-na-volby.jpg   #751x422 pixelu
 ---

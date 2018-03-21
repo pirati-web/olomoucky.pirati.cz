@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Výsledek krajských voleb
 date: 2016-10-11
-tags: olomoucky-kraj
+tags: olomoucký-kraj
 author: Martin Šmída
 image: assets/img/articles/2016/2016-10-11-vysledek-krajskych-voleb.jpg   #751x422 pixelu
 ---

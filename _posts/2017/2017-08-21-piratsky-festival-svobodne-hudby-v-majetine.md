@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Pirátský festival svobodné hudby v Majetíně
 date: 2017-08-21
-tags: piratska-tvrz
+tags: pirátská-tvrz
 author: Martin Šmída
 image: assets/img/articles/2017/2017-08-21-piratsky-festival-svobodne-hudby-v-majetine.jpg   #751x422 pixelu
 ---
