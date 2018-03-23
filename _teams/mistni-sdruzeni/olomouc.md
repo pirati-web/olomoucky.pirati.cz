@@ -24,7 +24,10 @@ web: https://olomoucko.pirati.cz/mistni-sdruzeni/olomouc
 ---
 Místní sdružení Olomouc působí na území Statutárního město Olomouc a okolních obcí Samotišky, Bystrovany, Křelov - Břuchotín, Bukovany a Hněvotín. Na olomoucké radnici působíme pod hlavičkou [Občané pro Olomouc](http://obcaneproolomouc.cz/). 
 
-### Články
+<div class="o-section-header">
+  <h2 class="o-section__heading o-section__heading--small">Články</h2>
+</div>
+
 {% assign counter = 0 %}
 {% for article in site.posts %}
 {% if article.tags contains "olomouc" and counter < 6 %}

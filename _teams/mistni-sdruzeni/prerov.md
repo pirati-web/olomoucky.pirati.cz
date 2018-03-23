@@ -30,7 +30,10 @@ V komunálních volbách jsme kandidovali v koalici s názvem [Společně Pro P�
 
 Místní sdružení Přerov sdružuje Piráty z Přerova a Dobrčic. 
 
-### Články
+<div class="o-section-header">
+  <h2 class="o-section__heading o-section__heading--small">Články</h2>
+</div>
+
 {% assign counter = 0 %}
 {% for article in site.posts %}
 {% if article.tags contains "přerov" and counter < 6 %}

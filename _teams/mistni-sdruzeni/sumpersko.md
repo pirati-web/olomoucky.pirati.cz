@@ -24,7 +24,10 @@ web: https://olomoucko.pirati.cz/mistni-sdruzeni/sumpersko
 ---
 Místní sdružení Šumpersko sdružuje Piráty z okresů Šumperk a Jeseník.
 
-### Články
+<div class="o-section-header">
+  <h2 class="o-section__heading o-section__heading--small">Články</h2>
+</div>
+
 {% assign counter = 0 %}
 {% for article in site.posts %}
 {% if article.tags contains "šumpersko" and counter < 6 %}
