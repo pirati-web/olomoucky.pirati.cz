@@ -24,7 +24,10 @@ web: https://olomoucko.pirati.cz/mistni-sdruzeni/prostejov
 ---
 Místní sdružení Prostějov sdružuje Piráty z okresu Prostějov.
 
-### Články
+<div class="o-section-header">
+  <h2 class="o-section__heading o-section__heading--small">Články</h2>
+</div>
+
 {% assign counter = 0 %}
 {% for article in site.posts %}
 {% if article.tags contains "prostějov" and counter < 6 %}
