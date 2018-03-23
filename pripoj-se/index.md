@@ -15,7 +15,7 @@ rbar: ""
               <h2 itemprop="headline" class="c-BasicPage__title">Připoj se</h2>
             </div>
             <div itemprop="description" class="c-BasicPage-content">
-              <p>Na této stránce se usilovně pracuje.</p>
+              <p>Na této stránce se usilovně pracuje. Další informace najdete na <a href="https://www.pirati.cz/pripoj-se/">celostátním webu</a>.</p>
             </div>
           </div>
         </div>
@@ -23,7 +23,6 @@ rbar: ""
     </section>
   </div>
 </div>
-
 <div class="row">
   <div class="medium-12 large-12 columns">
     <section class="o-section o-section">
