@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Připoj se
-rbar: ""
 ---
 {% include submenu.html %}
 
