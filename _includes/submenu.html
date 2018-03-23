@@ -24,30 +24,36 @@
     </div>
   </div>
 </nav>
-{% elsif page.url contains 'volby' %}
+{% elsif page.url contains 'pripoj-se' %}
+{% comment %}
 <nav class="c-top-sub-nav u-center-860-down">
   <div class="row">
     <div class="c-top-sub-nav-inner">
       <div class="u-cf">
         <div class="c-top-sub-nav-header">
-          <div class="c-top-sub-nav__heading">Volby</div>
+          <div class="c-top-sub-nav__heading">Připoj se</div>
         </div>
         <div class="c-top-sub-nav-divider"></div>
         <ul class="c-top-sub-nav-items">
-<!--          <li class="c-top-sub-nav__item">
+          <li class="c-top-sub-nav__item">
             <a href="{{'/pripoj-se/' | relative_url }}">Dej o sobě vědět</a>
           </li>
           <li class="c-top-sub-nav__item">
+            <a href="{{'/kalednar/' | relative_url }}">Kalendář</a>
+          </li>          
+<!--          <li class="c-top-sub-nav__item">
             <a href="{{'/pripoj-se/tymy/' | relative_url }}">najdi si tým</a>
-          </li> -->
+          </li> 
           <li class="c-top-sub-nav__item">
             <a href="http://objekty.jdem.cz/">Nabídni plot</a>
           </li>
+-->          
         </ul>
       </div>
     </div>
   </div>
 </nav>
+{% endcomment %}
 {% elsif page.url contains 'mistni-sdruzeni' %}
 {% comment %}
 <nav class="c-top-sub-nav u-center-860-down">
