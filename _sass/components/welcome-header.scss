@@ -1,8 +1,8 @@
 .c-welcome-header {
   height: 350px;
   position: relative;
-  background: white;
-  background-size: cover;
+  background: url('../img/header/banner-1366x400.jpg') no-repeat;
+  background-size: auto;
   background-position: center 70%;
   overflow: hidden;
 
@@ -10,14 +10,17 @@
     height: 100%;
   }
 
-  @include breakpoint(medium down) {
-    height: 390px;
-    background-size: 150%;
+  @include breakpoint(medium down) {    
+    background: url('../img/header/banner-1080x1365-mobile.jpg') no-repeat;
+    height: 800px; /*pokud je fotka tak vyska musi byt tak aby byla na hornim kraji pri velikosti 640 */
+    background-size: 100%;
     background-position: 20% 70%;
   }
 
   @include breakpoint(640px down) {
-    background-size: 190%;
+    background: url('../img/header/banner-432x1240-mobile.jpg') no-repeat;    
+    height: 800px; /*pokud je fotka tak vyska musi byt tak aby byla na hornim kraji pri velikosti 312 */
+    background-size: 100%;
     background-position: 27% 85%;
   }
 }
@@ -39,7 +42,7 @@
       right: -1rem;
       width: 442px;
       height: 325px;
-      #background: url('../img/miscellaneous/people-big.png') no-repeat;
+      background: url('../img/miscellaneous/people-big.png') no-repeat;
       background-size: 100%;
       transform-origin: bottom left;
     }
@@ -134,7 +137,7 @@
   line-height: 1.3;
   border: 0;
   font-size: 1rem;
-  color: #0a0a0a;
+  color: #e1e1e1;
 
   br {
     display: none;
@@ -168,4 +171,10 @@
     }
   }
 
+}
+
+@include breakpoint(mobile down) {
+  .c-banner .c-card-image-wrapper .c-card__image {
+    min-height: auto;
+  }
 }
