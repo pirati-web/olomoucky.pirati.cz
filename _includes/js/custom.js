@@ -69,6 +69,8 @@ var choice_leader = function(data) { return choice_person(data, page_leader, 'p≈
 /** @param {collection} data **/
 var choice_contact= function(data) { return choice_person(data, page_contact, 'kontaktn√≠ osoba'); };
 
+
+
 /**
  * Show people in the #people
  * @param {collection} data
