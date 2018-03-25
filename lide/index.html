@@ -111,6 +111,18 @@ title: Naši lidé v Olomouckém kraji
                                     </div>
                                 </li>
                             </ul>                                                        
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item" data-accordion-item="">
+                                    <a href="#psp" class="c-simple-accordion-title">Předsedové místních sdružení</a>
+                                    <div id="psp" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'predsedove-ms'" | sort:"ordzas" %}
+                                        {% include people/list-2col.html param=team %}
+                                        {% comment %}
+                                        {% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
+                                        {% endcomment %}
+                                    </div>
+                                </li>
+                            </ul>                                                                                    
                         </div>
                     </div>
                 </main>

@@ -4,6 +4,7 @@ name:     Radim Studený  # běžně používáné jméno
 fullname: Ing. et Ing. Radim Studený   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - piratska-tvrz
+- predsedove-ms
 position: Předseda místního sdružení
 img: people/radim-studeny.jpg   # 165 x 220
 description: Předseda místního sdružení Pirátská Tvrz           # kratký popis, max 160 znaků

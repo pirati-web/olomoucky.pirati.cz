@@ -4,6 +4,7 @@ name:     Jakub Nepejchal   # běžně používáné jméno
 fullname: Jakub Nepejchal   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
+- predsedove-ms
 position: Předseda místního sdružení
 img: people/jakub-nepejchal.jpg   # 165 x 220
 description: Předseda olomouckého místního sdružení           # kratký popis, max 160 znaků

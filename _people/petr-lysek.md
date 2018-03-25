@@ -5,6 +5,7 @@ fullname: Ing. Petr Lysek   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov
 - zastupitele
+- predsedove-ms
 position: Předseda místního sdružení
 img: people/petr-lysek.jpg   # 165 x 220
 description: Předseda prostějovského místního sdružení, zastupitel v Prostějově           # kratký popis, max 160 znaků
