@@ -18,7 +18,7 @@ Poslanec Vojtěch Pikal o události říká:
 
 V těchto dnes probíhají dokončovací práce a hned po Velikonocích se na Vás těšíme.
 
-Mgr. Alena Navrátilová z Palackého university bude diskuzi moderovat. Odpovídat a diskutovat budou: Doc. PhDr. Tomáš Lebeda, Phd., RNDr. Otakar Vychodil, JUDr. Maxim Tomoczek, PhD., Bc. Vojtěch Pikal. Diskuze bude sdílena přes sociální sítě a uložena na našem webu k pozdějšímu dohledání. Sledujte nás na [olomoucky.pirati.cz](olomoucky.pirati.cz) a [www.facebook.com/piratiOlomoucko](www.facebook.com/piratiOlomoucko)
+Mgr. Alena Navrátilová z Palackého university bude diskuzi moderovat. Odpovídat a diskutovat budou: Doc. PhDr. Tomáš Lebeda, PhD., RNDr. Otakar Vychodil, JUDr. Maxim Tomoszek, PhD., Bc. Vojtěch Pikal. Diskuze bude sdílena přes sociální sítě a uložena na našem webu k pozdějšímu dohledání. Sledujte nás na [olomoucky.pirati.cz](olomoucky.pirati.cz) a [www.facebook.com/piratiOlomoucko](www.facebook.com/piratiOlomoucko)
 
 Děkujeme. Jste srdečně zváni.  
 Piráti Olomouc, XOLK
