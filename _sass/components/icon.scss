@@ -16,6 +16,10 @@ $icon-ns: '';
   background: #91cfff;
 }
 
+.#{$icon-ns}c-icon.#{$icon-ns}c-icon--instagram {
+  background: #d10869;
+}
+
 .#{$icon-ns}c-icon.#{$icon-ns}c-icon--googlePlus {
   background: #cc0303;
 }
