@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti otevřeli další regionální centrum. Olomoucké PiCOLO je zároveň kanceláří místopředsedy Sněmovny Vojtěcha Pikala
+title: Piráti otevřeli další regionální centrum. Olomoucké PiCOlo je zároveň kanceláří místopředsedy Sněmovny Vojtěcha Pikala
 date: 2018-04-04
 tags: 
 - picolo
