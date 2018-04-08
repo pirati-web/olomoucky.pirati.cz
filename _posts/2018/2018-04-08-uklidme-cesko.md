@@ -6,7 +6,7 @@ date: 2018-04-08
 tags: 
 - olomouc
 author: Jan Bednařík
-image: assets/img/articles/2018/2018-04-08-uklidme-cesko.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-04-08-uklidme-cesko-olomouc.jpg   #751x422 pixelu
 ---
 Piráti a příznivci z Olomouce se 7. dubna opět zapojili do akce [Ukliďme Česko](http://www.uklidmecesko.cz). Lokalitou pro úklid byly Čechovy sady, kde se po roztání sněhu a jarní prořezávce dřevin staly odpadky pod keři nepěknou dominantou porostu. Během pár hodin se dobrovolným sběračům podařilo uklidit zhruba 50kg odpadu.
 
