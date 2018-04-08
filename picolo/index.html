@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Olomoucké pirátské centrum PiCOlo
+title: Picolo - Pirátské centrum Olomouc
 ---
 <div class="row">
   <div class="medium-12 large-8 columns">
@@ -10,11 +10,20 @@ title: Olomoucké pirátské centrum PiCOlo
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
-                <h1 class="c-BasicPage__title">Olomoucké pirátské centrum PiCOlo</h1>
-              </div>    
+                <h1 class="c-BasicPage__title">Picolo - Pirátské centrum Olomouc</h1>
+              </div>
               <div itemprop="description" class="c-BasicPage-content">
-                <p><strong>Adresa:</strong> 8. května 522/5, 779 00 Olomouc<br>
-                <strong>Otevírací doba:</strong> Pondělí 9-13 hodin, mimo tuto dobu po domluvě </p>                
+                <p>
+                  Pirátské centrum slouží jako prostor pro širokou veřejnost a různorodé občanské aktivity. Můžete zde uspořádat přednášku, besedu, workshop, promítání, atp. K dispozici je projektor s plátnem, a také kamera pro záznam či streaming na YouTube.
+                </p>
+                <p>
+                  Picolo je k dispozici zcela ZDARMA a pro akce nekomerčního charakteru. Vyhrazujeme si právo akci odmítnout.
+                </p>
+                <p>
+                  <strong>Adresa:</strong> 8. května 522/5, 779 00 Olomouc<br>
+                  <strong>Otevírací doba:</strong> Pondělí 9-13 hodin, mimo tuto dobu po domluvě<br>
+                  <strong>Facebook:</strong> <a href="https://www.facebook.com/picoloexistuje/">https://www.facebook.com/picoloexistuje/</a><br>
+                </p>
               </div>
               <div class="o-media o-media--top">
                 <div class="o-media__image">
@@ -22,8 +31,8 @@ title: Olomoucké pirátské centrum PiCOlo
                 </div>
               </div>
               <div class="o-section-header">
-                <h2 class="o-section__heading o-section__heading--small">Akce, pozvánky, články</h2>              
-              </div> 
+                <h2 class="o-section__heading o-section__heading--small">Akce, pozvánky, články</h2>
+              </div>
 
               {% assign counter = 0 %}
               {% for article in site.posts %}
@@ -50,12 +59,12 @@ title: Olomoucké pirátské centrum PiCOlo
                 </h2>
                 <!-- BlogPosting description-->
                 <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 | strip_html }}</div>
-                  <a href="{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>      
+                  <a href="{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
                 </div>
                 <!-- Publisher -->
                 <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
                   <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
-                    <meta itemprop="url" content="{{ 'assets/img/brand/logo.svg' | relative_url }}"> 
+                    <meta itemprop="url" content="{{ 'assets/img/brand/logo.svg' | relative_url }}">
                   </div>
                   <meta itemprop="name" content="Česká pirátská strana">
                 </div>
@@ -73,14 +82,14 @@ title: Olomoucké pirátské centrum PiCOlo
                   <i class="fa fa-user" aria-hidden="true"></i>
                   <span itemprop="name" class="c-BlogPosting-excerpt__author">{{ article.author }}</span>
                   <br class="hide-for-medium">
-                </span>     
+                </span>
               </div>
             </article>
             {% endif %}
             {% endfor %}
-            
+
             </div>
-          </div>          
+          </div>
         </div>
       </div>
     </section>
@@ -88,7 +97,7 @@ title: Olomoucké pirátské centrum PiCOlo
   </div>
   <div class="small-12 large-4 columns">
     <aside class="o-section o-section--noSpaceBottom">
-      <div class="o-section-inner o-section-inner--rightBlock">        
+      <div class="o-section-inner o-section-inner--rightBlock">
         {% include right-bar/bar_cal.html %}
         {% include right-bar/bar_video.html %}
       </div>
