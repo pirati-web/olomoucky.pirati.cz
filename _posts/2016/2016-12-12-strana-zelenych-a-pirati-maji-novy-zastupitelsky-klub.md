@@ -7,7 +7,7 @@ tags: olomouc
 author: Vojtěch Pikal
 image: assets/img/articles/2016/2016-12-12-strana-zelenych-a-pirati-maji-novy-zastupitelsky-klub.jpg   #751x422 pixelu
 ---
-**Strana zelených, Piráti a nezávislí kandidáti, jež byli sdruženi ve volební straně Občané pro Olomouc, se dohodli na vzniku nového klubu. Po dvou letech tak v olomouckém zastupitelstvu přibude samostatný klub s názvem: Zelení a Piráti („SZ/Pir“).**
+Strana zelených, Piráti a nezávislí kandidáti, jež byli sdruženi ve volební straně Občané pro Olomouc, se dohodli na vzniku nového klubu. Po dvou letech tak v olomouckém zastupitelstvu přibude samostatný klub s názvem: Zelení a Piráti („SZ/Pir“).
 
 Nový klub bude reprezentovat Stranu zelených a Českou pirátskou stranu, osobně je bude zastupovat Richard Kořínek (SZ), který v létě v olomouckém zastupitelstvu vystřídal Pavla Bednaříka (SZ). Případným náhradníkem klubu je Vojtěch Pikal (Piráti).
 
