@@ -10,7 +10,7 @@ image: assets/img/articles/2018/2018-04-10-slavime-9-pocatecniny-ceske-piratske-
 ---
 Aneb jak vznikla nejvíc cool politická strana v ČR. Potřebu a nutnost něco udělat se nesvobodou (nejen) na internetu vyjádřil programátor Jiří Kadeřávek výzvou na portálu abclinuxu.cz.
 
-[Tato výzva](http://www.abclinuxu.cz/blog/BoodOk/2009/4/petice-pod-vznik-ceska-piratske-strany) byla startem k založení České pirátské strany, tedy dnešní druhé nejsilnější parlamentní síly a nejsilnější demokratické strany. Na webu se výzva objevila 19. dubna 2009, tedy před devíti lety.
+[Tato výzva](http://www.abclinuxu.cz/blog/BoodOk/2009/4/petice-pod-vznik-ceska-piratske-strany) byla startem k založení České pirátské strany strany. Na webu se výzva objevila 19. dubna 2009, tedy před devíti lety.
 
 Na wikipedii se dočtete: „Zanedlouho se zformoval přípravný výbor a vznikla online petice pro získání zákonem stanoveného počtu podpisů a aktivaci budoucí členské základny. O oznámení úmyslu založení strany informovala řada českých zpravodajských serverů. Tisíc podpisů v online petici se straně podařilo shromáždit během méně než dvou dnů od zprovoznění webových stránek strany, do konce měsíce dubna pak signovalo petici na vznik strany přes dva tisíce lidí. V dubnu 2009 také začal přípravný výbor strany rozesílat petiční archy na získané emailové adresy, pro získání tisíce potřebných fyzických podpisů pro založení strany.“
 
