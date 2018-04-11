@@ -14,7 +14,7 @@ Občané měli možnost u dvou stánků podepsat [petici](https://milionchvilek.
 
 Opět jsme živě vysílali na několika kanálech, díky dnes našemu Pirátovi [Jaroslavu Vinickému](https://www.facebook.com/jaroslav.vinicky) a pořídili fotografie. Nad hlavami demonstrujících vlála vlajka české republiky a pirátské strany.
 
-Mezi hosty vystoupili dva Piráti, Jakub Knápek a Jan Bednařík. Záznam [ZDE](https://www.facebook.com/piratiOlomoucko/videos/1735620629831662/). 
+Mezi hosty vystoupili dva Piráti, Jakub Knápek a Jan Bednařík. Záznam jejich vystoupení je [ZDE](https://www.youtube.com/watch?v=pS6DFrHzdLw) a celý záznam demonstrace je [ZDE](https://www.facebook.com/piratiOlomoucko/videos/1735620629831662/). 
 
 Celá akce se nesla v duchu podpory svobodných medií, uvědomění si vlastní odpovědnosti za stav současné politiky, upozornění na lhostejnost a její negativní důsledky, zazněly i jasné apely na občanskou angažovanost.
 
