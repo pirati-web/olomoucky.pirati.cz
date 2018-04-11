@@ -18,4 +18,4 @@ Mezi hosty vystoupili dva Piráti, Jakub Knápek a Jan Bednařík. Záznam [ZDE]
 
 Celá akce se nesla v duchu podpory svobodných medií, uvědomění si vlastní odpovědnosti za stav současné politiky, upozornění na lhostejnost a její negativní důsledky, zazněly i jasné apely na občanskou angažovanost.
 
-Počtem zůčastněných se demonstrace nevyrovnala demonstraci proti Ondráčkovi, ale cca 500 lidí jasně dalo najevo, že Andrej Babiš a jeho vláda bez podpory lidu není akceptovatelná.
+Počtem zúčastněných se demonstrace nevyrovnala demonstraci proti Ondráčkovi, ale cca 500 lidí jasně dalo najevo, že Andrej Babiš a jeho vláda bez podpory lidu není akceptovatelná.
