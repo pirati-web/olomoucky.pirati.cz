@@ -8,7 +8,7 @@ tags:
 author: Tomáš Svoboda
 image: assets/img/articles/2018/2018-04-10-slavime-9-pocatecniny-ceske-piratske-strany-19-dubna.jpg   #751x422 pixelu
 ---
-Aneb jak vznikla nejvíc cool politická strana v ČR. Potřebu a nutnost něco udělat s nesvobodou (nejen) na internetu vyjádřil programátor Jiří Kadeřávek výzvou na portálu abclinuxu.cz.
+Aneb jak vznikla nejvíc cool politická strana v ČR. Potřebu a nutnost něco udělat s nesvobodou (nejen) na internetu vyjádřil programátor Jiří Kadeřávek výzvou na portálu AbcLinuxu.cz.
 
 [Tato výzva](http://www.abclinuxu.cz/blog/BoodOk/2009/4/petice-pod-vznik-ceska-piratske-strany) byla startem k založení České pirátské strany. Na webu se výzva objevila 19. dubna 2009, tedy před devíti lety.
 
