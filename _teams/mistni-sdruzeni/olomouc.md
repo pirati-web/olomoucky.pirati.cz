@@ -22,7 +22,7 @@ forum: https://forum.pirati.cz/olomouc-f710/
 web: https://olomoucko.pirati.cz/mistni-sdruzeni/olomouc
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
-Místní sdružení Olomouc působí na území Statutárního město Olomouc a okolních obcí Samotišky, Bystrovany, Křelov - Břuchotín, Bukovany a Hněvotín. Na olomoucké radnici působíme pod hlavičkou [Občané pro Olomouc](http://obcaneproolomouc.cz/). 
+Místní sdružení Olomouc působí na území Statutárního města Olomouc a okolních obcí Samotišky, Bystrovany, Křelov - Břuchotín, Bukovany a Hněvotín. Na olomoucké radnici působíme pod hlavičkou [Občané pro Olomouc](http://obcaneproolomouc.cz/). 
 
 <div class="o-section-header">
   <h2 class="o-section__heading o-section__heading--small">Články</h2>
