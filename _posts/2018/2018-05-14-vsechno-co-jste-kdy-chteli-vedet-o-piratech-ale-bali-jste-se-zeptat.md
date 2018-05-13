@@ -2,13 +2,13 @@
 layout: post
 category: CLANKY
 title: "Všechno, co jste kdy chtěli vědět o Pirátech, ale báli jste se zeptat"
-date: 2018-05-14
+date: 2018-05-13
 tags: 
 - picolo
 author: Tomáš Svoboda
 image: assets/img/articles/2018/2018-05-14-vsechno-co-jste-kdy-chteli-vedet-o-piratech-ale-bali-jste-se-zeptat.jpg   #751x422 pixelu
 ---
-Olomouc, 14. 5. 2018 - Další díl přednáškového cyklu Pirátské putovní univerzity proběhne 23. 5. v 18 hodin. Tentokrát na téma: Všechno, co jste kdy chtěli vědět o Pirátech, ale báli jste se zeptat.
+Olomouc, 13. 5. 2018 - Další díl přednáškového cyklu Pirátské putovní univerzity proběhne 23. 5. v 18 hodin. Tentokrát na téma: Všechno, co jste kdy chtěli vědět o Pirátech, ale báli jste se zeptat.
 
 Povídání o historii pirátského hnutí a pirátských hodnotách, o vzniku České pirátské strany v roce 2009, o vnitřním fungování strany, přímé demokracii a mnohých jiných věcech. Mezi jinými se dozvíte, co je to demokratické minimum. Jak si vybíráme kandidáty na kandidátní listiny? Kolik je ve straně Pirátek? Jsme jen strana mlaďochů a ajťáků? Jistě dojde i na program a mnohé další otázky.
 
