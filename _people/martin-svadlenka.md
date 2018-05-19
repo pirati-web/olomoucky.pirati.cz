@@ -17,7 +17,8 @@ profiles:
   facebook:       
   twitter:      
   flickr:
-ordzas: 3            
+ordzas: 3
+ordmis: 4            
 ---
 Martin Švadlenka (* 17. července 1975) je Pirátem od roku 2009 a spoluzakládal zlínské krajské sdružení. Martin pochází ze Vsetína, od roku 2011 žije v Přerově.
 

@@ -17,7 +17,8 @@ profiles:
   facebook:       
   twitter:      
   flickr:
-ordzas: 2     
+ordzas: 2
+ordmis: 3     
 ---
 Do roku 2013 jsem nebyl členem žádné politické strany, politiku jsem však dlouhodobě , čím dál tím více znechuceně, sledoval a postupně jsem si uvědomoval, že pokud chci na současném neutěšeném stavu něco změnit, nezbývá nic jiného než se o to pokusit. Z těchto důvodů jsem se v prosinci 2013 stal členem České pirátské strany. Dospěl jsem k názoru, že demokracie bez spoluúčastí co největšího podílu aktivních občanů se postupně stává svou karikaturou. Další pohnutkou bylo vědomí, že mimo jiné i naše generace má velkou vinu na tom, jaké typy lidí jsme po roce 1989 do politiky pustili. A vnímám to i jako mou zodpovědnost vůči vlastním dětem.
 
