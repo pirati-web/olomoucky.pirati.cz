@@ -16,6 +16,7 @@ profiles:
   facebook:       
   twitter:      
   flickr:
+ordmis: 1  
 ---
 Jakub Nepejchal (* 2. září 1987) je podruhé předsedou místního sdružení Olomouc. Byl vedoucím Personálního odboru strany a pověřeným vedoucím Personálního odboru Olomouckého kraje. Do července 2015 byl také předsedou MS Olomouc.
 

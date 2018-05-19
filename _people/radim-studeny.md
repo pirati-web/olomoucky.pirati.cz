@@ -15,7 +15,8 @@ profiles:
   github:                 
   facebook:       
   twitter:      
-  flickr:           
+  flickr:
+ordmis: 2             
 ---
 Člen České Pirátské strany - krajského sdružení Olomouckého kraje. Předseda místního sdružení Pirátská Tvrz
 
