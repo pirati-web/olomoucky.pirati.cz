@@ -8,7 +8,7 @@ position: Vedoucí krajského mediálního odboru
 img: people/antonin-stepan.jpg   # 165 x 220
 description: Vedoucí krajského mediálního odboru           # kratký popis, max 160 znaků
 mail: antonin.stepan@pirati.cz
-mob: 
+mob: 733 147 625
 profiles:
   github:                 
   facebook:
