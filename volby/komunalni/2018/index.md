@@ -7,5 +7,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 
 V Olomouci se Piráti rozhodli vytvořit společnou kanditátku s hnutím Starostové a nezávislí, která nese název Piráti a Starostové. Hlavní programové body jsou: Otevřená radnice, vstřícná Olomouc, vzdělaná Olomouc a město s vizí. Podrobné informace najdete na webových stránkách [http://www.pirati-starostove.cz](http://www.pirati-starostove.cz).
 
+## Prostějov
 
+V Prostějově půjdou Piráti do voleb v koalici pod názvem Na rovinu s TOP09 a Zelenými. Informace najdete na webu koalice [http://prostejovnarovinu.cz/](http://prostejovnarovinu.cz/). 
 
