@@ -8,7 +8,7 @@ tags:
 author: Martin Šmída
 image: assets/img/articles/2018/2018-05-22-v-brodku-u-prerova-probehly-piratske-primarni-volby.jpg   #751x422 pixelu
 ---
-V neděli 20. 5. se v odpoledních hodinách sešli členové a příznivci místního sdružení Pirátská Tvrz, aby zvolili lídra a čelo kandidátky pro komunální volby, které nás čekají na podzim.
+Brodek u Přerova, 22. 5. 2018 - V neděli 20. 5. se v odpoledních hodinách sešli členové a příznivci místního sdružení Pirátská Tvrz, aby zvolili lídra a čelo kandidátky pro komunální volby, které nás čekají na podzim.
 
 O pozici lídra se přihlásili dva zájemci: Radek Vojtek, dlouholetý člen Pirátů a momentálně místopředseda krajského i místního sdružení, a Pavlína Procházková, vedoucí Skautů v Brodku u Přerova.
 
