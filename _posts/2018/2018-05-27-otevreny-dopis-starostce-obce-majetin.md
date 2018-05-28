@@ -5,7 +5,7 @@ title: Otevřený dopis starostce obce Majetín
 date: 2018-05-27
 tags: 
 - pirátská-tvrz
-author: Martin Šmída
+author: Radek Vojtek
 image: assets/img/articles/2018/2018-05-27-otevreny-dopis-starostce-obce-majetin.jpg   #751x422 pixelu
 ---
 Majetín, 27. 5. 2018 - Probírali jsme a sledoval jsem dění ohledně podpory akce Kytary In Majetín obcí. Pro tento rok došlo ve vztahu obce a místního sdružení k určitým změnám. Vzájemná symbióza byla narušena neakceptováním našeho sdružení jako spolku lidí, kteří vzájemně spolupracují, pečují o své okolí a obec. Proto jsem interpeloval starostku obce Majetín a napsal otevřený dopis, ve kterém chci odpovědi, některé týkající se vztahu obce a místního sdružení:
