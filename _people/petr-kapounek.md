@@ -4,11 +4,10 @@ name:     Petr Kapounek  	# běžně používáné jméno
 fullname: Petr Kapounek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov
-- predsednictvo
 - zastupitele
 position: Předseda krajského sdružení
 img: people/petr-kapounek.jpg   # 165 x 220
-description: Předseda olomouckého krajského sdružení, místopředseda prostějovského místního sdružení, zastupitel v Prostějově          	# kratký popis, max 160 znaků
+description: Místopředseda prostějovského místního sdružení, zastupitel v Prostějově          	# kratký popis, max 160 znaků
 mail:
 - petr.kapounek@pirati.cz
 mob:			  
@@ -17,7 +16,6 @@ profiles:
   facebook: 		  https://www.facebook.com/kapounekpetr
   twitter: 		  
   flickr:
-ordpre: 1
 ordzas: 1    		  
 ---
 Petr Kapounek (* 9. prosince 1986, Prostějov) je předseda krajského sdružení Olomouckého kraje a zastupitel v Prostějově. Vystudoval Střední průmyslovou školu elektrotechnickou. Pracuje jako projektový manažer v telekomunikační společnosti.
