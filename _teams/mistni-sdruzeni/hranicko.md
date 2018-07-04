@@ -16,7 +16,7 @@ categories:
 - mistni-sdruzeni
 tags:
 - hranicko
-facebook: https://www.facebook.com/HranicniPirati/
+facebook: https://www.facebook.com/PiratiHranicko/
 redmine: 
 forum: 
 web: https://olomoucko.pirati.cz/mistni-sdruzeni/hranicko
