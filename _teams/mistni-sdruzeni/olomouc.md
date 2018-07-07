@@ -6,7 +6,6 @@ fullname: Místní sdružení Olomouc
 img: teams/olomouc.jpg
 leader: jakub.nepejchal
 deputy:
-- jan.bednarik
 - jan.dvorak
 contact:
 - milos.zmeskal
