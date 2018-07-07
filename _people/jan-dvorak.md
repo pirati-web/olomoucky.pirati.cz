@@ -18,7 +18,7 @@ profiles:
   flickr:
 ordved: 1 
 ---
-Ing. Jan Dvořák (* 3. prosince 1970) je registrovaným příznivcem Pirátů od října 2016. Řádným členem se stal v červenci 2017. V České pirátské straně působí od září 2017 jako vedoucí krajského administrativního odboru Olomouckého kraje (AO OLK), od ledna 2018 jako 2. místopředseda místního sdružení Olomouc a od června 2018 také jako člen skupiny předsedajících celostátního fóra.
+Ing. Jan Dvořák (* 3. prosince 1970) je registrovaným příznivcem Pirátů od října 2016. Řádným členem se stal v červenci 2017. V České pirátské straně působí od září 2017 jako vedoucí krajského administrativního odboru Olomouckého kraje (AO OLK), od ledna 2018 jako místopředseda místního sdružení Olomouc a od června 2018 také jako člen skupiny předsedajících celostátního fóra.
 
 Vystudoval Střední průmyslovou školu strojnickou v Olomouci obor strojírenská technologie a Vysokou školu dopravy a spojů v Žilině obor provoz a ekonomika železniční dopravy. Pracuje jako systémový analytik ve velké dopravní společnosti.
 
