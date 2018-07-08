@@ -16,7 +16,7 @@ profiles:
   twitter:        
   flickr:       
 ---
-Lucie Spáčilová (* 16.05.1981) je členkou Pirátské strany, kde pracuje jako asistentka pro administrativní a personální odbor. Pochází z Olomouce, v současné době bydlí v Prostějově. 
+Lucie Spáčilová (* 16. 5. 1981) je členkou Pirátské strany, kde pracuje jako asistentka pro administrativní a personální odbor. Pochází z Olomouce, v současné době bydlí v Prostějově. 
 
 Studovala administrativní obor, ale její láska k hudbě ji zavedla do prostředí obchodu, kde pracovala několik let jako vedoucí prodejny právě s hudbou. Na jaře začala aktivně spolupracovat se spolkem Milion chvilek pro demokracii. 
 
