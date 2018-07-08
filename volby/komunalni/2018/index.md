@@ -17,7 +17,7 @@ V Prostějově půjdou Piráti do voleb v koalici pod názvem Na rovinu s TOP09 
 
 ## Přerov
 
-Přerovští Piráti spojili síly na koaliční kandidátce nazvané Společně pro Přerov a Piráti, která je uskupením nezávislých kandidátů, hnutí Změna, Nezávislá volba a Pirátů. Více informací najdete na webu [http://www.spolecneproprerov.cz/](http://www.spolecneproprerov.cz/).
+Přerovští Piráti spojili síly na koaliční kandidátce nazvané Společně pro Přerov a Piráti, která je uskupením nezávislých kandidátů, hnutí Změna, Nezávislá volba a Pirátů. Více informací najdete na webu [http://www.spolecneproprerov.cz/](http://www.spolecneproprerov.cz/). Seznam kandidátů navržených Piráty v rámci koaliční kandidátky Společně pro Přerov včetně jejich profilů najdete v následujícím [seznamu](/volby/komunalni/2018/prerov).
 
 <h1 itemprop="headline" class="c-BasicPage__title">Volební Pirátské listy</h1>
 
