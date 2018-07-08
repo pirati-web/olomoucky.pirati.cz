@@ -5,20 +5,19 @@ fullname: Jan Bednařík   # jméno s tituly etc.
 category:
 - predsednictvo                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
-position: Místopředseda místního sdružení
+position: Předseda krajského sdružení
 img: people/jan-bednarik.jpg   # 165 x 220
-description: Předseda olomouckého krajského sdružení, 2. místopředseda olomouckého místního sdružení   # kratký popis, max 160 znaků
+description: Předseda olomouckého krajského sdružení   # kratký popis, max 160 znaků
 mail: 
 - jan.bednarik@pirati.cz
-mob:
+mob: 603 439 481
 profiles:
-  github:                 
-  facebook:       
-  twitter:      
-  flickr:
+  github: https://github.com/JanBednarik
+  facebook: https://www.facebook.com/jan.bednarik
+  twitter: https://twitter.com/janbednarik
 ordpre: 1  
 ---
-Jan Bednařík (* 10. března 1986) je místopředsedou místního sdružení Olomouc. Pochází z Olomouce, kde také žije.
+Jan Bednařík (* 10. března 1986) je předsedou krajského sdružení Olomouckého kraje. Pochází z Olomouce, kde také žije.
 
 Vystudoval SPŠ Elektrotechnickou. Studium Elektrotechniky na VUT v Brně a Informatiky na UP Olomouc z osobních důvodů nedokončil. V profesní oblasti se věnuje návrhu a vývoji komplexních internetových aplikací a systémů. A částečně také řemeslné a ruční výrobě.
 
