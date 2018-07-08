@@ -16,7 +16,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 <p>17. <a href="/lide/jan-dvorak">Ing. Jan Dvořák</a></p>
 <p>19. Zdeněk Žák</p>
 <p>21. <a href="/lide/zdenka-wagnerova">Zdeňka Wagnerová</a></p>
-<p>23. Martin Morong</p>
+<p>23. <a href="/lide/martin-morong">Martin Morong</a></p>
 <p>25. Ing. Jan Rakovský</p>
 <p>27. Marika Řehová</p>
 <p>29. Radek Sís</p>
