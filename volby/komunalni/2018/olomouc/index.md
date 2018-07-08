@@ -5,7 +5,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 ---
 ## Seznam kandidátů navržených Piráty v rámci koaliční kandidátky Piráti a Starostové v Olomouci
 
-<p>1. Hynek Melichar</p>
+<p>1. <a href="/lide/hynek-melichar">Hynek Melichar</a></p>
 <p>3. Viktor Tichák</p>
 <p>5. <a href="/lide/tomas-svoboda">Tomáš Svoboda</a></p>
 <p>7. <a href="/lide/jakub-nepejchal">Jakub Nepejchal</a></p>
