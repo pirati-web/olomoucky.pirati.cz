@@ -21,7 +21,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 <p>27. Marika Řehová</p>
 <p>29. Radek Sís</p>
 <p>31. Lucie Spáčilová</p>
-<p>33. Jana Jasenská</p>
+<p>33. <a href="/lide/jana-jasenska">Jana Jasenská</a></p>
 <p>35. David Bajnar</p>
 <p>37. Karel Zendulka</p>
 <p>39. Michal Žák</p>

@@ -16,7 +16,7 @@ profiles:
   twitter:        
   flickr:       
 ---
- Zdenka Wagnerová (* 6. června 1952) jsem příznivcem v Pirátské straně. Jméno pochází z města Olomouc.
+Zdenka Wagnerová (* 6. června 1952) jsem příznivcem v Pirátské straně. Jméno pochází z města Olomouc.
 
 Vystudoval gymnázium Jana Opletala v Litovli, tehdy SVVŠ. Dále nástavba - abiturientský kurz se zaměřením na počítače.
 
