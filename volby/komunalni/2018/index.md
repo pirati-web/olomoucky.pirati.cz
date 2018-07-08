@@ -5,7 +5,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 ---
 ## Majetín a Brodek u Přerova
 
-Piráti nejsou strana jen pro mladé a vzdělané městské liberály, ideálně někde ze západní části naší republiky. Piráti prostě rádi boří předsudky, a tak už v roce 2013 založili venkovské místní sdružení Pirátská tvrz, za jehož centrum by se dala považovat obec Majetín a neméně důležitý městys Brodek u Přerova. V obou těchto obcích Piráti samozřejmně kandidují do obecního zastupitelstva.
+Piráti nejsou strana jen pro mladé a vzdělané městské liberály, ideálně někde ze západní části naší republiky. Piráti prostě rádi boří předsudky, a tak už v roce 2013 založili venkovské místní sdružení Pirátská tvrz, za jehož centrum by se dala považovat obec Majetín a neméně důležitý městys Brodek u Přerova. V obou těchto obcích Piráti samozřejmně kandidují do obecního zastupitelstva. Seznam kandidátů [Majetín](/volby/komunalni/2018/majetin) a [Brodek u Přerova](/volby/komunalni/2018/brodek-u-prerova)
 
 ## Olomouc 
 

@@ -24,6 +24,8 @@ web: https://olomoucko.pirati.cz/mistni-sdruzeni/piratska-tvrz
 ---
 Místní sdružení Pirátská Tvrz sdružuje Piráty z Majetína, Grygova, Brodku u Přerova, Krčmaně, Kokor, Rokytnice, Císařova a Citova. 
 
+Seznam kandidátů pro volby do zastupitelstev obcí konaných ve dnech 5. a 6. 10. 2018 v [Majetíně](/volby/komunalni/2018/majetin) a [Brodku u Přerova](/volby/komunalni/2018/brodek-u-prerova).
+
 <div class="o-section-header">
   <h2 class="o-section__heading o-section__heading--small">Články</h2>
 </div>
