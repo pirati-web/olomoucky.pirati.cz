@@ -22,7 +22,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 <p>29. Radek Sís</p>
 <p>31. <a href="/lide/lucie-spacilova">Lucie Spáčilová</a></p>
 <p>33. <a href="/lide/jana-jesenska">Jana Jesenská</a></p>
-<p>35. David Bajnar</p>
+<p>35. <a href="/lide/david-bajnar">David Bajnar</a></p>
 <p>37. Karel Zendulka</p>
 <p>39. Michal Žák</p>
 <p>41. <a href="/lide/radek-elias">Mgr. Radek Eliáš</a></p>
