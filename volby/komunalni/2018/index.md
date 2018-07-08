@@ -9,7 +9,7 @@ Piráti nejsou strana jen pro mladé a vzdělané městské liberály, ideálně
 
 ## Olomouc 
 
-V Olomouci se Piráti rozhodli vytvořit společnou kanditátku s hnutím Starostové a nezávislí, která nese název Piráti a Starostové. Hlavní programové body jsou: Otevřená radnice, Vstřícná Olomouc, Vzdělaná Olomouc a Město s vizí. Podrobné informace najdete na webových stránkách [http://www.pirati-starostove.cz](http://www.pirati-starostove.cz). Kandidáty navržené Piráty v rámci koaliční kandidátky najdete v následujícím [seznamu](/volby/komunalni/2018/olomouc).
+V Olomouci se Piráti rozhodli vytvořit společnou kanditátku s hnutím Starostové a nezávislí, která nese název Piráti a Starostové. Hlavní programové body jsou: Otevřená radnice, Vstřícná Olomouc, Vzdělaná Olomouc a Město s vizí. Podrobné informace najdete na webových stránkách [http://www.pirati-starostove.cz](http://www.pirati-starostove.cz). Seznam kandidátů navržených Piráty v rámci koaliční kandidátky včetně jejich profilů najdete v následujícím [seznamu](/volby/komunalni/2018/olomouc).
 
 ## Prostějov
 
