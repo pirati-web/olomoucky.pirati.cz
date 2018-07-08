@@ -26,4 +26,4 @@ Vystudoval obor Speciální pedagogika se zaměřením na dramaterapii na Pedago
 
 Po ukončení studií pracoval na několika různých pozicích mimo vystudovaný obor. V současné době pracuje jako vedoucí Programu Práce s klienty v konfliktu se zákonem ve Společnosti Podané ruce o.p.s.
 
-Angažuje se v aktivitách souvisejících se sociální oblastí a zvyšováním kvality života na místní úrovni . Jeho zájmy jsou nepočítačové hry, četba sci-fi a fantasy, pěší turistika a geocaching, žonglování a pirátství. Má naprosto božího mladšího bratra. Jeho hlavní schopnosti jsou dělání dětí, oprava topení a výměna baterií v koupelně (s mírnou pomocí).
+Angažuje se v aktivitách souvisejících se sociální oblastí a zvyšováním kvality života na místní úrovni . Jeho zájmy jsou nepočítačové hry, četba sci-fi a fantasy, pěší turistika a geocaching, žonglování a pirátství.
