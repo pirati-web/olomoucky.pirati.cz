@@ -20,8 +20,8 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 <p>25. Ing. Jan Rakovský</p>
 <p>27. Marika Řehová</p>
 <p>29. Radek Sís</p>
-<p>31. Lucie Spáčilová</p>
-<p>33. <a href="/lide/jana-jasenska">Jana Jasenská</a></p>
+<p>31. <a href="/lide/lucie-spacilova">Lucie Spáčilová</a></p>
+<p>33. <a href="/lide/jana-jesenska">Jana Jesenská</a></p>
 <p>35. David Bajnar</p>
 <p>37. Karel Zendulka</p>
 <p>39. Michal Žák</p>
