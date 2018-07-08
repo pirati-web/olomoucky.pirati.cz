@@ -5,7 +5,6 @@ fullname: Mgr. Jakub Knápek   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 img: people/jakub-knapek.jpg             # 165 x 220
-img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
 - 
