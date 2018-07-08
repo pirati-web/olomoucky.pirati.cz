@@ -5,26 +5,26 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 ---
 ## Seznam kandidátů navržených Piráty v rámci koaliční kandidátky Piráti a Starostové v Olomouci
 
-1. Hynek Melichar  
-3. Viktor Tichák  
-5. [Tomáš Svoboda](/lide/tomas-svoboda)  
-7. [Jakub Nepejchal](/lide/jakub-nepejchal)    
-9. Jakub Knápek  
-11. Vlastimil Bednařík  
-13. [Jan Bednařík](/lide/jan-bednarik)      
-15. Vítězslav Řepka  
-17. [Jan Dvořák](/lide/jan-dvorak)  
-19. Zdeněk Žák  
-21. Zdeňka Wagnerová  
-23. Martin Morong  
-25. Jan Rakovský  
-27. Marika Řehová  
-29. Radek Sís  
-31. Lucie Spáčilová  
-33. Jana Jasenská  
-35. David Bajnar  
-37. Karel Zendulka  
-39. Michal Žák  
-41. Radek Eliáš  
-43. [Antonín Štěpán](/lide/antonin-stepan)  
-45. [Miloš Zmeškal](/lide/milos-zmeskal)  
+<p>1. Hynek Melichar</p>
+<p>3. Viktor Tichák</p>
+<p>5. <a href="/lide/tomas-svoboda">Tomáš Svoboda</a></p>
+<p>7. <a href="/lide/jakub-nepejchal">Jakub Nepejchal</a></p>
+<p>9. Jakub Knápek</p>
+<p>11. Vlastimil Bednařík</p>
+<p>13. <a href="/lide/jan-bednarik">Jan Bednařík</a></p>
+<p>15. Vítězslav Řepka</p>
+<p>17. <a href="/lide/jan-dvorak">Jan Dvořák</a></p>
+<p>19. Zdeněk Žák</p>
+<p>21. Zdeňka Wagnerová</p>
+<p>23. Martin Morong</p>
+<p>25. Jan Rakovský</p>
+<p>27. Marika Řehová</p>
+<p>29. Radek Sís</p>
+<p>31. Lucie Spáčilová</p>
+<p>33. Jana Jasenská</p>
+<p>35. David Bajnar</p>
+<p>37. Karel Zendulka</p>
+<p>39. Michal Žák</p>
+<p>41. Radek Eliáš</p>
+<p>43. <a href="/lide/antonin-stepan">Antonín Štěpán</a></p>
+<p>45. <a href="/lide/milos-zmeskal">Miloš Zmeškal</a></p>
