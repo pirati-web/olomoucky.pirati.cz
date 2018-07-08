@@ -9,7 +9,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 <p>3. <a href="/lide/viktor-tichak">Mgr. Viktor Tichák</a></p>
 <p>5. <a href="/lide/tomas-svoboda">Tomáš Svoboda</a></p>
 <p>7. <a href="/lide/jakub-nepejchal">Jakub Nepejchal</a></p>
-<p>9. Mgr. Jakub Knápek</p>
+<p>9. <a href="/lide/jakub-knapek">Mgr. Jakub Knápek</a></p>
 <p>11. Ing. Vlastimil Bednařík</p>
 <p>13. <a href="/lide/jan-bednarik">Jan Bednařík</a></p>
 <p>15. Mgr. Vítězslav Řepka</p>
