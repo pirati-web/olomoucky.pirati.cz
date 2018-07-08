@@ -5,19 +5,19 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 ---
 ## Seznam kandidátů navržených Piráty v rámci koaliční kandidátky Piráti a Starostové v Olomouci
 
-<p>1. <a href="/lide/hynek-melichar">Hynek Melichar</a></p>
-<p>3. Viktor Tichák</p>
+<p>1. <a href="/lide/hynek-melichar">Mgr. Hynek Melichar, Ph.D.</a></p>
+<p>3. <a href="/lide/viktor-tichak">Mgr. Viktor Tichák</a></p>
 <p>5. <a href="/lide/tomas-svoboda">Tomáš Svoboda</a></p>
 <p>7. <a href="/lide/jakub-nepejchal">Jakub Nepejchal</a></p>
-<p>9. Jakub Knápek</p>
-<p>11. Vlastimil Bednařík</p>
+<p>9. Mgr. Jakub Knápek</p>
+<p>11. Ing. Vlastimil Bednařík</p>
 <p>13. <a href="/lide/jan-bednarik">Jan Bednařík</a></p>
-<p>15. Vítězslav Řepka</p>
-<p>17. <a href="/lide/jan-dvorak">Jan Dvořák</a></p>
+<p>15. Mgr. Vítězslav Řepka</p>
+<p>17. <a href="/lide/jan-dvorak">Ing. Jan Dvořák</a></p>
 <p>19. Zdeněk Žák</p>
 <p>21. Zdeňka Wagnerová</p>
 <p>23. Martin Morong</p>
-<p>25. Jan Rakovský</p>
+<p>25. Ing. Jan Rakovský</p>
 <p>27. Marika Řehová</p>
 <p>29. Radek Sís</p>
 <p>31. Lucie Spáčilová</p>
@@ -25,6 +25,6 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 <p>35. David Bajnar</p>
 <p>37. Karel Zendulka</p>
 <p>39. Michal Žák</p>
-<p>41. Radek Eliáš</p>
+<p>41. Mgr. Radek Eliáš</p>
 <p>43. <a href="/lide/antonin-stepan">Antonín Štěpán</a></p>
 <p>45. <a href="/lide/milos-zmeskal">Miloš Zmeškal</a></p>
