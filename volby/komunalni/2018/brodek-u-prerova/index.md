@@ -5,7 +5,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 ---
 ## Seznam kandidátů navržených Piráty v Brodku u Přerova
 
-<p>1. Radek Vojtek, 29 let, manager</p>
+<p>1. <a href="/lide/radek-vojtek">Radek Vojtek</a>, 29 let, manager</p>
 <p>2. Bc. Pavla Procházková, 43 let, radiologický asistent</p>  
 <p>3. Jiří Vojtek, 51 let, stavební technik</p>
 <p>4. Tomáš Lacina, 25 let, servisní technik</p>
