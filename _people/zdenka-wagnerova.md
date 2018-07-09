@@ -16,10 +16,10 @@ profiles:
   twitter:        
   flickr:       
 ---
-Zdenka Wagnerová (* 6. června 1952) jsem příznivcem v Pirátské straně. Jméno pochází z města Olomouc.
+Zdenka Wagnerová (* 6. června 1952), jsem příznivcem v Pirátské straně. 
 
-Vystudoval gymnázium Jana Opletala v Litovli, tehdy SVVŠ. Dále nástavba - abiturientský kurz se zaměřením na počítače.
+Narodila jsem se v Olomouci, vystudovala gymnázium Jana Opletala v Litovli, tehdy SVVŠ. Dále nástavba - abiturientský kurz se zaměřením na počítače.
 
-Pracovala jsem v MŽ Olomouc jako programátor-analytik. Po r. 1989 pak převážně jako OSVČ v oblasti financí, analýzy a organizace. V současnosti se věnuji oblasti společnost (sociální oblast) a organizaci.
+Pracovala jsem v MŽ Olomouc jako programátor-analytik. Po r. 1989 pak převážně jako OSVČ v oblasti financí, analýzy a organizace. V současnosti se podílím, v rámci ZET21, z.ú. na občanských aktivitách, které jsme nazvali: regenerace občanské sebedůvěry a podpora povědomí široké veřejnosti o ústavním systému ČR.
 
 Angažuje se v aktivitách souvisejících s kulturou, společností a LP. Zájmy: cestování, historie, kultura, sport, psaní.
