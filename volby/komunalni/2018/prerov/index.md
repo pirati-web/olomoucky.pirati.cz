@@ -9,5 +9,5 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 <p><a href="/lide/tomas-karlik">Tomáš Karlík</a></p>
 <p><a href="/lide/petr-chmelar">Petr Chmelař</a></p>
 <p>Martin Adámek</p>
-<p>Jaromír Horký</p>
+<p><a href="/lide/jaromir-horky">Jaromír Horký</a></p>
 <p>David Hošek</p>
