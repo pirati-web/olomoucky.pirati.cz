@@ -24,7 +24,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 <p>33. <a href="/lide/jana-jesenska">Jana Jesenská</a></p>
 <p>35. <a href="/lide/david-bajnar">David Bajnar</a></p>
 <p>37. Karel Zendulka</p>
-<p>39. Michal Žák</p>
+<p>39. <a href="/lide/michal-zak">Michal Žák</a></p>
 <p>41. <a href="/lide/radek-elias">Mgr. Radek Eliáš</a></p>
 <p>43. <a href="/lide/antonin-stepan">Antonín Štěpán</a></p>
 <p>45. <a href="/lide/milos-zmeskal">Miloš Zmeškal</a></p>
