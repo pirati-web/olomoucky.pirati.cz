@@ -12,7 +12,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 5. [**Tomáš Svoboda**](/lide/tomas-svoboda), 45 let, zprostředkovatel, podnikatel, sochař, restaurátor, sklář, terapeut, stopař, Piráti
 6. **doc. Mgr. Andrea Hanáčková, Ph.D.**, 46 let, univerzitní pedagožka, BEZPP
 7. [**Jakub Nepejchal**](/lide/jakub-nepejchal), 30 let, sociální pracovník, člen představenstva DPMO a.s., Piráti
-8. **doc. Mgr. Radmila Prchal Pavlíčková, Ph.D.**, 44 let,  historička, vyučující na Univerzitě Palackého kulturní dějiny raného novověku, STAN
+8. **doc. Mgr. Radmila Prchal Pavlíčková, Ph.D.**, 44 let, historička, vyučující na Univerzitě Palackého kulturní dějiny raného novověku, STAN
 9. [**Mgr. Jakub Knápek**](/lide/jakub-knapek), 44 let, učitel angličtiny a španělštiny na gymnáziu Hejčín, muzikant, Piráti
 10. **Mgr.Petr Fojtík**, 38 let, OSVČ, genealog, STAN
 11. [**Ing. Vlastimil Bednařík**](/lide/vlastimil-bednarik), 58 let, ředitel odboru, soudní znalec, člen Mensy ČR, Piráti
@@ -33,7 +33,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 26. **Jaroslav Reif**, 26 let, podnikatel - zakládání staveb, BEZPP
 27. **Marika Řehová**, 30 let, zdravotník, historička, Piráti
 28. **Jaroslav Bouček**, 31 let, OSVČ, navrhující strana: BEZPP
-29. **Radek Sís**, Piráti  
+29. **Radek Sís**, Piráti
 30. **Ing. Libor Pečinka**, 31 let, webový vývojář, BEZPP
 31. [**Lucie Spáčilová**](/lide/lucie-spacilova), 37 let, OSVČ - Pirátská strana, Piráti
 32. **Bc. Michal Kolesár**, 22 let, vysokoškolský student, člen studentského spolku Otevřeno, BEZPP
