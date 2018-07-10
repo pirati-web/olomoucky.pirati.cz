@@ -8,6 +8,6 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 * [**Martin Švadlenka**](/lide/martin-svadlenka)
 * [**Tomáš Karlík**](/lide/tomas-karlik)
 * [**Petr Chmelař**](/lide/petr-chmelar)
-* **Martin Adámek**
+* [**Martin Adámek**](/lide/martin-adamek)
 * [**Jaromír Horký**](/lide/jaromir-horky)
 * **David Hošek**
