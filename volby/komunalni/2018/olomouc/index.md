@@ -23,7 +23,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 16. **Petr Šafránek**, 55 let, personání a projektový vedoucí Oblastní unie neslyšících Olomouc, předseda Komise městské části č.18 Olomouc-západ, navrhující strana: STAN
 17. [**Ing. Jan Dvořák**](/lide/jan-dvorak), 47 let, systémový analytik, provozovatel e-shopu, mistr-učitel reiki, navrhující strana: Piráti
 18. **Mgr. Jiří Škarabela**, 41 let, rekreolog, manažer sportu, fotbalový trenér. Člen Komise místní části Olomouc-Slavonín, navrhující strana: STAN
-19. **Zdeněk Žák**, 41 let, vedoucí prodejny jízdních kol, navrhující strana: Piráti
+19. [**Zdeněk Žák**](/lide/zdenek-zak), 41 let, vedoucí prodejny jízdních kol, navrhující strana: Piráti
 20. **Michal Frantík**, 41 let, podnikatel, jednatel, navrhující strana: STAN
 21. [**Zdenka Wagnerová**](/lide/zdenka-wagnerova), 66 let, analytik, administrátorka, navrhující strana: Piráti
 22. **Roman Gatěk**, 40 let, jednatel, navrhující strana: STAN
