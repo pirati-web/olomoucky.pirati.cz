@@ -15,7 +15,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 8. **doc. Mgr. Radmila Prchal Pavlíčková, Ph.D.**, 44 let,  historička, vyučující na Univerzitě Palackého kulturní dějiny raného novověku, navrhující strana: STAN
 9. [**Mgr. Jakub Knápek**](/lide/jakub-knapek), 44 let, učitel angličtiny a španělštiny na gymnáziu Hejčín, muzikant, navrhující strana: Piráti
 10. **Mgr.Petr Fojtík**, 38 let, OSVČ, genealog, navrhující strana: STAN
-11. **Ing. Vlastimil Bednařík**, 58 let, ředitel odboru, soudní znalec, člen Mensy ČR, navrhující strana: Piráti
+11. [**Ing. Vlastimil Bednařík**](/lide/vlastimil-bednarik), 58 let, ředitel odboru, soudní znalec, člen Mensy ČR, navrhující strana: Piráti
 12. **Mgr. Roman Kucsa**, 34 let, učitel, navrhující strana: STAN
 13. [**Jan Bednařík**](/lide/jan-bednarik), 32 let, IT specialista, dobrovolník, řemeslník, navrhující strana: Piráti
 14. **Lenka Klopcová**, 44 let, jednatelka, navrhující strana: STAN
