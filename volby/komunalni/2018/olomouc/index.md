@@ -32,7 +32,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 25. **Ing. Jan Rakovský**, 43 let, správce bytových domů, energetický poradce, aktivní občan a mineralog, Piráti
 26. **Jaroslav Reif**, 26 let, podnikatel - zakládání staveb, BEZPP
 27. **Marika Řehová**, 30 let, zdravotník, historička, Piráti
-28. **Jaroslav Bouček**, 31 let, OSVČ, navrhující strana: BEZPP
+28. **Jaroslav Bouček**, 31 let, OSVČ, BEZPP
 29. **Radek Sís**, Piráti
 30. **Ing. Libor Pečinka**, 31 let, webový vývojář, BEZPP
 31. [**Lucie Spáčilová**](/lide/lucie-spacilova), 37 let, OSVČ - Pirátská strana, Piráti
