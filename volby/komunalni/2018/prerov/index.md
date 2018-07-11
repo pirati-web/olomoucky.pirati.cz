@@ -10,4 +10,4 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 * [**Petr Chmelař**](/lide/petr-chmelar)
 * [**Martin Adámek**](/lide/martin-adamek)
 * [**Jaromír Horký**](/lide/jaromir-horky)
-* **David Hošek**
+* [**David Hošek**](/lide/david-hosek)
