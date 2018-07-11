@@ -33,7 +33,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 26. **Jaroslav Reif**, 26 let, podnikatel - zakládání staveb, BEZPP
 27. **Marika Řehová**, 30 let, zdravotník, historička, Piráti
 28. **Jaroslav Bouček**, 31 let, OSVČ, BEZPP
-29. **Radek Sís**, Piráti
+29. [**Radek Sís**](/lide/radek-sis), 31 let, podnikatel – zmrzlinář, Piráti
 30. **Ing. Libor Pečinka**, 31 let, webový vývojář, BEZPP
 31. [**Lucie Spáčilová**](/lide/lucie-spacilova), 37 let, OSVČ - Pirátská strana, Piráti
 32. **Bc. Michal Kolesár**, 22 let, vysokoškolský student, člen studentského spolku Otevřeno, BEZPP
