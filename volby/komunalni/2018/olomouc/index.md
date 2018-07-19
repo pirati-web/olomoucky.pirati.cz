@@ -48,5 +48,5 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 41. [**Mgr. Radek Eliáš**](/lide/radek-elias), 36 let, fyzioterapeut, OSVČ, domácí péče, aktivní občan, BEZPP
 42. **Vítězslav Klopec**, 45 let, jednatel, BEZPP
 43. [**Antonín Štěpán**](/lide/antonin-stepan), 30 let, pedagog a muzikant, Piráti
-44. **Martin Horáček**, 40 let, vedoucí prodejny, BEZPP
+44. **Pavlína Antonyová**, 53 let, chůva k dětem, BEZPP
 45. [**Miloš Zmeškal**](/lide/milos-zmeskal), 31 let, Pirát na plný úvazek, Piráti
