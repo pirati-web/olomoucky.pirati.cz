@@ -8,7 +8,7 @@ img: people/vitezslav-repka.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
-- 
+- vitezslav.repka@pirati.cz
 mob:         
 profiles:
   github:
