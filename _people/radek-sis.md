@@ -8,7 +8,7 @@ img: people/radek-sis.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
-- 
+- radek.sis@pirati.cz
 mob:         
 profiles:
   github:

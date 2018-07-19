@@ -8,7 +8,7 @@ img: people/vlastimil-bednarik.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
-- 
+- vlastimil.bednarik@pirati.cz
 mob:         
 profiles:
   github:
