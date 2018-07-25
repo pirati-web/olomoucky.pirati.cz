@@ -18,7 +18,7 @@ profiles:
   flickr:           
 ordpre: 3  
 ---
-Radek Vojtek (* 3. dubna 1989) pochází a žije v Brodku u Přerova. Vystudoval Obchodní akademii v Přerově. 
+Radek Vojtek pochází a žije v Brodku u Přerova. Vystudoval Obchodní akademii v Přerově. 
 
 Byl Registrovaný příznivec Pirátů a Místního sdružení Pirátská Tvrz (od listopadu 2013).
 
