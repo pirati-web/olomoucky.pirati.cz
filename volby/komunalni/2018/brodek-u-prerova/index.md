@@ -14,9 +14,9 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 7. **František Procházka**, 47 let, skladník
 8. **Lenka Horáková**, 33 let, pekařka
 9. **Vladimír Sasák**, 29 let, OSVČ
-10. **Tomáš Sedlařík**, 28 let, tiskař
-11. **Radmila Vojtková**, 49 let, bankéř
-12. Dosud neobsazeno
-13. Dosud neobsazeno
-14. Dosud neobsazeno
+10. **Radmila Vojtková**, 49 let, bankéř
+11. **Tomáš Sedlařík**, 28 let, tiskař
+12. **Petra Burjetová**, 43 let, mistr potravinářské výroby
+13. **Anežka Procházková**, 20 let, student
+14. **Marcel Burjeta**, 44 let, operátor
 15. **Michal Minařík**, 39 let, manager
