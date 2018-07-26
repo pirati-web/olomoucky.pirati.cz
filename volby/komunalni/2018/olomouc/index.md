@@ -30,7 +30,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 23. [**Martin Morong**](/lide/martin-morong), 25 let, student, vědec, doktorand na LF UPOL, BEZPP
 24. **Jiří Forýtek**, 35 let, lektor, STAN
 25. **Ing. Jan Rakovský**, 43 let, správce bytových domů, energetický poradce, aktivní občan a mineralog, Piráti
-26. **Jaroslav Reif**, 26 let, podnikatel - zakládání staveb, BEZPP
+26. **Anežka Hanáčková**, 18 let, student, BEZPP
 27. **Marika Řehová**, 30 let, zdravotník, historička, Piráti
 28. **Jaroslav Bouček**, 31 let, OSVČ, BEZPP
 29. [**Radek Sís**](/lide/radek-sis), 31 let, podnikatel – zmrzlinář, Piráti
