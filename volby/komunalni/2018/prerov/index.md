@@ -5,9 +5,10 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 ---
 ## Seznam kandidátů
 
-* [**Martin Švadlenka**](/lide/martin-svadlenka)
-* [**Tomáš Karlík**](/lide/tomas-karlik)
-* [**Petr Chmelař**](/lide/petr-chmelar)
-* [**Martin Adámek**](/lide/martin-adamek)
-* [**Jaromír Horký**](/lide/jaromir-horky)
-* [**David Hošek**](/lide/david-hosek)
+* [**Martin Švadlenka**](/lide/martin-svadlenka), 43 let, elektrotechnik
+* [**Tomáš Karlík**](/lide/tomas-karlik), 26 let, absolvent
+* [**Jaromír Horký**](/lide/jaromir-horky), 20, student práv
+* [**Petr Chmelař**](/lide/petr-chmelar), 33 let, chemik
+* [**David Hošek**](/lide/david-hosek), 21 let, koordinátor projektů
+* [**Martin Adámek**](/lide/martin-adamek), 27 let, podnikatel
+

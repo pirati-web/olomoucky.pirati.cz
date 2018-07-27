@@ -3,6 +3,10 @@ layout: page
 title: Komunální volby 2018
 description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií. Jsme tu osm let. Hájíme svobodu, přinášíme čerstvé nápady a nebojíme se říkat, co si myslíme. Politici slibují modré z nebe, světlé zítřky a další prázdná hesla. Piráti nabízí jasné a konkrétní cíle – černé na bílém. Pusťte nás na ně!
 ---
+## Budětsko
+
+V obci Budětsko kandidují registrovaní příznivci Pirátů a nezávislí kandidáti na kandidátce Moderní vesnice - Piráti. Z programu v kostce: Informovanost a zapojování občanů do rozhodování, plnění územního plánu, lepší nakládání s rozpočtem: například peníze na kulturu a hasiče, led osvětlení. Seznam kandidátů pro [Budětsko](/volby/komunalni/2018/budetsko).
+
 ## Hranice
 
 Hraničtí Piráti jdou do voleb s jednoduchým programem. Cílem jejich úsilí je realizace a udržení skutečného Smart City, v kterém budou žít spokojení lidé. Města, které bude přitažlivé pro mladé obyvatele, přitažlivé pro investice. Města, které se zbaví korupce a bude obyvatelům zaručovat jejich práva a svobody. Volební program a seznam kandidátů pro [Hranice](/volby/komunalni/2018/hranice).
