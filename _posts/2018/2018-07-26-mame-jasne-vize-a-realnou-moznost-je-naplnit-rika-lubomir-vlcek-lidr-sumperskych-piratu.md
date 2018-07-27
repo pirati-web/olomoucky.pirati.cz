@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "„Máme jasné vize a reálnou možnost je naplnit,“ říká Lubomír Vlček, lídr šumperských Pirátů"
-date: 2018-06-13
+date: 2018-07-26
 tags: 
 - šumpersko
 author: Mediální odbor

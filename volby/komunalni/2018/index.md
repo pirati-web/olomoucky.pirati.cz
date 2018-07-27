@@ -3,6 +3,10 @@ layout: page
 title: Komunální volby 2018
 description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií. Jsme tu osm let. Hájíme svobodu, přinášíme čerstvé nápady a nebojíme se říkat, co si myslíme. Politici slibují modré z nebe, světlé zítřky a další prázdná hesla. Piráti nabízí jasné a konkrétní cíle – černé na bílém. Pusťte nás na ně!
 ---
+## Hranice
+
+Hraničtí Piráti jdou do voleb s jednoduchým programem. Cílem jejich úsilí je realizace a udržení skutečného Smart City, v kterém budou žít spokojení lidé. Města, které bude přitažlivé pro mladé obyvatele, přitažlivé pro investice. Města, které se zbaví korupce a bude obyvatelům zaručovat jejich práva a svobody. Volební program a seznam kandidátů pro [Hranice](/volby/komunalni/2018/hranice).
+
 ## Majetín a Brodek u Přerova
 
 Piráti nejsou strana jen pro mladé a vzdělané městské liberály, ideálně někde ze západní části naší republiky. Piráti prostě rádi boří předsudky, a tak už v roce 2013 založili venkovské místní sdružení Pirátská Tvrz, za jehož centrum by se dala považovat obec Majetín a neméně důležitý městys Brodek u Přerova. V obou těchto obcích Piráti samozřejmně kandidují do obecního zastupitelstva. Seznam kandidátů pro [Majetín](/volby/komunalni/2018/majetin) a [Brodek u Přerova](/volby/komunalni/2018/brodek-u-prerova).
