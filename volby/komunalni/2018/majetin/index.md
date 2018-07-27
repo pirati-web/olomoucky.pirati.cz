@@ -5,7 +5,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 ---
 ## Seznam kandidátů
 
-1. [**Ing. et Ing. Martin Šmída**](/lide/martin-smida) , 33 let, kompostář, obecní zastupitel, Piráti
+1. [**Ing. et Ing. Martin Šmída**](/lide/martin-smida), 33 let, kompostář, obecní zastupitel, Piráti
 2. **Ing. et Ing. Pavla Studená**, 28 let, administrativní pracovnice, účetní, ekonomka, BEZPP
 3. **Jan Koutný**, 33 let, zámečník, svářeč, fotbalový brankář, Piráti
 4. **Jiří Jurečka**, 54 let, grafik, BEZPP

@@ -23,6 +23,10 @@ V Prostějově půjdou Piráti do voleb v koalici pod názvem Na rovinu s TOP09 
 
 Přerovští Piráti spojili síly na koaliční kandidátce nazvané Společně pro Přerov a Piráti, která je uskupením nezávislých kandidátů, hnutí Změna, Nezávislá volba a Pirátů. Více informací najdete na webu [http://www.spolecneproprerov.cz/](http://www.spolecneproprerov.cz/). Seznam kandidátů pro [Přerov](/volby/komunalni/2018/prerov).
 
+## Šumperk
+
+Piráti v Šumperku kandidují pod heslem Férově a na rovinu posuneme Šumperk dál. Seznam kandidátů pro [Šumperk](/volby/komunalni/2018/sumperk).
+
 <h1 itemprop="headline" class="c-BasicPage__title">Volební Pirátské listy</h1>
 
 Mnoho dalších informací o komunálních volbách v Olomouckém kraji najdete také v našich tištěných Pirátských listech, které distribuujeme do poštovních schrátek v městech a obcích, kde Piráti kandidují. Můžete si je rovněž stáhnout ve formátu PDF z těchto stránek:

@@ -31,4 +31,26 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 
 # Seznam kandidátů
 
-Bude doplněno později.
+1. [**Hynek Kliment**](/lide/hynek-kliment), 52 let, kreativec (film, fotografie, reklama, marketing), produkční, producent, Piráti
+2. **Petr Žurek**, 48 let, podnikatel, producent, Piráti
+3. **Lukáš Peklanský**, 31 let, provozní technik, Piráti
+4. **Ladislav Rajčan**, 31 let, pracovník bezpečnostní služby, Piráti
+5. **Radim Raček**, 19 let, freelancer, odborník na stavební materiály, Piráti
+6. **Martina Seibertová**, 19 let, umělkyně – poesie, ilustrace, hudba, Piráti
+7. **Tomáš Raček**, 29 let, OSH – elelktro, BEZPP
+8. **Marie Kopecká**, 46 let, bezpečnostní služba, Piráti
+9. **Jana Vaňáková**, 57 let, podnikatel OSVČ, BEZPP
+10. **Miroslava Vinklárková**, 43 let, freelancer, umělecká tvorba, Piráti
+11. **Petra Hapalová**, 29 let, obsluha reciklační ekologické linky, Piráti
+12. **Vladimír Bartsch**, 49 let, operátor, BEZPP
+13. **Lukáš Kubeša**, 20 let, student, Piráti
+14. **Petr Vejmola**, 54 let, řidič, BEZPP
+15. **Martin Haša**, 23 let, řidič autobusu, BEZPP
+16. **Kateřina Romanová**, 30 let, mateřská dovolená, BEZPP
+17. **Antonín Vaňák**, 55 let, topič, BEZPP
+18. **Lukáš Zahradník**, 34 let, předák linky, BEZPP
+19. **Jiří Vilím**, 24 let, barman, BEZPP
+20. **Lucie Kopecká**, 26 let, operátorka, BEZPP
+21. **Michaela Remešová**, 23 let, cukrářka, BEZPP
+22. **Markéta Sehnalová**, 28 let, recepční, BEZPP
+23. **Tomáš Pavelka**, 30 let, skladník, BEZPP
