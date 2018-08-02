@@ -1,0 +1,13 @@
+---
+layout: post
+category: CLANKY
+title: Třiď odpad a šetři peníze
+date: 2018-08-02
+tags: 
+- pirátská-tvrz
+author: Martin Šmída
+image: assets/img/articles/2018/2018-08-02-trid-odpad-a-setri-penize.jpg   #751x422 pixelu
+---
+Vyspělost civilizace se pozná, krom jiného, také podle toho, jak nakládá se svými odpady. V České republice jsme celkem úspěšní ve třídění plastů. Co se však týče dalšího zpracování a recyklace jiných odpadů, tam už trochu pokulháváme. Je naplánováno postupné zvyšování poplatků za skládkování ze současných 500 Kč za tunu až na 2 000 Kč za tunu, které má vyvrcholit úplným zákazem skládkování neupraveného odpadu v roce 2024. Dále jsme se zavázali výrazně snížit poměr biologicky rozložitelné složky ve směsném komunálním odpadu, jinak našemu státu hrozí tučné pokuty. Jednoznačným cílem tedy je, aby směsného komunálního odpadu bylo co nejméně. Toho lze docílit jedině poctivým tříděním všech recyklovatelných složek odpadu, tedy plastů, papíru, tetrapakových obalů, skla, kovů, elektroodpadu, textilu a kompostovatelného i oodpadu ze zahrady i kuchyně.
+
+V Olomouckém kraji v kategorii obcí od 500 do 2 000 obyvatel získala 1. místo v soutěži „Zlatá popelnice“ vesnice Majetín, která vyniká počtem a hustotou sběrných míst na tříděný odpad. Lidé v této vesnici si rovněž užívají komfort relativně nízkého odpadového poplatku 380 Kč na osobu. Když v této obci dělali Piráti dotazník a ptali se na názor občanů, jaký systém poplatků za odpady by preferovali, drtivě zvítězila možnost, aby každý platil podle toho, kolik komunálního odpadu vyprodukuje, aneb kolikrát vykoulí popelnici k vyvezení. Zastupitelstvo, kde Piráti neměli většinu, toto přání však ignorovalo. Pokud ale místní lidé tak dobře třídí, tak by měli být odměněni. Z výše zmíněných důvodů se bude zpracování odpadu asi už jen zdražovat, tedy i poplatek bude zákonitě růst a právě ty, kteří poctivě třídí, by to mohlo demotivovat. Do komunálních voleb v Majetíně jdou však Piráti právě s tím, že ti, kteří třídí, by měli v budoucnu platit míň než ti, kteří netřídí a pravidelně plní 2–3 popelnice netříděným odpadem. Tímto způsobem by se naopak mohlo podařit motivovat i ty občany, kteří dosud netřídili, aby s tím začali. Piráti tak předpokládají, že pozitivní trend v množství vytříděného odpadu bude pokračovat a Majetín by se tak mohl stát vzorem pro ostatní obce a pádným argumentem vůči těm, kteří budou tvrdit že „to nejde“.

@@ -18,7 +18,7 @@ tags:
 - hranicko
 facebook: https://www.facebook.com/PiratiHranicko/
 redmine: 
-forum: 
+forum: https://forum.pirati.cz/hranicko-f1006/
 web: https://olomoucko.pirati.cz/mistni-sdruzeni/hranicko
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
