@@ -3,6 +3,10 @@ layout: page
 title: Komunální volby 2018 v Hranicích
 description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií. Jsme tu osm let. Hájíme svobodu, přinášíme čerstvé nápady a nebojíme se říkat, co si myslíme. Politici slibují modré z nebe, světlé zítřky a další prázdná hesla. Piráti nabízí jasné a konkrétní cíle – černé na bílém. Pusťte nás na ně!
 ---
+<div class="o-media__image">
+  <img src="{{ 'volby-2018-hranice-kandidati.jpg' | prepend: '/assets/img/miscellaneous/' | relative_url }}" alt="Kandidáti" style="width: 50rem; margin-bottom: 2rem">
+</div>
+
 # Volební program
 
 ## Radnice
