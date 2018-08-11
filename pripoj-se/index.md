@@ -38,7 +38,7 @@ title: Připoj se
                     <div class="o-media__body">
                     <h2 class="o-media__headline"><a href="{{'lide/milos-zmeskal/' | relative_url}}">Miloš Zmeškal</a></h2>
                       <p>Koordinátor dobrovolníků pro Olomoucký kraj</p>
-                      <p>731 464 910<br>
+                      <p>770 113 650<br>
                       <a href="mailto:milos.zmeskal@pirati.cz">milos.zmeskal@pirati.cz</a></p>
                     </div>
                   </div>
