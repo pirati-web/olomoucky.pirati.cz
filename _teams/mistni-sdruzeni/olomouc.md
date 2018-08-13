@@ -7,6 +7,7 @@ img: teams/olomouc.jpg
 leader: jakub.nepejchal
 deputy:
 - jan.dvorak
+- viktor.tichak
 contact:
 - milos.zmeskal
 region: Olomouc
