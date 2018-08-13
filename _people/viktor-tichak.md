@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 img: people/viktor-tichak.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: 2. místopředseda olomouckého místního sdružení                # kratký popis, max 160 znaků
 mail:
 - viktor.tichak@pirati.cz
 mob:         
