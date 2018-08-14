@@ -5,7 +5,7 @@ title: "Pirátská tvrz: První místní sdružení v Olomouckém kraji"
 date: 2013-12-01
 tags: pirátská-tvrz
 author: Roman Kümmel
-image: assets/img/articles/2013/2013-12-01-piratska-tvrz-prvni-ms-v-kraji.jpg   #751x422 pixelu
+image: assets/img/articles/2013/2013-12-01-piratska-tvrz-prvni-mistni-sdruzeni-v-olomouckem-kraji.jpg   #751x422 pixelu
 ---
 V neděli 1.12.2013 bylo na výjezdním zasedání v Brodku u Přerova založeno první místní sdružení Pirátské strany v Olomouckém kraji. Sdružení, které dostalo příznačný název Pirátská tvrz, zahrnulo do území své působnosti katastry obcí Majetín, Brodek u Přerova, Luková, Grygov, Krčmaň, Kokory, Rokytnice, Císařov a Citov.
 

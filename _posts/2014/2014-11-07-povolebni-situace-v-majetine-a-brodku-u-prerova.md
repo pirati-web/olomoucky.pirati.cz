@@ -5,7 +5,7 @@ title: Povolební situace v Majetíně a Brodku u Přerova
 date: 2014-11-07
 tags: pirátská-tvrz
 author: Michal Wagner
-image: assets/img/articles/2014/2014-11-07-povolebni-situace-v-majetine-a-brodku-u-pr.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-11-07-povolebni-situace-v-majetine-a-brodku-u-prerova.jpg   #751x422 pixelu
 ---
 V Majetíně získali Piráti v komunálních volbách přes 11% a získali jednoho zastupitele, v Brodku získali Piráti 4.7% a post zastupitele jim těsně unikl. V Brodku i v Majetíně však nepolevujeme v práci.
 
