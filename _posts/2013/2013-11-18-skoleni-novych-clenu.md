@@ -5,7 +5,7 @@ title: Školení nových členů
 date: 2013-11-18
 tags: olomouc
 author: Roman Kümmel
-image: assets/img/articles/2013/2013-11-18-skoleni.jpg   #751x422 pixelu
+image: assets/img/articles/2013/2013-11-18-skoleni-novych-clenu.jpg   #751x422 pixelu
 ---
 14.listopadu proběhlo v olomoucké restauraci Faraon školení nových členů, na kterém Vojta Pikal zasvětil účastníky do témat vnitřního fungování strany. Zájemci se na školení dozvěděli mnoho zajímavých a podrobných informací o:
 

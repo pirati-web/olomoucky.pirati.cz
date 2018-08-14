@@ -5,7 +5,7 @@ title: Nesouhlas s policejní razií v growshopech
 date: 2013-11-18
 tags: olomouc
 author: Roman Kümmel
-image: assets/img/articles/2013/2013-11-18-growshopy.jpg   #751x422 pixelu
+image: assets/img/articles/2013/2013-11-18-nesouhlas-s-policejni-razii-v-growshopech.jpg   #751x422 pixelu
 ---
 13.listopadu jsme na Horním náměstí v Olomouci protestovali proti probíhajícím raziím v growshopech. Přidali jsme se tak k celorepublikovému protestu, který se snažil upozornit na nekorektnost policejního zásahu, během kterého bylo mimo jiné zabaveno množství běžného zahrádkářského sortimentu, jako jsou květináče, rašelinový substrát a podobně.
 
