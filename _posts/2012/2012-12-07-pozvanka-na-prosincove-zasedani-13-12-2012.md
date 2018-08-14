@@ -5,7 +5,7 @@ title: Pozvánka na prosincové zasedání 13. 12. 2012
 date: 2012-12-07
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: assets/img/articles/2012/2012-12-07-pozvanka-na-zasedani-13-12-2012.jpg   #751x422 pixelu
+image: assets/img/articles/2012/2012-12-07-pozvanka-na-prosincove-zasedani-13-12-2012.jpg   #751x422 pixelu
 ---
 Vážení členové a příznivci, krajské předsednictvo vás tímto zve na zasedání olomouckého krajského sdružení Pirátů. Setkání se uskuteční ve čtvrtek 13.12. od 17:00 v restauraci Študáč ve Švédské ulici 3, Olomouc.
 
