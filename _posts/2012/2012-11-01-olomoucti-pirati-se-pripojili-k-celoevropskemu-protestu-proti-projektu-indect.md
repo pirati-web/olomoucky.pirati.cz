@@ -11,4 +11,4 @@ Dne 20.10. se Piráti v Olomouci připojili k mezinárodním protestům proti pr
 
 Po úvodní diskuzi na náměstí Piráti oběšli centrum města s informačními letáky a šířili osvětu mezi občany. Na petici proti INDECT se podařilo získat několik podpisů.
 
-[Pozvánka na demonstraci a průvod](/regiony/olomoucko/tiskove-zpravy/pozvanka_na_demonstraci_proti_indect)
+[Pozvánka na demonstraci a průvod](https://olomoucky.pirati.cz/tiskove-zpravy/pozvanka-na-demonstraci-proti-indect.html)
