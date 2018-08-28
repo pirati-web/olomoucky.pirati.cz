@@ -11,7 +11,7 @@ img: people/petr-lysek.jpg   # 165 x 220
 description: Předseda prostějovského místního sdružení, zastupitel v Prostějově           # kratký popis, max 160 znaků
 mail:
 - petr.lysek@pirati.cz
-mob:        
+mob: 603 536 302   
 profiles:
   github:                 
   facebook:       
