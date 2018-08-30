@@ -9,7 +9,7 @@ category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Předseda místního sdružení
 img: people/martin-svadlenka.jpg   # 165 x 220
 description: Předseda přerovského místního sdružení, zastupitel v Přerově           # kratký popis, max 160 znaků
-mail:
+mail: martin.svadlenka@pirati.cz
 
 mob:        
 profiles:
