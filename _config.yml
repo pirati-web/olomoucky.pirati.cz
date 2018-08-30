@@ -22,6 +22,8 @@ plugins:
 paginate_path: "aktuality/:num/"
 paginate: 11
 
+timezone: Europe/Prague
+
 exclude:
   - readme.md
   - Gemfile
