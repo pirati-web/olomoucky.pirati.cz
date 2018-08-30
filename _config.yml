@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-  email: honza.dvorak@pirati.cz # mail kam pujdou chybove vystupy
+  email: jan.dvorak@dvorak-sw.com # mail kam pujdou chybove vystupy
 
 # Build settings
 markdown: kramdown
