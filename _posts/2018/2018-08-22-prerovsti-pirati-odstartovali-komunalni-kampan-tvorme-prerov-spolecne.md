@@ -8,7 +8,7 @@ tags:
 author: Mediální odbor
 image: assets/img/articles/2018/2018-08-22-prerovsti-pirati-odstartovali-komunalni-kampan-tvorme-prerov-spolecne.jpg  #751x422 pixelu
 ---
-Čelní kandidáti koalice „Společně pro Přerov a Piráti“ odstartovali předvolební kampaň na náměstí T. G. Masaryka akcí „Neschováváme se, jdeme s kůží na trh!“ Kandidáti přednesli své vize pro město, byl zveřejněn kompletní program „Plán pro Přerov“ a také seznam klíčových projektů.
+Čelní kandidáti koalice „Společně pro Přerov a Piráti“ odstartovali předvolební kampaň na náměstí T. G. Masaryka akcí „Neschováváme se, jdeme s kůží na trh!“. Kandidáti přednesli své vize pro město, byl zveřejněn kompletní program „Plán pro Přerov“ a také seznam klíčových projektů.
 
 Klíčovými projekty jsou:
 1. Participativní rozpočet města „Můj Přerov“
@@ -25,7 +25,7 @@ Zástupce Pirátů Ing. Tomáš Karlík mluvil o možnostech využití bikeshari
 
 *„Nepřinesli jsme nic nového, většina toho, co chceme ve městě prosadit, už funguje jinde. Chceme se inspirovat a hlavně si vzít dobrý a fungující příklad z měst jako je Brno, kde již byla prosazena spousta „pirátských“ návrhů,“* říká Tomáš Karlík, místopředseda MS Přerov.
 
-Bližší info naleznete na [damenavas.brno.cz](https://damenavas.brno.cz/)
+Bližší info naleznete na [damenavas.brno.cz](https://damenavas.brno.cz/).
 
 Lídr kandidátky Ing. arch. Jan Horký (hnutí Změna) se bude věnovat projektům rozvoje nového strategického území v centru města okolo plánovaného průpichu, výstavbě nové moderní knihovny, zatímco Mgr. Helena Netopilová se bude věnovat projektu na vytvoření přírodního koupacího biotopu na přerovské Laguně, propojení generací, dobrovolnictví a revitalizaci veřejného prostoru. Ing. Ondřej Svák dohlédne na rozvoj dopravních staveb a naplňování plánu udržitelné mobility Přerov. Pavel Ondrůj chce pokračovat v rozvoji kultury ve městě, pořádat více hudebních akcí a také se hodlá zasadit o revitalizaci pasáže.
 
