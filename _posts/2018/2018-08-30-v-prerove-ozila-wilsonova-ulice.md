@@ -8,7 +8,7 @@ tags:
 author: Mediální odbor
 image: assets/img/articles/2018/2018-08-30-v-prerove-ozila-wilsonova-ulice.jpg  #751x422 pixelu
 ---
-Společně pro Přerov a Piráti uspořádali benefiční koncert s názvem „Živá ulice“. Cílem bylo oživit jednu z frekventovaných ulic v centru města a také podpořit centrum SONS, které pracuje se zrakově handicapovanými. Během čtyř hodin vystoupilo šest přerovských muzikantů a podařilo se vybrat 3420,- Kč, které poputují na provoz centra.
+Společně pro Přerov a Piráti uspořádali benefiční koncert s názvem *„Živá ulice“*. Cílem bylo oživit jednu z frekventovaných ulic v centru města a také podpořit centrum SONS, které pracuje se zrakově handicapovanými. Během čtyř hodin vystoupilo šest přerovských muzikantů a podařilo se vybrat 3420,- Kč, které poputují na provoz centra.
 
 Celá akce probíhala formou buskingu, tedy pouličního hraní. Místní umělci vystupovali na improvizovaném pódiu a zpříjemňovali kolemjdoucím chůzi centrem města. Bylo zde připraveno i malé pohoštění jako třeba voda na pití, čerstvé ovoce nebo domácí bábovka. 
 
