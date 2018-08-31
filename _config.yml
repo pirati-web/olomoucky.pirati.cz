@@ -18,7 +18,7 @@ administrator:
 # Build settings
 markdown: kramdown
 
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
