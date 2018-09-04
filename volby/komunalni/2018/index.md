@@ -35,4 +35,5 @@ Piráti v Šumperku kandidují pod heslem Férově a na rovinu posuneme Šumperk
 
 Mnoho dalších informací o komunálních volbách v Olomouckém kraji najdete také v našich tištěných Pirátských listech, které distribuujeme do poštovních schrátek v městech a obcích, kde Piráti kandidují. Můžete si je rovněž stáhnout ve formátu PDF z těchto stránek:
 
-[Pirátské listy červen 2018](/assets/pdf/2018-06-01-piratske-listy-cerven-2018.pdf)
+[Pirátské listy červen 2018](/assets/pdf/2018-06-01-piratske-listy-cerven-2018.pdf)  
+[Pirátské listy září 2018](/assets/pdf/2018-09-01-piratske-listy-zari-2018.pdf)
