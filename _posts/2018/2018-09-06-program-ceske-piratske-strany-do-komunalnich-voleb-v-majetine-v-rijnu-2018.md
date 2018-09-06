@@ -74,7 +74,7 @@ Zavazujeme se, že všichni naši zástupci obce se budou zabývat všemi petice
 
 ## Podpora místních
 
-### Podpora spolků*  
+### Podpora spolků 
 
 Považujeme dobrovolnické spolky za živou duši obce. Budeme podporovat dobrovolnickou aktivitu občanů, neboť i Česká Pirátská strana funguje převážně na dobrovolnických principech.
 
