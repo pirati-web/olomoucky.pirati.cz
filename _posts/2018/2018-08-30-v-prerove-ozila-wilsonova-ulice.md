@@ -16,4 +16,4 @@ V Coworkingovém centru (nad bývalou prodejnou Baťa) měli zástupci centra S
 
 Akci podpořili přerovští muzikanti: Ivo Blahunek, Daniel Režný, Gabriela Navrátilová, Pavel Dostál, Tomáš Hambálek a Adam Hobza.
 
-*„Jsme moc rádi že akci podpořilo tolik přerovských umělců. Hlavní cíl bylo oživit ulici hudbou a informovat kolemjdoucí o činnosti centra SONS. K tomu všemu jsme vybrali pár tisíc, které handicapovaným pomůžou. Takže myslím, že se akce podařila.“* Říká Tomáš Karlík, organizátor akce.
+*„Jsme moc rádi, že akci podpořilo tolik přerovských umělců. Hlavní cíl bylo oživit ulici hudbou a informovat kolemjdoucí o činnosti centra SONS. K tomu všemu jsme vybrali pár tisíc, které handicapovaným pomůžou. Takže myslím, že se akce podařila,“* říká Tomáš Karlík, organizátor akce.
