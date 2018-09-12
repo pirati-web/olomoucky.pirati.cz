@@ -9,7 +9,7 @@ author: Mediální odbor
 image: assets/img/articles/2018/2018-09-11-program-ceske-piratske-strany-do-komunalnich-voleb-v-brodku-u-prerova.jpg  #751x422 pixelu
 ---
 
-Tento program vychází z celostátního programu České pirátské strany. Konkrétní podobu získal na veřejných schůzích Místního sdružení Pirátská Tvrz. Všichni kandidáti jej podepsali a zaručili se jej dodržovat. MS Pirátská Tvrz sdružuje členy a příznivce České pirátské strany v obcích: Brodek u Přerova, Citov, Císařov, Grygov, Krčmaň, Kokory, Majetín a Rokytnice u Přerova.
+Také v Brodku u Přerova mají Piráti svoji kandidátku pro komunální volby. Jaký je jejich volební program? To se dozvíte na následujících řádcích.
 
 ## Otevřená obec
 
