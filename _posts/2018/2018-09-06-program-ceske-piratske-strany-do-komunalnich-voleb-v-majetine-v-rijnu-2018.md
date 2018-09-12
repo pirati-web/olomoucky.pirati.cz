@@ -19,7 +19,7 @@ Zajistíme, aby veřejný prostor byl skutečně veřejný, maximálně dostupn�
 
 ### Kvalitní údržba veřejného prostoru
 
-Za samozřejmost považujeme zajištění kvalitní údržby zeleně. Stejně tak předpokládáme průběžnou údržbu komunikací (silnic a chodníků) a drobné architektury (lavičky, odpadkové koše i pro tříděný odpad, atd.). Chceme motivovat občany, aby se dobře starali o své předzahrádky.
+Za samozřejmost považujeme zajištění kvalitní údržby zeleně. Stejně tak předpokládáme průběžnou údržbu komunikací (silnic a chodníků) a drobné architektury (lavičky, odpadkové koše i pro tříděný odpad atd.). Chceme motivovat občany, aby se dobře starali o své předzahrádky.
 
 ### Funkční a vkusné veřejné budovy
 
@@ -32,7 +32,7 @@ Budeme usilovat o kvalitní kulturní program tak, aby si každý přišel na sv
 ## Moderní obec
 
 ### Usnadníme občanům styk s úřady
-Rozšíříme možnosti informačního SMS systému a umožníme lidem přijímat informace tak, jak sami preferují. Budeme pravidelně aktualizovat web, info kanál na TV Maj i obecní facebookovou stránku. Pro úsporu času občanů zajistíme, aby veškeré dokumenty nutné pro styk s úřadem byly dostupné a snadno dohledatelné na obecním webu, a to v otevřených formátech, zpracovatelných zdarma dostupným softwarem. Starosta bude mít online otevřený kalendář, ze kterého bude zřejmé, co kdy dělal a co plánuje dělat. Stejně tak povede veřejný registr lobbistických kontaktů.
+Rozšíříme možnosti informačního SMS systému a umožníme lidem přijímat informace tak, jak sami preferují. Budeme pravidelně aktualizovat web, info kanál na TV Maj i obecní facebookovou stránku. Pro úsporu času občanů zajistíme, aby veškeré dokumenty nutné pro styk s úřadem byly dostupné a snadno dohledatelné na obecním webu, a to v otevřených formátech zpracovatelných zdarma dostupným softwarem. Starosta bude mít online otevřený kalendář, ze kterého bude zřejmé, co kdy dělal a co plánuje dělat. Stejně tak povede veřejný registr lobbistických kontaktů.
 
 ### Internet pro všechny
 
@@ -40,17 +40,17 @@ Podporujeme volnou přístupnost internetu ve veřejných prostorách a na veře
 
 ### Veřejné zakázky férově
 
-Celou zadávací dokumentaci zveřejníme dostatečně dlouhou dobu předem na internetu. Budeme oslovovat více potenciálních dodavatelů, než jen minimální povinný počet. 
+Celou zadávací dokumentaci zveřejníme dostatečně dlouhou dobu předem na internetu. Budeme oslovovat více potenciálních dodavatelů než jen minimální povinný počet. 
 
 ## Rozumné hospodaření
 
 ### Prosazujeme dlouhodobě vyrovnaný obecní rozpočet
 
-Budeme hledat úspory a tvořit rezervu pro nenadálé situace či budoucí finančně náročné investice např. rekonstrukce kanalizace. Budeme vyhledávat vhodné dotační příležitosti, nebudeme však čerpat za každou cenu bez ohledu na smysl.
+Budeme hledat úspory a tvořit rezervu pro nenadálé situace či budoucí finančně náročné investice, např. rekonstrukce kanalizace. Budeme vyhledávat vhodné dotační příležitosti, nebudeme však čerpat za každou cenu bez ohledu na smysl.
 
 ### Třídíš? Ušetříš!
 
-Změníme systém poplatků za odpady tak, aby ti, kteří vyhodí méně komunálního odpadu, platili méně, než ti, kteří netřídí a pravidelně plní své popelnice tříditelným odpadem. 
+Změníme systém poplatků za odpady tak, aby ti, kteří vyhodí méně komunálního odpadu, platili méně než ti, kteří netřídí a pravidelně plní své popelnice tříditelným odpadem. 
 
 ## Bezpečnost
 
@@ -60,7 +60,7 @@ S pomocí odborníků chceme vyřešit problémová a nebezpečná místa (např
 
 ### Stavíme se proti nadbytečnému sledování občanů v případech, kde to není opodstatněné
 
-Nesouhlasíme s nadměrným použitím bezpečnostních kamer a podobných nástrojů, zneužitelných pro sledování. Místa, kde se vyskytují kamery, musí být označena. Kamery mají opodstatnění jen na některých místech (např. Hřbitov, obecní úřad). Jsme proti plošnému sledování občanů.
+Nesouhlasíme s nadměrným použitím bezpečnostních kamer a podobných nástrojů zneužitelných pro sledování. Místa, kde se vyskytují kamery, musí být označena. Kamery mají opodstatnění jen na některých místech (např. hřbitov, obecní úřad). Jsme proti plošnému sledování občanů.
 
 ## Demokracie
 
@@ -76,7 +76,7 @@ Zavazujeme se, že všichni naši zástupci obce se budou zabývat všemi petice
 
 ### Podpora spolků 
 
-Považujeme dobrovolnické spolky za živou duši obce. Budeme podporovat dobrovolnickou aktivitu občanů, neboť i Česká Pirátská strana funguje převážně na dobrovolnických principech.
+Považujeme dobrovolnické spolky za živou duši obce. Budeme podporovat dobrovolnickou aktivitu občanů, neboť i Česká pirátská strana funguje převážně na dobrovolnických principech.
 
 Pokud to bude v našich silách, vyjdeme spolkům maximálně vstříc při jejich aktivitách. Při finanční podpoře budeme striktně kontrolovat vynaložené peníze, tyto informace budeme zveřejňovat a po spolcích budeme požadovat maximální transparenci. Budeme uplatňovat stejný metr na všechny.
 
@@ -88,6 +88,6 @@ Ve výběrových řízeních nemusí být cena jediným rozhodujícím kritérie
 
 ### Zaměstnanost
 
-Obecní zaměstnanci mají dělat práci, na kterou mají kvalifikaci a být za ni spravedlivě odměněni. 
+Obecní zaměstnanci mají dělat práci, na kterou mají kvalifikaci, a být za ni spravedlivě odměněni. 
 
 Na výpomoc při sezónních pracích lze najmout krátkodobě další pracovníky, třeba i s využitím dotací.
