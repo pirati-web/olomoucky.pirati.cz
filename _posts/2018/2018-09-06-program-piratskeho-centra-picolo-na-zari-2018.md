@@ -8,14 +8,14 @@ tags:
 author: Mediální odbor
 image: assets/img/articles/2018/2018-09-06-program-piratskeho-centra-picolo-na-zari-2018.jpg  #751x422 pixelu
 ---
-Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5 v měsící září 2018.
+Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5, v měsíci září 2018.
 
 * **Veřejná schůze Pirátů Olomouckého kraje**  
 *Středa 5. září 2018 od 18:00 hodin*
 
-* **Toulky zakavkazskem: Gruzie & Ázerbajdžán mezi Evropou a Asií**  
+* **Toulky Zakavkazskem: Gruzie & Ázerbajdžán mezi Evropou a Asií**  
 *Čtvrtek 6. září 2018 od 18:00 hodin*  
-Hynek Melichar a Nela Chudová Vám přiblíží patnáctidenní dobrodružství npříč fascinující krajinou Zakavkazska na pomezí Evropy a Asie, kterou v červnu navštívili.  
+Hynek Melichar a Nela Chudová Vám přiblíží patnáctidenní dobrodružství napříč fascinující krajinou Zakavkazska na pomezí Evropy a Asie, kterou v červnu navštívili.  
 
 * **Podvečer u stolních a karetních her**  
 *Úterý 11. září 2018 od 18:00 hodin*  
