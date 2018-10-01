@@ -30,6 +30,12 @@ V komunálních volbách jsme kandidovali v koalici s názvem [Společně Pro P�
 
 Místní sdružení Přerov sdružuje Piráty z Přerova a Dobrčic. 
 
+## Mapa Plánu pro Přerov
+
+Připravili jsme pro vás hravou mapu, na které si můžete rozklikat jednotlivé projekty, o jejichž realizaci budeme usilovat v následujících 4 letech. Na mapě nenajdete všechno z našeho Plánu pro Přerov, proto se podívejte i na náš program v úplném znění [http://www.spolecneproprerov.cz/?p=1897](http://www.spolecneproprerov.cz/?p=1897).
+
+<iframe width="100%" height="576" src="https://maphub.net/embed/38160?panel=1" frameborder="0"></iframe>
+
 <div class="o-section-header">
   <h2 class="o-section__heading o-section__heading--small">Články</h2>
 </div>
