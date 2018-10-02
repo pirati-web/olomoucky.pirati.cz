@@ -3,10 +3,11 @@ uid: jaromir.horky
 name:     Jaromír Horký          # běžně používáné jméno
 fullname: Jaromír Horký   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
+- prerov
+position: Místopředseda místního sdružení
 img: people/jaromir-horky.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: 1. místopředseda přerovského místního sdružení                # kratký popis, max 160 znaků
 mail:
 - 
 mob:         
