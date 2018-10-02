@@ -6,20 +6,28 @@ title: Připoj se
 
 <div class="row">
   <div class="medium-12 large-12 columns">
-    <section class="o-section o-section">
+    <section class="o-section o-section--noSpaceBottom">
       <div class="o-section-inner">
         <div class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <h2 itemprop="headline" class="c-BasicPage__title">Připoj se</h2>
-            </div>
-            <div itemprop="description" class="c-BasicPage-content">
-              <p>Na této stránce se usilovně pracuje. Další informace najdete na <a href="https://www.pirati.cz/pripoj-se/">celostátním webu</a>.</p>
-            </div>
+            </div>            
           </div>
         </div>
       </div>
     </section>
+  </div>
+</div>
+<div class="row">
+  <div class="medium-12 large-12 columns">
+      <div class="o-section-inner">
+        <div class="o-section-block" data-equalizer data-equalize-on="medium">
+          <h2>Sledujte Piráty, nebo se k nim rovnou přidejte !</h2>
+          <p>Abychom usnadnili vstup na palubu všem, kdo o to mají zájem, připravili jsme pro Vás Nalodění, kde se můžete zaregistrovat, dostávat novinky emailem nebo se rovnou zapojit do činnosti Pirátů.</p>
+          <a href="https://nalodeni.pirati.cz" id='butt' style="width: 349px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">Nalodit se k nám&thinsp; <i class="fa fa-thumbs-up" aria-hidden="true"></i></a>
+        </div>
+      </div>
   </div>
 </div>
 <div class="row">
@@ -62,3 +70,5 @@ title: Připoj se
     </section>
   </div>
 </div>
+
+
