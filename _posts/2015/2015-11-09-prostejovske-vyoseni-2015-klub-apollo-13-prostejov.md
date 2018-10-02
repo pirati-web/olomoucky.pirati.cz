@@ -7,7 +7,9 @@ tags: prostějov
 author: Vojtěch Pikal
 image: assets/img/articles/2015/2015-11-09-prostejovske-vyoseni-2015-klub-apollo-13-prostejov.jpg   #751x422 pixelu
 ---
-V sobotu 7.11.2015 proběhl v prostějovském klubu Apollo 13 první ročník festivalu svobodné kultury Vyosení. Jedná se o jeden z řady veřejně prospěšných projektů, financovaných ze státního příspěvku Pirátské strany v rámci [participativního rozpočtu](https://wiki.pirati.cz/fo/rozpocty/participativni/start).
+V sobotu 7.11.2015 proběhl v prostějovském klubu Apollo 13 první ročník festivalu svobodné kultury Vyosení. 
+
+Jedná se o jeden z řady veřejně prospěšných projektů, financovaných ze státního příspěvku Pirátské strany v rámci [participativního rozpočtu](https://wiki.pirati.cz/fo/rozpocty/participativni/start).
 
 Akce byla zahájena v 16:00 malou přehlídkou svobodných filmů. Po 19 hodině pak přišel na řadu přednes poezie v podání autorů Kolji Ivaskiva a Idy Hornové. V obou případech se jednalo o velmi zajímavou tvorbu osobního charakteru.
 
