@@ -28,7 +28,7 @@ Výběr radních a jakákoliv smlouva o povolební spolupráci (uzavření koali
 * Lídr kandidátky Hynek Melichar zodpovídá za hlavní mediální výstupy.  
 * Po projednání výsledku vyjednávání s klubem, Volebním výborem a příslušnými předsednictvy Pirátů a Starostů bude předložen návrh rozhodnutí o konkrétní podobě povolební spolupráce do:  
   - referenda na jednání Místního fóra Pirátů Olomouc. 
-  - sdružení olomouckých kandidátů za Starostů a nezávislých
+  - sdružení olomouckých kandidátů Starostů a nezávislých
 * Pokud je schválen návrh koaliční smlouvy, nahrazuje volební program tam, kde se tyto dva liší.  
 
 ## Vztah klubu k Radě 
