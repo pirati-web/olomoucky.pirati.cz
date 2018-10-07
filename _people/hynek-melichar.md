@@ -3,10 +3,10 @@ uid: hynek.melichar
 name:     Hynek Melichar          # běžně používáné jméno
 fullname: Mgr. Hynek Melichar, Ph.D.   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
+- zastupitele
 img: people/hynek-melichar.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje, zastupitel v Olomouci                # kratký popis, max 160 znaků
 mail:
 - hynek.melichar@pirati.cz
 mob:         
@@ -14,7 +14,8 @@ profiles:
   github:
   facebook:       
   twitter:        
-  flickr:       
+  flickr:    
+ordzas: 4   
 ---
 Mgr. Hynek Melichar, Ph.D. (* 29. května 1982) je lídrem kandidátky do komunálních voleb 2018 v Olomouci.
 

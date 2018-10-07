@@ -4,7 +4,6 @@ name:     Martin Švadlenka   # běžně používáné jméno
 fullname: Martin Švadlenka   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
-- zastupitele
 - predsedove-ms
 position: Předseda místního sdružení
 img: people/martin-svadlenka.jpg   # 165 x 220
@@ -17,7 +16,6 @@ profiles:
   facebook:       
   twitter:      
   flickr:
-ordzas: 3
 ordmis: 4            
 ---
 Martin Švadlenka (* 17. července 1975) je Pirátem od roku 2009 a spoluzakládal zlínské krajské sdružení. Martin pochází ze Vsetína, od roku 2011 žije v Přerově.

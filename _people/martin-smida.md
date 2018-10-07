@@ -6,7 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 img: people/martin-smida.jpg             # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
-description: Zastupitel obce Majetín             		# kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje, zastupitel v Majetíně             		# kratký popis, max 160 znaků
 mail:
 - martin.smida@pirati.cz
 mob:					721 661 311
@@ -15,7 +15,7 @@ profiles:
   facebook:				https://www.facebook.com/smida.martin
   twitter:				https://twitter.com/Martinpunkie
   flickr:				https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=martin%20%C5%A1m%C3%ADda
-ordzas: 4
+ordzas: 3
 ---
 Martin Šmída je člen republikového výboru Pirátské strany a místní zastupitel v obci Majetín. Vystudoval na VUT Brno obory Manažerská informatika, Ekonomika a řízení podniku a Realitní inženýrství na Fakultě podnikatelské a Ústavu soudního inženýrství. Během studia pořádal v Olomouci punk-rockový festival RECYKL FEST.
 
