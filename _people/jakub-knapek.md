@@ -3,9 +3,9 @@ uid: jakub.knapek
 name:     Jakub Knápek          # běžně používáné jméno
 fullname: Mgr. Jakub Knápek   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
+- zastupitele
 img: people/jakub-knapek.jpg             # 165 x 220
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje, zastupitel v Olomouci                # kratký popis, max 160 znaků
 mail:
 - jakub.knapek@pirati.cz
 mob:         
@@ -13,7 +13,8 @@ profiles:
   github:
   facebook:       
   twitter:        
-  flickr:       
+  flickr:
+ordzas: 6       
 ---
 Mgr. Jakub Knápek (* 17.5.1974), ženatý, otec dvou kluků. Bydlí a pracuje v Olomouci. Pirátem je od března 2018.
 
