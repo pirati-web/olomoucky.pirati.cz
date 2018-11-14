@@ -4,10 +4,9 @@ name:     Radek Vojtek   # běžně používáné jméno
 fullname: Radek Vojtek   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - piratska-tvrz
-- predsednictvo
-position: Místopředseda krajského sdružení
+position: Místopředseda místního sdružení
 img: people/radek-vojtek.jpg   # 165 x 220
-description: 2. místopředseda olomouckého krajského sdružení, 1. místopředseda místního sdružení Pirátská tvrz           # kratký popis, max 160 znaků
+description: 1. místopředseda místního sdružení Pirátská tvrz           # kratký popis, max 160 znaků
 mail:
 - radek.vojtek@pirati.cz 
 mob:        
@@ -15,8 +14,7 @@ profiles:
   github:                 
   facebook:       
   twitter:      
-  flickr:           
-ordpre: 3  
+  flickr:            
 ---
 Radek Vojtek pochází a žije v Brodku u Přerova. Vystudoval Obchodní akademii v Přerově.
 

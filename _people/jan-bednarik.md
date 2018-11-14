@@ -7,7 +7,7 @@ category:
 - olomouc
 position: Předseda krajského sdružení
 img: people/jan-bednarik.jpg   # 165 x 220
-description: Předseda olomouckého krajského sdružení   # kratký popis, max 160 znaků
+description: Předseda krajského sdružení Olomouckého kraje   # kratký popis, max 160 znaků
 mail: 
 - jan.bednarik@pirati.cz
 mob: 603 439 481

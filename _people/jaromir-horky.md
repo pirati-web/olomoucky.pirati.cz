@@ -4,18 +4,19 @@ name:     Jaromír Horký     # běžně používané jméno
 fullname: Jaromír Horký   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
-position: Místopředseda místního sdružení
+- predsedove-ms
+position: Předseda místního sdružení
 img: people/jaromir-horky.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 1. místopředseda přerovského místního sdružení                # kratký popis, max 160 znaků
+description: Předseda přerovského místního sdružení                # kratký popis, max 160 znaků
 mail: jaromir.horky@pirati.cz
-
 mob: 774 942 021
 profiles:
   github:
   facebook:       
   twitter:        
-  flickr:       
+  flickr:
+ordmis: 4
 ---
 Jaromír Horký (* 15. března 1998) je člen KS Olomouckého kraje a předseda MS Přerov. Jedním z hlavních příčin vstupu do Pirátské strany byl čím dál tím větší nezájem populace, a to zejména mladé části společnosti o politiku. Věří, že Pirátská strana díky svému protikorupčnímu a transparentnímu programu, který sama na sobě aplikuje, může změnit pohled lidí na politiku jako takovou. Chce se na tom podílet.
 
