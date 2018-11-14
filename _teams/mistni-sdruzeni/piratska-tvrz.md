@@ -7,7 +7,7 @@ img: teams/piratska-tvrz.jpg
 leader: radim.studeny
 deputy:
 - radek.vojtek
-- adam.slamenik
+- jan.koutny
 contact:
 - milos.zmeskal
 region: Pirátská Tvrz

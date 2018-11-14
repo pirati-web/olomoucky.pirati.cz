@@ -6,7 +6,7 @@ category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsednictvo
 position: Místopředseda krajského sdružení
 img: people/tomas-svoboda.jpg   # 165 x 220
-description: 1. místopředseda olomouckého krajského sdružení           # kratký popis, max 160 znaků
+description: 3. místopředseda krajského sdružení Olomouckého kraje           # kratký popis, max 160 znaků
 mail: tomas.svoboda@pirati.cz
 mob: 733 252 652
 profiles:
@@ -14,7 +14,7 @@ profiles:
   facebook:
   twitter:      
   flickr:
-ordpre: 2          
+ordpre: 4          
 ---
 Tomáš Svoboda je v současné době 1. místopředsedou krajského sdružení Olomouc.
 
