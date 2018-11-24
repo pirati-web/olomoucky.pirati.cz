@@ -4,6 +4,7 @@ name:     Radek Sís          # běžně používáné jméno
 fullname: Radek Sís   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
+position:
 img: people/radek-sis.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků

@@ -4,6 +4,7 @@ name:     David Bajnar          # běžně používáné jméno
 fullname: David Bajnar   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
+position:
 img: people/david-bajnar.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Registrovaný příznivce                # kratký popis, max 160 znaků

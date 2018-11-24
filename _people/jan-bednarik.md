@@ -4,7 +4,6 @@ name:     Jan Bednařík   # běžně používáné jméno
 fullname: Jan Bednařík   # jméno s tituly etc.
 category:
 - predsednictvo                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- olomouc
 position: Předseda krajského sdružení
 img: people/jan-bednarik.jpg   # 165 x 220
 description: Předseda krajského sdružení Olomouckého kraje   # kratký popis, max 160 znaků

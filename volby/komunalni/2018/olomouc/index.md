@@ -25,7 +25,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 18. **Mgr. Jiří Škarabela**, 41 let, rekreolog, manažer sportu, fotbalový trenér. Člen Komise místní části Olomouc-Slavonín, BEZPP
 19. [**Zdeněk Žák**](/lide/zdenek-zak), 41 let, vedoucí prodejny jízdních kol, Piráti
 20. **Michal Frantík**, 41 let, podnikatel, jednatel, STAN
-21. [**Zdenka Wagnerová**](/lide/zdenka-wagnerova), 66 let, analytik, administrátorka, BEZPP
+21. **Zdenka Wagnerová**, 66 let, analytik, administrátorka, BEZPP
 22. **Roman Gatěk**, 40 let, jednatel, BEZPP
 23. [**Martin Morong**](/lide/martin-morong), 25 let, student, vědec, doktorand na LF UPOL, BEZPP
 24. **Jiří Forýtek**, 35 let, lektor, STAN
@@ -37,7 +37,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 30. **Ing. Libor Pečinka**, 31 let, webový vývojář, BEZPP
 31. [**Lucie Spáčilová**](/lide/lucie-spacilova), 37 let, OSVČ - Pirátská strana, Piráti
 32. **Bc. Michal Kolesár**, 22 let, vysokoškolský student, člen studentského spolku Otevřeno, BEZPP
-33. [**Jana Jesenská**](/lide/jana-jesenska), obchodní zástupce, redaktorka magazínu Legalizace, konopná aktivistka, copywriter, BEZPP
+33. **Jana Jesenská**, obchodní zástupce, redaktorka magazínu Legalizace, konopná aktivistka, copywriter, BEZPP
 34. **Mgr. Petr Skyva**, 44 let, zástupce ředitele SŠ, BEZPP
 35. [**David Bajnar**](/lide/david-bajnar), 40 let, vedoucí centrálního skladu, BEZPP
 36. **MUDr. Jitka Moravová**, 64 let, stomatoložka, BEZPP
