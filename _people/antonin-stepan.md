@@ -4,7 +4,7 @@ name:     Antonín Štěpán   # běžně používáné jméno
 fullname: Antonín Štěpán   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - vedouci
-position: Vedoucí krajského mediálního odboru
+position: Vedoucí krajského odboru
 img: people/antonin-stepan.jpg   # 165 x 220
 description: Vedoucí krajského mediálního odboru           # kratký popis, max 160 znaků
 mail: antonin.stepan@pirati.cz

@@ -3,10 +3,10 @@ uid: tomas.karlik
 name:     Tomáš Karlík   # běžně používáné jméno
 fullname: Bc. Tomáš Karlík   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- prerov
-position: Místopředseda místního sdružení
+- 
+position: 
 img: people/tomas-karlik.jpg   # 165 x 220
-description: 1. místopředseda přerovského místního sdružení           # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje           # kratký popis, max 160 znaků
 mail: 
 - 
 mob:

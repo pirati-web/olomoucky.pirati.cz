@@ -4,6 +4,7 @@ name:     Martin Adámek          # běžně používáné jméno
 fullname: Bc. Martin Adámek   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
+position:
 img: people/martin-adamek.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků

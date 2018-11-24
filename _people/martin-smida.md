@@ -4,6 +4,7 @@ name:     Martin Šmída      		# běžně používáné jméno
 fullname: Ing. et Ing. Martin Šmída  	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
+position:
 img: people/martin-smida.jpg             # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje, zastupitel v Majetíně             		# kratký popis, max 160 znaků

@@ -4,10 +4,10 @@ cid: olomouc
 name: Olomouc
 fullname: Místní sdružení Olomouc
 img: teams/olomouc.jpg
-leader: jakub.nepejchal
+leader: hynek.melichar
 deputy:
-- jan.dvorak
-- viktor.tichak
+- jakub.nepejchal
+- lucie.spacilova
 contact:
 - milos.zmeskal
 region: Olomouc

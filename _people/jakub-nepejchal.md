@@ -4,10 +4,9 @@ name:     Jakub Nepejchal   # běžně používáné jméno
 fullname: Jakub Nepejchal   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
-- predsedove-ms
-position: Předseda místního sdružení
+position: Místopředseda místního sdružení
 img: people/jakub-nepejchal.jpg   # 165 x 220
-description: Předseda olomouckého místního sdružení           # kratký popis, max 160 znaků
+description: 1. místopředseda olomouckého místního sdružení           # kratký popis, max 160 znaků
 mail:
 - jakub.nepejchal@pirati.cz 
 mob: 608 428 080
@@ -16,7 +15,6 @@ profiles:
   facebook:       
   twitter:      
   flickr:
-ordmis: 1  
 ---
 Jakub Nepejchal (* 2. září 1987) je podruhé předsedou místního sdružení Olomouc. Byl vedoucím Personálního odboru strany a pověřeným vedoucím Personálního odboru Olomouckého kraje. Do července 2015 byl také předsedou MS Olomouc.
 
