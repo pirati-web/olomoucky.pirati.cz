@@ -6,8 +6,8 @@ fullname: Místní sdružení Šumpersko
 img: teams/sumpersko.jpg
 leader: lubomir.vlcek
 deputy:
-- marek.blaha
-- michael.smid
+- vaclav.doubrava
+- robert.srejma
 contact:
 - milos.zmeskal
 region: Šumpersko
