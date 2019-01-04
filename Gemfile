@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
 gem "jekyll", "3.4.2"
 gem "jekyll-redirect-from", "0.12.1"
