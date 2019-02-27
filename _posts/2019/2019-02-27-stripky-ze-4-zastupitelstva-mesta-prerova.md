@@ -16,9 +16,9 @@ Tiskovou zprávou jsme informovali, že hájíme zájmy občanů místní část
 
 Podařilo se nám iniciovat vznik odborné pracovní skupiny, která se na celou věc podrobně podívá a dá zastupitelstvu komplexní zprávu. Navíc o záležitosti bude napříště bude rozhodovat veřejně celé zastupitelstvo, nikoli jen rada města.
 
-„V diskuzi byl ovšem zarážející postoj některých radních, že nejsou s problematikou dostatečně seznámeni. Pokud tomu tak skutečně je, není na místě se ptát, proč tedy se zemníkem při hlasování na radě města souhlasili?“ táže se Jan Horký. Smutným faktem však zůstává, že většina koalice se zcela zdržela hlasování. Vyjadřují tak svou lhostejnost k místní části Žeravice?
+„V diskuzi byl ovšem zarážející postoj některých radních, že nejsou s problematikou dostatečně seznámeni. Pokud tomu tak skutečně je, není na místě se ptát, proč tedy se zemníkem při hlasování na radě města souhlasili?“ táže se předseda zastupitelského klubu Společně pro Přerov a Pirátů Jan Horký. Smutným faktem však zůstává, že většina koalice se zcela zdržela hlasování. Vyjadřují tak svou lhostejnost k místní části Žeravice?
 
-**Městský facebook**
+**Městský Facebook**
 
 Klub zastupitelů Společně pro Přerov a Piráti předložil také návrh na zřízení oficiálního kanálu města na Facebooku a Instagramu. Nebylo bohužel přijat ve své původní podobě, přesto se alespoň podařilo myšlenku vtěsnat do úkolu pro radní, aby se zabývali možností využívání sociálních sítí. Výsledek je zatím tedy nejistý. „Myslím si, že by měla být vůle všech zastupitelů mít ve 21. století digitálně propojenou a informovanost společnost, proto mi přijde smutné hledat výmluvy proč to nejde“, shrnul hlasování místopředseda přerovských Pirátů David Hošek.
 
