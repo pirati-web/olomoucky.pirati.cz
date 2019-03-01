@@ -14,13 +14,13 @@ Přerov, 27. 2. 2019 - Rozhodnutím vládnoucí koalice se zastupitelstva konaj�
 
 Tiskovou zprávou jsme informovali, že hájíme zájmy občanů místní části Žeravice a jsme proti vzniku zemníku tamtéž. Jde o velkou těžební jámu, která by byla zásahem do životního prostředí nejen místních, ale díky roznosu prachu také občanů Čekyně, Předmostí a dost pravděpodobně i samotného Přerova. Podrobněji o rizicích v tiskové zprávě.
 
-Podařilo se nám iniciovat vznik odborné pracovní skupiny, která se na celou věc podrobně podívá a dá zastupitelstvu komplexní zprávu. Navíc o záležitosti bude napříště bude rozhodovat veřejně celé zastupitelstvo, nikoli jen rada města.
+Podařilo se nám iniciovat vznik odborné pracovní skupiny, která se na celou věc podrobně podívá a dá zastupitelstvu komplexní zprávu. Navíc o záležitosti napříště bude rozhodovat veřejně celé zastupitelstvo, nikoli jen rada města.
 
 „V diskuzi byl ovšem zarážející postoj některých radních, že nejsou s problematikou dostatečně seznámeni. Pokud tomu tak skutečně je, není na místě se ptát, proč tedy se zemníkem při hlasování na radě města souhlasili?“ táže se předseda zastupitelského klubu Společně pro Přerov a Pirátů Jan Horký. Smutným faktem však zůstává, že většina koalice se zcela zdržela hlasování. Vyjadřují tak svou lhostejnost k místní části Žeravice?
 
 **Městský Facebook**
 
-Klub zastupitelů Společně pro Přerov a Piráti předložil také návrh na zřízení oficiálního kanálu města na Facebooku a Instagramu. Nebylo bohužel přijat ve své původní podobě, přesto se alespoň podařilo myšlenku vtěsnat do úkolu pro radní, aby se zabývali možností využívání sociálních sítí. Výsledek je zatím tedy nejistý. „Myslím si, že by měla být vůle všech zastupitelů mít ve 21. století digitálně propojenou a informovanost společnost, proto mi přijde smutné hledat výmluvy proč to nejde“, shrnul hlasování místopředseda přerovských Pirátů David Hošek.
+Klub zastupitelů Společně pro Přerov a Piráti předložil také návrh na zřízení oficiálního kanálu města na Facebooku a Instagramu. Nebylo bohužel přijat ve své původní podobě, přesto se alespoň podařilo myšlenku vtěsnat do úkolu pro radní, aby se zabývali možností využívání sociálních sítí. Výsledek je zatím tedy nejistý. „Myslím si, že by měla být vůle všech zastupitelů mít ve 21. století digitálně propojenou a informovanou společnost, proto mi přijde smutné hledat výmluvy proč to nejde“, shrnul hlasování místopředseda přerovských Pirátů David Hošek.
 
 **Počátek obnovy pasáže**
 
