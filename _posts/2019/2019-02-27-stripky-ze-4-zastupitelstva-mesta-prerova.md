@@ -10,7 +10,7 @@ image: assets/img/articles/2019/2019-02-27-stripky-ze-4-zastupitelstva-mesta-pre
 ---
 Přerov, 27. 2. 2019 - Rozhodnutím vládnoucí koalice se zastupitelstva konají pouze jednou za dva měsíce a množství bodů k projednání se tak hezky nastřádalo. Proto zmíníme jen ty nejzajímavější.
 
-**Žeravice nedáme**
+**Žeravice nedáme** 
 
 Tiskovou zprávou jsme informovali, že hájíme zájmy občanů místní části Žeravice a jsme proti vzniku zemníku tamtéž. Jde o velkou těžební jámu, která by byla zásahem do životního prostředí nejen místních, ale díky roznosu prachu také občanů Čekyně, Předmostí a dost pravděpodobně i samotného Přerova. Podrobněji o rizicích v tiskové zprávě.
 
