@@ -16,31 +16,22 @@ profiles:
   flickr:
 ordpre: 4          
 ---
-Tomáš Svoboda je v současné době 1. místopředsedou krajského sdružení Olomouc.
+Tomáš Svoboda se narodil 29. července 1973. Registrovaným příznivcem Pirátů od podzimu 2014, členem Pirátské strany od srpna 2017.
 
-Registrovaným příznivcem Pirátů od podzimu 2014, členem Pirátské strany od srpna 2017.
+Rodina pochází z Olomouce po matce a z Prahy po otci. Vyrostl v rodině dědy, lékaře v Mohelnici a  architekta, otce v Zábřeze. Má bratra a sestru. Sestra žije se svojí brazilskou manželkou v Berlíně. 
 
-Vyrostl v Mohelnici a v Zábřeze, zde má rodiče a bratra. Sestra žije v Berlíně. Později žil v Praze. 
+Tomáš přiletěl v létě 2013 do Olomouce z Londýna, odkud se po 5 letech vrátil, kvůli Zuzaně a také aby se po 25 letech vrátil zpět domů, na Moravu. V Olomouci teď společně žijí ještě s Julií (15), když zrovna Juli není v Brně na taneční konzervatoři, nebo s jejím tatínkem Danem.
 
-Tomáš přiletěl v létě 2013 do Olomouce z Londýna, odkud se nečekaně po 5 letech vrátil, kvůli Zuzaně. 
-V Olomouci teď společně žijí ještě s Julií (14), když zrovna Juli není v Brně na konzervatoři, nebo s jejím tatínkem Danem. 
+Tomáš se aktivně nevěnoval politice nikdy dříve, avšak vždy stál čelem proti nepravostem, nespravedlnosti a disfunkcím systému. Vždy mluvil otevřeně, kritizoval, ale často i otevřeně chválil a byl připraven učinit nebo podpořit změnu k lepšímu. Jak jde čas, více chápe zásadní význam jakékoliv podpory důležitých hodnot a bezvýznamnost boje proti čemukoliv. 
 
-Tomáš se aktivně nevěnoval politice nikdy dříve, avšak vždy stál čelem proti nepravostem, nespravedlnosti a disfunkcím systému. Vždy mluvil otevřeně, kritizoval, ale i otevřeně chválil a byl připraven učinit nebo podpořit změnu k lepšímu. 
+Tomáš hodně cestoval autostopem po Evropě, především směrem na jih. Španělsko, Řecko. Bavil se výtvarnými záležitostmi, grafikou, tesáním do kamene, dřeva, prací se sklem i moderními materiály v sochařství. Absolvoval (částečně) vojenskou střední školu, maturoval na pražském gymnázium, absolvoval sklářskou uměleckou průmyslovku. Materiálu se věnoval i v Londýně, v ateliéru Terryho New, tehdejšího President of the Royal British Society of Sculptors. V Londýně Tomáš i podnikal, založil home-renovation-craftwork, živnost na práce v domě a na uměleckou asistenci. To znamenalo de facto úplně cokoliv, od dřevěných podlah, opravy oken, stavební práce, restaurování a úpravy veškerých povrchů, instalace nábytku a kilometry bílých stěn. Cokoliv se dalo najít na Googlu, bylo slíbeno, provedeno a předáno klientovi s velmi dobrým výsledkem. Británie je v mnoha zásadních ohledech odlišná, postupy, materiály, etc. Také prováděl sříhání keřů, renovace trávníku, stavění plotů a mnoho dalšího. V umělecké sféře pak instalace několika výstav, např. v Design Muzeum. Tyto práce umožnily Tomášovi poznat velmi různé lidi, domy, způsoby a životy v Londýně a okolí. Mnohdy měl v kapse klíče od hned několika domů v Londýně. Velmi cenná zkušenost. Tomáš chová k Británii lásku a respekt. 
 
-Vyhrál dlouhý soudní spor (díky Ekologickému právnímu servisu) s policií ČR, 
-kdy byl za zpěv písně “A té Rehradice” v roce 2002 ve všední den 5PM po krátkém zápase sražen k zemi čtyřmi 
-ochránci pořádku na rohu Lazarské ulice, cestou do práce, nemaje u sebe OP. Později, když visel za zápěstí v cele v Krakovské, byli při jeho záchraně (donesli mu ten OP) zatčeni i jeho přítel Alexandr a partnerka Hana, 
-napadena policistkou, zveřejněno později v jakémsi Reflexu. 
+Vždy se zajímal o věci, které přesahují běžného člověka. Četl, zkoušel a učil se různé věci, od náboženství, meditací, terapeutických metod po drogy. Jednak tím řešil svoje tehdejší problémy, druhak uspokojoval zvědavost. Má rád lidi. Miluje muziku, poezii, obecně takové umění, které otevírá nové pohledy na kouzlo existence. Je zastáncem základních hodnot stojících na principech křesťanství, ctí svobodu člověka a jeho přirozenou odpovědnost vůči bohu, sobě a přírodě. 
 
-Tomáš hodně cestoval autostopem po Evropě, především směrem na jih. Španělsko, Řecko. Bavil se výtvarnými záležitostmi, grafikou, tesáním do kamene, dřeva, prací se sklem i moderními materiály v sochařství. Tomu se věnoval i v Londýně, v atelieru tehdejšího President of the Royal British Society of Sculptors. 
+K Pirátské straně se dostal zcela přirozeně. Po příjezdu do Olomouce se seznámil se skupinou lidí na přednáškách o demokracii. Později byl pozván na schůzku místního sdružení Pirátské strany. Tam viděl, že je mnoho nápadů a potřeb, ale málo těch, kdo je mohou a chtějí realizovat. Proto se zapojil, aby pomohl posílit Piráty v Olomouci a nejen tam. 
 
-Samozřejmě též pracoval, v mnoha [různých profesích](https://www.dropbox.com/s/i6rjcfo3fipwfs2/Tom%C3%A1%C5%A1%20Svoboda%20%C5%BEivotopis%202017%20VERZE2.docx?dl=0). 
+Pustil se do práce na volební kampani do Sněmovny. Po úspěchu ve volbách, kde jsme získali poslance a místopředsedu Sněmovny Vojtěcha Pikala si vzal na starost vybudování krajského Pirátského centra v Olomouci a otevření Kanceláře poslance. [Prostor](http://masparti.com/picolo-piratske-centrum-olomouc) je jednoznačně nejhezčím v republice. Velkou měrou se podílel i na kampani voleb do zastupitelstva města Olomouce.
 
-Tomáš se vždy zajímal o přesah lidského rámce. Četl a zkoušel různé věci, od meditací, terapeutických metod po drogy. Jednak tím řešil svoje tehdejší problémy, druhak uspokojoval zvědavost. Má rád lidi a život. Miluje muziku, poezii, obecně umění, ale takové, které mu otevírá nové pohledy na kouzlo existence, které splňuje jeho osobní kriteria.  
+Tomáš byl chvíli asistentem poslance Vojtěcha Pikala. Je členem krajského předsednictva. Je členem komise městské části Olomouc střed, komise pro prevenci kriminality a bezpečnost a členem dozorčí rady výstaviště Flora.
 
-K Pirátům se dostal zcela přirozeně. Po příjezdu do Olomouce se seznámil se Zdenkou Wagnerovou, ta ho pozvala na schůzku místního sdružení. Tam ho okouzlil Vojta a též Miloš. 
-Tomáš byl a je svérázný a vnímavý člověk, svobodného myšlení a velkého otevřeného srdce a intuice, v kombinaci s dobrou vůlí a odvahou i pokorou, s jistou dávkou (již zvládaného) šílenství. Taková osoba může splynout jen se sobě podobnými. 
-Mezi Piráty se Tomáš cítí dobře, svobodně a učí se od nich. A to je dobrý způsob, jak žít společně ve městě a pracovat na ideálech svobodné společnosti a vlastního štěstí.
 
-Tomáš si vzal na starost vybudování krajského Pirátského centra v Olomouci a otevření Kanceláře poslance. 
-Momentálně je asistentem poslance Bc. Vojtěcha Pikala, dočasně. 
