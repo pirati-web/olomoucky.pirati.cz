@@ -25,27 +25,3 @@ Podobných veřejnoprávních smluv bylo v letech 2016 a 2017 uzavřeno přesn�
 Bohužel výčet kontroverzních rozhodnutí prostějovského stavebního úřadu nekončí, například na konci minulého roku bylo soudem konstatováno, že vedoucí stavebního úřadu jednal nezákonně, když vydal společný souhlas pro přístavbu haly pro dalšího prostějovského podnikatele Ing. Petra Kubu.
 
 Jsme přesvědčeni, že setrvání vedoucího stavebního úřadu v Prostějově ve funkci je zcela neudržitelné. Vyzýváme proto vedení města, aby učinilo vše pro obnovu důvěry občanů v tuto velmi důležitou součást veřejné správy.
-
-Zdroje:
-
-[http://www.hanackyvecernik.cz/zpravy/prostejov/radnicni-odborarka-se-ozvala-kvuli-nizkym-platum-za-trest-ji-vzali-kompetence-a-penize-musela-i-na-koberecek](http://www.hanackyvecernik.cz/zpravy/prostejov/radnicni-odborarka-se-ozvala-kvuli-nizkym-platum-za-trest-ji-vzali-kompetence-a-penize-musela-i-na-koberecek)
-
-[http://www.hanackyvecernik.cz/zpravy/prostejov/byvala-personalistka-radnice-promluvila-kostal-i-balas-o-spatnych-platovych-tridach-vedeli](http://www.hanackyvecernik.cz/zpravy/prostejov/byvala-personalistka-radnice-promluvila-kostal-i-balas-o-spatnych-platovych-tridach-vedeli)
-
-[https://zpravy.tiscali.cz/potrestany-nemrava-urednikovi-za-sexualni-obtezovani-sebrali-cast-platu-318911](https://zpravy.tiscali.cz/potrestany-nemrava-urednikovi-za-sexualni-obtezovani-sebrali-cast-platu-318911)
-
-[http://www.hanackyvecernik.cz/spolecnost/paparazzi/vedouci-prostejovskeho-stavebniho-uradu-mel-skrin-plnou-tvrdeho-alkoholu-mame-foto](http://www.hanackyvecernik.cz/spolecnost/paparazzi/vedouci-prostejovskeho-stavebniho-uradu-mel-skrin-plnou-tvrdeho-alkoholu-mame-foto)
-
-[https://zpravy.tiscali.cz/potrestany-nemrava-urednikovi-za-sexualni-obtezovani-sebrali-cast-platu-318911](https://zpravy.tiscali.cz/potrestany-nemrava-urednikovi-za-sexualni-obtezovani-sebrali-cast-platu-318911)
-
-[https://zpravy.tiscali.cz/sexualni-obtezovani-na-stavebnim-urade-sahani-pod-sukni-i-pohrdani-zenami-316596](https://zpravy.tiscali.cz/sexualni-obtezovani-na-stavebnim-urade-sahani-pod-sukni-i-pohrdani-zenami-316596)
-
-[http://www.hanackyvecernik.cz/zpravy/prostejov/postup-prostejovskeho-stavebniho-uradu-v-kauze-novostavby-na-plumlovske-zpochybnila-i-kancelar-ombudsmanky](http://www.hanackyvecernik.cz/zpravy/prostejov/postup-prostejovskeho-stavebniho-uradu-v-kauze-novostavby-na-plumlovske-zpochybnila-i-kancelar-ombudsmanky)
-
-[https://www.idnes.cz/olomouc/zpravy/prostejov-plumlov-vypadovka-sousede-ombudsman-ministerstvo-pro-mistni-rozvoj-tomas-pour.A190215_457853_olomouc-zpravy_mip](https://www.idnes.cz/olomouc/zpravy/prostejov-plumlov-vypadovka-sousede-ombudsman-ministerstvo-pro-mistni-rozvoj-tomas-pour.A190215_457853_olomouc-zpravy_mip)
-
-[https://zpravy.tiscali.cz/neprustrelny-urednik-drzi-si-zidli-navzdory-cetnym-prusvihum-323531](https://zpravy.tiscali.cz/neprustrelny-urednik-drzi-si-zidli-navzdory-cetnym-prusvihum-323531)
-
-[https://www.idnes.cz/olomouc/zpravy/strelnice-koberice-ombudsman-prostejov-stavebni-urad-tomas-fiala-gibs-stanislav-krecek.A190325_466005_olomouc-zpravy_mip](https://www.idnes.cz/olomouc/zpravy/strelnice-koberice-ombudsman-prostejov-stavebni-urad-tomas-fiala-gibs-stanislav-krecek.A190325_466005_olomouc-zpravy_mip)
-
-[Protokol o kontrole Magistrátu města Prostějova (PDF ke stažení)](http://udeska.kr-olomoucky.cz/soubor.php?ude=ude&id=KUOL0B2JWD0C-0-KUOL0B2JWD5N&dok=KUOL0B2JWD0C-0)
