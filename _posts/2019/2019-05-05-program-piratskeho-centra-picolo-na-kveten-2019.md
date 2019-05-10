@@ -8,7 +8,7 @@ tags:
 author: Mediální odbor
 image: assets/img/articles/2019/2019-05-05-program-piratskeho-centra-picolo-na-kveten-2019.jpg  #751x422 pixelu
 ---
-Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5, v měsíci květen 2019.
+Olomouc, 5. 5. 2019 - Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5, v měsíci květen 2019.
 
 * **Jak funguje Evropská unie: Fakta vs. mýty**  
 *Úterý 7. května 2019 18:00–20:00*  
