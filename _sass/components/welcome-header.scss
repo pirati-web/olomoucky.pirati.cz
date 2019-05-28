@@ -1,9 +1,9 @@
 .c-welcome-header {  
-  /* height: 350px; */
-  height: 400px;
+  height: 350px;
+  /* height: 400px; */
   position: relative;
-  /* background: url('../img/header/banner-1366x400.jpg') no-repeat; */
-  background: url('../img/header/eurovolby-2019-banner-1366x400.jpg') no-repeat;
+  background: url('../img/header/banner-1366x400.jpg') no-repeat;
+  /* background: url('../img/header/eurovolby-2019-banner-1366x400.jpg') no-repeat; */
   background-size: auto;
   background-position: center 70%;
   overflow: hidden;
@@ -13,16 +13,16 @@
   }
 
   @include breakpoint(medium down) {    
-    /* background: url('../img/header/banner-1080x1365-mobile.jpg') no-repeat; */
-    background: url('../img/header/eurovolby-2019-banner-1080x1365-mobile.jpg') no-repeat;
+    background: url('../img/header/banner-1080x1365-mobile.jpg') no-repeat;
+    /* background: url('../img/header/eurovolby-2019-banner-1080x1365-mobile.jpg') no-repeat; */
     height: 800px; /*pokud je fotka tak vyska musi byt tak aby byla na hornim kraji pri velikosti 640 */    
     background-size: 100%;
     background-position: 20% 70%;
   }
 
   @include breakpoint(640px down) {
-    /* background: url('../img/header/banner-432x1240-mobile.jpg') no-repeat;  */  
-    background: url('../img/header/eurovolby-2019-banner-432x1240-mobile.jpg') no-repeat;    
+    background: url('../img/header/banner-432x1240-mobile.jpg') no-repeat; 
+    /* background: url('../img/header/eurovolby-2019-banner-432x1240-mobile.jpg') no-repeat;    */
     height: 800px; /*pokud je fotka tak vyska musi byt tak aby byla na hornim kraji pri velikosti 312 */    
     background-size: 100%;
     background-position: 27% 85%;
