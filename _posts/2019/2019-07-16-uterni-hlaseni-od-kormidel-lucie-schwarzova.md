@@ -8,9 +8,9 @@ tags:
 author: Antonín Štěpán
 image: assets/img/articles/2019/2019-07-16-uterni-hlaseni-od-kormidel-lucie-schwarzova.jpg  #751x422 pixelu
 ---
-Úterní hlášení od kormidel. Tak se jmenuje nový seriál rozhovorů s našimi lidmi v Olomouckém kraji. Každé úterý vám budeme přinášet zajímavé rozhovory s lidmi, kteří jsou součástí Pirátské strany.
+Úterní hlášení od kormidel. Tak se jmenuje nový seriál rozhovorů s našimi členy a zastupiteli v Olomouckém kraji. Každé úterý vám budeme přinášet zajímavé rozhovory s lidmi, kteří jsou součástí Pirátské strany.
 
-*Dnes jsme jsme vyzpovídali Lucii Schwarzovou z Lipníku na Bečvou.*
+*Dnes jsme vyzpovídali Lucii Schwarzovou z Lipníku na Bečvou.*
 
 **Lucie, řekni nám něco o sobě.**
 
