@@ -4,9 +4,9 @@ cid: hranicko
 name: Hranicko
 fullname: Místní sdružení Hranicko
 img: teams/hranicko.jpg
-leader: hynek.kliment
+leader: lucie.schwarzova
 deputy:
-- lucie.schwarzova
+- lukas.peklansky
 - alena.dvorakova
 contact:
 - milos.zmeskal

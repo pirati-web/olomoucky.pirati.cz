@@ -4,10 +4,9 @@ name:     Hynek Kliment   # běžně používáné jméno
 fullname: Hynek Kliment   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - hranicko
-- predsedove-ms
-position: Předseda místního sdružení
+position: 
 img: people/hynek-kliment.jpg   # 165 x 220
-description: Předseda místního sdružení Hranicko          # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje          # kratký popis, max 160 znaků
 mail: 
 mob: 
 profiles:
@@ -15,7 +14,6 @@ profiles:
   facebook:
   twitter:      
   flickr:
-ordmis: 5
 ---
 Hynek Kliment (* 3.listopadu 1965) je členem pirátské strany od března 2018. Od května 2018 je předsedou MS Hranicko.
 
