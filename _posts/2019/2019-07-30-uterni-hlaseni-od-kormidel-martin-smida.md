@@ -30,7 +30,7 @@ Majetín má lehce přes 1000 obyvatel, takže si udržuje takovou moravskou ven
 
 ![Martin Šmída](/assets/img/miscellaneous/uterni-hlaseni-od-kormidel-martin-smida-2.jpg) 
 
-**Jak se změnil Tvůj život poté, co jsi se zastupitelem města? (pro zasatupitele)**
+**Jak se změnil Tvůj život poté, co jsi se stal zastupitelem?**
 
 Vlastně nijak zvlášť. Zajímal jsem se o veřejné dění i předtím. Otec i matka byli v různých dobách místostarosty obce, takže se komunální politika v rodině přirozeně probírala. Osobně jsem se snažil i po zvolení do zastupitelské funkci nijak zvlášť neproměnit. Pořád chodím se stejnými kamarády na pivo nebo na nohejbal. Jen se mi víc stává, že za mnou lidé chodí se svými problémy či náměty, což jsem ale rád, protože věřím, že by zastupitel s těmi které zastupuje, měl být v co nejužším kontaktu. V komunální politice to jde snadno, v těch vyšších patrech je to asi těžší, ale princip by měl zůstat stejný.
 
