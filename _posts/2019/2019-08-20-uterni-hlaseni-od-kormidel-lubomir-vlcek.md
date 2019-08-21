@@ -14,7 +14,7 @@ image: assets/img/articles/2019/2019-08-20-uterni-hlaseni-od-kormidel-lubomir-vl
 
 **Řekni nám něco o sobě.**
 
-Letos jsem oslavil kulaté 40. narozeniny. Po celou dobu žiji v podhůří Jeseníků, v její bráně, městu plném zeleně, městě s obrovským potenciálem a to v Šumperku. Z klidným srdcem o sobě prohlašuji, že jsem velmi silným patriotem a na toto město nedám dopustit. Vzděláním jsem strojař a ajťák, v současné době pracuji v nadnárodní společnosti, v oblasti lisoplastařství. Od roku 2006 jsem ženatý a od roku 2016 hrdým otcem nádherné dcery. Mezi mé záliby řadím mimo rodiny, která je pro mne vždy na prvním místě, silniční cyklistiku. S fyzickým vypětím, kterým vždy dokončuji své vyjížďky, dokonale odfiltruji problémy všedních dnů …
+Letos jsem oslavil kulaté 40. narozeniny. Po celou dobu žiji v podhůří Jeseníků, v její bráně, městu plném zeleně, městě s obrovským potenciálem a to v Šumperku. S klidným srdcem o sobě prohlašuji, že jsem velmi silným patriotem a na toto město nedám dopustit. Vzděláním jsem strojař a ajťák, v současné době pracuji v nadnárodní společnosti, v oblasti lisoplastařství. Od roku 2006 jsem ženatý a od roku 2016 hrdým otcem nádherné dcery. Mezi mé záliby řadím mimo rodiny, která je pro mne vždy na prvním místě, silniční cyklistiku. S fyzickým vypětím, kterým vždy dokončuji své vyjížďky, dokonale odfiltruji problémy všedních dnů …
 
 ![Lubomír Vlček](/assets/img/miscellaneous/uterni-hlaseni-od-kormidel-lubomir-vlcek-1.jpg)
 
@@ -30,7 +30,7 @@ Jak jinak, jsem tu šťastný! Naše země se může chlubit krásnou přírodou
 
 **Jak se změnil Tvůj život od vstupu do Pirátské strany?**
 
-Vstupem do Pirátské strany jsem dosáhl svého cíle, být u toho, když zdravý rozum, cit pro výsledek, nezkroucená fakta a přirozeně lidsky podaná politika začne oslovovat širokou masu lidí. Pirátská strana je nyní faktickým lídrem pro liberálně smýšlející lidi, kteří nepodléhají dezinformacím a aktivně se zapojují do formování občanského soužití. Je složité opustit svou komfortní zónu a postavit se do čela těchto lidí a i formálně vstoupit do podvědomí svého okolí se zprávou: „Jsem hrdý Pirát a jsem tu pro vás!“ Já to udělal a nadále budu vykonávat službu lidem kolem sebe. Jakkoliv to bude těžké, dal jsem se na cestu, kterou vnímám jako tu jedinou a správnou. Pod vlajkou Pirátů mám však jistotu zázemí a podpory stejně smýšlejících lidí, za což mnohokrát děkuji a vzkazuji: „Férově a na rovinu!“
+Vstupem do Pirátské strany jsem dosáhl svého cíle, být u toho, když zdravý rozum, cit pro výsledek, nezkroucená fakta a přirozeně lidsky podaná politika začne oslovovat širokou masu lidí. Pirátská strana je nyní faktickým lídrem pro liberálně smýšlející lidi, kteří nepodléhají dezinformacím a aktivně se zapojují do formování občanského soužití. Je složité opustit svou komfortní zónu a postavit se do čela těchto lidí a i formálně vstoupit do podvědomí svého okolí se zprávou: „Jsem hrdý Pirát a jsem tu pro vás!“ Já to udělal a nadále budu vykonávat službu lidem kolem sebe. Jakkoliv to bude těžké, dal jsem se na cestu, kterou vnímám jako tu jedinou a správnou. Pod vlajkou Pirátů mám však jistotu zázemí a podpory stejně smýšlejících lidí, za což mnohokrát děkuji a vzkazuji: „Férově a narovinu!“
 
 **Na čem zrovna pracuješ? Co se zatím podařilo dotáhnout do konce?**
 
