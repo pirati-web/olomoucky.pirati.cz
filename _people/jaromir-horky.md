@@ -18,23 +18,24 @@ profiles:
   flickr:
 ordmis: 4
 ---
-Jaromír Horký (* 15. března 1998) je člen KS Olomouckého kraje a předseda MS Přerov. Jedním z hlavních příčin vstupu do Pirátské strany byl čím dál tím větší nezájem populace, a to zejména mladé části společnosti o politiku. Věří, že Pirátská strana díky svému protikorupčnímu a transparentnímu programu, který sama na sobě aplikuje, může změnit pohled lidí na politiku jako takovou. Chce se na tom podílet.
+Jaromír Horký (* 15. března 1998) je člen KS Olomouckého kraje a předseda MS Přerov. Pracuje jako krajská mediální spojka Pirátů Zlínského kraje. Jedním z hlavních příčin vstupu do Pirátské strany byl čím dál tím větší nezájem populace, a to zejména mladé části společnosti o politiku. Věří, že Pirátská strana díky svému protikorupčnímu a transparentnímu programu, který sama na sobě aplikuje, může změnit pohled lidí na politiku jako takovou. Chce se na tom podílet.
 
-Je studentem Právnické fakulty Masarykovy Univerzity v Brně, ale zejména je to hrdý přerovák, kterému není Přerov lhostejný, ba naopak! Snaží se vnést do města pohled mladého člověka s rozhledem, který se rád inspiruje různě po Česku nebo v zahraničí. I proto chce usilovat o zavedení Participativního rozpočtu jak pro město, tak i do základních škol.
+Studuje právo na Právnické fakultě Masarykovy univerzity a teorii interaktivních médií na Filozofické fakultě na téže univerzitě. Je hrdý přerovák, kterému není Přerov lhostejný, ba naopak! Snaží se vnést do města pohled mladého člověka s rozhledem, který se rád inspiruje různě po Česku nebo v zahraničí. 
 
-V Přerově úzce spolupracuje s komunálním sdružením [Společně pro Přerov a Piráti](https://www.facebook.com/spolecneproprerov/090), pod jehož vlajkou kandidoval v komunálních volbách 2018. 
+V Přerově úzce spolupracuje s komunálním sdružením [Společně pro Přerov a Piráti](https://www.facebook.com/spolecneproprerov/090), pod jehož vlajkou kandidoval v komunálních volbách 2018. 
 
-Další činnost:
+*Další činnost:*
 
-Je organizátorem akcí „Buď aktivní pro Přerov“ – úklidy a jiné prospěšné činnosti pro Přerov. „Živá ulice“- [https://olomoucky.pirati.cz/tiskove-zpravy/v-prerove-ozila-wilsonova-ulice.html](https://olomoucky.pirati.cz/tiskove-zpravy/v-prerove-ozila-wilsonova-ulice.html)  
-Také se věnuje osvětě politiky mezi studenty prostřednictvím aktivních besed a svůj volný čas rád tráví cestováním nebo v přírodě.
+Od jeho vstupu do strany uspořádal s pomocí dalších členů již 6 úklidových akcí, sametový hospodský kvíz, [hudební festival VyOsení](https://www.facebook.com/Prerovsko/photos/?tab=album&album_id=2001702189931162), 2 ročníky benefičních koncertů Živá ulice nebo například [dětský den na laguně v Přerově](https://olomoucky.pirati.cz/tiskove-zpravy/v-prerove-se-o-vikendu-deti-vydaly-po-stopach-piratskeho-pokladu.html).
 
-Další zájmy:
+I když nebyl zvolen zastupitelem města, tak pomáhá týmu zastupitelů s přípravou materiálů na Zastupitelstvo a jejich prostřednictvím se snaží pirátský program, ať už je to například zákaz užívání glyfosátu ve městě, zavedení participativního rozpočtu, zřízení biotopu na laguně nebo spuštění oficiálních sociálních sítí města. 
 
-Po roční pauze opět hraje 1. ligu v házené za Velkou Bystřici, miluje cestování a poznávání zajímavých míst a lidí. Také rád fotografuje či se učí novým věcem.  
-Jeho motto je jasné – Nejlepší způsob, jak dosáhnout cíle je začít. Proto jde do všeho naplno
+Věnuje se také osvětě politiky mezi studenty prostřednictvím aktivních besed. 
 
-Články:
+*Další zájmy:*
 
-[https://olomoucky.pirati.cz/tiskove-zpravy/deni-ve-meste-prerov-a-komunikace-mesta-s-obcany.html](https://olomoucky.pirati.cz/tiskove-zpravy/deni-ve-meste-prerov-a-komunikace-mesta-s-obcany.html)  
-8Values - [https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=56.1&d=72.9&g=77.3&s=81.7](https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=56.1&d=72.9&g=77.3&s=81.7)
+Kvůli zranění jsem musel skončit s házenou, avšak sportu se snažím věnovat i nadále. Miluje cestování a poznávání zajímavých míst a lidí. Také rád fotografuje či se učí novým věcem.
+
+Jeho motto je jasné – Nejlepší způsob, jak dosáhnout cíle je začít. Proto jde do všeho naplno.
+
+[8Values](https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=56.1&d=72.9&g=77.3&s=81.7)
