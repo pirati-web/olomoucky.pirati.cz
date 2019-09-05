@@ -20,7 +20,7 @@ Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v
 *Středa 18. září 2019 19:00–22:00*  
 Neformální setkání vaperů s pát tipy pro začínající i pokročilé vapery.
 
-* **Jan Lipavský-Ondřej Kučera**  
+* **Jan Lipavský-Ondřej Kučera: Čínský vliv v České republice a Evropě**  
 *Pondělí 23. září 2019 18:00–21:00*  
 Moderovaná debata s místopředsedou zahraničního výboru a výboru pro obranu Poslanecké sněmovny Parlamentu České republiky za Českou pirátskou stranu Janem Lipavským a se zástupcem Univerzity Palackého (UP) Mgr. Ondřejem Kučerou Ph.D., vedoucím čínské sekce na Katedře asijských studií. Debata bude moderována Mgr. Hynkem Melicharem Ph.D. vyučujícím na Katedře politologie a evropských studií UP a odborníkem na mezinárodní bezpečnost a řešení konfliktů.
 
