@@ -28,7 +28,7 @@ V Přerově úzce spolupracuje s komunálním sdružením [Společně pro Přer
 
 Od jeho vstupu do strany uspořádal s pomocí dalších členů již 6 úklidových akcí, sametový hospodský kvíz, [hudební festival VyOsení](https://www.facebook.com/Prerovsko/photos/?tab=album&album_id=2001702189931162), 2 ročníky benefičních koncertů Živá ulice nebo například [dětský den na laguně v Přerově](https://olomoucky.pirati.cz/tiskove-zpravy/v-prerove-se-o-vikendu-deti-vydaly-po-stopach-piratskeho-pokladu.html).
 
-I když nebyl zvolen zastupitelem města, tak pomáhá týmu zastupitelů s přípravou materiálů na Zastupitelstvo a jejich prostřednictvím se snaží pirátský program, ať už je to například zákaz užívání glyfosátu ve městě, zavedení participativního rozpočtu, zřízení biotopu na laguně nebo spuštění oficiálních sociálních sítí města. 
+I když nebyl zvolen zastupitelem města, tak pomáhá týmu zastupitelů s přípravou materiálů na Zastupitelstvo a jejich prostřednictvím se snaží plnit pirátský program, ať už je to například zákaz užívání glyfosátu ve městě, zavedení participativního rozpočtu, zřízení biotopu na laguně nebo spuštění oficiálních sociálních sítí města. 
 
 Věnuje se také osvětě politiky mezi studenty prostřednictvím aktivních besed. 
 
