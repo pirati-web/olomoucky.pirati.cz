@@ -24,7 +24,7 @@ V rodném městě pracoval ve firmě TES (dříve MEZ) Vsetín jako seřizovač 
 
 V současnosti pracuje jako servisní elektrotechnik ve firmě EMOS.
 
-Angažuje se v hnutí, které upozorňuje na nesrovnalosti oficiální verze útoků z 11. září 2001, a to zejména ve vztahu k médiím, především veřejnoprávním. Během těchto aktivit zjistil, že v České republice, navzdory existenci Zákona o ČT, prakticky není možné pohnat Českou televizi k odpovědnosti za obsah vysílání. Pirátům, kteří se ve své politice hodlají řídit fakty, tak stále připomíná, že existují i fakta, která se jim líbit nebo jim "hrát do karet".  
+Angažuje se v hnutí, které upozorňuje na nesrovnalosti oficiální verze útoků z 11. září 2001, a to zejména ve vztahu k médiím, především veřejnoprávní České televizi. Během těchto aktivit zjistil, že v České republice, navzdory existenci Zákona o ČT, prakticky není možné pohnat Českou televizi k odpovědnosti za obsah vysílání. Pirátům, kteří se ve své politice hodlají řídit fakty, tak stále připomíná, že existují i fakta, která se jim nemusejí líbit nebo jim "hrát do karet".  
 
 Fanatický zastánce a uživatel opensource softwaru, pěšák v operaci [Hrajeme svobodnou hudbu](https://wiki.pirati.cz/hudba/start), která má osvobodit provozovatele od výpalného OSA, Intergramu či OAZA, autor návodu [pro distribuci svobodné hudby](https://wiki.pirati.cz/hudba/distribuce), amatérský fotomontér v GIMPu a spolupořadatel Prvního přerovského Vyosení.
 
