@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Místopředseda místního sdružení
 img: people/david-hosek.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 2. místopředseda přerovského místního sdružení                # kratký popis, max 160 znaků
+description: 2. místopředseda místního sdružení Přerov                # kratký popis, max 160 znaků
 mail:
 - 
 mob:         

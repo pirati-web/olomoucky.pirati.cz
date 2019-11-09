@@ -6,7 +6,7 @@ category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
 position: Místopředseda místního sdružení
 img: people/jakub-nepejchal.jpg   # 165 x 220
-description: 1. místopředseda olomouckého místního sdružení           # kratký popis, max 160 znaků
+description: 1. místopředseda místního sdružení Olomouc           # kratký popis, max 160 znaků
 mail:
 - jakub.nepejchal@pirati.cz 
 mob: 608 428 080
