@@ -9,7 +9,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Předseda místního sdružení
 img: people/hynek-melichar.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Předseda olomouckého místního sdružení, zastupitel v Olomouci                # kratký popis, max 160 znaků
+description: Předseda místního sdružení Olomouc, zastupitel v Olomouci                # kratký popis, max 160 znaků
 mail:
 - hynek.melichar@pirati.cz
 mob:         

@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Místopředseda místního sdružení
 img: people/lucie-spacilova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 2. místopředsedkyně olomouckého místního sdružení                # kratký popis, max 160 znaků
+description: 2. místopředsedkyně místního sdružení Olomouc                # kratký popis, max 160 znaků
 mail:
 - lucie.spacilova@pirati.cz
 mob:         
