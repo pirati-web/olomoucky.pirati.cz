@@ -3,10 +3,10 @@ uid: jan.bednarik
 name:     Jan Bednařík   # běžně používáné jméno
 fullname: Jan Bednařík   # jméno s tituly etc.
 category:
-- predsednictvo                   # kategorie: rp, praha, vary, hradec, jmk, senat
-position: Předseda krajského sdružení
+-                   # kategorie: rp, praha, vary, hradec, jmk, senat
+position:
 img: people/jan-bednarik.jpg   # 165 x 220
-description: Předseda krajského sdružení Olomouckého kraje   # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje   # kratký popis, max 160 znaků
 mail: 
 - jan.bednarik@pirati.cz
 mob: 603 439 481
@@ -14,7 +14,6 @@ profiles:
   github: https://github.com/JanBednarik
   facebook: https://www.facebook.com/jan.bednarik
   twitter: https://twitter.com/janbednarik
-ordpre: 1  
 ---
 Jan Bednařík (* 10. března 1986) je předsedou krajského sdružení Olomouckého kraje. Pochází z Olomouce, kde také žije.
 
