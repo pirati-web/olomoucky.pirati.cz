@@ -5,10 +5,10 @@ fullname: Mgr. Viktor Tichák   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - predsednictvo
-position: Místopředseda krajského sdružení
+position: Předseda krajského sdružení
 img: people/viktor-tichak.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 2. místopředseda krajského sdružení Olomouckého kraje, zastupitel v Olomouci                # kratký popis, max 160 znaků
+description: Předseda krajského sdružení Olomouckého kraje, zastupitel v Olomouci                # kratký popis, max 160 znaků
 mail:
 - viktor.tichak@pirati.cz
 mob:         
@@ -18,7 +18,7 @@ profiles:
   twitter:        
   flickr:       
 ordzas: 5
-ordpre: 3
+ordpre: 1
 ---
 Mgr. Viktor Tichák (* 12. ledna 1990) je členem MS Olomouc od r. 2018. Narodil se v Olomouci, žije v Olomouci a Ostravě.
 

@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - predsednictvo
 position: Místopředseda krajského sdružení
 img: people/petr-kapounek.jpg   # 165 x 220
-description: 1. místopředseda krajského sdružení Olomouckého kraje, zastupitel v Prostějově          	# kratký popis, max 160 znaků
+description: 2. místopředseda krajského sdružení Olomouckého kraje, zastupitel v Prostějově          	# kratký popis, max 160 znaků
 mail:
 - petr.kapounek@pirati.cz
 mob:			  
@@ -18,7 +18,7 @@ profiles:
   twitter: 		  
   flickr:
 ordzas: 1
-ordpre: 2    		  
+ordpre: 3    		  
 ---
 Petr Kapounek (* 9. prosince 1986, Prostějov) je zastupitel v Prostějově, člen komise IT a Smart city v Prostějově a komise IT na Olomouckém kraji. Je také lídrem kandidátky do krajských voleb 2020 za KS Olomoucký kraj. Vystudoval Střední průmyslovou školu elektrotechnickou. Pracuje jako projektový manažer v telekomunikační společnosti.
 

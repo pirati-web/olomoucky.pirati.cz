@@ -3,18 +3,17 @@ uid: tomas.svoboda
 name:     Tomáš Svoboda   # běžně používáné jméno
 fullname: Tomáš Svoboda   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- predsednictvo
+- 
 position: Místopředseda krajského sdružení
 img: people/tomas-svoboda.jpg   # 165 x 220
-description: 3. místopředseda krajského sdružení Olomouckého kraje           # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje           # kratký popis, max 160 znaků
 mail: tomas.svoboda@pirati.cz
 mob: 733 252 652
 profiles:
   github:                 
   facebook:
   twitter:      
-  flickr:
-ordpre: 4          
+  flickr:          
 ---
 Tomáš Svoboda se narodil 29. července 1973. Registrovaným příznivcem Pirátů od podzimu 2014, členem Pirátské strany od srpna 2017.
 

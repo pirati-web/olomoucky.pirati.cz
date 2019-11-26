@@ -22,7 +22,7 @@ Byl registrovaný příznivec Pirátů a místního sdružení Pirátská Tvrz (
 
 Stal se lídrem kandidátky České pirátské strany do komunálních voleb 2014 v Brodku u Přerova, jako kandidát bez politické příslušnosti. V roce 2016 kandidoval za Piráty do krajských voleb, taktéž jako kandidát bez politické příslušnosti.
 
-Od dubna 2017 se stal členem Pirátské strany a zároveň 1. místopředsedou místního sdružení Pirátská Tvrz. V říjnu 2017 kandidoval za Piráty do parlamentních voleb na kandidátce v Olomouckém kraji. Od prosince 2017 do listopadu 2018 byl místopředsedou krajského sdružení Olomouckého kraje. Pro komunální volby 2018 se opět stává lídrem kandidátky České pirátské strany v Brodku u Přerova. V listopadu 2018 obhajuje post 1. místopředsedy místního sdružení Pirátská Tvrz
+Od dubna 2017 se stal členem Pirátské strany a zároveň 1. místopředsedou místního sdružení Pirátská Tvrz. V říjnu 2017 kandidoval za Piráty do parlamentních voleb na kandidátce v Olomouckém kraji. Od prosince 2017 do listopadu 2018 byl místopředsedou krajského sdružení Olomouckého kraje. Pro komunální volby 2018 se opět stává lídrem kandidátky České pirátské strany v Brodku u Přerova. V listopadu 2018 obhajuje post 1. místopředsedy místního sdružení Pirátská Tvrz. Je členem Sportovně-kulturní komise v městysi Brodek u Přerova.
 
 Je aktivním občanem, hraje výkonnostně fotbal, kde je také vedoucím a kapitánem klubu. Dále je mj. redaktorem hudebního magazínu, spolupořádá koncerty (např. už tři ročníky VyOsení v Brodku u Přerova) a další kulturní a sportovní akce.
 
