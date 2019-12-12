@@ -12,7 +12,7 @@ Demokracie zažívá těžké časy. Aby mohla uspět, nepotřebuje spasitele a 
 
 **Jak přispět:**
 
-Nejlepším způsobem darování je převod přímo na transparentní účet. Veškeré platby převodem je dle zákona nutné zasílat na zvláštní účet Pirátů č. **2100048174/2010** (Fio banka), registrovaný u ÚDHPSH, se specifickým symbolem **130300**.
+Nejlepším způsobem darování je převod přímo na transparentní účet. Veškeré platby převodem je dle zákona nutné zasílat na zvláštní účet Pirátů č. **2100048174/2010** (Fio banka), registrovaný u ÚDHPSH, se specifickým symbolem **110300**.
 
 Pokud jste fyzická osoba nepodnikatel prosíme vás o uvedení **jména, příjmení, data narození a obce trvalého bydliště**. Pakliže jste podnikatel či právnická osoba uveďte název firmy nebo IČO. POZOR! **Při neuvedení** těchto **údajů** jsme povinni váš dar **převést státu!**
 
