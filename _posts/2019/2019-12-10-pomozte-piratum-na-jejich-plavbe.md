@@ -17,3 +17,5 @@ Nejlepším způsobem darování je převod přímo na transparentní účet. Ve
 Pokud jste fyzická osoba nepodnikatel prosíme vás o uvedení **jména, příjmení, data narození a obce trvalého bydliště**. Pakliže jste podnikatel či právnická osoba uveďte název firmy nebo IČO. POZOR! **Při neuvedení** těchto **údajů** jsme povinni váš dar **převést státu!**
 
 Dar přesahující 1000 Kč můžeme přijmout pouze na základě písemné darovací smlouvy. V takovém případě, prosím, zašlete vaše údaje na [viktor.tichak@pirati.cz](viktor.tichak@pirati.cz) a my vám nejprve pošleme návrh darovací smlouvy.
+
+Více informací o tom jak s námi můžete spolupracovat najdete na webových stránkách [https://nalodeni.pirati.cz/](https://nalodeni.pirati.cz/)
