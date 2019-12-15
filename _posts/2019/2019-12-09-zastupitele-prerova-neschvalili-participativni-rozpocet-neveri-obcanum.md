@@ -8,7 +8,7 @@ tags:
 author: Jaromír Horký
 image: assets/img/articles/2019/2019-12-09-zastupitele-prerova-neschvalili-participativni-rozpocet-neveri-obcanum.jpg  #751x422 pixelu
 ---
-Přerov, 9.12.2019 - Již podruhé se zastupitelé města Přerova zabývali na návrh Společně pro Přerov a Pirátů možností zapojení občanů do rozhodování prostřednictvím participativního rozpočtu. Koaliční zastupitelé však byli proti. Zřejmě nevěří nápadům občanů a nechtějí si nechat mluvit do své práce. “Alibismus některých zastupitelů nezná mezí, před volbami prohlašují, jak chtějí své voliče vtáhnout do rozhodování, ale jakmile se objeví návrh, který by to umožňoval, dávají ruce od svých slibů pryč,” říká Jan Horký, lídr opozice.
+Přerov, 9. 12. 2019 - Již podruhé se zastupitelé města Přerova zabývali na návrh Společně pro Přerov a Pirátů možností zapojení občanů do rozhodování prostřednictvím participativního rozpočtu. Koaliční zastupitelé však byli proti. Zřejmě nevěří nápadům občanů a nechtějí si nechat mluvit do své práce. “Alibismus některých zastupitelů nezná mezí, před volbami prohlašují, jak chtějí své voliče vtáhnout do rozhodování, ale jakmile se objeví návrh, který by to umožňoval, dávají ruce od svých slibů pryč,” říká Jan Horký, lídr opozice.
 
 Přitáhnout občany zpět k zájmu o své město, možnost navrhovat a rozhodovat o projektech ve svém okolí a přiblížit město občanům. K tomu měl sloužit participativní rozpočet, který Společně pro Přerov a Piráti navrhli.
 

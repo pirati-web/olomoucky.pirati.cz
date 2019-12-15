@@ -9,7 +9,7 @@ author: Antonín Štěpán
 image: assets/img/articles/2019/2019-12-13-pirati-a-starostove-nepodporili-navrh-rozpoctu-na-rok-2020.jpg  #751x422 pixelu
 ---
 
-Olomouc, 13.12.2019 - Zastupitelstvo města Olomouce dnes schvalovalo návrh rozpočtu města na rok 2020. Piráti a Starostové tento rozpočet nepodpořili, protože je špatně připravený, je šitý horkou jehlou a je navázán na populistické kroky: Koalice plní programové prohlášení, přitom ale na konci svého vládnutí zanechá město v zuboženém stavu.
+Olomouc, 13. 12. 2019 - Zastupitelstvo města Olomouce dnes schvalovalo návrh rozpočtu města na rok 2020. Piráti a Starostové tento rozpočet nepodpořili, protože je špatně připravený, je šitý horkou jehlou a je navázán na populistické kroky: Koalice plní programové prohlášení, přitom ale na konci svého vládnutí zanechá město v zuboženém stavu.
 
 “Pokud chce Rada města investovat, musí se naučit i šetřit,” říká předseda zastupitelského klubu Pirátů a Starostů a také Finančního výboru zastupitelstva Viktor Tichák (Piráti) a dodává: “Město zrealizuje v r. 2020 investice za 564 mil. Kč. Mimo jiné to ale znamená, že pro rok 2023 zbude na investice přesně 0,- Kč, což rada neskrytě přiznává ve výhledu na příští roky.”
 

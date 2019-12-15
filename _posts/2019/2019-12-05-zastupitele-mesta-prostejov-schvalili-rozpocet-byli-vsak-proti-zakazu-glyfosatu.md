@@ -8,7 +8,7 @@ tags:
 author: Mediální odbor
 image: assets/img/articles/2019/2019-12-05-zastupitele-mesta-prostejov-schvalili-rozpocet-byli-vsak-proti-zakazu-glyfosatu.jpg  #751x422 pixelu
 ---
-Prostějov, 5.12.2019 - Při jednání na zastupitelstvu padla od Pirátů jak podpora tak i objektivní kritika.
+Prostějov, 5. 12. 2019 - Při jednání na zastupitelstvu padla od Pirátů jak podpora tak i objektivní kritika.
 
 Piráti podpořili rozpočet města Prostějova na rok 2020. Důvod podpory byl, že pirátští zastupitelé dostali možnost se k němu včas vyjádřit a byly zapracovány některé požadavky, či korigovány některé problematické investice. Neméně důležitý fakt je, že rozpočet, ač se jeví na první pohled deficitně a počítá s krytím deficitu z finančních rezerv města, s největší pravděpodobností bude naplněn jako vyrovnaný nebo s minimálním schodkem či přebytkem. Při projednávání rozpočtu však vyvstalo několik dalších témat.
 

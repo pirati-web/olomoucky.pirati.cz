@@ -8,7 +8,7 @@ tags:
 author: Mediální odbor
 image: assets/img/articles/2019/2019-11-26-pirati-si-v-olomouckem-kraji-zvolili-nove-predsednictvo.jpg  #751x422 pixelu
 ---
-Olomouc, 26.11.2019 - Členská základna Pirátů Olomouckého kraje si prostřednictvím internetového hlasování zvolila nové krajské předsednictvo. Předsedou se nově stal Viktor Tichák z Olomouce. Místopředsedy byli zvoleni Jaromír Horký z Přerova a Petr Kapounek z Prostějova. Nové předsednictvo nyní především provede sdružení volbami do krajského zastupitelstva.
+Olomouc, 26. 11. 2019 - Členská základna Pirátů Olomouckého kraje si prostřednictvím internetového hlasování zvolila nové krajské předsednictvo. Předsedou se nově stal Viktor Tichák z Olomouce. Místopředsedy byli zvoleni Jaromír Horký z Přerova a Petr Kapounek z Prostějova. Nové předsednictvo nyní především provede sdružení volbami do krajského zastupitelstva.
 
 Nový krajský předseda Pirátů Olomouckého kraje Viktor Tichák je zároveň předsedou zastupitelského klubu Pirátů v Olomouci a již v minulosti působil jako krajský místopředseda.”Předsednickou funkci beru s pokorou, ale zároveň jako výzvu. Těším se na spolupráci s oběma skvělými místopředsedy a na velkou kampaň do krajských voleb, i když se sám kandidovat nechystám,” říká Viktor Tichák.
 
