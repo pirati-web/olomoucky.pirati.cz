@@ -4,7 +4,7 @@ category: CLANKY
 title: Ať o odkupu TGM 16 rozhodnou sami Přerované v referendu, navrhují Společně pro Přerov a Piráti
 date: 2020-02-03
 tags: 
-- Přerov
+- přerov
 author: Antonín Štěpán
 image: assets/img/articles/2020/2020-02-03-at-o-odkupu TGM-16-rozhodnout-prerovane.jpg  #751x422 pixelu
 ---
