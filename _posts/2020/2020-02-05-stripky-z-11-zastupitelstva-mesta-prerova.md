@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Ať o odkupu TGM 16 rozhodnou sami Přerované v referendu, navrhují Společně pro Přerov a Piráti
+title:  Střípky z 11. Zastupitelstva města Přerova
 date: 2020-02-05
 tags: 
 - přerov
@@ -31,4 +31,6 @@ Koalice na závěr však veškeré protinávrhy svou hlasovací mašinérií pod
 **Chceme vytvořit místa pro rodinné bydlení**
 
 Zastupitelstvo města v pondělí schválilo i nákup pozemků v Dlunonicích, které by měly posloužit pro rodinnou výstavbu a rozvoj této místní části. A do jisté míry i jako kompenzace za nedalekou dálnici. Rozsah pozemků, které by město chtělo pro tuto rozvojovou oblast se na návrh zastupitele Jana Horkého rozšířil o další, bezprostředně navazují. V případě jejich získání by z investice do nových inženýrských sítí a komunikací profitovalo i konečně město, přičemž zároveň získává silný nástroj na určení podoby budoucí lokality pro bydlení.
+
+
 
