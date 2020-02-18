@@ -8,12 +8,12 @@ position:
 img: people/martin-morong.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
-mail:
--  
+mail: 
+- martin.morong@pirati.cz
 mob:         
 profiles:
   github:
-  facebook:       
+  facebook: https://www.facebook.com/Moriss.Orcein.Brown   
   twitter:        
   flickr:       
 ---
