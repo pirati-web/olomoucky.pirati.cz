@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti a Starostové jdou do krajských voleb společně. „Máme dost sil i zkušeností, abychom zvítězili,“ říkají. 
-date: 2020-01-21
+date: 2020-03-06
 tags: 
 - picolo
 author: Mediální odbor
