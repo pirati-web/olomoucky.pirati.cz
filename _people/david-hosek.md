@@ -17,9 +17,9 @@ profiles:
   twitter:        
   flickr:       
 ---
-David Hošek (* 28. 5. 1997) pochází z města Přerova kde vystudoval SPŠ v oboru strojírenství. Pracuje jako plánovač výroby ve slévárně v Přerově.
+David Hošek (* 28. 5. 1997) pochází z města Přerova kde vystudoval SPŠ v oboru strojírenství. Pracuje jako plánovač výroby ve slévárně v Přerově. Je členenm kontrolního výboru statutárního města Přerova.
 
-Členem Pirátské strany je od roku 2018. V dnešní době je místopředsedou MS Přerov. Podílí se na organizaci akcí v Přerově a samozřejmě i na akcích Pirátské strany. Jedním z hlavních důvodů pro vstup do strany byl zájem o politické dění v Přerově, sympatie ke stranickému programu a liberální smýšlení. Považuje se za pravicového liberála. 
+Členem Pirátské strany je od roku 2018. V dnešní době je místopředsedou MS Přerov. Podílí se na organizaci akcí v Přerově a samozřejmě i na akcích Pirátské strany. Svou činností také ovlivňuje výstupy na zastupitelstvu města Přerova a pomáhá s přípravou návrhů. Jedním z hlavních důvodů pro vstup do strany byl zájem o politické dění v Přerově, sympatie ke stranickému programu a liberální smýšlení. Považuje se za pravicového liberála. 
 
 Mezi jeho záliby patří umění (převážně hudba), studium cizích jazyků a stolní hry.
 
