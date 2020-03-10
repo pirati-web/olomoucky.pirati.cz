@@ -4,7 +4,7 @@ category: CLANKY
 title: Provinční metody vedení politického boje 
 date: 2020-03-10
 tags: 
-- olomouc hynek-melichar viktor-tichak
+- olomouc 
 author: Mediální odbor
 image: assets/img/articles/2018/2018-03-18-piraty-v-olomouci-do-podzimnich-voleb-povede-hynek-melichar.jpg  #751x422 pixelu
 ---
