@@ -9,7 +9,7 @@ author: Mediální odbor
 image: assets/img/articles/2018/2018-03-18-piraty-v-olomouci-do-podzimnich-voleb-povede-hynek-melichar.jpg  #751x422 pixelu
 ---
 
-Hanácký Večerník dne 10. 3. 2020 zveřejnil komentář Lukáše Blokši s názvem „Hledání trafiky pro neúspěšného lídra Pirátů“. Tento článek, jak máme potvrzeno, psaný na politickou objednávku je plný lží a zavádějících informací. Ostatně není tajemstvím, že původně aktivistický plátek dávno změnil svůj politický kurz, po prodeji od původního vlastníka.
+Hanácký Večerník dne 10. 3. 2020 zveřejnil komentář Lukáše Blokši s názvem „Hledání trafiky pro neúspěšného lídra Pirátů“. Tento článek, jak máme potvrzeno, psaný na politickou objednávku, je plný lží a zavádějících informací. Ostatně není tajemstvím, že původně aktivistický plátek dávno změnil svůj politický kurz, po prodeji od původního vlastníka.
 
 Článek popisuje aktuálně probíhající výměnu na pozici člena dozorčí rady Výstaviště Flora Olomouc, a. s. (DR VFO), která probíhá zcela transparentně a standardně. Především proto, že stávající zástupce Tomáš Svoboda neprošel z důvodu časové tísně na konci roku 2018 otevřeným transparentním výběrovým řízením, přijalo Republikové předsednictvo Pirátů usnesení, kde vyzývá krajské sdružení Olomouckého kraje k opakování výběrového řízení.
 
