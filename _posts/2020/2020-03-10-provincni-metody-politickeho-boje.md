@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti a Starostové jdou do krajských voleb společně. „Máme dost sil i zkušeností, abychom zvítězili,“ říkají. 
+title: Provinční metody vedení politického boje 
 date: 2020-03-10
 tags: 
 - olomouc hynek-melichar viktor-tichak
