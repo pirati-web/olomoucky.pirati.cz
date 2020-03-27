@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Společně pro Přerov a Piráti vyzývají; Zrušte nájmy, vyplaťte dividendy
+title: Společně pro Přerov a Piráti vyzývají - Zrušte nájmy, vyplaťte dividendy
 date: 2020-03-27
 tags: 
 - přerov
