@@ -16,7 +16,7 @@ Vláda České republiky stále mění opatření proti šíření koronaviru, k
 
 ## V souhrnném balíčku, kterým chtějí Společně pro Přerov a Piráti pomoci jsou tyto body:
 * Zrušení nájmu městských nebytových prostor do konce roku 2020
-* Výzva vlastníkům nebytových prostor k odpuštění nebo alespoň snížení nájmů podnikatelům, kteří museli kvůli koronaviru zavřít
+* Apel vlastníkům nebytových prostor k odpuštění nebo alespoň snížení nájmů podnikatelům, kteří museli kvůli koronaviru zavřít
 * Jednorázový finanční příspěvek 30 000 Kč všem nuceně uzavřeným provozovnám
 * Odpuštění poplatku za užívání veřejného prostranství na 3 měsíce
 * Zrušení poplatků za zábor pro předzahrádky pro letošní rok
@@ -34,6 +34,6 @@ Některá tato opatření jsou de facto zdarma, jiná budou pro město znamenat 
 
 *„Jako velmi podstatnou také vnímáme podporu občany města, tedy aby dali přednost místním restauracím a obchodníkům před nákupy v nadnárodních řetězcích,”* ukončil 1. místopředseda Pirátů v Olomouckém kraji Jaromír Horký.
 
-Zastupitelský klub Společně pro Přerov a Pirátů zároveň apeluje, aby dubnové zasedání proběhlo v souladu s doporučením vlády jen nad zásadními body a to formou videokonference tak, aby se zastupitelé nemuseli scházet osobně a sami předcházeli riziku nákazy.
+Zastupitelský klub Společně pro Přerov a Pirátů zároveň apeluje, aby dubnové zasedání proběhlo v souladu s doporučením vlády jen nad zásadními body a to **formou videokonference** tak, aby se zastupitelé nemuseli scházet osobně a sami předcházeli riziku nákazy.
 
 ---
