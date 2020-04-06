@@ -17,7 +17,7 @@ Již v dubnu roku 2019 Společně pro Přerov a Piráti navrhovali vytvořit ada
 
 Studie se tedy bude mimo jiné věnovat problematice srážkových vod a jejich zadržování, třeba pomocí zelených vegetačních střech. Radní ale v krátké době za sebou přicházejí s další zakázkou na opravu ploché střechy, kde se ani okrajově možností jejího ozelenění nebo alespoň práce se srážkovými vodami nezabývali. Promarněná příležitost? 
 
-[**Odkup budovy TGM 16**](http://jaromirhorky.cz/proc-jsme-meli-pockat-s-odkupem-budovy-tgm-16-v-prerove/){:target="_blank"}
+**[Odkup budovy TGM 16](http://jaromirhorky.cz/proc-jsme-meli-pockat-s-odkupem-budovy-tgm-16-v-prerove/){:target='_blank'}**
 
 Budova TGM 16 na hlavním náměstí v Přerově, všem známá jako EMOS, již dekády vzbuzuje mezi obyvateli Přerova silné a protichůdné reakce. Společně pro Přerov a Piráti chtějí, aby o jejím dalším osudu rozhodlo referendum mezi obyvateli Přerova. Budova je součástí veřejného prostoru a hlavní dominantou celého náměstí. Věříme proto, že je fér, aby o jeho osudu rozhodli sami obyvatelé.
 

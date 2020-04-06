@@ -8,7 +8,7 @@ tags:
 author: Antonín Štěpán
 image: assets/img/articles/2020/2020-02-03-at-o-odkupu TGM-16-rozhodnout-prerovane.jpg  #751x422 pixelu
 ---
-*Přerov, 3. února 2020* – **Budova TGM 16 na hlavním náměstí v Přerově, všem známá jako EMOS, již dekády vzbuzuje mezi obyvateli Přerova silné a protichůdné reakce. Společně pro Přerov a Piráti chtějí, aby o jejím dalším osudu rozhodlo referendum mezi obyvateli Přerova. Budova je součástí veřejného prostoru a hlavní dominantou celého náměstí, Společně pro Přerov a Piráti proto věří, že je fér, aby o jeho osudu rozhodli sami obyvatelé.**
+Přerov, 3. února 2020 – Budova TGM 16 na hlavním náměstí v Přerově, všem známá jako EMOS, již dekády vzbuzuje mezi obyvateli Přerova silné a protichůdné reakce. Společně pro Přerov a Piráti chtějí, aby o jejím dalším osudu rozhodlo referendum mezi obyvateli Přerova. Budova je součástí veřejného prostoru a hlavní dominantou celého náměstí, Společně pro Přerov a Piráti proto věří, že je fér, aby o jeho osudu rozhodli sami obyvatelé.
 
 *“Návrh odkupu této budovy bych mohl podpořit za předpokladu, že by ji předcházela veřejná diskuse s občany města a projekt by byl důkladně promyšlen. Například by měl brát ohled i na vznik nových parkovacích míst v parkovacím domě či v podzemí. Referendum je iniciativa, na kterou mají občané nárok a nemělo by jim být toto právo zapřeno,”* říká zastupitel Pavel Ondrůj, který referendum navrhl a dodává: *“Občané sice budou rádi, že se v horizontu několika desítek let ušetří za nájemné, pokud by tato budova byla v majetku města. Jenže občany hlavně zajímá otázka jejího vzhledu, nechtějí další kontroverzní kašny na náměstí, chtějí být konečně na něco hrdí! U projektů jako právě tento bychom měli vždy vyžadovat architektonickou soutěž jako standard.”*
 

@@ -6,10 +6,9 @@ date: 2020-03-27
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2020/2020-03-17-spolecne-pro-prerov-a-pirati-vyzyvaji-zruste-najmy.png  #751x422 pixelu
+image: assets/img/articles/2020/2020-03-17-spolecne-pro-prerov-a-pirati-vyzyvaji-zruste-najmy.jpg  #751x422 pixelu
 ---
-
-*Přerov, 27. března 2020* - **Společně pro Přerov a Piráti chtějí ulevit těm nejvíce postiženým podnikatelům a občanům v souvislosti s opatřeními proti šíření nákazy koronaviru. Kromě pomocného balíčku nabízí také řešení, odkud na něj vzít. Chtějí, aby si město vyplatilo dividendy z městských společností.**
+Přerov, 27. března 2020 - Společně pro Přerov a Piráti chtějí ulevit těm nejvíce postiženým podnikatelům a občanům v souvislosti s opatřeními proti šíření nákazy koronaviru. Kromě pomocného balíčku nabízí také řešení, odkud na něj vzít. Chtějí, aby si město vyplatilo dividendy z městských společností.
 
 Vláda České republiky stále mění opatření proti šíření koronaviru, která tvrdě dopadají na místní živnostníky. Společně pro Přerov a Piráti chtějí alespoň přerovským podnikatelům a prodejcům ulevit, aby se po ukončení karantény navrátil život do přerovských ulic. 
 *„Situace přerovských podnikatelů a obchodníků není jednoduchá a aktuální stav jim dělá opravdu potíže. Řada měst odpouští nebo snižuje nájmy těm, kteří podnikají v městských prostorách. Podle nás to není tak docela fér - jak k tomu přijdou ti, co mají svůj obchod hned o dveře vedle, ale pronajímají si prostor od soukromníka? Vyzýváme proto i ostatní majitele nebytových prostor, aby svým nájemcům odpustili nájem až do konce roku. Problémy teď mají všichni,”* říká zastupitel Jan Horký, který bude tuto výzvu předkládat zastupitelstvu.
