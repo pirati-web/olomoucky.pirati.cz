@@ -14,8 +14,8 @@ mail: jaromir.horky@pirati.cz
 mob: 774 942 021
 profiles:
   github:
-  facebook:       
-  twitter:        
+  facebook: https://www.facebook.com/jarda.horky     
+  twitter: https://twitter.com/horky_jaromir       
   flickr:
 ordmis: 4
 ordpre: 2
