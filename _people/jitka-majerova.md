@@ -18,3 +18,5 @@ profiles:
   flickr: 
 ---
 Jitka Majerová (*15.8.1999) je členkou MS Přerov. Studuje 2. ročník dentalní hygieny na Vyšší odborné škole Merhautově v Brně.
+
+---
