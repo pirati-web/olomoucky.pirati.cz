@@ -3,11 +3,11 @@ uid: martin.morong
 name:     Martin Morong          # běžně používáné jméno
 fullname: MUDr. Martin Morong   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
-position:
+- olomouc
+position: Místopředseda místního sdružení
 img: people/martin-morong.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: 2. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
 mail: 
 - martin.morong@pirati.cz
 mob:         

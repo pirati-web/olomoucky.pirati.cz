@@ -3,10 +3,10 @@ uid: jakub.nepejchal
 name:     Jakub Nepejchal   # běžně používáné jméno
 fullname: Jakub Nepejchal   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- olomouc
-position: Místopředseda místního sdružení
+- 
+position:
 img: people/jakub-nepejchal.jpg   # 165 x 220
-description: 1. místopředseda místního sdružení Olomouc           # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje           # kratký popis, max 160 znaků
 mail:
 - jakub.nepejchal@pirati.cz 
 mob: 608 428 080

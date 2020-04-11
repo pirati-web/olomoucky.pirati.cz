@@ -3,11 +3,11 @@ uid: lucie.schwarzova
 name:     Lucie Schwarzová          # běžně používáné jméno
 fullname: Lucie Schwarzová   # jméno s tituly etc.
 category: 
-- hranicko                    # kategorie: rp, praha, vary, hradec, jmk, senat
+-                   # kategorie: rp, praha, vary, hradec, jmk, senat
 position: 
 img: people/lucie-schwarzova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: Členka KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
 - lucie.schwarzova@pirati.cz
 mob:         

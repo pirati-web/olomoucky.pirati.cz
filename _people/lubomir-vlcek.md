@@ -5,7 +5,7 @@ fullname: Lubomír Vlček   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - sumpersko
 - predsedove-ms
-position: Předseda krajského sdružení
+position: Předseda místního sdružení
 img: people/lubomir-vlcek.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení Šumpersko               # kratký popis, max 160 znaků
