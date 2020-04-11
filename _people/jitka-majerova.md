@@ -1,10 +1,9 @@
 ---
-uid: jaromir.horky
+uid: jitka.majerova
 name:     Jitka Majerová    # běžně používané jméno
 fullname: Jitka Majerová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- prerov
-
+- 
 position: 
 img: people/jitka-majerova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
@@ -17,6 +16,6 @@ profiles:
   twitter:         
   flickr: 
 ---
-Jitka Majerová (*15.8.1999) je členkou MS Přerov. Studuje 2. ročník dentalní hygieny na Vyšší odborné škole Merhautově v Brně.
 
+Jitka Majerová (* 15.8.1999) je členkou MS Přerov. Studuje 2. ročník dentalní hygieny na Vyšší odborné škole Merhautově v Brně.
 ---
