@@ -40,5 +40,5 @@ Kvůli zranění jsem musel skončit s házenou, avšak sportu se snažím věno
 
 Jeho motto je jasné – Nejlepší způsob, jak dosáhnout cíle je začít. Proto jde do všeho naplno.
 
-[8Values](https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=56.1&d=72.9&g=77.3&s=81.7) [Politický kompas](https://drive.google.com/file/d/1UpRFUhTPiJujsO2qmb09z8ejKERflZIU/view?usp=sharing)
+[8Values](https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=56.1&d=72.9&g=77.3&s=81.7), [Politický kompas](https://drive.google.com/file/d/1UpRFUhTPiJujsO2qmb09z8ejKERflZIU/view?usp=sharing)
 
