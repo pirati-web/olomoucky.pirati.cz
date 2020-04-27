@@ -6,7 +6,7 @@ date: 2020-04-06
 tags: 
 - olomouc 
 author: Mediální odbor
-image: assets/img/articles/2020/22020-04-27-koalice-nepodporila-navh-opozice-pomoc-podnikatelum.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-04-27-koalice-nepodporila-navh-opozice-pomoc-podnikatelum.jpg  #751x422 pixelu
 ---
 Přerov 27. dubna 2020- Na pondělním zasedání zastupitelstva předložil klub Společně pro Přerov a Pirátů velmi otevřený návrh, který zahrnoval finanční podporu místním podnikatelům a sportovcům, odpuštění nájemného do konce roku či osvobození od platby poplatku za předzahrádky.
 
