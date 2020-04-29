@@ -2,9 +2,9 @@
 layout: post
 category: CLANKY
 title: Koaliční zastupitelé v Přerově odmítli návrh opozice na vytvoření pomocného balíčku pro přerovské podnikatele a sportovce
-date: 2020-04-06
+date: 2020-04-27
 tags: 
-- olomouc 
+- přerov 
 author: Mediální odbor
 image: assets/img/articles/2020/2020-04-27-koalice-nepodporila-navh-opozice-pomoc-podnikatelum.jpg  #751x422 pixelu
 ---
