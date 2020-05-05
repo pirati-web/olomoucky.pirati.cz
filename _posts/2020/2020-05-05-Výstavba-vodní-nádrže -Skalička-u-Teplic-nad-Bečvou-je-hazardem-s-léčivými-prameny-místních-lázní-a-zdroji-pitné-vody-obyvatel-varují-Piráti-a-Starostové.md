@@ -18,7 +18,7 @@ Olomouc, 5. května 2020 - Megalomanské plány resortu zemědělství na boj se
 
 Řešením pro vybudování funkčního prvku protipovodňové ochrany, které současně neohrozí zdroje podzemních vod, zachová místnícenné biotopy obývané řadou ohrožených druhů živočichů a především bude vhodnější variantou pro prevenci sucha, je vybudováníbočního poldru (2). Piráti a Starostové nepodporují v Olomouckém kraji výstavbu megalomanských vodních nádrží. Ušetřené miliardypožadují investovat do chytrého zadržování vody v krajině. Důležité je přitom zadržovat vodu přímo v půdě, tedy podporovat budováníremízků, mezí a dalších krajinných prvků.
 
-Plány na zahrazení toku Bečvy nepřidělávají vrásky na čele jen občanům Hranicka strachujících se o své zdroje pitné vody.Přírodovědci varují před zničením ekologických hodnot poslední štěrkonosné řeky v České republice. Kromě toho výstavba přehradypřinese správci toku nutnost převážení nahromaděného štěrku pod přehradu. I toto udržovací řešení je z ekonomického pohledu zcelanesmyslné. 
+Plány na zahrazení toku Bečvy nepřidělávají vrásky na čele jen občanům Hranicka strachujících se o své zdroje pitné vody. Přírodovědci varují před zničením ekologických hodnot poslední štěrkonosné řeky v České republice. Kromě toho výstavba přehrady přinese správci toku nutnost převážení nahromaděného štěrku pod přehradu. I toto udržovací řešení je z ekonomického pohledu zcelanesmyslné. 
 
 odkazy:
 
