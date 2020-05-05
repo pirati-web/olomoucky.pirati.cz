@@ -23,5 +23,5 @@ Plány na zahrazení toku Bečvy nepřidělávají vrásky na čele jen občanů
 odkazy:
 
 (1) [http://eagri.cz/public/web/mze/tiskovy-servis/tiskove-zpravy/x2020_ministr-toman-reseni-sucha-musi-byt.html](http://eagri.cz/public/web/mze/tiskovy-servis/tiskove-zpravy/x2020_ministr-toman-reseni-sucha-musi-byt.html)
-(2) [http://eagri.cz/public/web/mze/tiskovy-servis/tiskove-zpravy/x2020_ministr-toman-reseni-sucha-musi-byt.html(https://www.spojenabecva.cz/resources/client/Poldr_Skalicka_studie_UPRM_2016.pdf](http://eagri.cz/public/web/mze/tiskovy-servis/tiskove-zpravy/x2020_ministr-toman-reseni-sucha-musi-byt.html(https://www.spojenabecva.cz/resources/client/Poldr_Skalicka_studie_UPRM_2016.pdf)
+(2) [https://www.spojenabecva.cz/resources/client/Poldr_Skalicka_studie_UPRM_2016.pdf](https://www.spojenabecva.cz/resources/client/Poldr_Skalicka_studie_UPRM_2016.pdf)
 (3) [https://www.spojenabecva.cz/](https://www.spojenabecva.cz/)
