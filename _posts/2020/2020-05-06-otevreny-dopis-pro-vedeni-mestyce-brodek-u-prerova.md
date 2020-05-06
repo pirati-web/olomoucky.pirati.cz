@@ -5,7 +5,7 @@ title: Otevřený dopis pro vedení městyse Brodek u Přerova.
 date: 2020-05-06
 tags: 
 - pirátská-tvrz
-author: Radek Vojtel
+author: Radek Vojtek
 image: assets/img/articles/2020/2020-05-06-Brodek-radnice.jpg #751x422 pixelu
 ---
 **Vážené vedení městyse Brodek u Přerova,**
