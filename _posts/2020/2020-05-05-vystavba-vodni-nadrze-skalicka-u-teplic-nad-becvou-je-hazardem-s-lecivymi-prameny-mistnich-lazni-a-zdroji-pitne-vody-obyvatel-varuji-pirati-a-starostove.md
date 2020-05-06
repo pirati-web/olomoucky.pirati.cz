@@ -7,6 +7,8 @@ tags:
 - olomouc 
 author: Antonín Štěpán
 image: assets/img/articles/2020/2020-05-05-vystavba-vodni-nadrze-skalicka-u-teplic-nad-becvou-je-hazardem-s-lecivymi-prameny-mistnich-lazni-a-zdroji-pitne-vody-obyvatel-varuji-pirati-a-starostove.jpg  #751x422 pixelu
+redirect_from:
+  - "/tiskove-zpravy/Výstavba-vodní-nádrže-Skalička-u-Teplic-nad-Bečvou-je-hazardem-s-léčivými-prameny-místních-lázní-a-zdroji-pitné-vody-obyvatel-varují-Piráti-a-Starostové.html"
 ---
 Olomouc, 5. května 2020 - Megalomanské plány resortu zemědělství na boj se suchem by již brzy mohly negativně pocítit klienti oblíbených lázeňských procedur v Teplicích nad Bečvou a obyvatelé přilehlých obcí. Ministr zemědělství Miroslav Toman včera (4. května 2020) na tiskové konferenci (1) potvrdil plány na vybudování vodní nádrže Skalička jako prostředku boje se suchem. Současná koncepce přitom s přehradou počítá jako s protipovodňovým opatřením a nikoliv jako s prostředkem na boj se suchem. Experti z Mendelovy univerzity v Brně navíc varují, že vybudování nádrže Skalička může negativně ovlivnit podzemní vodu v celé krasové oblasti, tedy i unikátní Hranickou propast - nejhlubší zatopenou jeskyni na světě a Zbrašovské aragonitové jeskyně.
 
