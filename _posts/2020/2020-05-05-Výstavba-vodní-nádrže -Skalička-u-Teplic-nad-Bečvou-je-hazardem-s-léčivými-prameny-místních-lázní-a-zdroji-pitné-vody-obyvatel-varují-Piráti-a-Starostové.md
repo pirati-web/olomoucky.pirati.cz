@@ -4,9 +4,9 @@ category: CLANKY
 title: Výstavba vodní nádrže Skalička u Teplic nad Bečvou je hazardem s léčivými prameny místních lázní a zdroji pitné vody obyvatel, varují Piráti a Starostové
 date: 2020-05-05
 tags: 
-- Olomouc 
+- olomouc 
 author: Antonín Štěpán
-image: assets/img/articles/2020/2020-05-05-vodni-nadrz-prehrada-skalicka.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-05-05-vystavba-vodni-nadrze-skalicka-u-teplic-nad-becvou-je-hazardem-s-lecivymi-prameny-mistnich-lazni-a-zdroji-pitne-vody-obyvatel-varuji-pirati-a-starostove.jpg  #751x422 pixelu
 ---
 Olomouc, 5. května 2020 - Megalomanské plány resortu zemědělství na boj se suchem by již brzy mohly negativně pocítit klienti oblíbených lázeňských procedur v Teplicích nad Bečvou a obyvatelé přilehlých obcí. Ministr zemědělství Miroslav Toman včera (4. května 2020) na tiskové konferenci (1) potvrdil plány na vybudování vodní nádrže Skalička jako prostředku boje se suchem. Současná koncepce přitom s přehradou počítá jako s protipovodňovým opatřením a nikoliv jako s prostředkem na boj se suchem. Experti z Mendelovy univerzity v Brně navíc varují, že vybudování nádrže Skalička může negativně ovlivnit podzemní vodu v celé krasové oblasti, tedy i unikátní Hranickou propast - nejhlubší zatopenou jeskyni na světě a Zbrašovské aragonitové jeskyně.
 
@@ -25,3 +25,5 @@ odkazy:
 (1) [http://eagri.cz/public/web/mze/tiskovy-servis/tiskove-zpravy/x2020_ministr-toman-reseni-sucha-musi-byt.html](http://eagri.cz/public/web/mze/tiskovy-servis/tiskove-zpravy/x2020_ministr-toman-reseni-sucha-musi-byt.html)
 (2) [https://www.spojenabecva.cz/resources/client/Poldr_Skalicka_studie_UPRM_2016.pdf](https://www.spojenabecva.cz/resources/client/Poldr_Skalicka_studie_UPRM_2016.pdf)
 (3) [https://www.spojenabecva.cz/](https://www.spojenabecva.cz/)
+
+

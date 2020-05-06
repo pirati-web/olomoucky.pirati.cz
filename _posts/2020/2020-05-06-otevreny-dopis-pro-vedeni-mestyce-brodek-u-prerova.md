@@ -6,11 +6,9 @@ date: 2020-05-06
 tags: 
 - pirátská-tvrz
 author: Radek Vojtek
-image: assets/img/articles/2020/2020-05-06-Brodek-radnice.jpg #751x422 pixelu
+image: assets/img/articles/2020/2020-05-06-otevreny-dopis-pro-vedeni-mestyse-brodek-u-prerova.jpg #751x422 pixelu
 ---
-**Vážené vedení městyse Brodek u Přerova,**
-
-obracíme se na Vás ve věci řešení třídění a svozu odpadu v našem městysi, jelikož již delší dobu zaznamenáváme nespokojenost i malou informovanost občanů v této věci.
+**Vážené vedení městyse Brodek u Přerova,** obracíme se na Vás ve věci řešení třídění a svozu odpadu v našem městysi, jelikož již delší dobu zaznamenáváme nespokojenost i malou informovanost občanů v této věci.
 
 Především se chceme zeptat:
 * Jaký má městys plán pro řešení odpadů do budoucna?
