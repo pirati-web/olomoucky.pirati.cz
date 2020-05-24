@@ -6,7 +6,7 @@ date: 2020-05-23
 tags: 
 - přerov
 author: Jaromír Horký
-image: assets/img/articles/2020/2020-05-23-Jaromir-Horky.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-05-23-otevreny-dopis-pirata-jaromira-horkeho-poslancum-olomouckeho-kraje.jpg  #751x422 pixelu
 ---
 *Přerov, 23. května 2020* – Místopředseda Pirátů v Olomouckém kraji a kandidát do krajského zastupitelstva se v otevřeným dopisem obrací na poslance z Olomouckého kraje kvůli hlasování o kompenzačním bonusu. Obává se, že by kvůli hlasování poslanců mohl přijít kraj a obce o miliardy korun. Spousta poslanců z Olomouckého kraje je zároveň komunálními či krajskými zastupiteli a měli by brát zřetel na obecní či krajské rozpočty, které jsou už nyní zadlužené. Na dopady zákona o kompenzačním bonusu upozorňuje také sdružení místních samospráv.
      
