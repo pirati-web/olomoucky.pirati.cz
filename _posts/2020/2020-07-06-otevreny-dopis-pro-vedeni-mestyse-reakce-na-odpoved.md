@@ -6,20 +6,15 @@ date: 2020-06-07
 tags: 
 - pirátská-tvrz
 author: Radek Vojtek
-image: assets/img/articles/2020/2020-06-07-Brodek.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-06-07-otevreny-dopis-pro-vedeni-mestyse-reakce-na-odpoved.jpg  #751x422 pixelu
+redirect_from:
+  - /tiskove-zpravy/otevren-dopis-pro-vedeni-mestyce-reakce-na-odpoved.html
 ---
-
-
-Vážený pane starosto,
-
-
-reaguji na Vámi zaslanou odpověď na ,,Otevřený dopis pro vedení městyse Brodek u Přerova“.
-
-Úvodem velmi děkuji za tuto Vaši odpověď.
+Vážený pane starosto, reaguji na Vámi zaslanou odpověď na „Otevřený dopis pro vedení městyse Brodek u Přerova“. Úvodem velmi děkuji za tuto Vaši odpověď.
 
 Otevřený dopis je běžný způsob, který se standardně používá, když se doptáváte na určité informace a chcete, aby byly dostupné k přečtení komukoli.
 
-Dopis byl řádně podepsán, čili se nejedná o žádný ,,poloanonym“ ani nic nedemokratického.
+Dopis byl řádně podepsán, čili se nejedná o žádný „poloanonym“ ani nic nedemokratického.
 
 Pirátská strana, potažmo Pirátská Tvrz, je plně demokratická a v mnohém jde v tomto příkladem. Namátkou dodržování demokratického minima, primární volby, veřejná výběrová řízení, transparentní bankovní účty, participativní rozpočty, veřejná evidence kontaktů a schůzek, atd.
 
