@@ -14,7 +14,7 @@ Způsob oslovení „otevřeným dopisem“ je překvapivý o to více, že čle
 
 Dovolujeme si tímto vyslovit svou naději, že Pirátská tvrz České pirátské strany je výjimkou ve struktuře této strany, která není informována o právech občanů obcí stanovených zejména v zákoně č. 128/2000 Sb., o obcích (dále jen ZOO), kde jsou práva občanů upravena zejména v § 16 tohoto ZOO. Současně je dle § 83 ZOO povinností zastupitelů hájit zájmy občanů obcí a z toho vyplývající právo občanů požadovat po jednotlivých zastupitelích, aby hájili jejich zájmy. Vzhledem ke skutečnosti, že za Českou pirátskou stranu byl zvolen do zastupitelstva její zástupce, je s podivem, že ani odsud nedošlo k žádnému podnětu pro „vedení městyse Brodek u Přerova“, nehledě k tomu, že tuto svou povinnost by bezpochyby splnil každý demokraticky zvolený zastupitel, na kterého byste se obrátili, pokud Váš přímý zástupce nehájí, nebo není ochoten hájit zájmy občanů městyse Brodek u Přerova.
 
-K výše uvedenému, vzhledem k evidentní neznalosti MS Pirátské Tvrze, je třeba doplnit významné právo občanů realizovat svá práva obsažená v § 16 zákona o obcích na zasedáních zastupitelstva obce, které je dle § 93 odst. 3 ZOO vždy veřejné a může se ho tedy účastnit každý.
+K výše uvedenému, vzhledem k evidentní neznalosti MS Pirátské Tvrze, je třeba doplnit významné právo občanů realizovat svá práva obsažená v § 16 zákona o obcích na zasedáních zastupitelstva obce, které je dle **§ 93 odst. 3 ZOO vždy veřejné a může se ho tedy účastnit každý.**
 
 U zvolené formy „otevřeného dopisu“ také Rada městyse váhá, jakou formou na tento dopis odpovědět. V uvedeném e-mailu nebyla uvedena žádná korespondenční adresa MS Pirátské Tvrze a zvolit odpověď formou otištění odpovědi rovněž formou otevřeného dopisu v médiích (Brodecký zpravodaj, regionální deníky, celostátní tisk) jak se obvykle „otevřené dopisy“ doručují, nepovažuje Rada Městyse za vhodný. Proto nezbývá než zaslat svou odpověď na adresu České pirátské strany uvedené v „otevřeném dopisu“ e-mailovou adresu, odkud nám otevřený dopis došel. 
 
@@ -28,29 +28,37 @@ Co se týče případného navýšení počtu odpadových nádob – zřejmě m�
 
 Co se týče konkrétních kroků a plánů, níže je výčet konkrétních kroků městyse ve věci odpadového hospodářství:
 
-Kroky vedení městyse a zastupitelstva v řešení odpadového hospodářství.
+**Kroky vedení městyse a zastupitelstva v řešení odpadového hospodářství.**
 
-Zastupitelstvo městyse Brodek u Přerova schvaluje 4/26Z/2018 dodavatele zakázky "Doplnění systému odděleného sběru odpadu v Brodku u Přerova" firmu SDO Technika s.r.o., IČ:29446619, Šenov u Nového Jičína, Dukelská 695 ve výši 1.830.730,- Kč s DPH a pověřuje starostu podpisem smlouvy. 
+**Zastupitelstvo městyse Brodek u Přerova schvaluje**  
+4/26Z/2018 dodavatele zakázky "Doplnění systému odděleného sběru odpadu v Brodku u Přerova" firmu SDO Technika s.r.o., IČ:29446619, Šenov u Nového Jičína, Dukelská 695 ve výši 1.830.730,- Kč s DPH a pověřuje starostu podpisem smlouvy. 
 
-Zastupitelstvo městyse Brodek u Přerova schvaluje 8/7Z/2019 poplatek za svoz a likvidaci odpadů ve výši 550,- Kč na občana a rok 2020. 
+**Zastupitelstvo městyse Brodek u Přerova schvaluje**  
+8/7Z/2019 poplatek za svoz a likvidaci odpadů ve výši 550,- Kč na občana a rok 2020. 
 
-Zastupitelstvo městyse Brodek u Přerova schvaluje 11/7Z/2019 výběr dodavatele na svoz a likvidaci odpadů Technické služby města Přerova s.r.o., ič: 27841090 a pověřuje starostu podpisem smlouvy.
+**Zastupitelstvo městyse Brodek u Přerova schvaluje**  
+11/7Z/2019 výběr dodavatele na svoz a likvidaci odpadů Technické služby města Přerova s.r.o., ič: 27841090 a pověřuje starostu podpisem smlouvy.
 
-Zastupitelstvo městyse Brodek u Přerova schvaluje 21/2Z/2018 smlouvu o výpůjčce a následném darování mezi Městysem Brodek u Přerova a občany (120 l nádoby pro sběr a třídění odpadů v domácnostech - papír,plast a BRKO).
+**Zastupitelstvo městyse Brodek u Přerova schvaluje**  
+21/2Z/2018 smlouvu o výpůjčce a následném darování mezi Městysem Brodek u Přerova a občany (120 l nádoby pro sběr a třídění odpadů v domácnostech - papír,plast a BRKO).
 
-Zastupitelstvo městyse Brodek u Přerova schvaluje 7a/2Z/2018 místní poplatek za provoz systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů ve výši 550,- Kč za občana na rok 2019. 
-
+**Zastupitelstvo městyse Brodek u Přerova schvaluje**  
+7a/2Z/2018 místní poplatek za provoz systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů ve výši 550,- Kč za občana na rok 2019.  
 7b/2Z/2018 OZV č. 2/2018, o místním poplatku za provoz systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů. 
 
-Rada městyse Brodek u Přerova bere na vědomí 6/33R/2020 doplnění harmonogramu svozu tříděného odpadu TS Přerov s.r.o. z kontejnerových hnízd (papír, plast) na čtrnáctidenní cyklus.
+**Rada městyse Brodek u Přerova bere na vědomí**  
+6/33R/2020 doplnění harmonogramu svozu tříděného odpadu TS Přerov s.r.o. z kontejnerových hnízd (papír, plast) na čtrnáctidenní cyklus.
 
-Rada městyse Brodek u Přerova doporučuje 11/33R/2020 ZM ke schválení dokument "Strategie udržitelného rozvoje odpadového hospodářství v Brodku u Přerova" zpracovaný firmou ENVIPARTNER, s.r.o., Brno v rámci projektu "Strategické dokumenty v SOM Království.
+**Rada městyse Brodek u Přerova doporučuje**  
+11/33R/2020 ZM ke schválení dokument "Strategie udržitelného rozvoje odpadového hospodářství v Brodku u Přerova" zpracovaný firmou ENVIPARTNER, s.r.o., Brno v rámci projektu "Strategické dokumenty v SOM Království.
 
-Rada městyse Brodek u Přerova pověřuje 9a/29R/2020 starostu umístěním dotazníkového šetření na web městyse, k stanovení strategie nákládání s odpady v městysi v Brodku u Přerova.
+**Rada městyse Brodek u Přerova pověřuje**  
+9a/29R/2020 starostu umístěním dotazníkového šetření na web městyse, k stanovení strategie nákládání s odpady v městysi v Brodku u Přerova.
 
-Rada městyse Brodek u Přerova schvaluje 11/6R/2019 CN od firmy EKOKOM na nákup tašek pro sběr a třídění odpadů v domácnostech velikost 40 l za 46,- Kč bez DPH, 20 l za 40,- Kč bez DPH a objednávku 550 ks 40 l a 150 ks 20 l. (Tašky budou vydávány občanům po zaplacení poplatku za rok 2019).
+**Rada městyse Brodek u Přerova schvaluje**  
+11/6R/2019 CN od firmy EKOKOM na nákup tašek pro sběr a třídění odpadů v domácnostech velikost 40 l za 46,- Kč bez DPH, 20 l za 40,- Kč bez DPH a objednávku 550 ks 40 l a 150 ks 20 l. (Tašky budou vydávány občanům po zaplacení poplatku za rok 2019).
 
-Jaký má městys plán pro řešení odpadů do budoucna?
+**Jaký má městys plán pro řešení odpadů do budoucna?**
 
 Vedení městyse má připravenu koncepci pro nakládání s odpady 2020-2024.
 
@@ -58,7 +66,7 @@ Vláda připravuje nový zákon o odpadech, který by měl parlament schvalovat 
 
 Vedení městyse pracuje na odpadovém plánu na léta 2020-2024 počítající se změnami v nakládání s odpady obsaženými v návrhu nového odpadového zákona. Bude projednán na veřejném zasedání ZM na podzim tohoto roku.
 
-Jaká plánuje opatření proti zvyšování poplatků za odpady?
+**Jaká plánuje opatření proti zvyšování poplatků za odpady?**
 
 Domácnosti v RD byli vybaveny 120 l odpadními nádobami na papír, plast, BIO. (DORTODOR)
 
@@ -70,7 +78,7 @@ V červnu 2020 bude oficiálně s povolením krajského úřadu otevřen „Sbě
 
 Domácnosti v bytových domech budou postupně vybaveny 10 l nádobou na BIO a 1,5 l nádobou na jedlý olej. (jako první byl vybaven bytový dům 484-487 na sídlišti Svobody 10 l nádobou na BIO a 1,5 l nádobou na olej)
 
-Jaká plánuje opatření pro větší komfort občanů v oblasti včasného vyvážení odpadu?
+**Jaká plánuje opatření pro větší komfort občanů v oblasti včasného vyvážení odpadu?**
 
 Cíle vedení městyse obsažené v koncepci:
 
@@ -80,12 +88,11 @@ Cíle vedení městyse obsažené v koncepci:
 
 3) Pozornost soustředit na zvýšení vytříděnosti BIO složky ze SKO.
 
-4) Omezit bezplatné užívání sběrného dvora v Brodku u Přerova občany z okolních obcí.
+4) Omezit **bezplatné** užívání sběrného dvora v Brodku u Přerova občany z okolních obcí.
 
 Poz. Komfort má přímou souvislost s náklady. Rok 2019 náklady 1250,-Kč na občana, poplatek dle OZV 550,-Kč na občana.
 
-Jak chce vedení městyse zajistit dostatečnou kapacitu odpadových nádob a jejich snadnou
-dostupnost?
+**Jak chce vedení městyse zajistit dostatečnou kapacitu odpadových nádob a jejich snadnou dostupnost?**
 
 Domácnosti jsou (mohou být je-li zájem) vybaveny odpadovými nádobami pro systém DORTODOR.
 
@@ -101,3 +108,5 @@ S pozdravem
 
 Ing. Roman Zbožínek  
 starosta
+
+[Originál dopisu v PDF ke stažení zde.](/assets/pdf/2020-06-07-odpoved-na-otevreny-dopis-ze-dne-6-5-2020.pdf)

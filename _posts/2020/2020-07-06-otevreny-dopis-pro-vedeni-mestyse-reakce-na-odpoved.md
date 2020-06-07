@@ -32,8 +32,6 @@ Závěrem děkuji za pozvání na veřejné zasedání ZM a zejména pak na to, 
 
 S pozdravem a přáním hezkého dne za Pirátskou Tvrz
 
-Radek Vojtek
-
-Místopředseda MS Pirátská Tvrz
-
+Radek Vojtek  
+Místopředseda MS Pirátská Tvrz  
 Česká Pirátská strana
