@@ -4,10 +4,11 @@ name:     Robert Šrejma     # běžně používané jméno
 fullname: PharmDr. Robert Šrejma   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - sumpersko
-position: Místpoředseda místního sdružení
+- predsedove-ms
+position: Předseda místního sdružení
 img: people/robert-srejma.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 1. místopředseda místního sdružení Šumpersko               # kratký popis, max 160 znaků
+description: Předseda místního sdružení Šumpersko               # kratký popis, max 160 znaků
 mail: 
 mob:
 profiles:
@@ -15,6 +16,7 @@ profiles:
   facebook:       
   twitter:        
   flickr:
+ordmis: 6
 ---
 PharmDr. Robert Šrejma je 2. místopředseda MS Šumperk. Narodil se roku 1992 v Zábřeze, kde dodnes žije. V Zábřeze také vystudoval všeobecné gymnázium a následně v Hradci Králové Farmaceutickou fakultu Univerzity Karlovy, kde navázal prací na doktorátu. Při studiu na univerzitě byl členem rady kolejí a menz. Po dokončení studia pracoval jako lékárník. Nyní je náplní jeho práce distribuce léčiv.
 

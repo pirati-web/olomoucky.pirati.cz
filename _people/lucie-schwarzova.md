@@ -16,7 +16,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-ordmis: 6
 ---
 Lucie Schwarzová (* 15. 2. 1989) se narodila v Ostravě. Po vystudování hotelové školy začala pracovat v kosmetické firmě, kde postupně vystřídala pozice celní deklarant a počítačový grafik, což také zůstalo jejím koníčkem. Mezi další záliby patří elektronické šipky, rocková hudba a lední hokej.
 

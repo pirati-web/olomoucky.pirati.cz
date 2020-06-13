@@ -4,11 +4,10 @@ name:     Lubomír Vlček     # běžně používané jméno
 fullname: Lubomír Vlček   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - sumpersko
-- predsedove-ms
-position: Předseda místního sdružení
+position: Místopředseda místního sdružení
 img: people/lubomir-vlcek.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Předseda místního sdružení Šumpersko               # kratký popis, max 160 znaků
+description: 2. Místopředseda místního sdružení Šumpersko               # kratký popis, max 160 znaků
 mail: 
 mob:
 profiles:
@@ -16,7 +15,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:
-ordmis: 6
 ---
 Lubomír Vlček (* 31. července 1979) - předseda MS Šumpersko v Pirátské straně. Pochází z města Šumperk, kde v podstatě strávil celý svůj život a nic na tom nehodlá měnit.
 
