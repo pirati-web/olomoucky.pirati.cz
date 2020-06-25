@@ -10,6 +10,7 @@ image: assets/img/articles/2020/2020-25-06-tvrz.jpg #751x422 pixelu
 ---
 
 **Pirátská Tvrz jede**
+
 Tak jsme se otřepali z Covidových prázdnin a čekají nás klasické letní prázdniny. Ale ani jedny nebyly a nebudou pro Piráty nijak prázdné. Už během pandemie Piráti neustále pracovali a krom dobrovolnického šití roušek, 3D tisku ochranných štítů nebo prostě jen vození čerstvé kávy zdravotníkům, vypracovali plán s názvem "Budoucnost řešíme teď", abychom z této krize vyšli posílení a uchopili ji jako příležitost. 
 
 Vláda už ledacos z tohoto plánu převzala, což nás těší. A například taková online jednání, která Piráti praktikují od svého vzniku v roce 2009 se najednou staly běžně používaným mainstreamem.
