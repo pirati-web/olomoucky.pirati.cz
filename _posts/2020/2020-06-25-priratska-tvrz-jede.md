@@ -6,7 +6,7 @@ date: 2020-06-25
 tags: 
 - piratska tvrz 
 author: Martin Šmída
-image: assets/img/articles/2020/2020-25-06-tvrz.jpg #751x422 pixelu
+image: assets/img/articles/2020/2020-06-25-tvrz.jpg #751x422 pixelu
 ---
 
 
