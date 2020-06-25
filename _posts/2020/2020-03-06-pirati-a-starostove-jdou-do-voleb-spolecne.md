@@ -4,7 +4,7 @@ category: CLANKY
 title: Piráti a Starostové jdou do krajských voleb společně. „Máme dost sil i zkušeností, abychom zvítězili,“ říkají. 
 date: 2020-03-06
 tags: 
-- krajske-volby
+- olomoucký-kraj
 author: Mediální odbor
 image: assets/img/articles/2020/2020-03-06-pirati-a-starostove-jdou-do-voleb-spolecne.jpg  #751x422 pixelu
 ---
