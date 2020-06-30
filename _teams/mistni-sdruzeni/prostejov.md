@@ -6,8 +6,8 @@ fullname: Místní sdružení Prostějov
 img: teams/prostejov.jpg
 leader: petr.lysek
 deputy:
-- petr.kapounek
 - milan.fladr
+- kuba.smid
 contact:
 - milos.zmeskal
 region: Prostějov

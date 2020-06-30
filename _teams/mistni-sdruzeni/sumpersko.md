@@ -4,10 +4,10 @@ cid: sumpersko
 name: Šumpersko
 fullname: Místní sdružení Šumpersko
 img: teams/sumpersko.jpg
-leader: lubomir.vlcek
+leader: robert.srejma
 deputy:
-- vaclav.doubrava
-- robert.srejma
+- ales.valnoha
+- lubomir.vlcek
 contact:
 - milos.zmeskal
 region: Šumpersko

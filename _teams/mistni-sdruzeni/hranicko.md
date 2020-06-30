@@ -4,10 +4,10 @@ cid: hranicko
 name: Hranicko
 fullname: Místní sdružení Hranicko
 img: teams/hranicko.jpg
-leader: lucie.schwarzova
+leader: lukas.peklansky
 deputy:
-- lukas.peklansky
 - alena.dvorakova
+- ladislav.rajcan
 contact:
 - milos.zmeskal
 region: Hranicko

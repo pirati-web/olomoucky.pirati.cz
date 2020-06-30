@@ -4,10 +4,10 @@ cid: piratska-tvrz
 name: Pirátská Tvrz
 fullname: Místní sdružení Pirátská Tvrz
 img: teams/piratska-tvrz.jpg
-leader: radim.studeny
+leader: radek.vojtek
 deputy:
-- radek.vojtek
 - jan.koutny
+- vladimir.kubala
 contact:
 - milos.zmeskal
 region: Pirátská Tvrz
