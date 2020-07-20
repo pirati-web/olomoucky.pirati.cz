@@ -1,6 +1,6 @@
 ---
 layout: post
-category: KOMENTAR
+category: CLANKY
 title: Komentář Jaromíra Horkého: Vědeckou knihovnu čeká škrtání pracovních pozic
 date: 2020-07-20
 tags: 
