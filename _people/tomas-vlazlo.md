@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: 
 img: people/tomas-vlazlo.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: místostarosta Jeseníku, příznivec Pirátů               # kratký popis, max 160 znaků
+description: Registrovaný příznivce, místostarosta v Jeseníku               # kratký popis, max 160 znaků
 mail:
 - 
 mob:         

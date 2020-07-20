@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: 
 img: people/zdenek-schenk.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: příznivec Pirátů, archeolog          # kratký popis, max 160 znaků
+description: Registrovaný příznivce          # kratký popis, max 160 znaků
 mail:
 mob: 
 profiles:

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Komentář Jaromíra Horkého: Vědeckou knihovnu čeká škrtání pracovních pozic
+title: "Komentář Jaromíra Horkého: Vědeckou knihovnu čeká škrtání pracovních pozic"
 date: 2020-07-20
 tags: 
 - přerov
@@ -24,7 +24,6 @@ Aby knihovna byla schopná pokrýt, byť jen základní služby, bude muset zna�
 Je třeba si uvědomit, že VKOL není obyčejnou krajskou knihovnou, ale že je třetí největší knihovnou v ČR, jednou ze tří knihoven s právem povinného výtisku a knihovnou s druhým největším historickým fondem uloženým na jednom místě. Je to tedy instituce významem daleko přesahujícím hranice kraje, na což ale kraj nedbá.
 
 Je to bohužel pochopitelné. VKOL byla organizačně zařazena jako příspěvková organizace Olomouckého kraje a ten operuje s omezeným rozpočtem, z něhož by si každý rád kus uříznul. Ale je příliš snadné šetřit na veřejné službě, která nevynáší a jejíž rozsáhlou činnost už mnozí považují za samozřejmou. VKOL potřebuje zásadní podporu pro svoji činnost, jak finanční, tak personální. Stala se ale bohužel finančně podhodnocenou trafikou v područí krajského establishmentu, zatímco ministerstvo kultury je ve věci příspěvkových organizací takřka bezzubé.
-
 
 
 Toto je ztráta na blahobytu a majetku všech občanů kraje, kterou kraj způsobí nepromyšlenými škrty na špatných místech. Je třeba si uvědomit, že VKOL je v dnešní době již dlouho podfinancovaná, a především na hranici personálních možností, takže další personální škrty mohou dokonce vyústit v rozklad této nesmírně důležité instituce. Ztráta blahobytu a vzdělanosti a zhoršení konkurenceschopnosti a sociální situace, které bude muset kraj tak či ona řešit. Jak jinak než penězi.
