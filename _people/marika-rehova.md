@@ -16,4 +16,4 @@ profiles:
   twitter:         
   flickr: 
 ---
-Marika Řeháková je členkou MS Olomouc a pracuje jako zdravotník.
+Marika Řehová je členkou MS Olomouc a pracuje jako zdravotník.
