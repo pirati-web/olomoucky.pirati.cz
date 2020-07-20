@@ -4,7 +4,10 @@ category: CLANKY
 title: "Komentář Jaromíra Horkého: Vědeckou knihovnu čeká škrtání pracovních pozic"
 date: 2020-07-20
 tags: 
-- přerov
+- olomouc
+- olomoucký kraj
+- Jaromír Horký
+- kultura
 author: Jaromír Horký
 image: assets/img/articles/2020/2020-07-20-vedeckou-knihovnu-ceka-skrtani-pracovnich-pozic.jpg  #751x422 pixelu
 ---
