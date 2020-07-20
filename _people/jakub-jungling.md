@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: 
 img: people/jakub-jungling.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje               # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje, kavárník, překladatel               # kratký popis, max 160 znaků
 mail: jakub.jungling@pirati.cz
 mob: 
 profiles:
