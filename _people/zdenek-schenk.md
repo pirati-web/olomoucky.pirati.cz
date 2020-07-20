@@ -1,5 +1,5 @@
 ---
-uid: jakub.jungling
+uid: zdenek.schenk
 name:     Zdeněk Schenk     # běžně používané jméno
 fullname: Mgr. Zdeněk Schenk Ph.D.   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
