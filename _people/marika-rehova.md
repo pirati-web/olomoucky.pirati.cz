@@ -1,7 +1,7 @@
 ---
-uid: marika.rehakova
-name:     Marika Řeháková     # běžně používané jméno
-fullname: Marika Řeháková   # jméno s tituly etc.
+uid: marika.rehova
+name:     Marika Řehová     # běžně používané jméno
+fullname: Marika Řehová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position: 
