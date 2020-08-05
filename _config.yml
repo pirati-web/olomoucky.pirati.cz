@@ -12,6 +12,8 @@ description: Prosazujeme fungující moderní politiku založenou na využití t
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
 
+mediaStorage: olomoucky
+
 administrator:
   email: honza.dvorak@pirati.cz # mail kam pujdou chybove vystupy
 
@@ -93,3 +95,28 @@ fb: https://www.facebook.com/piratiOlomoucko/
 tw: piratiOlomoucko
 
 emptyArray: []
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
+    
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
