@@ -16,9 +16,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
-  - link: /pardubicke-piratske-centrum-pardupice/
+  - link: /picolo/
     name: Pirátské centrum
-    match: pardubicke-piratske-centrum-pardupice
+    match: picolo
 #  - link: /pomahame/
 #    name: Záchranný kruh
 #    match: pomahame
@@ -55,8 +55,8 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /pardubicke-piratske-centrum-pardupice/
-        name: ParduPiCe
+      - link: /picolo/
+        name: Picolo
       - link: /pomahame/
         name: Záchranný kruh
       - link: /volby-2018/
