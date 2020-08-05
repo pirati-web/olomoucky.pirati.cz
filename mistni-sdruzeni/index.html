@@ -2,7 +2,7 @@
 layout: default
 title: Místní sdružení v Olomouckém kraji
 ---
-{% include submenu.html %}
+
 {% comment %}
 <section id='regions-map'>
     <div class="row" style="background-color: lightgray;">
@@ -39,7 +39,7 @@ title: Místní sdružení v Olomouckém kraji
               <li class="c-simple-accordion-item is-active" data-accordion-item="">
                 <a href="#" class="c-simple-accordion-title">Seznam místních sdružení</a>
                 {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'mistni-sdruzeni'" %}
-                {% include team/list-3col.html param=myteams %}
+
               </li>
             </ul>
           </div>

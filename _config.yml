@@ -17,82 +17,139 @@ mediaStorage: olomoucky
 administrator:
   email: honza.dvorak@pirati.cz # mail kam pujdou chybove vystupy
 
-# Build settings
-markdown: kramdown
+administrator:
+  email: olomoucky@pirati.cz
 
-gems:
+organization:
+  name: Piráti Olomoucký kraj
+  shortName: Piráti Olomoucký kraj
+  contactUid: pavel.stepanek
+  email: olomouckykraj@pirati.cz
+  phone: +420 770 113 647
+  address: |
+    Česká pirátská strana - Krajské sdružení Olomoucký kraj
+    8. května 522/5 
+    779 00 Olomouc
+  residenceImg: https://a.pirati.cz/olomoucky/img/miscellaneous/picolo.jpg
+  mapLink: https://goo.gl/maps/nn9n5ZXHtGujt7hQA
+  redmineLink: https://redmine.pirati.cz/projects/olomoucky-kraj
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+  - type: piratiRootWebsite
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Krajský kalendář
+  id: 7r673rlh255oforhv3oeb2l0g0@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=0014epo7k8kbgpgq3gaudeodnc%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
+
+facebook:
+  loadSDK: true
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: https://www.facebook.com/piratiOlomoucko/
+  profilePageName: Piráti - Olomoucký kraj
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: piratiOlomoucko
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/viewforum.php?f=80
+
+github:
+  url: https://github.com/pirati-web/olomoucky.pirati.cz/
+  branch: master
+
+
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
+markdown: kramdown
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-redirect-from
-paginate_path: "aktuality/:num/"
-paginate: 11
-
-timezone: Europe/Prague
+  - jekyll-environment-variables
+paginate_path: "/aktuality/:num/"
+paginate: 12
 
 exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - bower.json
-  - gulpfile.js
-  - node_modules
-  - bower_components
   - vendor
 
-sass:
-    style: compressed
-
-permalink: /tiskove-zpravy/:title.html
+permalink: /tiskove-zpravy/:title/
 collections:
   people:
     output: true
     permalink: /lide/:path/
+
   program:
-    output: false
-    permalink: /program/:path/
-  teams:
     output: true
-    permalink: /mistni-sdruzeni/:title/
-  elections:
+    permalink: /komunalni-volby/program/:path/
+
+  volby2018:
+    output: true
+    permalink: /volby-2018/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
     output: false
-    permalink: /volby/:path/
 
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
-      layout: "page"
-      rbar: "people, foto"
+      layout: "person"
+      rbar:
+        - profile
+        - people
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "program"
-  -
-    scope:
-      path: "_program/psp2017"
-    values:
-      layout: "page"
-      rbar: "program program_item"
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
-  -
-    scope:
-      path: "_elections"
-    values:
-      layout: "kandidatka"
-
-calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=0014epo7k8kbgpgq3gaudeodnc%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
-fb: https://www.facebook.com/piratiOlomoucko/
-tw: piratiOlomoucko
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 emptyArray: []
 
@@ -112,11 +169,11 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.6.2/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - _sass
-    
+
 styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
