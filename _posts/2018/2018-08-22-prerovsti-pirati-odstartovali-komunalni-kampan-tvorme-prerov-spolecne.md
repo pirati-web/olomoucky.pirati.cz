@@ -6,7 +6,7 @@ date: 2018-08-22
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2018/2018-08-22-prerovsti-pirati-odstartovali-komunalni-kampan-tvorme-prerov-spolecne.jpg  #751x422 pixelu
+image: articles/2018/2018-08-22-prerovsti-pirati-odstartovali-komunalni-kampan-tvorme-prerov-spolecne.jpg  #751x422 pixelu
 ---
 Čelní kandidáti koalice „Společně pro Přerov a Piráti“ odstartovali předvolební kampaň na náměstí T. G. Masaryka akcí „Neschováváme se, jdeme s kůží na trh!“. Kandidáti přednesli své vize pro město, byl zveřejněn kompletní program „Plán pro Přerov“ a také seznam klíčových projektů.
 

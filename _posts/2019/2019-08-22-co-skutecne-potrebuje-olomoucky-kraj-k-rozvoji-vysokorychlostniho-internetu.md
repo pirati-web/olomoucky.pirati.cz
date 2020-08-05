@@ -6,7 +6,7 @@ date: 2019-08-22
 tags: 
 - olomoucký-kraj
 author: Mediální odbor
-image: assets/img/articles/2019/2019-08-22-co-skutecne-potrebuje-olomoucky-kraj-k-rozvoji-vysokorychlostniho-internetu.jpg  #751x422 pixelu
+image: articles/2019/2019-08-22-co-skutecne-potrebuje-olomoucky-kraj-k-rozvoji-vysokorychlostniho-internetu.jpg  #751x422 pixelu
 ---
 V nedávných dnech se ve veřejné diskuzi znovu objevilo téma špatné dostupnosti vysokorychlostního internetu jako jednoho z problémů, které přispívají k vylidňování venkova. Vědí ale vrcholní představitelé kraje, co je skutečnou brzdou rozvoje vysokorychlostního internetu? Nebo co pro rychlý internet mohli dávno udělat?
 

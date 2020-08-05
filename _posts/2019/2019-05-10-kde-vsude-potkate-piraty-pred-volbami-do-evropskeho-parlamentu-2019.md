@@ -6,7 +6,7 @@ date: 2019-05-10
 tags: 
 - olomoucký-kraj
 author: Mediální odbor
-image: assets/img/articles/2019/2019-05-10-kde-vsude-potkate-piraty-pred-volbami-do-evropskeho-parlamentu-2019.jpg  #751x422 pixelu
+image: articles/2019/2019-05-10-kde-vsude-potkate-piraty-pred-volbami-do-evropskeho-parlamentu-2019.jpg  #751x422 pixelu
 ---
 Olomouc, 10. 5. 2019 - Kde všude potkáte Piráty v příštích dnech? Kromě dvou skvěle nadupaných festivalů v Zábřehu a Přerově nás budete denně potkávat v ulicích Olomouce, na náměstích velkých měst, ale i městeček a vesnic v kraji.
 

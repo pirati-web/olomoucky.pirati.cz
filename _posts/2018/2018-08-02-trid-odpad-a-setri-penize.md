@@ -6,7 +6,7 @@ date: 2018-08-02
 tags: 
 - pirátská-tvrz
 author: Martin Šmída
-image: assets/img/articles/2018/2018-08-02-trid-odpad-a-setri-penize.jpg   #751x422 pixelu
+image: articles/2018/2018-08-02-trid-odpad-a-setri-penize.jpg   #751x422 pixelu
 ---
 Vyspělost civilizace se pozná, krom jiného, také podle toho, jak nakládá se svými odpady. V České republice jsme celkem úspěšní ve třídění plastů. Co se však týče dalšího zpracování a recyklace jiných odpadů, tam už trochu pokulháváme. Je naplánováno postupné zvyšování poplatků za skládkování ze současných 500 Kč za tunu až na 2 000 Kč za tunu, které má vyvrcholit úplným zákazem skládkování neupraveného odpadu v roce 2024. Dále jsme se zavázali výrazně snížit poměr biologicky rozložitelné složky ve směsném komunálním odpadu, jinak našemu státu hrozí tučné pokuty. Jednoznačným cílem tedy je, aby směsného komunálního odpadu bylo co nejméně. Toho lze docílit jedině poctivým tříděním všech recyklovatelných složek odpadu, tedy plastů, papíru, tetrapakových obalů, skla, kovů, elektroodpadu, textilu a kompostovatelného i oodpadu ze zahrady i kuchyně.
 

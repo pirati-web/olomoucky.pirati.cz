@@ -5,7 +5,7 @@ title: Piráti v Přerově už potřetí získali podporu v participativním roz
 date: 2015-01-13
 tags: přerov
 author: Tomáš Karlík
-image: assets/img/articles/2015/2015-01-13-pirati-v-prerove-uz-potreti-ziskali-podporu-v-participativnim-rozpoctu.jpg   #751x422 pixelu
+image: articles/2015/2015-01-13-pirati-v-prerove-uz-potreti-ziskali-podporu-v-participativnim-rozpoctu.jpg   #751x422 pixelu
 ---
 S projektem do [participativního rozpočtování](https://wiki.pirati.cz/fo/navody/participativni_rozpocet) přišli přerovští Piráti začátkem roku 2014, kdy přihlásili záměr [Likvidace černé skládky a přestavba na víceúčelový sportovní areál u Tovačova](https://wiki.pirati.cz/fo/rozpocty/participativni/prihlasky/viceucelova_trat_tovacov). Projekty participativního rozpočtování umožňují každému z Pirátů, navrhnout svůj vlastní projekt s veřejně prospěšným záměrem a ucházet se o hlasy ostatních členů strany. Ti mohou vybírat z celé řady [pirátských projektů](https://wiki.pirati.cz/fo/rozpocty/participativni/prihlasky/start)! Náš první záměr získal podporu 9 000 Kč a za tyto peníze se postupně podařilo vybudovat sjízdnou trať pro místní pitbikery. Za peníze z dalších dvou kol se daří částečně odklízet/třídit odpad a zamezovat dalšímu rozšiřování skládky.
 

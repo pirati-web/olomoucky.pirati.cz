@@ -6,7 +6,7 @@ date: 2018-09-06
 tags: 
 - picolo
 author: Mediální odbor
-image: assets/img/articles/2018/2018-09-06-program-piratskeho-centra-picolo-na-zari-2018.jpg  #751x422 pixelu
+image: articles/2018/2018-09-06-program-piratskeho-centra-picolo-na-zari-2018.jpg  #751x422 pixelu
 ---
 Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5, v měsíci září 2018.
 

@@ -5,7 +5,7 @@ title: Piráti v Olomouckém kraji mají nové vedení
 date: 2016-12-05
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: assets/img/articles/2016/2016-12-05-pirati-v-olomouckem-kraji-maji-nove-vedeni.jpg   #751x422 pixelu
+image: articles/2016/2016-12-05-pirati-v-olomouckem-kraji-maji-nove-vedeni.jpg   #751x422 pixelu
 ---
 U Pirátů je zvykem, že vedoucí představitelé po volbách skládají funkce, aby se o ně případně znovu ucházeli. Nyní po volbách do krajů, krajské předsednictvo Pirátů rezignovalo a nové krajské předsednictvo bylo kompletně obměněno.
 

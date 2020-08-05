@@ -5,7 +5,7 @@ title: Pozvánka na srpnové zasedání 11. 8. 2012
 date: 2012-08-10
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: assets/img/articles/2012/2012-08-10-pozvanka-na-srpnove-zasedani-11-08-2012.jpg   #751x422 pixelu
+image: articles/2012/2012-08-10-pozvanka-na-srpnove-zasedani-11-08-2012.jpg   #751x422 pixelu
 ---
 Vážení členové a příznivci, krajské předsednictvo vás tímto zve na každoměsíční zasedání olomouckého krajského sdružení Pirátů.
 

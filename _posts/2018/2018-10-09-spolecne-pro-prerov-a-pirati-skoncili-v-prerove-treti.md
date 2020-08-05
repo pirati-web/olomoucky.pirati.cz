@@ -6,7 +6,7 @@ date: 2018-10-09
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2018/2018-10-09-spolecne-pro-prerov-a-pirati-skoncili-v-prerove-treti.jpg  #751x422 pixelu
+image: articles/2018/2018-10-09-spolecne-pro-prerov-a-pirati-skoncili-v-prerove-treti.jpg  #751x422 pixelu
 ---
 V letošních komunálních volbách do zastupitelstva města Přerova jsme jako koalice Společně pro Přerov a Piráti skončili se ziskem 11,47 % jako třetí nejsilnější subjekt a máme tak čtyři mandáty. 
 

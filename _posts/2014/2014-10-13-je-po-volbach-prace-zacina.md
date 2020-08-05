@@ -5,7 +5,7 @@ title: Je po volbách, práce začíná
 date: 2014-10-13
 tags: olomoucký-kraj
 author: Martin Šmída
-image: assets/img/articles/2014/2014-10-13-je-po-volbach-prace-zacina.jpg   #751x422 pixelu
+image: articles/2014/2014-10-13-je-po-volbach-prace-zacina.jpg   #751x422 pixelu
 ---
 Tak jako po celé republice, i v Olomouckém kraji zaznamenali Piráti a koalice s účastí Pirátů viditelné úspěchy, byť někde měly trochu hořkou příchuť. Např. v Přerově získala koalice Společně pro Přerov 20% hlasů, ale Pirát Martin Švadlenka se těsně nedostal a je prvním náhradníkem.
 

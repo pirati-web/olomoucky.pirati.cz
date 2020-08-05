@@ -5,7 +5,7 @@ title: Piráti se sjedou do Přerova nejen za prací, ale i za zábavou
 date: 2014-06-11
 tags: přerov
 author: Roman Kümmel
-image: assets/img/articles/2014/2014-06-11-pirati-se-sjedou-do-prerova-nejen-za-praci-ale-i-za-zabavou.jpg   #751x422 pixelu
+image: articles/2014/2014-06-11-pirati-se-sjedou-do-prerova-nejen-za-praci-ale-i-za-zabavou.jpg   #751x422 pixelu
 ---
 O víkendu 28.-29. června 2014 se v Přerově v [restaurantu Vista](http://www.vistarestaurant.cz) uskuteční mezikrajové setkání členů a příznivců Pirátské strany, aby si mezi sebou vzájemně vyměnili zkušenosti a prodiskutovali možnosti vzájemné spolupráce.
 

@@ -5,7 +5,7 @@ title: Olomoučtí Piráti hledají placené zástupce do volebních komisí
 date: 2012-05-02
 tags: olomoucký-kraj
 author: Vlastimil Holík
-image: assets/img/articles/2012/2012-05-02-olomoucti-pirati-hledaji-placene-zastupce-do-volebnich-komisi.jpg   #751x422 pixelu
+image: articles/2012/2012-05-02-olomoucti-pirati-hledaji-placene-zastupce-do-volebnich-komisi.jpg   #751x422 pixelu
 ---
 Olomouc - 2.5.2012 - informace České pirátské strany Olomouckého kraje. Jak jistě víte, letošní rok je rokem volebním. Na podzim nás čekají krajské a v některých obvodech i senátní volby. Protože hodláme prosazovat myšlenky absolutní transparence a přímé demokracie i na krajské úrovni, je účast Pirátů v krajských volbách samozřejmá.
 

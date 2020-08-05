@@ -5,7 +5,7 @@ title: Místní sdružení Olomouc zahajuje svou činnost
 date: 2014-05-14
 tags: olomouc
 author: Roman Kümmel
-image: assets/img/articles/2014/2014-05-14-mistni-sdruzeni-olomouc-zahajuje-svou-cinnost.jpg   #751x422 pixelu
+image: articles/2014/2014-05-14-mistni-sdruzeni-olomouc-zahajuje-svou-cinnost.jpg   #751x422 pixelu
 ---
 Od prosince 2013 založili Piráti v Olomouckém kraji již  tři místní sdružení: Prostějovské, Přerovské a Pirátskou Tvrz (Majetín, Grygov, Brodek u Přerova, Krčmaň, Kokory, Rokytnice, Císařov a Citov). Vznik samostaného místního sdružení v hanácké metropoli byl tedy na snadě.
 

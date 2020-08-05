@@ -6,7 +6,7 @@ date: 2020-03-10
 tags: 
 - olomouc 
 author: Viktor Tichák
-image: assets/img/articles/2020/2020-03-10-krida-postrach-olomouce.jpg  #751x422 pixelu
+image: articles/2020/2020-03-10-krida-postrach-olomouce.jpg  #751x422 pixelu
 ---
 Olomouc, 10. března 2020 - Město Olomouc, potažmo její vládnoucí koalice, má hrůzu z křídy na chodníku. Jak jinak si vysvětlit, že po happeningu na třídě 8. května, kdy mimořádné čištění proběhlo chvíli před vydatným deštěm, znovu vadil křídou psaný nápis, tentokrát před budovou magistrátu. Nyní obdobná situace nastala kvůli vzkazu Klimatické koalice Olomouc olomouckým zastupitelům. 
 

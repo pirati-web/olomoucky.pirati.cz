@@ -6,7 +6,7 @@ date: 2020-06-19
 tags: 
 - olomouc 
 author: Jirka Beneš
-image: assets/img/articles/2020/2020-06-19-navsteva-premiera-babise-obyvatele-unicovska-pred-dalsimi-bleskovymi-povodnemi-neochrani.jpg #751x422 pixelu
+image: articles/2020/2020-06-19-navsteva-premiera-babise-obyvatele-unicovska-pred-dalsimi-bleskovymi-povodnemi-neochrani.jpg #751x422 pixelu
 redirect_from:
   - /tiskove-zpravy/navsteva-babise-obyvatele-unicovska-pred-bleskovymi-povodnemi-neochrani.html
 ---

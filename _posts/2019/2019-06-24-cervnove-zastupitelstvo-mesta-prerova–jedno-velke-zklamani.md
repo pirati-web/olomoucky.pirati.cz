@@ -6,7 +6,7 @@ date: 2019-06-24
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2019/2019-06-24-cervnove-zastupitelstvo-mesta-prerova–jedno-velke-zklamani.jpg  #751x422 pixelu
+image: articles/2019/2019-06-24-cervnove-zastupitelstvo-mesta-prerova–jedno-velke-zklamani.jpg  #751x422 pixelu
 ---
 Přerov, 24. 6. 2019 - V pondělí 17. června se v Přerově v Městském domě odehrálo již 6. zasedání Zastupitelstva města Přerova. Kromě majetkových a finančních záležitostí se dostaly na program také námi iniciované body. Revitalizace pasáže v centru města nebo vznik zemníku v Žeravicích. 
 

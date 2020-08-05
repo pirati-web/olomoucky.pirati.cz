@@ -5,7 +5,7 @@ title: 17. listopad - Den boje za svobodu a demokracii
 date: 2011-11-14
 tags: olomoucký-kraj
 author: Petr Kopač
-image: assets/img/articles/2011/2011-11-14-17-listopad-den-boje-za-svobodu-a-demokracii.jpg   #751x422 pixelu
+image: articles/2011/2011-11-14-17-listopad-den-boje-za-svobodu-a-demokracii.jpg   #751x422 pixelu
 ---
 Datum a čas konání: Čtvrtek, 17. listopadu 2011 - 12:00-21:30. Místo konání: Olomouc, Přerov a Prostějov. Adresa místa konání: centra měst - náměstí.
 

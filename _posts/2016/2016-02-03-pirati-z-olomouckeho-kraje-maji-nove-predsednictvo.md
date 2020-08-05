@@ -5,7 +5,7 @@ title: Piráti z Olomouckého kraje mají nové předsednictvo
 date: 2016-02-03
 tags: olomoucký-kraj
 author: Martin Šmída
-image: assets/img/articles/2016/2016-02-03-pirati-z-olomouckeho-kraje-maji-nove-predsednictvo.jpg   #751x422 pixelu
+image: articles/2016/2016-02-03-pirati-z-olomouckeho-kraje-maji-nove-predsednictvo.jpg   #751x422 pixelu
 ---
 Členové České pirátské strany v Olomouckém kraji si na svém internetovém fóru zvolili nové tříčlenné předsednictvo. To předešlé rezignovalo po dvou letech svého působení, neboť tak je to u Pirátů zvykem, že si jednou za čas volení funkcionáři ověří, zda mají stále podporu.
 

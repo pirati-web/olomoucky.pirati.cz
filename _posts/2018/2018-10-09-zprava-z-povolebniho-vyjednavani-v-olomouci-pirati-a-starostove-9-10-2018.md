@@ -6,7 +6,7 @@ date: 2018-10-09
 tags: 
 - olomouc
 author: Mediální odbor
-image: assets/img/articles/2018/2018-10-09-zprava-z-povolebniho-vyjednavani-v-olomouci-pirati-a-starostove-9-10-2018.jpg  #751x422 pixelu
+image: articles/2018/2018-10-09-zprava-z-povolebniho-vyjednavani-v-olomouci-pirati-a-starostove-9-10-2018.jpg  #751x422 pixelu
 ---
 Olomouc, 9. 10. 2018 - Koalice Pirátů a Starostů už od začátku volebních vyjednávání spolupracuje s ProOlomouc. Programová blízkost těchto dvou hnutí je naprosto zřejmá, proto se utvoření tohoto dvojbloku nabízelo. Poté, co byly sečteny všechny hlasy, obdrželi zástupci Pirátů a Starostů v čele s lídrem Hynkem Melicharem pozvání od hnutí ANO. Zde reprezentovali celý dvojblok a vize jak Pirátů a Starostů, tak ProOlomouc, a to již v noci ze soboty na neděli. Zástupci ProOlomouc se s hnutím ANO sešli následujícího dne dopoledne a tuto jednotu potvrdili. Aby mohli Piráti a Starostové i ProOlomouc prosazovat své vize ve městě, preferují společnou většinu v Radě města.
 

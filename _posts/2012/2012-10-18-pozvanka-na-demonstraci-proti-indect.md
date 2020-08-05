@@ -5,7 +5,7 @@ title: Pozvánka na demonstraci proti INDECT
 date: 2012-10-18
 tags: olomouc
 author: Vojtěch Pikal
-image: assets/img/articles/2012/2012-10-18-pozvanka-na-demonstraci-proti-indect.jpg   #751x422 pixelu
+image: articles/2012/2012-10-18-pozvanka-na-demonstraci-proti-indect.jpg   #751x422 pixelu
 ---
 Vážení členové a příznivci, dovolujeme si vás tímto pozvat na protestní shromáždění proti projektu INDECT.
 

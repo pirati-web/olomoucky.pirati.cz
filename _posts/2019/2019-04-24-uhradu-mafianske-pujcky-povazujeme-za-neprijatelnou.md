@@ -6,7 +6,7 @@ date: 2019-04-24
 tags: 
 - prostějov
 author: Mediální odbor
-image: assets/img/articles/2019/2019-04-24-uhradu-mafianske-pujcky-povazujeme-za-neprijatelnou.jpg  #751x422 pixelu
+image: articles/2019/2019-04-24-uhradu-mafianske-pujcky-povazujeme-za-neprijatelnou.jpg  #751x422 pixelu
 ---
 Prostějov, 24. 4. 2019 - V úterý 16. dubna 2019 se v médiích objevila zpráva, že Olomoucký kraj a město Prostějov hodlají formou mimořádného členského příspěvku do spolku Prostějov olympijský ve výši 6 a 6 milionů splatit ústní půjčku vůči třetímu členovi spolku – tenisového klubu.
 

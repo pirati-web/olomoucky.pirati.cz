@@ -6,7 +6,7 @@ date: 2018-09-08
 tags: 
 - olomoucký-kraj
 author: Jan Dvořák
-image: assets/img/articles/2018/2018-09-08-zarijove-piratske-listy-jsou-tu.jpg  #751x422 pixelu
+image: articles/2018/2018-09-08-zarijove-piratske-listy-jsou-tu.jpg  #751x422 pixelu
 ---
 Olomouc, 8. 9. 2018 – Zářijové předvolební Pirátské listy jsou tu! Tištěná verze bude distribuována během září ve všech městech a obcích Olomouckého kraje, kde Piráti kandidují. A co zajímavého se v nich dočtete? O tom je dnešní článek.
 

@@ -6,7 +6,7 @@ date: 2018-05-01
 tags: 
 - hranicko
 author: Hynek Kliment
-image: assets/img/articles/2018/2018-05-01-pirati-vyhlasili-hranicim-parley.jpg   #751x422 pixelu
+image: articles/2018/2018-05-01-pirati-vyhlasili-hranicim-parley.jpg   #751x422 pixelu
 ---
 Hranice, 1. 5. 2018 - V sobotu 28. dubna se jinak poklidné náměstí v Hranicích probralo z letargie a zažilo doposud velmi neobvyklou událost. Masarykovo náměstí se totiž proměnilo ve veřejné diskusní fórum, které uspořádali Piráti Olomouckého kraje společně s přípravným výborem Pirátů v Hranicích.
 

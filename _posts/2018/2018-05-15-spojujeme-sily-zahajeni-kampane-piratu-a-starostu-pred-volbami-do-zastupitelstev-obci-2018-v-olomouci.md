@@ -6,7 +6,7 @@ date: 2018-05-15
 tags: 
 - olomouc
 author: Mediální odbor
-image: assets/img/articles/2018/2018-05-15-spojujeme-sily-zahajeni-kampane-piratu-a-starostu-pred-volbami-do-zastupitelstev-obci-2018-v-olomouci.jpg   #751x422 pixelu
+image: articles/2018/2018-05-15-spojujeme-sily-zahajeni-kampane-piratu-a-starostu-pred-volbami-do-zastupitelstev-obci-2018-v-olomouci.jpg   #751x422 pixelu
 ---
 Olomouc, 15. 5. 2018 - Česká pirátská strana a hnutí Starostové a nezávislí se rozhodli spojit síly a zkušenosti a vytvořit společnou kandidátku pro komunální volby 2018 v Olomouci, která ponese název Piráti a Starostové.
 

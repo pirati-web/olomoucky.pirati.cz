@@ -6,7 +6,7 @@ date: 2018-12-14
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2018/2018-12-14-treti-zastupitelstvo-treti-davka-soku.jpg  #751x422 pixelu
+image: articles/2018/2018-12-14-treti-zastupitelstvo-treti-davka-soku.jpg  #751x422 pixelu
 ---
 Přerov, 14. 12. 2018 - V pondělí 10. prosince se konalo třetí a zároveň letos poslední jednání zastupitelstva města Přerova. Koalice ANO + ODS + (KDU-ČSL + TOP09) nás nepřestává šokovat. Největší kauzou byla pochopitelně obžaloba Marka Dostála (ODS), který již ve čtvrtek avizoval všem médiím, že ukončuje své členství v radě. Muže ovšem dělají činy, nikoli slova, a proto je zarážející, že tolik proklamované čtvrteční vzdání se funkce v pátek na jednání rady města neplatilo a Marek Dostál se jí běžně zúčastnil a hlasoval. Svou funkci složil až v pondělí. Společně pro Přerov a Piráti u trestně obžalovaných politiků vždy požadují odstoupení z výkonných funkcí tak, aby měli prostor se obhájit a nesnižovali tak důvěru v politiky obecně. Na základě nových skutečností, které na jednání zastupitelstva města přednesl Ing. Antonín Prachař (STAN), je však na místě, aby zastupitel Dostál zvážil své setrvání v zastupitelstvu města vůbec: je autorem podání na Krajský úřad, které mohlo zapříčinit konec akce opravy Dluhonských mostů – takto se pomáhá městu? Nadto, při uvážení všech lhůt, musel o svém obvinění z trestného činu vědět ještě před volbami a voliče o tom neinformoval. Je toto zastupitel, kterého voliči chtějí?
 

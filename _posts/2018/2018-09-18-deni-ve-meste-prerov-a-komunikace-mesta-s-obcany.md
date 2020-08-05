@@ -6,7 +6,7 @@ date: 2018-09-18
 tags: 
 - přerov
 author: Jaromír Horký
-image: assets/img/articles/2018/2018-09-18-deni-ve-meste-prerov-a-komunikace-mesta-s-obcany.jpg  #751x422 pixelu
+image: articles/2018/2018-09-18-deni-ve-meste-prerov-a-komunikace-mesta-s-obcany.jpg  #751x422 pixelu
 ---
 V Přerově se koná mnoho kulturních akcí pořádaných ať už městem nebo soukromými provozovateli. Zjistit rychle, jednoduše a přehledně, kam zajít, už ale tak snadné není.
 

@@ -6,7 +6,7 @@ date: 2019-09-20
 tags: 
 - olomouc
 author: Jakub Knápek
-image: assets/img/articles/2019/2019-09-20-olomoucky-hokej-polopravdy-manipulace-a-fakta.jpg  #751x422 pixelu
+image: articles/2019/2019-09-20-olomoucky-hokej-polopravdy-manipulace-a-fakta.jpg  #751x422 pixelu
 ---
 Na posledním zastupitelstvu se nám podařilo prosadit důležitý bod, který v původním návrhu chyběl: 6. ZMO ukládá věcně příslušnému náměstkovi připravit transparentní výběr nájemce zimního stadionu.
 

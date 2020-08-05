@@ -6,7 +6,7 @@ date: 2018-11-06
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2018/2018-11-06-prerov-zacalo-to.jpg  #751x422 pixelu
+image: articles/2018/2018-11-06-prerov-zacalo-to.jpg  #751x422 pixelu
 ---
 Dne 5. 11. od 15 hodin proběhlo ustavující zasedání Zastupitelstva města Přerova. Byl zvolen nový primátor, jeho náměstci a rada města – bez podpory Společně pro Přerov a Pirátů. Jedním z důvodů bylo chybějící programové prohlášení, podle kterého bychom mohli zhodnotit vizi koalice. Domníváme se, že se jedná o návrat starých struktur do města. Našim cílem je nyní být tvrdou, avšak konstruktivní opozicí.
 

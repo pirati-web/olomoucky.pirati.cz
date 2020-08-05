@@ -5,7 +5,7 @@ title: Krajský puč
 date: 2012-04-30
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: assets/img/articles/2012/2012-04-30-krajsky-puc.jpg   #751x422 pixelu
+image: articles/2012/2012-04-30-krajsky-puc.jpg   #751x422 pixelu
 ---
 Olomouc, 30.4.2012. U Olomouckých pirátů proběhl puč! Krajské sdružení Olomouckých Pirátu náhle změnilo vedení. Za člena strany čerstvě přijatý Vojtěch Pikal, který jako registrovaný příznivec už půl roku pracuje v kontrolní komisi Pirátů provedl prověrku legitimity stávajícího vedení a zjistil, že již v minulosti mělo dle stanov dojít ke kolektivní rezignaci celého předsednictva. Jeho konstatování tedy stačilo, aby byl stávajícímu vedení odňat mandát a vyhlášena nová volba.
 

@@ -6,7 +6,7 @@ date: 2019-09-05
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2019/2019-09-05-alibismus-a-strach-z-navrhu-opozice-i-tak-by-se-dalo-popsat-7-zastupitelstvo-mesta-prerova.jpg  #751x422 pixelu
+image: articles/2019/2019-09-05-alibismus-a-strach-z-navrhu-opozice-i-tak-by-se-dalo-popsat-7-zastupitelstvo-mesta-prerova.jpg  #751x422 pixelu
 ---
 Na prázdninovém zasedání Zastupitelstva města Přerova zastupitelé projednávali spoustu důležitých materiálů, některé z nich jsme sami předkládali v souladu s našim předvolebním Plánem pro Přerov. Krátký souhrn zastupitelstva si nyní můžete přečíst.
 

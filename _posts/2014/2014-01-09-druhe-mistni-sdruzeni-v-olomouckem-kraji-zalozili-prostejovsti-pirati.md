@@ -5,7 +5,7 @@ title: Druhé místní sdružení v Olomouckém kraji založili prostějovští 
 date: 2014-01-09
 tags: prostějov
 author: Roman Kümmel
-image: assets/img/articles/2014/2014-01-09-druhe-mistni-sdruzeni-v-olomouckem-kraji-zalozili-prostejovsti-pirati.jpg   #751x422 pixelu
+image: articles/2014/2014-01-09-druhe-mistni-sdruzeni-v-olomouckem-kraji-zalozili-prostejovsti-pirati.jpg   #751x422 pixelu
 ---
 Během výjezdního zasedání krajského fóra a předsednictva krajského sdružení, které se konalo ve čtvrtek 9.1.2014 v Prostějově v restauraci U Hudečků, proběhla také ustavující schůze místního sdružení Prostějov.
 
