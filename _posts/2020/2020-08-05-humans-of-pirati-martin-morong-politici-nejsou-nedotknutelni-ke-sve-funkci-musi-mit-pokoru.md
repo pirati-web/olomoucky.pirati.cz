@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Humans of Piráti: Martin Morong: Politici nejsou nedotknutelní ke své funkci musí mít pokoru"
+title: "Humans of Piráti: Martin Morong: Politici nejsou nedotknutelní, ke své funkci musí mít pokoru"
 date: 2020-08-05
 tags: 
 - olomoucký-kraj
