@@ -20,7 +20,7 @@ profiles:
 ordmis: 4
 ordpre: 2
 ---
-Jaromír Horký (* 15. března 1998) je 1. místopředsedou KS Olomouckého kraje a předseda MS Přerov. Pracuje jako krajská mediální spojka a volební manažer Pirátů Zlínského kraje. Jedním z hlavních příčin vstupu do Pirátské strany byl čím dál tím větší nezájem populace, a to zejména mladé části společnosti o politiku. Věří, že Pirátská strana díky svému protikorupčnímu a transparentnímu programu, který sama na sobě aplikuje, může změnit pohled lidí na politiku jako takovou. Chce se na tom podílet.
+Jaromír Horký (* 15. března 1998) je 1. místopředsedou KS Olomouckého kraje a předseda MS Přerov. Pracuje jako krajská mediální spojka a volební manažer Pirátů Zlínského kraje. Je garantem programového bodu kultura a členem krajských expertní týmu pro sport a transparetnost. Jedním z hlavních příčin vstupu do Pirátské strany byl čím dál tím větší nezájem populace, a to zejména mladé části společnosti o politiku. Věří, že Pirátská strana díky svému protikorupčnímu a transparentnímu programu, který sama na sobě aplikuje, může změnit pohled lidí na politiku jako takovou. Chce se na tom podílet.
 
 Tři roky studoval právo na Právnické fakultě Masarykovy univerzity a aktuálně je zapsán v kombinované formě studia Teorie interaktivních médií na Filozofické fakultě na téže univerzitě. Je hrdý přerovák, kterému není Přerov lhostejný, ba naopak! Snaží se vnést do města pohled mladého člověka s rozhledem, který se rád inspiruje různě po Česku nebo v zahraničí. 
 
