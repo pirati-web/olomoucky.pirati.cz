@@ -28,4 +28,4 @@ Od dubna 2017 se stal členem Pirátské strany a zároveň 1. místopředsedou 
 
 Je aktivním občanem, hraje výkonnostně fotbal, kde je také vedoucím a kapitánem klubu. Dále je mj. redaktorem hudebního magazínu, spolupořádá koncerty (např. už tři ročníky VyOsení v Brodku u Přerova) a další kulturní a sportovní akce.
 
-Pracuje jako manager obchodu. Je ženatý, má dvě dcery.
+Pracuje jako manager obchodu. Je ženatý, má tři dcery.
