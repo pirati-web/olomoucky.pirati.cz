@@ -4,7 +4,7 @@ name:    Alena Rosíková     # běžně používané jméno
 fullname: Alena Rosíková   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
-position: Místopředskyně krajského sdružení
+position: Místopředskyně místního sdružení
 img: people/alena-rosikova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: 1. místopředsedkyně místního sdružení Hranicko             # kratký popis, max 160 znaků
@@ -17,3 +17,5 @@ profiles:
   flickr: 
 ---
 Alena Rosíková je členka MS Hranicko.
+
+Pochází z Lipníka nad Bečvou. Vystudovala jsem SOŠ Gastronomie a služeb. Je vdaná a má syna.
