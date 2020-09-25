@@ -16,4 +16,6 @@ profiles:
   twitter:         
   flickr: 
 ---
-Alena Rosíková je členka MS Hranicko.
+Alena Rosíková(*26. 12. 1988) pochází a žije se svou rodinou v Lipníku nad Bečvou, kde je místopředsedkyní v MS Hranicko. Vystudovala SŠ Hotelnictví, gastronomie a služeb v Šilheřovicích poté roční studium anglického jazyka. Pět let se věnovala jako asistent prodeje v chovatelských potřebách o živá zvířata. Nyní ji zaměstnavají vlastní potomc. 
+Členem pirátů je od roku 2015. Sympatizuje s větší částí pirátského programu a doufá v to, že se podaří změnit budoucnost, ostatně proto kandiduje v krajských volbách na kandidátce Pirátů a Starostů.
+Ve volném čase hraje závodně šipky, věnuje se synům a domácím mazlíčkům.
