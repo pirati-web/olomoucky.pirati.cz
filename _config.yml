@@ -7,7 +7,7 @@
 
 # Site settings
 title: Piráti Olomoucký kraj
-email: olomoucko@pirati.cz
+email: olomouckykraj@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
