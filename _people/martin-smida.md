@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 position:
 img: people/martin-smida.jpg             # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje, zastupitel v Majetíně             		# kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje, zastupitel v Majetíně, krajský zastupitel v Olomouckém kraji             		# kratký popis, max 160 znaků
 mail:
 - martin.smida@pirati.cz
 mob:					721 661 311
