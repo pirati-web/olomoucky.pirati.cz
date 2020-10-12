@@ -8,7 +8,7 @@ tags:
 author: Mediální odbor
 image: assets/img/articles/2020/2020-10-12-pirati-a-starostove-spojenci–koalice-pro-olomoucky-kraj-a-ods-dnes-podepsali-memorandum-o-vytvoreni-spolecne-koalice-v-olomouckem-kraji.jpg  #751x422 pixelu
 ---
-Po více než týdnu intenzivních jednání dnes podepsali představitelé koalice PIRÁTI a STAROSTOVÉ, SPOJENCŮ – Koalice pro Olomoucký kraj a ODS společné memorandum o vytvoření nové vládnoucí koalice v Olomouckém kraji. Novým hejtmanem Olomouckého kraje se tak stane lídr koalice PIRÁTI a STAROSTOVÉ Josef Suchánek.
+Olomouc, 12. října 2020 - Po více než týdnu intenzivních jednání dnes podepsali představitelé koalice PIRÁTI a STAROSTOVÉ, SPOJENCŮ – Koalice pro Olomoucký kraj a ODS společné memorandum o vytvoření nové vládnoucí koalice v Olomouckém kraji. Novým hejtmanem Olomouckého kraje se tak stane lídr koalice PIRÁTI a STAROSTOVÉ Josef Suchánek.
 
 PIRÁTI a STAROSTOVÉ by dle podepsaného memoranda měli kromě hejtmana obsadit ještě 3 další místa v 11 členné krajské radě. SPOJENCI – Koalice pro Olomoucký kraj by měla získat pozici prvního náměstka hejtmana a 3 další místa v radě. ODS dle memoranda získá pozici druhého náměstka hejtmana a 2 další členy rady. Vyjednavači všech tří stran budou dále jednat o rozdělení jednotlivých gescí. 
 
