@@ -10,9 +10,9 @@ img: people/zdenka-dvorakova-kocourkova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Členka KS Olomouckého kraje, krajská zastupitelka v Olomouckém kraji               # kratký popis, max 160 znaků
 mail: 
-- 
+- dvorakovakocourkova@gmail.com
 mob:         
-- 
+- 774 204 491
 profiles:
   github:
   facebook: https://www.facebook.com/zdenkadvorakovakocourkova/
