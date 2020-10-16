@@ -34,5 +34,11 @@ Jsme si jisti, že jste si těchto skutečností vědomi. I proto nás tolik př
 Děkujeme za Váš vstřícný postoj a aktivní přístup k řešení. 
 
 Za pirátský tým v Prostějově  
-Ing. Petr Lysek 
-
+Petr Lysek  
+Petr Kapounek  
+Jan Mochťák  
+Dominik Voráč  
+Ondřej Moskal  
+Miroslav Hasa  
+Jakub Šmíd  
+Milan Fládr
