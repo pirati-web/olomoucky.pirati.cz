@@ -4,7 +4,7 @@ name:     David Hošek          # běžně používáné jméno
 fullname: David Hošek   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
-- zastupitele
+- kraj-zastupitele
 position: Místopředseda místního sdružení
 img: people/david-hosek.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
@@ -16,7 +16,7 @@ profiles:
   facebook:       
   twitter:        
   flickr:  
-ordzas: 11       
+ordzas: 7      
 ---
 David Hošek (* 28. 5. 1997) je krajský zastupitel a pochází z města Přerova kde vystudoval SPŠ v oboru strojírenství. Pracuje jako plánovač výroby ve slévárně v Přerově. Je členenm kontrolního výboru statutárního města Přerova.
 
