@@ -4,6 +4,8 @@ name:     Martin Šmída      		# běžně používáné jméno
 fullname: Ing. et Ing. Martin Šmída  	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
+- majetin-zastupitele
+- kraj-zastupitele
 position:
 img: people/martin-smida.jpg             # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
@@ -17,6 +19,7 @@ profiles:
   twitter:				https://twitter.com/Martinpunkie
   flickr:				https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=martin%20%C5%A1m%C3%ADda
 ordzas: 3
+ordzask: 2
 ---
 Martin Šmída je člen republikového výboru Pirátské strany a místní zastupitel v obci Majetín. Vystudoval na VUT Brno obory Manažerská informatika, Ekonomika a řízení podniku a Realitní inženýrství na Fakultě podnikatelské a Ústavu soudního inženýrství. Během studia pořádal v Olomouci punk-rockový festival RECYKL FEST.
 
