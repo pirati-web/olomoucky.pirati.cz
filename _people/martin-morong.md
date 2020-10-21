@@ -4,7 +4,7 @@ name:     Martin Morong          # běžně používáné jméno
 fullname: MUDr. Martin Morong   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
-- zastupitele
+- kraj-zastupitele
 position: Místopředseda místního sdružení
 img: people/martin-morong.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
@@ -17,7 +17,7 @@ profiles:
   facebook: https://www.facebook.com/Moriss.Orcein.Brown   
   twitter:        
   flickr:
-ordzas: 8       
+ordzask: 5       
 ---
 Martin Morong (* 2. září 1992) je členem České pirátské strany. Narodil se v Jeseníku a žije v Olomouci. Od října 2020 je zastupitelem Olomouckého kraje za koalici Piráti a Starostové.
 

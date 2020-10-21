@@ -4,7 +4,7 @@ name:     Zdeňka Dvořáková Kocourková          # běžně používáné jm�
 fullname: Ing. Zdeňka Dvořáková Kocourková   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - sumpersko
-- zastupitele
+- kraj-zastupitele
 position: Členka KS Olomouckého kraje
 img: people/zdenka-dvorakova-kocourkova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
@@ -18,7 +18,7 @@ profiles:
   facebook: https://www.facebook.com/zdenkadvorakovakocourkova/
   twitter:        
   flickr:
-ordzas: 7       
+ordzask: 1       
 ---
 Jsem bojovnicí za efektivní nakládání s veřejnými prostředky, roky se účastním občanské iniciativy Rekonstrukce státu. V letech 2014 - 2019 jsem byla opoziční zastupitelkou města Šumperk. Chtěla bych dosáhnout maximální transparentnosti úřadu, otevřených výběrových řízení, digitalizace úřadu s cílem větší občanské spokojenosti při kontaktu s krajem, zvýšení efektivity při nakládání s veřejnými prostředky, rovnoměrného regionálního rozvoje a péče o životní prostředí. 
 
