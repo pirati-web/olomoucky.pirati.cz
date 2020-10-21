@@ -16,7 +16,7 @@ profiles:
   facebook:       
   twitter:        
   flickr:  
-ordzas: 7      
+ordzask: 7      
 ---
 David Hošek (* 28. 5. 1997) je krajský zastupitel a pochází z města Přerova kde vystudoval SPŠ v oboru strojírenství. Pracuje jako plánovač výroby ve slévárně v Přerově. Je členenm kontrolního výboru statutárního města Přerova.
 
