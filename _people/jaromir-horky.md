@@ -6,7 +6,6 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 - predsedove-ms
 - predsednictvo
-- zastupitele
 - prerov-zastupitele
 - kraj-zastupitele
 position: Místopředseda krajského sdružení
