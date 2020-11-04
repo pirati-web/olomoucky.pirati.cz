@@ -4,8 +4,8 @@ category: CLANKY
 title: Piráti a Starostové hledají nového tajemníka
 date: 2020-11-04
 tags: 
-- pirati-starostove
-- olomoucky-kraj
+- piráti-a-starostové
+- olomoucký-kraj
 author: Josef Indra
 image: assets/img/articles/2020/2020-11-04-pirati-a-starostove-hledaji-tajemnika.jpg  #751x422 pixelu
 ---
