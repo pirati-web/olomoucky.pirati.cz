@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Komentář Martina Šmídy-Otrava Bečvy se musí řešit, chci jít příkladem
+title: "Komentář Martina Šmídy: Otrava Bečvy se musí řešit, chci jít příkladem"
 date: 2020-11-05
 tags: 
 - piráti-a-starostové
