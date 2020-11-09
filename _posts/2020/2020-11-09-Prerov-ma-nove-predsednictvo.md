@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Místní sdružení v Přerově si zvolilo nov předsednictvo
+title: Místní sdružení v Přerově si zvolilo nové předsednictvo
 date: 2020-11-09
 tags: 
 - přerov
