@@ -17,5 +17,3 @@ V Přerově již tradičně po volbách rezignovalo předsednictvo místního sd
 S vyjádřením Davida Hoška o samostatné kandidatuře souhlasí i nově zvolení místopředsedové Vojtěch Nezval a Vlastimil Špajs. Oba se shodují v tom, že by Piráti již mohli v příštích komunálních volbách kandidovat bez koalice Společně pro Přerov. Také vyjadřují podporu s rozšířením členské základny, nejenom ve směru ke komunálním volbám. Celé nové předsednictvo chce vytvořit kompaktní tým, založený nejen na členech, ale také v rámci jednotlivých expertních týmů vytvořit tým odborníků, kteří budou pomáhat s tvořením programu a sebeprezentací strany ve městě. 
 
 *„Novému předsednictvu přeji hodně štěstí a věřím, že se Pirátům podaří v Přerově růst i nadále, výsledek v krajských volbách tomu totiž nasvědčuje. Jsem rád, že nás lidé vnímají a oceňují naši práci, která probíhá i mimo volební kampaň,“* ukončil emeritní předseda a krajský zastupitel Jaromír Horký.
-
-mistni-sdruzeni-v-prerove-si-zvolilo-nove-predsednictvo
