@@ -16,7 +16,7 @@ profiles:
   twitter:         
   flickr: 
 ---
-Vlastimil Špajs (23.5.1990) narozen v Přerově a stále zde žije. Vyučen jako Optik. Je členem krajského expertního týmu pro oblast sociální a zdravotní. Přibližně ve dvaceti letech začal sledovat politiku. Nikdy neměl politické cíle, ale vývoj v naší zemi ho donutil přemýšlet, jestli přece jen, nemůže aspoň něco málo zlepšit k lepšímu. 
+Vlastimil Špajs (23.5.1990) narozen v Přerově a stále zde žije. Vyučen jako Optik. Je členem krajského expertního týmu pro oblast sociální a zdravotní. Přibližně ve dvaceti letech začal sledovat politiku. Nikdy neměl politické cíle, ale vývoj v naší zemi ho donutil přemýšlet, jestli přece jen, nemůže aspoň něco málo zlepšit k lepšímu. V roce 2020 se stal 2. místopředsedou MS Přerov.
 
 Sledoval různé strany a hnutí a časem se nejvíc shodl s Pirátskou stranou a díky její aktivitě se rozhodl do strany přidat. Největší své zaměření chce dát do sociální politiky a zdravotní politiky. Jako Hemofilik strávil hodně času v nemocnicích a myslí si, že pohled pacienta do světa zdravotnictví může být důležitý. Jako handicapovaný člověk je ale pro něj nejvíc důležitá sociální politika. Kde chci zúročit své postřehy na tuto oblast.
 
