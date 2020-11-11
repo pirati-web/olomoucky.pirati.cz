@@ -29,3 +29,7 @@ Kromě výuky a organizačních činností spojených s doktorským studiem půs
 Mezi jeho zájmy patří politika, hudba (člen kroměřížského sboru ZeSrandy, pravidelný divák ostravské opery, jinak doma u klavíru), jazyky (kromě angličtiny a němčiny se učí maďarsky, italsky a francouzsky), turistika, cyklistika, cestování aj.
 
 Politicky se hlásí k hodnotám liberální demokracie, v daných duelech (by) volil van der Bellena, Merkelovou, Clintonovou, Macrona a Drahoše.
+
+## Kalendář
+
+<iframe src="https://calendar.google.com/calendar/embed?src=junenud5m5ef7g9u65u5l5816s%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 1" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
