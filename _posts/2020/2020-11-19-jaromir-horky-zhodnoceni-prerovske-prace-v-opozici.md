@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Jaromír Horký:Zhodnocení Přerovské práce v opozici"
+title: "Jaromír Horký: Zhodnocení Přerovské práce v opozici"
 date: 2020-11-19
 tags: 
 - přerov
