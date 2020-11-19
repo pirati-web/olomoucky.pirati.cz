@@ -4,8 +4,8 @@ category: CLANKY
 title: "Jaromír Horký:Zhodnocení Přerovské práce v opozici"
 date: 2020-11-19
 tags: 
--přerov
--krajský-zastupitel
+- přerov
+- krajský-zastupitel
 author: Jarmír Horký
 image: assets/img/articles/2020/2020-11-19-jaromir-horky-zhodnoceni-prerovske-prace-v-opozici.jpg  #751x422 pixelu
 ---
