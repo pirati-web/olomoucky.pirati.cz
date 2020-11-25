@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti v Olomouckém kraji si zvolili nové předsednictvo
+title: Piráti v Olomouckém kraji zvolili nové předsednictvo
 date: 2020-11-25
 tags: 
 - pirati
