@@ -6,7 +6,7 @@ date: 2020-11-19
 tags: 
 - přerov
 - krajský-zastupitel
-author: Jarmír Horký
+author: Jaromír Horký
 image: assets/img/articles/2020/2020-11-19-jaromir-horky-zhodnoceni-prerovske-prace-v-opozici.jpg  #751x422 pixelu
 ---
 Jak se daří Pirátům v Přerově? Myslím si, že dobře. Ačkoliv jsme skončili v opozici, snažíme se být konstruktivní opozicí a ukázat, že i z opozice jsme schopni udělat mnoho práce.  Dařilo se nám pravidelně navrhovat body z našeho programu. Bohužel však narážíme na úděl opozice, že většinu našich návrhů zařízne koalice zdržením se hlasování. Na časové ose přehledně vidíte, kdy a co jsme udělali. Pojďme si to rozebrat.
