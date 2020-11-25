@@ -7,7 +7,7 @@ tags:
 - pirati
 - olomoucky-kraj
 author: Josef Indra
-image: assets/img/articles/2020/2020-25-11-pirati-si-v-olomouckem-kraji-zvolili-nove-predsednictvo.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-11-25-pirati-si-v-olomouckem-kraji-zvolili-nove-predsednictvo.jpg  #751x422 pixelu
 ---
 **Olomoucký kraj, 24. listopad 2020** – V Olomouckém kraji si členové krajského sdružení Pirátů zvolili nové předsednictvo. Předsedou Olomouckého kraje zůstává předseda zastupitelského klubu Pirátů a Starostů v Olomouci Viktor Tichák, který tuto funkci obhájil. 1. místopředsedou se stal krajský zastupitel  Jaromír Horký a 2. místopředsedou byl zvolen prostějovský zastupitel Petr Kapounek.
  
