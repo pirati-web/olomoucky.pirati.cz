@@ -3,7 +3,7 @@ uid: hynek.kliment
 name:     Hynek Kliment   # běžně používáné jméno
 fullname: Hynek Kliment   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- hranicko
+-
 position: 
 img: people/hynek-kliment.jpg   # 165 x 220
 description: Člen KS Olomouckého kraje          # kratký popis, max 160 znaků

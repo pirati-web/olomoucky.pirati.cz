@@ -3,11 +3,10 @@ uid: martin.svadlenka
 name:     Martin Švadlenka   # běžně používáné jméno
 fullname: Martin Švadlenka   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- prerov
 - kraj-zastupitele
-position: Místopředseda místního sdružení
+position:
 img: people/martin-svadlenka.jpg   # 165 x 220
-description: 1. místopředseda místního sdružení Přerov, krajský zastupitel v Olomouckém kraji           # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje, krajský zastupitel v Olomouckém kraji           # kratký popis, max 160 znaků
 mail: martin.svadlenka@pirati.cz
 mob:        
 profiles:

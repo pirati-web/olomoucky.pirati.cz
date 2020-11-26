@@ -3,7 +3,6 @@ uid: petr.kapounek
 name:     Petr Kapounek  	# běžně používáné jméno
 fullname: Petr Kapounek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- prostejov
 - zastupitele
 - predsednictvo
 position: Místopředseda krajského sdružení

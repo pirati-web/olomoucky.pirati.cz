@@ -3,7 +3,6 @@ uid: jaromir.horky
 name:     Jaromír Horký     # běžně používané jméno
 fullname: Jaromír Horký   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- prerov
 - predsednictvo
 - prerov-zastupitele
 - kraj-zastupitele

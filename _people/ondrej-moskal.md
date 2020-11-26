@@ -4,11 +4,13 @@ name:     Ondřej Moskal          # běžně používáné jméno
 fullname: Ondřej Moskal   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov
-position: 
+- predsedove-ms
+position: Předseda místního sdružení
 img: people/ondrej-moskal.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: Předseda místního sdružení Prostějov                # kratký popis, max 160 znaků
 mail:
+ordmis: 3
 --- 
 Jsem student Masarykovy university v Brně, obor Hospodářská politika. K Pirátské straně jsem se přidal v roce 2019, poté co jsem za ni v roce 2018 kandidoval v komunálních volbách. Už jsem nemohl nadále být součástí mlčící většiny a Pirátská strana byla jediné možné řešení. Nadchla mě její transparentnost a energie, kterou oplývá. Nyní díky Pirátům můžu zastupovat mé sousedy a spoluobčany v Osadním výboru ve Vrahovicích.
 

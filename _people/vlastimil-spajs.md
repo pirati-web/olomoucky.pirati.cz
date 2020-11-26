@@ -3,11 +3,11 @@ uid: vlastimil.spajs
 name:    Vlastimil Špajs     # běžně používané jméno
 fullname: Vlastimil Špajs  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
-position: 
+- prerov
+position: Místopředseda místního sdružení
 img: people/vlastimil-spajs.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomoucký kraj           # kratký popis, max 160 znaků
+description: 2. místopředseda místního sdružení Přerov           # kratký popis, max 160 znaků
 mail: 
 mob: 
 profiles:

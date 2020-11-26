@@ -3,7 +3,7 @@ uid: alena.dvorakova
 name:    Alena Dvořáková     # běžně používané jméno
 fullname: Alena Dvořáková   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
+- hranicko
 position: Místopředsedkyně místního sdružení
 img: people/alena-dvorakova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
