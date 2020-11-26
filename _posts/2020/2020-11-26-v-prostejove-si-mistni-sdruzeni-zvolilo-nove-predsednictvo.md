@@ -4,7 +4,7 @@ category: CLANKY
 title: V Prostějově si místní sdružení zvolilo nové předsednictvo
 date: 2020-11-26
 tags: 
-- Prostějov
+- prostějov
 author: Josef Indra
 image: assets/img/articles/2020/2020-11-26-v-prostejove-si-mistni-sdruzeni-zvolilo-nove-predsednictvo.jpg  #751x422 pixelu
 ---
