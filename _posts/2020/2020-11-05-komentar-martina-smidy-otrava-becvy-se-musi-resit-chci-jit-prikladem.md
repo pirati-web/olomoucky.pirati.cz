@@ -6,7 +6,6 @@ date: 2020-11-05
 tags: 
 - piráti-a-starostové
 - olomoucký-kraj
-- životní-prostředí
 author: Martin Šmída
 image: assets/img/articles/2020/2020-11-05-komentar-martina-smidy-otrava-becvy-se-musi-resit-chci-jit-prikladem.jpg  #751x422 pixelu
 ---

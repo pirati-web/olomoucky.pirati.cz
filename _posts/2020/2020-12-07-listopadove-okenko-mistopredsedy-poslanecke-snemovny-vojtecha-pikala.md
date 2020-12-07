@@ -4,7 +4,7 @@ category: CLANKY
 title: Listopadové okénko místopředsedy Poslanecké sněmovny Vojtěcha Pikala
 date: 2020-12-07
 tags: 
-- pirati
+- piráti
 author: Josef Indra
 image: assets/img/articles/2020/2020-12-07-listopadove-okenko-mistopredsedy-poslanecke-snemovny-vojtecha-pikala.jpg  #751x422 pixelu
 ---
