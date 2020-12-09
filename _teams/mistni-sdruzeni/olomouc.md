@@ -6,7 +6,7 @@ fullname: Místní sdružení Olomouc
 img: teams/olomouc.jpg
 leader: hynek.melichar
 deputy:
-- lucie.spacilova
+- zdenek.zak
 - martin.morong
 contact:
 - milos.zmeskal

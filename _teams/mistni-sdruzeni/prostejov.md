@@ -4,9 +4,9 @@ cid: prostejov
 name: Prostějov
 fullname: Místní sdružení Prostějov
 img: teams/prostejov.jpg
-leader: petr.lysek
+leader: ondrej.moskal
 deputy:
-- milan.fladr
+- petr.lysek
 - kuba.smid
 contact:
 - milos.zmeskal

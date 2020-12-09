@@ -4,10 +4,10 @@ cid: prerov
 name: Přerov
 fullname: Místní sdružení Přerov
 img: teams/prerov.jpg
-leader: jaromir.horky
+leader: david.hosek
 deputy:
-- martin.svadlenka
-- david.hosek
+- vojtech.nezval
+- vlastimil.spajs
 contact:
 - milos.zmeskal
 region: Přerov
