@@ -5,7 +5,7 @@ title: Piráti v Olomouckém kraji zvolili nové předsednictvo
 date: 2020-11-25
 tags: 
 - piráti
-- olomoucká-kraj
+- olomoucký-kraj
 author: Josef Indra
 image: assets/img/articles/2020/2020-11-25-pirati-v-olomouckem-kraji-si-zvolili-nove-predsednictvo.jpg  #751x422 pixelu
 redirect_from:
