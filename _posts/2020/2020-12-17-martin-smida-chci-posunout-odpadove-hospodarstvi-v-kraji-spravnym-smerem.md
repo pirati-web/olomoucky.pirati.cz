@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Martin Šmída: Chci posunout odpadové hopodářství v kraji správným směrem"
+title: "Martin Šmída: Chci posunout odpadové hospodářství v kraji správným směrem"
 date: 2020-12-17
 tags: 
 - pirati-starostove
