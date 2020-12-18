@@ -15,6 +15,6 @@ profiles:
   twitter:      
   flickr:
 ---
-Antonín Štěpán (* 5. března 1988) je členem České pirátské strany od února 2018. Od května 2018 působí jako vedoucí krajského mediálního odboru.
+Antonín Štěpán (* 5. března 1988) je členem České pirátské strany od února 2018. Od května 2018 působil do listopadu 2020 jako vedoucí krajského mediálního odboru.
 
 Vystudoval Janáčkovu konzervatoř v Ostravě, hudební obor - bicí nástroje. V současnosti pracuje jako pedagog na základní umělecké škole a je aktivním muzikantem.
