@@ -3,7 +3,7 @@ uid: josef.indra
 name:    Josef Indra     # běžně používané jméno
 fullname: Josef Indra   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
+- vedouci
 position: PR manažer
 img: people/josef-indra.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
