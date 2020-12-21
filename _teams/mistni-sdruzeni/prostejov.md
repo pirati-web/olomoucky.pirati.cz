@@ -9,7 +9,7 @@ deputy:
 - petr.lysek
 - kuba.smid
 contact:
-- milos.zmeskal
+- michal.langer
 region: Prostějov
 url: https://olomoucko.pirati.cz/mistni-sdruzeni/prostejov
 categories:

@@ -9,7 +9,7 @@ deputy:
 - vojtech.nezval
 - vlastimil.spajs
 contact:
-- milos.zmeskal
+- michal.langer
 region: Přerov
 url: https://olomoucko.pirati.cz/mistni-sdruzeni/prerov
 categories:

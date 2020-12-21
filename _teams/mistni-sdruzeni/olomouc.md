@@ -9,7 +9,7 @@ deputy:
 - zdenek.zak
 - martin.morong
 contact:
-- milos.zmeskal
+- michal.langer
 region: Olomouc
 url: https://olomoucko.pirati.cz/mistni-sdruzeni/olomouc
 categories:

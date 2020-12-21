@@ -9,7 +9,7 @@ deputy:
 - lubomir.vlcek
 - roman.vicenec
 contact:
-- milos.zmeskal
+- michal.langer
 region: Šumpersko
 url: https://olomoucko.pirati.cz/mistni-sdruzeni/sumpersko
 categories:

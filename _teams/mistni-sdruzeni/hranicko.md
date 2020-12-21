@@ -9,7 +9,7 @@ deputy:
 - alena.dvorakova
 - ladislav.rajcan
 contact:
-- milos.zmeskal
+- michal.langer
 region: Hranicko
 url: https://olomoucko.pirati.cz/mistni-sdruzeni/hranicko
 categories:

@@ -142,7 +142,7 @@ title: Kontaktní informace
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <h2>Kontakt pro veřejnost</h2>
-                {% assign team = site.people | where_exp:"item","item.uid contains 'milos.zmeskal'" | sort:"ordkontakty" %}
+                {% assign team = site.people | where_exp:"item","item.uid contains 'michal.langer'" | sort:"ordkontakty" %}
                 {% include people/list-2col.html param=team %}
             </div>
           </div>

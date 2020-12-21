@@ -9,7 +9,7 @@ deputy:
 - jan.koutny
 - vladimir.kubala
 contact:
-- milos.zmeskal
+- michal.langer
 region: Pirátská Tvrz
 url: https://olomoucko.pirati.cz/mistni-sdruzeni/piratska-tvrz
 categories:
