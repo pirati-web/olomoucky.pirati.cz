@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Vojtěch Pikal bude Pirástkým lídrem v Olomouckém kraji
+title: Vojtěch Pikal bude Pirátským lídrem v Olomouckém kraji
 date: 2020-12-22
 tags: 
 - piráti
