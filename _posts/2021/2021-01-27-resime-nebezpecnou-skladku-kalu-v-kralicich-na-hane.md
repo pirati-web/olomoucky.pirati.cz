@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Řešíme nebzpečnou skládku kalů v Kralicích na Hané
+title: Řešíme nebezpečnou skládku kalů v Kralicích na Hané
 date: 2021-01-27
 tags: 
 - piráti
