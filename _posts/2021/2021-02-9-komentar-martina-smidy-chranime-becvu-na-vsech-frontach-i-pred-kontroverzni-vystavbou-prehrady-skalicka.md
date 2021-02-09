@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Komentář Martina Šmídy: Chráníme Bečvu na všech frontách.I před kontroverzní výstavbou přehrady Skalička."
+title: "Komentář Martina Šmídy: Chráníme Bečvu na všech frontách. I před kontroverzní výstavbou přehrady Skalička."
 date: 2021-02-9
 tags: 
 - piráti
