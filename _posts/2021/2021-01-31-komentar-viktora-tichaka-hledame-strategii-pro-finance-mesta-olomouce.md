@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Komentář Víktora Ticháka: Hledáme strategii pro finance města Olomouce"
+title: "Komentář Viktora Ticháka: Hledáme strategii pro finance města Olomouce"
 date: 2021-01-31
 tags: 
 - piráti
