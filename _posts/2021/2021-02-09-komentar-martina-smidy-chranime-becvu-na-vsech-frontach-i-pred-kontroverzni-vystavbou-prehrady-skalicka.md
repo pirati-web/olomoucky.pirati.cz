@@ -2,12 +2,12 @@
 layout: post
 category: CLANKY
 title: "Komentář Martina Šmídy: Chráníme Bečvu na všech frontách. I před kontroverzní výstavbou přehrady Skalička."
-date: 2021-02-9
+date: 2021-02-09
 tags: 
 - piráti
 - přerov
 author: Josef Indra
-image: assets/img/articles/2021/2021-02-9-komentar-martina-smidy-chranime-becvu-na-vsech-frontach-i-pred-kontroverzni-vystavbou-prehrady-skalicka.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-02-09-komentar-martina-smidy-chranime-becvu-na-vsech-frontach-i-pred-kontroverzni-vystavbou-prehrady-skalicka.jpg  #751x422 pixelu
 ---
 Skaličce se věnujeme dlouhodobě, v květnu loňského roku Piráti Olomouckého kraje upozornili na rozporuplné vyjádření ministra zemědělství Miroslava Tomana, který vodní nádrž Skalička popisoval jako prostředek boje se suchem. Současná koncepce přitom s přehradou počítá jako s protipovodňovým opatřením. 
 

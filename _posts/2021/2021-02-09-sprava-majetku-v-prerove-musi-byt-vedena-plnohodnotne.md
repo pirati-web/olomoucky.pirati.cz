@@ -2,12 +2,12 @@
 layout: post
 category: CLANKY
 title: Správa majetku v Přerově musí být vedena plnohodnotně
-date: 2021-02-9
+date: 2021-02-09
 tags: 
 - piráti
 - přerov
 author: Josef Indra
-image: assets/img/articles/2021/2021-02-9-sprava-majetku-v-prerove-musi-byt-vedena-plnohodnotne.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-02-09-sprava-majetku-v-prerove-musi-byt-vedena-plnohodnotne.jpg  #751x422 pixelu
 ---
 **V pondělí 8. února 2021 se konalo zastupitelstvo města Přerova. Dosavadní náměstek primátora se svého postu sice vzdal, ale činnost bude vykonávat dál jako neuvolněný radní. K tomu je totiž zároveň náměstka hejtmana Olomouckého kraje Michala Záchy. Za koalici Společně pro Přerov a Piráty situaci hodnotí zastupitel Jan Horký. *„Vedení správy majetku města Přerova nemůže být vykonávána jako volnočasová aktivita radního pana Záchy,”* uvádí Horký.** 
 
