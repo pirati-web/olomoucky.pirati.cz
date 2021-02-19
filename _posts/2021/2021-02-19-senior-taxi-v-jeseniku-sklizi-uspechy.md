@@ -5,7 +5,6 @@ title: Senior taxi v Jeseníku sklízí úspěchy
 date: 2021-02-19
 tags: 
 - piráti
-- jeseník
 author: Josef Indra
 image: assets/img/articles/2021/2021-02-19-senior-taxi-v-jeseniku-sklizi-uspechy.jpg  #751x422 pixelu
 ---
