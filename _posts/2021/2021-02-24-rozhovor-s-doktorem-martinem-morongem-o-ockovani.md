@@ -5,7 +5,6 @@ title: Rozhovor s doktorem Martinem Morongem o očkování
 date: 2021-02-24
 tags: 
 - piráti
-– olomouc
 author: Josef Indra
 image: assets/img/articles/2021/2021-02-24-rozhovor-s-doktorem-martinem-morongem-o-ockovani.jpg  #751x422 pixelu
 ---
