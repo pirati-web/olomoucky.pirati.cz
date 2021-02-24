@@ -30,5 +30,18 @@ V roce 2012 poprvé kandiduje za Českou Pirátskou stranu v krajských volbách
 Na zasedání celostátního fóra Pirátů byl v dubnu 2016 zvolen 2. místopředsedou České Pirátské strany. Zapojuje se dobrovolnicky i do volebního výboru pro volby do poslanecké sněmovny, kde rovněž kandiduje. V Olomouckém kraji je zvolen Vojtěch Pikal a Martin Šmída se stává jeho náhradníkem.
 
 Následně je členy Pirátů zvolen do republikového výboru strany a opouští tak místo v předsednictvu. V roce 2018 pak v komunálních volbách obhajuje svůj mandát v majetínském zastupitelstvu. Nadále dobrovolnicky pracuje v pirátském expertním týmu pro životní prostředí a účastní se několika sněmovních seminářů o odpadovém hospodářství. V roce 2019 je pak iniciátorem, zakladatelem a následně zvoleným místopředsedou Kompostářské asociace – KompAs.
+
 V roce 2020 pak kandiduje v krajských volbách v koalici Pirátů a Starostů a je zvolen zastupitelem a následně radním pro oblast životního prostředí, odpadů a zemědělství. Na svůj mandát v obecním zastupitelstvu rezignuje.
+
+## Články
+
+[Komentář Martina Šmídy: Chráníme Bečvu na všech frontách. I před kontroverzní výstavbou přehrady Skalička.](https://olomoucky.pirati.cz/tiskove-zpravy/komentar-martina-smidy-chranime-becvu-na-vsech-frontach-i-pred-kontroverzni-vystavbou-prehrady-skalicka.html)
+
+[Řešíme nebezpečnou skládku kalů v Kralicích na Hané.](https://olomoucky.pirati.cz/tiskove-zpravy/resime-nebezpecnou-skladku-kalu-v-kralicich-na-hane.html)
+
+[Martin Šmída: Chci posunout odpadové hospodářství v kraji správným směrem.](https://olomoucky.pirati.cz/tiskove-zpravy/martin-smida-chci-posunout-odpadove-hospodarstvi-v-kraji-spravnym-smerem.html)
+
+[Martin Šmída: Z Majetína do Olomouckého kraje.](https://olomoucky.pirati.cz/tiskove-zpravy/martin-smida-z-majetina-do-olomouckeho-kraje.html)
+
+[Komentář Martina Šmídy: Otrava Bečvy se musí řešit, chci jít příkladem.](https://olomoucky.pirati.cz/tiskove-zpravy/komentar-martina-smidy-otrava-becvy-se-musi-resit-chci-jit-prikladem.html)
 
