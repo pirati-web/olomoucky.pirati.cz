@@ -4,10 +4,10 @@ name:     Zdeněk Žák          # běžně používáné jméno
 fullname: Zdeněk Žák   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
-position: Místopředseda místního sdružení
+position: Místopředseda krajského sdružení
 img: people/zdenek-zak.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
+description: 2. místopředseda krajského sdružení Olomouckého kraje, 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
 mail:
 - zdenek.zak@pirati.cz
 mob:         

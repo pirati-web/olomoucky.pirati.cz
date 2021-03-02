@@ -10,7 +10,7 @@ img-full:                     # větší obrázek zobrazený na podrobném profi
 description: Členka KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
 - lucie.spacilova@pirati.cz
-mob:         
+mob: 
 profiles:
   github:
   facebook:       
