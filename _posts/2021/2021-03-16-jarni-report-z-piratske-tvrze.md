@@ -4,8 +4,7 @@ category: CLANKY
 title: Jarní report z Pirátské Tvrze
 date: 2021-03-16
 tags: 
-- piráti
-- piratska-tvrz
+- pirátská-tvrz
 author: Radek Vojtek
 image: assets/img/articles/2021/2021-03-16-jarni-report-z-piratske-tvrze.jpg  #751x422 pixelu
 ---
