@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Viktor Tichák k očkování na vysokých školách: Zbytečná byrokracie a další díra v očkovací strategii"
-date: 2021-03-16
+date: 2021-03-25
 tags: 
 - piráti
 author: Josef Indra
