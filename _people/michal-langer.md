@@ -2,8 +2,11 @@
 uid: michal.langer
 name:    Michal Langer     # běžně používané jméno
 fullname: Michal Langer   # jméno s tituly etc.
-category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- koordinatori
+description: Kontakt pro veřejnost pro Olomoucký kraj
+category:
+  - dalsi
+  - koordinatori
+  - kontaktni_osoba
 position: Koordinátor KS Olomouckého kraje
 img: people/michal-langer.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
