@@ -2,8 +2,10 @@
 uid: josef.indra
 name:    Josef Indra     # běžně používané jméno
 fullname: Josef Indra   # jméno s tituly etc.
+description: Kontakt pro média pro Olomoucký kraj
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
+- kontaktni_osoba 
 position: PR manažer
 img: people/josef-indra.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
