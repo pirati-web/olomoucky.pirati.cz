@@ -1,24 +1,32 @@
 ---
 layout: members
 title: Lidé
-description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty ve Středočeském kraji.
+description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty v Olomouckém kraji.
 keywords: lidé, členové, piráti, pirátky, příznivci, středočeši, středočeský kraj
 viewMode: grouped # or alltogether
 groups:
   - name: Předsednictvo Olomouckého kraje
-    category: pks
-    sort: ordPKS
-  - name: Poslanci za Olomoucký kraj
-    category: poslanec
-    sort: ordPoslanec
+    category: predsednictvo
+    sort: ordpre
+  - name: Manažeři a koordinátoři Olomouckého kraje
+    category: koordinatori
+    sort: ordkor
+  - name: Vedoucí krajských odborů
+    category: vedouci
+    sort: ordved
+  - name: Poslanci
+    category: poslanci
+    sort: ordpos
   - name: Krajští zastupitelé
-    category: kraj
-    sort: ordKraj
-  - name: Komunální zastupitelé v Olomouckém kraji
-    category: zastupitel
-    sort: ordZastupitel
-  - name: Další členové či příznivci
-    category: dalsi
-    sort: ordDalsi
+    category: kraj-zastupitele
+    sort: ordzask
+  - name: Místní zastupitelé
+    category: zastupitele
+    sort: ordzas
+  - name: Předsedové místních sdružení
+    category: predsedove-ms
+    sort: ordmis 
+ 
 ---
 
+<a href="https://forum.pirati.cz/ks-olomoucky-kraj-g38.html">Seznam členů Krajského sdružení Olomouckého kraje na Fóru Pirátské strany</a>
