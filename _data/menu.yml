@@ -22,12 +22,6 @@ main:
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
-  - link: /krajske-expertni-tymy/
-    name: Experti
-    match: experti
-  - link: /volby/2020/krajske/?pohled=program
-    name: Volby
-    match: volby
   - link: /kontakt/
     name: Kontakty
     match: kontakt
