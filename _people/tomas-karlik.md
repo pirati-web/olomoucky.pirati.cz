@@ -15,6 +15,8 @@ profiles:
   facebook:       
   twitter:      
   flickr:
+heroImg: banner-default.jpg
+published: true
 ---
 Bc. Tomáš Karlík (* 21. června 1992) je člen KS Olomouckého kraje a MS Přerov. Hlavní důvody proč vstoupil do Pirátské strany pro něho jsou: Boj za transparentní hospodaření státu, omezení byrokracie, snaha o změnu protidrogové politiky a boj za zdravé životní prostředí.
 

@@ -20,6 +20,8 @@ profiles:
   flickr:				https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=martin%20%C5%A1m%C3%ADda
 ordzas: 3
 ordzask: 2
+heroImg: banner-default.jpg
+published: true
 ---
 Od svého narození 11. června 1985 žije v obci Majetín na okraji okresů Olomouc a Přerov. Vystudoval na VUT v Brně obory Manažerská informatika (Bc), Ekonomika a řízení podniku (Ing) na Fakultě podnikatelské a Realitní inženýrství (Ing) na Ústavu soudního inženýrství. Během studia pořádal punk-rockový festival RECYKL FEST v areálu Recyklačního závodu RESTA v Olomouci – Holici, kde pravidelně hraje i se svojí punkovou kapelou.
 

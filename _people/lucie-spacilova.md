@@ -16,6 +16,8 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
+heroImg: banner-default.jpg
+published: true
 ---
 Lucie Spáčilová (* 16. 5. 1981) je členkou Pirátské strany, kde pracuje jako asistentka pro administrativní a personální odbor. Pochází z Olomouce, v současné době bydlí v Prostějově. 
 

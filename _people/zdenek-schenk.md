@@ -15,6 +15,8 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
+heroImg: banner-default.jpg
+published: true
 ---
 
 Mgr. Zdeněk Schenk, Ph. D. je terénní archeolog, jehož posláním je primárně záchrana a prezentace kulturního archeologického dědictví České republiky. Realizoval záchranné archeologické výzkumy v Přerově a jeho místních částech, v Lipníku nad Bečvou, na Helfštýně, a na mnoha ohrožených archeologických lokalitách nejen na Přerovsku. Specializuje se na problematiku pravěkého až středověkého osídlení krajiny Moravské brány. Výsledky výzkumů se snaží široké veřejnosti přiblížit prostřednictvím přednášek, výstav, článků i odborných studií, přičemž si klade za cíl vzbudit v lidech pocit sounáležitosti s krajinou, ve které žijí a probudit v nich zdravý patriotismus.

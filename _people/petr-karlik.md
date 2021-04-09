@@ -15,6 +15,8 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
+heroImg: banner-default.jpg
+published: true
 ---
 Petr Karlík (* 27.4.1989) se narodil v Přerově. Povoláním je právník. Vystudoval Gymnázium Jakuba Škoda v Přerově a práva na Právnické fakultě Masarykovy Univerzity v Brně. 
 

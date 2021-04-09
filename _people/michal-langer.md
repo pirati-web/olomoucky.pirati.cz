@@ -15,6 +15,8 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
+heroImg: banner-default.jpg
+published: true
 ---
 Michal Langer (* 10. ledna 1999) je registrovaným příznivcem Pirátů od prosince 2020, kdy začal zároveň pro stranu vykonávat funkci koordinátora krajského sdružení pro Olomoucký kraj.
 

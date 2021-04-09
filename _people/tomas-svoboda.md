@@ -14,6 +14,8 @@ profiles:
   facebook:
   twitter:      
   flickr:          
+heroImg: banner-default.jpg
+published: true
 ---
 Tomáš Svoboda se narodil 29. července 1973. Registrovaným příznivcem Pirátů od podzimu 2014, členem Pirátské strany od srpna 2017.
 

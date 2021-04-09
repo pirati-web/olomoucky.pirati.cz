@@ -20,6 +20,8 @@ profiles:
 ordpre: 2
 ordzas: 9
 ordzask: 3
+heroImg: banner-default.jpg
+published: true
 ---
 Jaromír Horký (* 15. března 1998) je krajským zastupitelem, 1. místopředsedou KS Olomouckého kraje. Pracuje jako PR a marketingový specialista a asistent náměstkyně hejtmana ve Zlínském kraji Hany Ančincové. Stojí za úspěšnou krajskou kampaní Pirátů ve Zlínském kraji. Je garantem programového bodu kultura a členem krajských expertní týmu pro sport a transparentnost. Jedním z hlavních příčin vstupu do Pirátské strany byl čím dál tím větší nezájem populace, a to zejména mladé části společnosti o politiku. Věří, že Pirátská strana díky svému protikorupčnímu a transparentnímu programu, který sama na sobě aplikuje, může změnit pohled lidí na politiku jako takovou. Chce se na tom podílet.
 

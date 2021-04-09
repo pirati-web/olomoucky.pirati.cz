@@ -18,6 +18,8 @@ profiles:
   twitter:        
   flickr:
 ordzask: 5       
+heroImg: banner-default.jpg
+published: true
 ---
 Martin Morong (* 2. září 1992) je členem České pirátské strany. Narodil se v Jeseníku a žije v Olomouci. Od října 2020 je zastupitelem Olomouckého kraje za koalici Piráti a Starostové.
 

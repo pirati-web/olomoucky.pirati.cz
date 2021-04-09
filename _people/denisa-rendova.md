@@ -15,6 +15,8 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
+heroImg: banner-default.jpg
+published: true
 ---
 Denisa Rendová (* 3.4.1997) je registrovaným příznivcem Pirátů od listopadu 2020. Od tohoto období také plní funkci koordinátorky krajského sdružení v Olomouckém kraji. Vystudovala gymnázium v Olomouci a v současnosti studuje český jazyk a techniku na Pedagogické fakultě v Olomouci.
 

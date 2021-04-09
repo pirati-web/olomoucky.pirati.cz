@@ -15,4 +15,6 @@ profiles:
   facebook: https://www.facebook.com/josef.indra.9
   twitter:         
   flickr: 
+heroImg: banner-default.jpg
+published: true
 ---

@@ -15,6 +15,8 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
+heroImg: banner-default.jpg
+published: true
 ---
 
 Jitka Majerová (* 15.8.1999) je členkou MS Přerov. Je členkou krajského expertního týmu pro oblast zdravotnictví a sociální péče. Vystudovala Gymnázium Jana Blahoslava v Přerově a nyní studuje 3. ročník dentalní hygieny na Vyšší odborné škole Merhautově v Brně. Pořádá přednášky v rámci osvěty péče o dentální zdraví a s přerovkými Piráty se dlouhodobě zapojuje do celostátní úklidové akce Ukliďme Přerov.
