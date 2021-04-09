@@ -6,7 +6,7 @@ date: 2018-02-05
 tags: 
 - picolo
 author: Tomáš Svoboda
-image: articles/2018/2018-02-05-piratske-centrum-a-poslanecka-kancelar-v centru-olomouce.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-02-05-piratske-centrum-a-poslanecka-kancelar-v centru-olomouce.jpg   #751x422 pixelu
 ---
 Vy z Vás, kteří v Olomouci procházeli třídou 8. května, nebo tudy projížděli tramvají, jste si jistě všimli, že místo loga Modré pyramidy se ve výloze objevila vlajka České pirátské strany. 
 

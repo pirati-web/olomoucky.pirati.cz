@@ -6,7 +6,7 @@ date: 2020-04-06
 tags: 
 - olomouc 
 author: Mediální odbor
-image: articles/2020/2020-04-06-koalicni-zastupitele-odmitli-navrh-piratu-a-starostu-vzdat-se-na-3-mesice-svych-odmen.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-04-06-koalicni-zastupitele-odmitli-navrh-piratu-a-starostu-vzdat-se-na-3-mesice-svych-odmen.jpg  #751x422 pixelu
 ---
 Olomouc, 6. dubna 2020 - Klub Pirátů a Starostů přednesl prostřednictvím předsedy Viktora Ticháka návrh, aby se neuvolnění členové Zastupitelstva města Olomouce vzdali na 3 měsíce svých odměn za výkon funkcí v komisích a výborech, které se nescházejí. Tento návrh byl podpořen sedmnácti z 45 zastupitelů.
 

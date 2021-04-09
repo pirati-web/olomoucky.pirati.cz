@@ -5,7 +5,7 @@ title: Pirátská Tvrz přeje pohodové Vánoce
 date: 2016-12-06
 tags: pirátská-tvrz
 author: Martin Šmída
-image: articles/2016/2016-12-06-piratska-tvrz-preje-pohodove-vanoce.jpg   #751x422 pixelu
+image: assets/img/articles/2016/2016-12-06-piratska-tvrz-preje-pohodove-vanoce.jpg   #751x422 pixelu
 ---
 Členové a příznivci místního sdružení Pirátská Tvrz přejí všem bez rozdílu pohodové prožití vánočních svátků. A nový rok 2017 přejeme minimálně tak úspěšný, jaký byl ten stávající.
 

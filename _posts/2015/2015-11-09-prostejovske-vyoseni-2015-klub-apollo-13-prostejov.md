@@ -5,7 +5,7 @@ title: Prostějovské Vyosení 2015, klub Apollo 13, Prostějov
 date: 2015-11-09
 tags: prostějov
 author: Vojtěch Pikal
-image: articles/2015/2015-11-09-prostejovske-vyoseni-2015-klub-apollo-13-prostejov.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-11-09-prostejovske-vyoseni-2015-klub-apollo-13-prostejov.jpg   #751x422 pixelu
 ---
 V sobotu 7.11.2015 proběhl v prostějovském klubu Apollo 13 první ročník festivalu svobodné kultury Vyosení. 
 

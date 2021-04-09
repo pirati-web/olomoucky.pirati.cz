@@ -6,7 +6,7 @@ date: 2019-05-01
 tags: 
 - prostějov
 author: Mediální odbor
-image: articles/2019/2019-05-01-podstrceny-material-rozohnil-a-prerusil-zastupitelstvo.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-05-01-podstrceny-material-rozohnil-a-prerusil-zastupitelstvo.jpg  #751x422 pixelu
 ---
 Prostějov, 1. 5. 2019 - Dne 30. dubna 2019 proběhlo 6. zasedání zastupitelstva města Prostějova. Na programu bylo přes 60 bodů a jednání probíhalo místy bouřlivě, místy poklidně a dle očekávání trvalo dlouho. Program jednání naleznete [zde](https://www.prostejov.eu/cs/samosprava/zastupitelstvo-mesta/materialy-pro-jednani/2019/6-zasedani-zastupitelstva-mesta-prostejova-30-4-2019.html), videozáznam z prvního dne naleznete [zde](https://www.youtube.com/watch?v=5UKDc4Lcbig&feature=youtu.be).
 

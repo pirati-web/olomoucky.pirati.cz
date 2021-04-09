@@ -6,7 +6,7 @@ date: 2018-03-25
 tags: 
 - picolo
 author: Tomáš Svoboda
-image: articles/2018/2018-03-25-bc-tomas-kolacny-best-practices-v-oblasti-participativniho-rozpoctovani.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-03-25-bc-tomas-kolacny-best-practices-v-oblasti-participativniho-rozpoctovani.jpg   #751x422 pixelu
 ---
 Chcete most? Nebo park? Osvětlení ulice? Participativní rozpočet je nástroj, který umožňuje občanům města rozhodovat o veřejných financích. Piráti pro Vás i pro sebe pořádají další veřejné setkání tentokrát na téma Participativní rozpočet.
 

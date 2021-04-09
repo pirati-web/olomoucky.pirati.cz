@@ -6,7 +6,7 @@ date: 2020-06-25
 tags: 
 - pirátská-tvrz 
 author: Martin Šmída
-image: articles/2020/2020-06-25-piratska-tvrz-jede.jpg #751x422 pixelu
+image: assets/img/articles/2020/2020-06-25-piratska-tvrz-jede.jpg #751x422 pixelu
 ---
 Tak jsme se otřepali z Covidových prázdnin a čekají nás klasické letní prázdniny. Ale ani jedny nebyly a nebudou pro Piráty nijak prázdné. Už během pandemie Piráti neustále pracovali a krom dobrovolnického šití roušek, 3D tisku ochranných štítů nebo prostě jen vození čerstvé kávy zdravotníkům, vypracovali plán s názvem "Budoucnost řešíme teď", abychom z této krize vyšli posílení a uchopili ji jako příležitost. 
 

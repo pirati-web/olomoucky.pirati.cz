@@ -6,7 +6,7 @@ date: 2018-10-06
 tags: 
 - olomoucký-kraj
 author: Mediální odbor
-image: articles/2018/2018-10-06-pirati-bodovali-i-v-letosnich-komunalnich-volbach.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-10-06-pirati-bodovali-i-v-letosnich-komunalnich-volbach.jpg  #751x422 pixelu
 ---
 Olomouc, 6.10.2018 - Volební místnosti jsou uzavřeny a komunální volby 2018 jsou za námi. Děkujeme všem voličům, kteří nám dali svoje hlasy a těm, kteří nás nevolili děkujeme, že se voleb zúčastnili. A jak v nich uspěli pirátští kandidáti?
 

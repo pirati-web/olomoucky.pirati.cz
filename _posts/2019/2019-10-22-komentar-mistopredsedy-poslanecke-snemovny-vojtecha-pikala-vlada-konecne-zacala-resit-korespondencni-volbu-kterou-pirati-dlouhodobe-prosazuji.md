@@ -6,7 +6,7 @@ date: 2019-10-22
 tags: 
 - piráti
 author: Vojtěch Pikal
-image: articles/2019/2019-10-22-komentar-mistopredsedy-poslanecke-snemovny-vojtecha-pikala-vlada-konecne-zacala-resit-korespondencni-volbu-kterou-pirati-dlouhodobe-prosazuji.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-10-22-komentar-mistopredsedy-poslanecke-snemovny-vojtecha-pikala-vlada-konecne-zacala-resit-korespondencni-volbu-kterou-pirati-dlouhodobe-prosazuji.jpg  #751x422 pixelu
 ---
 Praha, 21. 10. 2019 - Vláda konečně započala práci nad dlouho slibovaným a odkládaným volebním kodexem. Ten obsahuje také návrh na zavedení korespondenční volby v zahraničí nebo zjednodušení žádostí o voličské průkazy. S Piráty korespondenční volbu i zjednodušení žádostí prosazujeme dlouhodobě a vláda do této doby všechny pirátské snahy odmítala. V pátek jsme se však dočkali toho, že byl do legislativního systému vlády nahrán návrh zákona o správě voleb, který má mj. zavést právě korespondenční volbu. Dále má sjednotit právní úpravu okrskových volebních komisí, podávání kandidátních listin, seznamu voličů, soudního přezkumu voleb a další záležitosti. 
 

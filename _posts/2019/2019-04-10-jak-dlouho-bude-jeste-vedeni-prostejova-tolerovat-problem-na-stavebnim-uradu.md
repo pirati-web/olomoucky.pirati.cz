@@ -6,7 +6,7 @@ date: 2019-04-10
 tags: 
 - prostějov
 author: Mediální odbor
-image: articles/2019/2019-04-10-jak-dlouho-bude-jeste-vedeni-prostejova-tolerovat-problem-na-stavebnim-uradu.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-04-10-jak-dlouho-bude-jeste-vedeni-prostejova-tolerovat-problem-na-stavebnim-uradu.jpg  #751x422 pixelu
 ---
 Zatajování smluv, pochybné povolování staveb místním podnikatelům, sexuální obtěžování, úřadem ombudsmana potvrzené selhání či konzumace alkoholu na pracovišti. Těchto, ale i dalších prohřešků se během svého působení na pozici šéfa prostějovského stavebního úřadu dopustil Jan Košťál. A světe div se, svou pozici si stále drží.
 

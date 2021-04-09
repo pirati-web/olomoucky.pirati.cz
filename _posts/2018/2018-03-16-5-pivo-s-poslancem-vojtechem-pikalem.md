@@ -6,7 +6,7 @@ date: 2018-03-16
 tags: 
 - olomouc
 author: Tomáš Svoboda
-image: articles/2018/2018-03-16-5-pivo-s-poslancem-vojtechem-pikalem.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-03-16-5-pivo-s-poslancem-vojtechem-pikalem.jpg   #751x422 pixelu
 ---
 16.3. proběhlo již tradiční setkání s poslancem a místopředsedou Poslanecké sněmovny, Bc. Vojtěchem Pikalem. 
 

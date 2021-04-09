@@ -5,7 +5,7 @@ title: Podporujeme Pitbike Park Tovačov
 date: 2014-11-02
 tags: přerov
 author: Tomáš Karlík
-image: articles/2014/2014-11-02-podporujeme-pitbike-park-tovacov.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-11-02-podporujeme-pitbike-park-tovacov.jpg   #751x422 pixelu
 ---
 Předseda Místního sdružení přerov je řešitelem Participativního projektu v prvním kole [Rekultivace krajiny, přestavba na víceúčelový sportovní areál u Tovačova](https://wiki.pirati.cz/fo/rozpocty/participativni/prihlasky/viceucelova_trat_tovacov) a navazujícím druhém kole [Likvidace černé skládky, přestavba na víceúčelový sportovní areál, podpora místních sportovních komunit](https://wiki.pirati.cz/fo/rozpocty/participativni/prihlasky/viceucelova_sportovni_trat_u_tovacova). Tomáš se bude ucházet o podporu i ve třetím kole [Participativního rozpočtování](https://wiki.pirati.cz/fo/rozpocty/participativni/start). S řešitelem a dobrovolníkama můžete diskutovat ve skupině FB [Project Pitbike park Tovačov (Sdorf)](https://www.facebook.com/groups/413072398825603/).
 

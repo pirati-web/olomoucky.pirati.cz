@@ -6,7 +6,7 @@ date: 2018-10-15
 tags: 
 - pirátská-tvrz
 author: Mediální odbor
-image: articles/2018/2018-10-15-volebni-vysledky-v-piratske-tvrzi.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-10-15-volebni-vysledky-v-piratske-tvrzi.jpg  #751x422 pixelu
 ---
 Je po komunálních volbách, v nichž mělo místní sdružení Pirátská Tvrz svá dvě želízka v ohni. Samostatně kandidující Česká pirátská strana nabídla své kandidáty a program ve dvou sousedících obcích na pomezí okresů Olomouc a Přerov, a to v Majetíně a v Brodku u Přerova.
 

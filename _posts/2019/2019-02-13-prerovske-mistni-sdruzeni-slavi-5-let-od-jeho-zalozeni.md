@@ -6,7 +6,7 @@ date: 2019-02-13
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-02-13-prerovske-mistni-sdruzeni-slavi-5-let-od-jeho-zalozeni.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-02-13-prerovske-mistni-sdruzeni-slavi-5-let-od-jeho-zalozeni.jpg  #751x422 pixelu
 ---
 Místní sdružení Přerov a Dobrčice bylo ustaveno 13. 2. 2014 v salónku pivovaru Zubr. Stalo se tak až několik let poté, co se místní Piráti začali scházet s komunálními politiky angažovanými v uskupení Společně pro Přerov. Jejichž prostřednictvím získávali Piráti např. první informace o megalomanském projektu přerovského magistrátu za více než 100 milionů korun - IOP 09. Tato vzájemná spolupráce a sdílení informací později přerostla ve společnou kandidátku v komunálních volbách, v níž Společně pro Přerov (sestávající tehdy ze Zelených, Nezávislé volby, Změny, Pirátů a nezávislých kandidátů) získalo celkem 8 zastupitelských křesel, účast v Radě i post primátora.
 

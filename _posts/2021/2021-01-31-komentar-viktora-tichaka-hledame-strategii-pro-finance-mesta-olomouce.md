@@ -1,0 +1,18 @@
+---
+layout: post
+category: CLANKY
+title: "Komentář Viktora Ticháka: Hledáme strategii pro finance města Olomouce"
+date: 2021-01-31
+tags: 
+- piráti
+- olomouc
+author: Josef Indra
+image: assets/img/articles/2021/2021-01-31-komentar-viktora-tichaka-hledame-strategii-pro-finance-mesta-olomouce.jpg  #751x422 pixelu
+---
+**Na 22. února jsem jakožto předseda svolal jednání Finančního výboru Zastupitelstva města Olomouce, a to i přesto, že na obzoru nyní není zasedání zastupitelstva, k jehož bodům by se měl výbor vyjadřovat. Zastupitelstvo se sejde až na začátku března. Rolí finančního výboru je však průběžná kontrola hospodaření města a neméně důležitou rolí také otevírání důležitých témat, která by vedla k podstatným změnám. Jen na základě velkých změn je možné dostat Olomouc pryč z červených čísel.**
+
+Prvním důležitým bodem našeho lednového jednání byla diskuse o pravidlech hospodaření města v prvních měsících roku 2021. O těchto pravidlech byla řeč na posledním loňském zasedání zastupitelstva, pravidla byla přijata Radou města Olomouce a následně vydána jako příkaz tajemníka. Ve stručnosti to znamená, že se bude město v prvním pololetí roku řídit pravidly, která odpovídají pravidlům rozpočtového provizoria – každý měsíc mohou odbory utratit max. jednu třináctinu loňského schváleného rozpočtu a je (až na výjimky) zapovězeno uzavírat nové smlouvy. Proč jsme tedy rovnou nešli cestou rozpočtového provizoria? Oficiálně proto, že to neumíme a bojíme se, aby nám nehrozily sankce. Neoficiálně proto, že chce mít rada moc nad těmi zmíněnými výjimkami – podpisy nových smluv, především nové tramvajové trati na Nové Sady. Pan ekonomický náměstek tvrdí, že výpadky v daních bez problému přečkáme. Nejsem tak optimistický, proto se k tomuto bodu budeme vracet každý měsíc.
+
+K další fázi jednání byla přizvána paní ředitelka Výstaviště Flora Olomouc a pan ředitel olomouckého aquaparku. Bavili jsme se o udržitelnosti jejich financování z městského rozpočtu. Diskuse o Floře je nyní velmi aktuální, proto jsem chtěl, aby se do ní finanční výbor zapojil. Členové výboru se v diskusi shodli na tom, že je potřeba situaci změnit – nyní dostává od města Flora finance především na správu parků, příp. další zeleně, a menší dotaci na výstavy, která už nemůže být vyšší. I tak Flora v roce 2020 kvůli pandemii bojovala o přežití. Uvažuje se i o změně Flory z akciové společnosti na příspěvkovou organizaci. I toto má svá pro i proti. Aquapark je společnost výdělečná, přesto stále drahá, protože jsme si na něj (jak jinak) půjčili nemalé peníze. Nyní nově převzal Aquapark správu plaveckého bazénu s havarijní velkou bazénovou vanou, do které bude město muset investovat. Budeme dále sledovat, jak se tato situace promítne do městských financí.
+
+Na závěr jednání byla přizvána paní vedoucí oddělení komisí městských částí a detašovaných pracovišť a diskutovali jsme o tzv. *„estetizacích veřejného prostranství“*. Touto cestou se vydala rada města namísto participativního rozpočtu a po dvou letech jsem chtěl zhodnotit funkčnost tohoto modelu. Ukazuje se, že jsou estetizace spíše vznešenějším názvem pro opravy a drobné investice – pokud přijde komise opravdu s nějakým novým nápadem, většinou narazí na nedostatek financí (v r. 2019 to bylo 300 tisíc/komise, v r. 2020 150 tisíc/komise). Navíc zvyšují tyto estetizace byrokracii, mnoho z nich vyžaduje dílčí změny rozpočtu při přesunech na příslušné odbory, což se snad podaří odbourat. Estetizace jsou malým krok směrem k cíli, kterým by podle mě měla být větší autonomie komisí městských částí. Participativní rozpočet, který měly snad všechny volební strany v Olomouci v r. 2018 v programu, je však úplně něco jiného a estetizace jej nenahradí.

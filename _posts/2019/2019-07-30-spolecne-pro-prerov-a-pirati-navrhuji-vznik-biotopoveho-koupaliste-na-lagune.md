@@ -6,7 +6,7 @@ date: 2019-07-30
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-07-30-spolecne-pro-prerov-a-pirati-navrhuji-vznik-biotopoveho-koupaliste-na-lagune.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-07-30-spolecne-pro-prerov-a-pirati-navrhuji-vznik-biotopoveho-koupaliste-na-lagune.jpg  #751x422 pixelu
 ---
 Přerov, 30. 7. 2019 - Přírodních koupališť, kde se voda nečistí chemicky, ale ekologicky pomocí rostlin a mikroorganismů, po celé republice rychle přibývá. Koupaliště bez chemie jsou příznivější pro životní prostředí, na jehož zachování jsou kladeny čím dál vyšší nároky. Společně pro Přerov a Piráti v tom proto vidí příležitost, jak dlouhodobě zlepšit kvalitu vody na Velké laguně a rozvíjet lokalitu v souladu s přírodou.
 

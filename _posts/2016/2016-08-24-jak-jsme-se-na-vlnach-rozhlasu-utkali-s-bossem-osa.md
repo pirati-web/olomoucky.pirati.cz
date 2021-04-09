@@ -5,7 +5,7 @@ title: Jak jsme se na vlnách rozhlasu utkali s bossem OSA
 date: 2016-08-24
 tags: piráti
 author: Martin Šmída
-image: articles/2016/2016-08-24-jak-jsme-se-na-vlnach-rozhlasu-utkali-s-bossem-osa.jpg   #751x422 pixelu
+image: assets/img/articles/2016/2016-08-24-jak-jsme-se-na-vlnach-rozhlasu-utkali-s-bossem-osa.jpg   #751x422 pixelu
 ---
 Na vlnách Českého rozhlasu - Radiožurnálu se utkal místopředseda Pirátů Martin Šmída s bossem OSA Romanem Strejčkem.
 

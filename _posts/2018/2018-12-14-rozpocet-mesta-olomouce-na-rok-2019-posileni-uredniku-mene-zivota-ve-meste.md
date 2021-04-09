@@ -6,7 +6,7 @@ date: 2018-12-14
 tags: 
 - olomouc
 author: Mediální odbor
-image: articles/2018/2018-12-14-rozpocet-mesta-olomouce-na-rok-2019-posileni-uredniku-mene-zivota-ve-meste.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-12-14-rozpocet-mesta-olomouce-na-rok-2019-posileni-uredniku-mene-zivota-ve-meste.jpg  #751x422 pixelu
 ---
 Olomouc, 14. 12. 2018 - V rozpočtu, který bude olomoucké zastupitelstvo schvalovat v pátek 14. 12. 2018, je mnoho otazníků. Shrňme si, co je na rozpočtu problematické.
 

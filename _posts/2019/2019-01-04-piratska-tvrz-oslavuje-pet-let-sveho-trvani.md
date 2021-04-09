@@ -6,7 +6,7 @@ date: 2019-01-04
 tags: 
 - pirátská-tvrz
 author: Martin Šmída
-image: articles/2019/2019-01-04-piratska-tvrz-oslavuje-pet-let-sveho-trvani.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-01-04-piratska-tvrz-oslavuje-pet-let-sveho-trvani.jpg  #751x422 pixelu
 ---
 Majetín, 4. 1. 2018 - 1. prosince 2018 to bylo přesně 5 let, co bylo založeno naše místní sdružení Pirátská Tvrz. Nebudeme se zdržovat kompletní rekapitulací, co všechno se za tu dobu podařilo, protože toho bylo opravdu hodně. Nicméně i z letmého ohlédnutí za uplynulým rokem je zřejmé, že rosteme a daří se nám. Předem chceme znovu poděkovat všem našim členům, příznivcům a také voličům, že naší práci dávají smysl. V Majetíně zastupujeme 23 % občanů (oproti 11 % v roce 2014) a v Brodku u Přerova 11 % (oproti necelým 5 % v roce 2014). V Majetíně byli za Piráty zvoleni Martin Šmída a Pavla Studená a v Brodku Pavlína Procházková. Ve finančním výboru v Majetíně působí náš nominant Jaroslav Konečný. Bereme to jako ocenění našich dosavadních aktivit a velký závazek do budoucna. Ač nám výsledek voleb přisoudil v obou obcích roli konstruktivní opozice, věříme, že se nám ledacos z našeho programu podaří během těch čtyř let také realizovat. Budeme nadále hájit zájmy (nejen) mladých, aktivních a svobodomyslných lidí. Ještě jednou děkujeme za důvěru a všem výše jmenovaným přejeme mnoho úspěchů v jejich práci.
 

@@ -6,7 +6,7 @@ date: 2018-06-13
 tags: 
 - olomoucký-kraj
 author: Jan Dvořák
-image: articles/2018/2018-06-13-predstavujeme-cervnove-piratske-listy.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-06-13-predstavujeme-cervnove-piratske-listy.jpg   #751x422 pixelu
 ---
 Olomouc, 13. 6. 2018 – V těchto dnech začínají Piráti distribuovat do schránek v obcích a městech, kde kandidují, nové tištěné Pirátské listy. A co zajímavého se v nich dočtete?
 

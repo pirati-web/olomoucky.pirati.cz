@@ -6,7 +6,7 @@ date: 2018-04-28
 tags: 
 - picolo
 author: Tomáš Svoboda
-image: articles/2018/2018-04-28-piratska-putovni-univerzita-inovace-v-politice-i-ve-vzdelavani.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-04-28-piratska-putovni-univerzita-inovace-v-politice-i-ve-vzdelavani.jpg   #751x422 pixelu
 ---
 Olomouc, 28. 4. 2018 - Pirátská putovní univerzita začíná fungovat také v Olomouci. Od 9. 5. 2018 v Picolu, ulice 8. května 5. Projekt lze označit jako *„svobodná a otevřená univerzita budovaná zdola“*. Dobré řešení se mnohdy vyjeví až poté, co o sebe křísnou velmi různorodé myšlenky. Právě takové tvůrčí a nepředpojaté prostředí, které pak může odvážně otevírat nové myšlenkové obzory, chce Pirátská putovní univerzita vytvářet a kultivovat.
 

@@ -6,7 +6,7 @@ date: 2020-05-05
 tags: 
 - olomouc 
 author: Antonín Štěpán
-image: articles/2020/2020-05-05-vystavba-vodni-nadrze-skalicka-u-teplic-nad-becvou-je-hazardem-s-lecivymi-prameny-mistnich-lazni-a-zdroji-pitne-vody-obyvatel-varuji-pirati-a-starostove.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-05-05-vystavba-vodni-nadrze-skalicka-u-teplic-nad-becvou-je-hazardem-s-lecivymi-prameny-mistnich-lazni-a-zdroji-pitne-vody-obyvatel-varuji-pirati-a-starostove.jpg  #751x422 pixelu
 redirect_from:
   - "/tiskove-zpravy/Výstavba-vodní-nádrže-Skalička-u-Teplic-nad-Bečvou-je-hazardem-s-léčivými-prameny-místních-lázní-a-zdroji-pitné-vody-obyvatel-varují-Piráti-a-Starostové.html"
 ---

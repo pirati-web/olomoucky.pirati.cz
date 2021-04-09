@@ -5,7 +5,7 @@ title: Pirátský newsletter č. 1
 date: 2016-12-02
 tags: olomoucký-kraj
 author: Petr Kapounek
-image: articles/2016/2016-12-02-piratsky-newsletter-c-1.jpg   #751x422 pixelu
+image: assets/img/articles/2016/2016-12-02-piratsky-newsletter-c-1.jpg   #751x422 pixelu
 ---
 Zdravím posádku!
 ------

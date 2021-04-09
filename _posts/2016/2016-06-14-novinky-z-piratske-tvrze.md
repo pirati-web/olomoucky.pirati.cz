@@ -5,7 +5,7 @@ title: Novinky z Pirátské Tvrze
 date: 2016-06-14
 tags: pirátská-tvrz
 author: Martin Šmída
-image: articles/2016/2016-06-14-novinky-z-piratske-tvrze.jpg   #751x422 pixelu
+image: assets/img/articles/2016/2016-06-14-novinky-z-piratske-tvrze.jpg   #751x422 pixelu
 ---
 Piráti z Majetína a okolí ani na jaře nezaháleli.
 

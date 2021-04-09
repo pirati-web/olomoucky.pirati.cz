@@ -6,7 +6,7 @@ date: 2020-06-03
 tags: 
 - picolo
 author: Jan Dvořák
-image: articles/2020/2020-06-03-program-piratskeho-centra-picolo-na-cerven-2020.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-06-03-program-piratskeho-centra-picolo-na-cerven-2020.jpg  #751x422 pixelu
 ---
 Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5, v měsíci červnu 2020.
 

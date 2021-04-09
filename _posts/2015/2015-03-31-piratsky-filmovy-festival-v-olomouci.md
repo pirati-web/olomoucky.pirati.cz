@@ -5,7 +5,7 @@ title: Pirátský filmový festival v Olomouci
 date: 2015-03-31
 tags: olomouc
 author: Martin Šmída
-image: articles/2015/2015-03-31-piratsky-filmovy-festival-v-olomouci.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-03-31-piratsky-filmovy-festival-v-olomouci.jpg   #751x422 pixelu
 ---
 Místní sdružení Olomouc Vás prostřednictvím svého předsedy Jakuba Nepejchala zve na Festival svobodných filmů, který se uskuteční ve čtvrtek 2. 4. v  ARTUM Centru v Olomouci (Sokolská 7).
 

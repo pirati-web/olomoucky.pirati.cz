@@ -5,7 +5,7 @@ title: Pozvánka na říjnové zasedání 6. 10. 2012
 date: 2012-09-28
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: articles/2012/2012-09-28-pozvanka-na-rijnove-zasedani-06-10-2012.jpg   #751x422 pixelu
+image: assets/img/articles/2012/2012-09-28-pozvanka-na-rijnove-zasedani-06-10-2012.jpg   #751x422 pixelu
 ---
 Vážení členové a příznivci, krajské předsednictvo vás tímto zve na každoměsíční zasedání olomouckého krajského sdružení Pirátů.
 

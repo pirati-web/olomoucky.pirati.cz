@@ -5,7 +5,7 @@ title: Co se dělo a bude dít v Pirátské Tvrzi
 date: 2015-03-25
 tags: pirátská-tvrz
 author: Martin Šmída
-image: articles/2015/2015-03-25-co-se-delo-a-bude-dit-v-piratske-tvrzi.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-03-25-co-se-delo-a-bude-dit-v-piratske-tvrzi.jpg   #751x422 pixelu
 ---
 Déle než rok působí v Majetíně, Brodku u Př. a okolních obcích Místní sdružení Pirátská Tvrz.
 

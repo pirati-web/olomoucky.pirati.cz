@@ -6,7 +6,7 @@ date: 2019-08-07
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-08-07-spolecne-pro-prerov-a-pirati-chteji-aby-mesto-navzdy-odmitlo-kanal-dunaj-odra-labe.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-08-07-spolecne-pro-prerov-a-pirati-chteji-aby-mesto-navzdy-odmitlo-kanal-dunaj-odra-labe.jpg  #751x422 pixelu
 ---
 Přerov, 7. 8. 2019 - Téma vodního koridoru Dunaj-Odra-Labe se opět podezřele oprašuje a bezprostředně se dotýká i Přerova. Společně pro Přerov a Piráti proto chtějí, aby se město k projektu jasně vymezilo - a kanál jednou pro vždy odmítlo.
 

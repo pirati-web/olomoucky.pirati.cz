@@ -6,7 +6,7 @@ date: 2019-10-02
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-10-02-pirati-v-prerove-vyslou-do-boje-o-senat-pavla-ondruje.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-10-02-pirati-v-prerove-vyslou-do-boje-o-senat-pavla-ondruje.jpg  #751x422 pixelu
 ---
 Přerov, 2. 10. 2019 – Členská základna Pirátů Olomouckého kraje zvolila jako svého kandidáta do Senátu manažera kultury Městského domu v Přerově Pavla Ondrůje. Ve volbách na internetovém fóru se pro jeho nominaci vyslovilo 86 procent hlasujících. „Cítím, že dnešní společnost je rozdělená. Převládá ideologie a hysterie, nikoliv racionalita a zdravý selský rozum. Celý svůj život usiluji o stmelování společnosti. Z pozice senátora chci uplatnit své životní zkušenosti z tohoto regionu. Jsem patriot a témata, která místní opravdu trápí můžu řešit především v Senátu,“ uvedl ke své kandidatuře rodilý přerovák Pavel Ondrůj.
 

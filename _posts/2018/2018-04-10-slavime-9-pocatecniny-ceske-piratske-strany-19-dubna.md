@@ -6,7 +6,7 @@ date: 2018-04-10
 tags: 
 - piráti
 author: Tomáš Svoboda
-image: articles/2018/2018-04-10-slavime-9-pocatecniny-ceske-piratske-strany-19-dubna.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-04-10-slavime-9-pocatecniny-ceske-piratske-strany-19-dubna.jpg   #751x422 pixelu
 ---
 Aneb jak vznikla nejvíc cool politická strana v ČR. Potřebu a nutnost něco udělat s nesvobodou (nejen) na internetu vyjádřil programátor Jiří Kadeřávek výzvou na portálu AbcLinuxu.cz.
 

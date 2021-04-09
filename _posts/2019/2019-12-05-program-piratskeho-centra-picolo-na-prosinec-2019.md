@@ -6,7 +6,7 @@ date: 2019-12-05
 tags: 
 - picolo
 author: Jan Dvořák
-image: articles/2019/2019-12-05-program-piratskeho-centra-picolo-na-prosinec-2019.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-12-05-program-piratskeho-centra-picolo-na-prosinec-2019.jpg  #751x422 pixelu
 ---
 Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5, v měsíci prosinci 2019.
 

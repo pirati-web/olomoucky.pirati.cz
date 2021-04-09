@@ -6,7 +6,7 @@ date: 2018-01-11
 tags: 
 - piráti
 author: Tomáš Karlík
-image: articles/2018/2018-01-11-report-z-celostatniho-fora.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-01-11-report-z-celostatniho-fora.jpg   #751x422 pixelu
 ---
 První víkend v novém roce Piráti nezaháleli, v Brně zasedal nejmocnější orgán strany - Celostátní fórum. Sjezdu se účastnili také přerovští Piráti i krajské sdružení Olomouc.
 

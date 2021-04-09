@@ -13,10 +13,10 @@ gem "jekyll", "~> 3.7.3"
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "8.4.0"
+gem "jekyll-theme-pirati", "~> 8.4"
 
 # Uncomment this line for local development.
-# gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
+# gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "feat/styleguide"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

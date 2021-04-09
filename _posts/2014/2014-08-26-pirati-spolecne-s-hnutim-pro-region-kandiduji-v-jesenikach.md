@@ -5,7 +5,7 @@ title: Piráti společně s hnutím PRO REGION kandidují v Jeseníkách
 date: 2014-08-26
 tags: šumpersko
 author: Martin Šmída
-image: articles/2014/2014-08-26-pirati-spolecne-s-hnutim-pro-region-kandiduji-v-jesenikach.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-08-26-pirati-spolecne-s-hnutim-pro-region-kandiduji-v-jesenikach.jpg   #751x422 pixelu
 ---
 PRO-REGION je uskupení občanů různých profesí, životních postojů, názorů a věku, kteří se nechtějí smířit s ekonomickou a morální devastací regionu, v němž žijí a chtějí žít. Proto jsme vytvořili dobrovolnou občanskou iniciativu s názvem "PRO-REGION".
 

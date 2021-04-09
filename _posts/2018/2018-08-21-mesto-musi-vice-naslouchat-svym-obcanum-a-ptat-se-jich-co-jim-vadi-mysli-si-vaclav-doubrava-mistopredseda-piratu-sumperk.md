@@ -6,7 +6,7 @@ date: 2018-08-21
 tags: 
 - šumpersko
 author: Mediální odbor
-image: articles/2018/2018-08-21-mesto-musi-vice-naslouchat-svym-obcanum-a-ptat-se-jich-co-jim-vadi-mysli-si-vaclav-doubrava-mistopredseda-piratu-sumperk.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-08-21-mesto-musi-vice-naslouchat-svym-obcanum-a-ptat-se-jich-co-jim-vadi-mysli-si-vaclav-doubrava-mistopredseda-piratu-sumperk.jpg  #751x422 pixelu
 ---
 Václav Doubrava je velitel Městské policie v Zábřehu, místopředseda šumperských Pirátů a dvojka na kandidátce pro nadcházející komunální volby. V následujících řádcích popisuje například svůj vztah k veřejnému prostoru, pirátské návrhy pro zlepšení komunikace mezi radnicí a občany nebo některé problémy spojené s bezpečností.
 

@@ -5,7 +5,7 @@ title: Piráti + Změna + ProRegion --> Kraj nové generace
 date: 2016-06-14
 tags: olomoucký-kraj
 author: Martin Šmída
-image: articles/2016/2016-06-14-pirati-zmena-proregion-kraj-nove-generace.jpg   #751x422 pixelu
+image: assets/img/articles/2016/2016-06-14-pirati-zmena-proregion-kraj-nove-generace.jpg   #751x422 pixelu
 ---
 Krajské volby 2016: Piráti v Olomouckém kraji podepsali koaliční smlouvu s hnutím Změna a Pro-region
 

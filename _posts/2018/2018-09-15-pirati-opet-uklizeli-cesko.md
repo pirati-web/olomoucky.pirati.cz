@@ -6,7 +6,7 @@ date: 2018-09-15
 tags: 
 - olomoucký-kraj
 author: Mediální odbor
-image: articles/2018/2018-09-15-pirati-opet-uklizeli-cesko.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-09-15-pirati-opet-uklizeli-cesko.jpg  #751x422 pixelu
 ---
 Piráti Olomouckého kraje jsou pravidelnými účastníky celostátní akce [Ukliďme Česko](https://www.uklidmecesko.cz/). Dnes se konala její podzimní část. Piráti uklízeli tentokrát v Olomouci, Přerově, Prostějově a v Šumperku.
 

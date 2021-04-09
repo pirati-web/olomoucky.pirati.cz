@@ -6,7 +6,7 @@ date: 2018-04-10
 tags: 
 - olomouc
 author: Tomáš Svoboda
-image: articles/2018/2018-04-10-dalsi-vlna-demonstraci-probehla-republikou.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-04-10-dalsi-vlna-demonstraci-probehla-republikou.jpg   #751x422 pixelu
 ---
 Akce s názvem „Máme právo na slušného premiéra a slušnou vládu“ proběhla 9. 4. v mnoha městech ČR. Hlavní impulz dali organizátoři z [Milion Chvilek](https://milionchvilek.cz/) a v Olomouci se organizace ujal pan Vladislav Raclavský.
 

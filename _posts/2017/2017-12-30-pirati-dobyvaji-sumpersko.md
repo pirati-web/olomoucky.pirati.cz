@@ -6,7 +6,7 @@ date: 2017-12-30
 tags: 
 - šumpersko
 author: Michal Hlaváč
-image: articles/2017/2017-12-30-pirati-dobyvaji-sumpersko.jpg   #751x422 pixelu
+image: assets/img/articles/2017/2017-12-30-pirati-dobyvaji-sumpersko.jpg   #751x422 pixelu
 ---
 Šumpersko – Česká pirátská strana po úspěchu v parlamentních volbách chce uspět i na komunální úrovni. To je úkolem pro nově vzniklé sdružení. Zatím čtyřčlenná skupina operuje v oblasti od Jeseníku po Mohelnici. Jejím cílem je ovládnout komunální volby v příštím roce v Zábřehu na Moravě a Šumperku, největších městech regionu.
 

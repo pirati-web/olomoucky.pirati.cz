@@ -6,7 +6,7 @@ date: 2018-06-10
 tags: 
 - olomouc
 author: Jan Dvořák
-image: articles/2018/2018-06-10-jednou-provzdy-i-v-olomouci.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-06-10-jednou-provzdy-i-v-olomouci.jpg   #751x422 pixelu
 ---
 Olomouc, 10. 6. 2018 – V Olomouci na Horním náměstí, stejně jako v dalších obcích po celé České republice, se v úterý 5. června 2018 v podvečer sešlo více než tisíc občanů na shromáždění s názvem Jednou provždy!, organizovaném spolkem Milion chvilek, aby vyjádřili svůj nesouhlas se jmenováním trestně stíhaného člověka, vedeného jako agent StB, premiérem. Akce se zúčastnilo rovněž několik členů České pirátské strany.
 

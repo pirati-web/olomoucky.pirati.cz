@@ -8,6 +8,9 @@ top:
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "ico--newspaper"
+#  - link: "Uplynulé volby"
+    #url: "/volby-2018/"
+    #icon: "fa fa-bar-chart"
 
 main:
   - link: /aktuality/
@@ -16,53 +19,42 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
-  - link: /picolo/
-    name: Pirátské centrum
-    match: picolo
-#  - link: /pomahame/
-#    name: Záchranný kruh
-#    match: pomahame
-  - link: /volby-2020/
-    name: Krajské volby
-    match: volby-2020
-  # - link: /volby-2018/
-  #   name: Volby 2018
-  #   match: volby-2018
-  #   submenu:
-  #     - link: /volby-2018/
-  #       name: Krajský rozcestník
-  #       match: volby-2018
-  #     - link: /volby-2018/rudoltice/
-  #       name: Rudoltice
-  #       match: rudoltice
-  #     - link: /volby-2018/hlinsko/
-  #       name: Hlinsko
+  - link: /mistni-sdruzeni/
+    name: Místní sdružení
+    match: mistni-sdruzeni
+  - link: /krajske-expertni-tymy/
+    name: Experti
+    match: experti
+  - link: /volby/2020/krajske/?pohled=program
+    name: Volby
+    match: volby
   - link: /kontakt/
-    name: Kontakt
+    name: Kontakty
     match: kontakt
 
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
+      - link: https://stredocesky.pirati.cz/zajemci
+        name: Naloď se
+      - link: /mistni-sdruzeni/
+        name: Místní sdružení
       - link: /kontakt/
         name: Dej nám vědět
-      - link: "https://nalodeni.pirati.cz"
-        name:  Nalodění
-    icon: "fa fa-user-plus"
   - class: small-12 medium-4
-    title: Makáme
+    title: Středočeši
     links:
-      - link: /lide/
-        name: Lidé
-      - link: /picolo/
-        name: Picolo
-      - link: /pomahame/
-        name: Záchranný kruh
-      - link: /volby-2018/
-        name: Volby 2018
       - link: /aktuality/
         name: Aktuality
+      - link: /lide/
+        name: Lidé
+      - link: /kalendar/
+        name: Kalendář
+      - link: /piratske-listy/
+        name: Pirátské listy
+      - link: /volby/
+        name: Volby
   - class: small-12 medium-4
     title: Otevřenost
     links:
@@ -70,17 +62,7 @@ bottom:
         name: Transparentní účet
       - link: https://smlouvy.pirati.cz
         name: Registr smluv
+      - link: https://evidence.pirati.cz
+        name: Evidence schůzek
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
-
-
-# Display transparency section in the footer?
-transparencySection: false
-
-contact:
-  - id: david.marhold
-    position: Koordinátor
-  - id: ivana.mrkvickova
-    position: Koordinátorka, volební manažerka
-  - id: martin.saifrt
-    position: Kontakt pro novináře

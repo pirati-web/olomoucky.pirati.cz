@@ -6,7 +6,7 @@ date: 2018-12-15
 tags: 
 - prostějov
 author: PhDr. Maria Řičánková
-image: articles/2018/2018-12-15-v-prostejovske-knihovne-se-bavilo-o-vzdelavani-a-zamestnanosti.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-12-15-v-prostejovske-knihovne-se-bavilo-o-vzdelavani-a-zamestnanosti.jpg  #751x422 pixelu
 ---
 Prostějov, 15. 12. 2018 - Dne 6.12.2018 se uskutečnila v Městské knihovně další přednáška z cyklu „Moderní město pro všechny generace“, tentokrát na téma „Vzdělávání a zaměstnanost“. Tato série přednášek je financována ze státního příspěvku České pirátské strany prostřednictvím jejího participativního rozpočtování. 
 

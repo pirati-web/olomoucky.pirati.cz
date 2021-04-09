@@ -5,7 +5,7 @@ title: Piráti podporují Lumíra Kantora do senátu
 date: 2016-10-11
 tags: olomouc
 author: Martin Šmída
-image: articles/2016/2016-10-11-pirati-podporuji-lumira-kantora-do-senatu.jpg   #751x422 pixelu
+image: assets/img/articles/2016/2016-10-11-pirati-podporuji-lumira-kantora-do-senatu.jpg   #751x422 pixelu
 ---
 Dovolujeme si doporučit našim voličům, aby šli volit i v druhém kole senátních voleb na Olomoucku a podpořili [Lumíra Kantora](https://www.lumirkantor.cz/). V pondělí jsme se s ním sešli a přesvědčil nás, že je vhodným nezávislým kandidátem, který umí naslouchat našim liberálním názorům a mnohé bude prosazovat i v senátu.
 

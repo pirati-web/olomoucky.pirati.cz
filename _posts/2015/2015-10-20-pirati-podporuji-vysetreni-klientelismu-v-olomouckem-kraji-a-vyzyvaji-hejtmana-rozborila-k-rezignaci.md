@@ -5,7 +5,7 @@ title: Stanovisko ke kauze olomouckého klientelismu
 date: 2015-10-20
 tags: olomouc
 author: Martin Šmída
-image: articles/2015/2015-10-20-pirati-podporuji-vysetreni-klientelismu-v-olomouckem-kraji-a-vyzyvaji-hejtmana-rozborila-k-rezignaci.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-10-20-pirati-podporuji-vysetreni-klientelismu-v-olomouckem-kraji-a-vyzyvaji-hejtmana-rozborila-k-rezignaci.jpg   #751x422 pixelu
 ---
 Piráti podporují vyšetření klientelismu v Olomouckém kraji a vyzývají hejtmana Rozbořila k rezignaci.
 

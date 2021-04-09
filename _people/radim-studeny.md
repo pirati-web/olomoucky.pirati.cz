@@ -3,7 +3,7 @@ uid: radim.studeny
 name:     Radim Studený  # běžně používáné jméno
 fullname: Ing. et Ing. Radim Studený   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- piratska-tvrz
+- 
 position: 
 img: people/radim-studeny.jpg   # 165 x 220
 description: Člen KS Olomouckého kraje            # kratký popis, max 160 znaků

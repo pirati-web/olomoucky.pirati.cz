@@ -3,10 +3,10 @@ uid: milos.zmeskal
 name:     Miloš Zmeškal      		# běžně používáné jméno
 fullname: Miloš Zmeškal  		# jméno s tituly etc.
 category:              		# kategorie: rp, praha, vary, hradec, jmk, senat
-- koordinatori
-position: Krajský koordinátor
+- 
+position: Člen KS Olomouckého kraje
 img: people/milos-zmeskal.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Olomoucký kraj # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje # kratký popis, max 160 znaků
 mail:
 - milos.zmeskal@pirati.cz
 mob: 770 113 650

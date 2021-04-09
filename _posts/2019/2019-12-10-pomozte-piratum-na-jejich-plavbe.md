@@ -6,7 +6,7 @@ date: 2019-12-10
 tags: 
 - olomoucký-kraj
 author: Antoním Štěpán
-image: articles/2019/2019-12-10-pomozte-piratum-na-jejich-plavbe.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-12-10-pomozte-piratum-na-jejich-plavbe.jpg  #751x422 pixelu
 ---
 Demokracie zažívá těžké časy. Aby mohla uspět, nepotřebuje spasitele a lhostejnou veřejnost, ale především občany, kteří se zajímají a účastní politiky. Zapojte se i vy! Pokud chcete přímo ovlivňovat politiku Pirátů, můžete se stát příznivcem nebo členem. Pokud nemáte čas nebo chuť, můžete nás podpořit alespoň finančně. S každou stokorunou, kterou nám pošlete, naložíme hospodárně jako nikdo jiný. A navíc nám pomůžete porazit holding v krajských volbách. Nadělte si dobrý pocit a přispějte proti načerpaným dotačním miliardám pár poctivými stokorunami. Svoboda se nedá koupit, ale udržet ji něco stojí. Děkujeme! Vaši Piráti.
 

@@ -3,18 +3,18 @@ uid: martin.svadlenka
 name:     Martin Švadlenka   # běžně používáné jméno
 fullname: Martin Švadlenka   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- prerov
-position: Místopředseda místního sdružení
+- kraj-zastupitele
+position:
 img: people/martin-svadlenka.jpg   # 165 x 220
-description: 1. místopředseda místního sdružení Přerov           # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje, krajský zastupitel v Olomouckém kraji           # kratký popis, max 160 znaků
 mail: martin.svadlenka@pirati.cz
-
 mob:        
 profiles:
   github:                 
   facebook:       
   twitter:      
-  flickr:            
+  flickr:
+ordzask: 8
 ---
 Martin Švadlenka (* 17. července 1975) je Pirátem od roku 2009, kdy spoluzakládal zlínské krajské sdružení. Martin pochází ze Vsetína, od roku 2011 žije v Přerově.
 
@@ -28,8 +28,8 @@ Angažuje se v hnutí, které upozorňuje na nesrovnalosti oficiální verze út
 
 Fanatický zastánce a uživatel opensource softwaru, pěšák v operaci [Hrajeme svobodnou hudbu](https://wiki.pirati.cz/hudba/start), která má osvobodit provozovatele od výpalného OSA, Intergramu či OAZA, autor návodu [pro distribuci svobodné hudby](https://wiki.pirati.cz/hudba/distribuce), amatérský fotomontér v GIMPu a spolupořadatel Prvního přerovského Vyosení.
 
-V Přerově úzce spolupracuje s komunálním sdružením [Společně pro Přerov](http://www.spolecneproprerov.cz/), pod jehož vlajkou kandidoval v komunálních volbách 2014, 2018. V období 2014 - 2018 předsedou Komise rady města Přerova pro otevřenou radnici, 
-v období 2017 - 2018 zastupitelem. V Současné době členem redakční rady Přerovských listů.
+V Přerově úzce spolupracoval s komunálním sdružením [Společně pro Přerov](http://www.spolecneproprerov.cz/), pod jehož vlajkou kandidoval v komunálních volbách 2014, 2018. V období 2014 - 2018 předsedou Komise rady města Přerova pro otevřenou radnici, 
+v období 2017 - 2018 zastupitelem. V současné době krajským zastupitelem v Olomouckém kraji a členem redakční rady Přerovských listů.
 
 Držitel zlaté Jánského plakety.
 

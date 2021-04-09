@@ -4,9 +4,9 @@ name:     Jan Bednařík   # běžně používáné jméno
 fullname: Jan Bednařík   # jméno s tituly etc.
 category:
 -                   # kategorie: rp, praha, vary, hradec, jmk, senat
-position: člen Republikového výboru
+position: Člen Republikového výboru
 img: people/jan-bednarik.jpg   # 165 x 220
-description: člen Republikového výboru   # kratký popis, max 160 znaků
+description: Člen Republikového výboru   # kratký popis, max 160 znaků
 mail: 
 - jan.bednarik@pirati.cz
 mob: 603 439 481

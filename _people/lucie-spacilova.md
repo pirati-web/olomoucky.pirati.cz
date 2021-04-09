@@ -3,14 +3,14 @@ uid: lucie.spacilova
 name:     Lucie Spáčilová          # běžně používáné jméno
 fullname: Lucie Spáčilová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- olomouc
-position: Místopředseda místního sdružení
+-
+position:
 img: people/lucie-spacilova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 1. místopředsedkyně místního sdružení Olomouc                # kratký popis, max 160 znaků
+description: Členka KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
 - lucie.spacilova@pirati.cz
-mob:         
+mob: 
 profiles:
   github:
   facebook:       

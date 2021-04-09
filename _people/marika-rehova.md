@@ -16,7 +16,7 @@ profiles:
   twitter:         
   flickr: 
 ---
-Marika Řehová (*19. července 1988) je členkou KS Olomouckého kraje a MS Olomouc. Narodila se a převážnou část života prožila v Ostravě, kde studovala SOŠ strojírenskou a SOŠ zdravotnickou. Nyní žije v Olomouci a pracuje v nemocnici na oddělení JIP, v současné době je na mateřské dovolené. Je maminkou dvou synů, z nichž jeden trpí poruchou autistického spektra. 
+Marika Řehová (* 19. července 1988) je členkou KS Olomouckého kraje a MS Olomouc. Narodila se a převážnou část života prožila v Ostravě, kde studovala SOŠ strojírenskou a SOŠ zdravotnickou. Nyní žije v Olomouci a pracuje v nemocnici na oddělení JIP, v současné době je na mateřské dovolené. Je maminkou dvou synů, z nichž jeden trpí poruchou autistického spektra. 
 
 Důvody jejího vstupu do České pirátské strany je dlouhodobá nespokojenost s českou politickou scénou, u které vyžaduje především transparentnost, otevřenost, zodpovědnost a bezúhonnost. Ráda by na politickém poli uplatnila své vědomosti a zkušenosti především ze zdravotnictví a sociální sféry v oblasti péče o lidi s PAS. Ale nezávisle na své zaměření hlavně naslouchá lidem a jejich trápení, protože právě to považuje za nejpodstatnější.
 

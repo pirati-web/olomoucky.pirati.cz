@@ -5,7 +5,7 @@ title: OSA se vzdává všech absurdních nároků na výpalné
 date: 2015-04-01
 tags: piráti
 author: Martin Šmída
-image: articles/2015/2015-04-01-osa-se-vzdava-vsech-absurdnich-naroku-na-vypalne.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-04-01-osa-se-vzdava-vsech-absurdnich-naroku-na-vypalne.jpg   #751x422 pixelu
 ---
 Roman Strejček z ochranného svazu autorského se odhodlal k překvapivému kroku: "Byl jsem na cestě po Indii a od té doby stále přemítám nad morální stránkou všech druhů poplatků, které OSA vybírá. Se svými závěry jsem seznámil ostatní, ale Petr Janda na mě dlouho vyvíjel velký tlak, aby vše zůstalo při starém, ale já už prostě dál nemůžu. Už nechci dělat zlé věci."
 

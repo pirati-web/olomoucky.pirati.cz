@@ -6,7 +6,7 @@ date: 2018-10-06
 tags: 
 - olomouc
 author: Mediální odbor
-image: articles/2018/2018-10-06-povolebni-strategie-piratu-a-starostu-pro-volby-do-zastupitelstva-mesta-olomouce-2018.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-10-06-povolebni-strategie-piratu-a-starostu-pro-volby-do-zastupitelstva-mesta-olomouce-2018.jpg  #751x422 pixelu
 ---
 
 Chceme se podílet na správě města s kompetentními lidmi a s demokratickými stranami. Odmítáme kumulaci funkcí a trafikanty v městských firmách. Naopak vítáme transparentně vybrané odborníky, kteří pomohou město a jeho firmy profesionálně řídit. 

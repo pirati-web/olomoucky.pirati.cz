@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Místopředseda místního sdružení
 img: people/jan-koutny.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 2. místopředseda místního sdružení Pirátská tvrz                 # kratký popis, max 160 znaků
+description: 1. místopředseda místního sdružení Pirátská tvrz                 # kratký popis, max 160 znaků
 mail:
 mob: 
 profiles:  

@@ -6,7 +6,7 @@ date: 2019-03-22
 tags: 
 - prostějov
 author: Mediální odbor
-image: articles/2019/2019-03-22-prostejovske-palermo.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-03-22-prostejovske-palermo.jpg  #751x422 pixelu
 ---
 Prostějov, 22. 3. 2019 - V minulém týdnu došlo v Prostějově k nepříjemné události. Byl poškozen automobil opoziční zastupitelky Ing. Hany Naiclerové (Změna Pro Prostějov). 
 

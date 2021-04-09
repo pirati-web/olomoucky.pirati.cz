@@ -3,13 +3,13 @@ uid: jaromir.horky
 name:     Jaromír Horký     # běžně používané jméno
 fullname: Jaromír Horký   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- prerov
-- predsedove-ms
 - predsednictvo
+- prerov-zastupitele
+- kraj-zastupitele
 position: Místopředseda krajského sdružení
 img: people/jaromir-horky.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 1. místopředseda krajského sdružení Olomouckého kraje, předseda místního sdružení Přerov                # kratký popis, max 160 znaků
+description: 1. místopředseda krajského sdružení Olomouckého kraje, předseda místního sdružení Přerov, krajský zastupitel v Olomouckém kraji                # kratký popis, max 160 znaků
 mail: jaromir.horky@pirati.cz
 mob: 774 942 021
 profiles:
@@ -17,12 +17,13 @@ profiles:
   facebook: https://www.facebook.com/jarda.horky     
   twitter: https://twitter.com/horky_jaromir       
   flickr:
-ordmis: 4
 ordpre: 2
+ordzas: 9
+ordzask: 3
 ---
-Jaromír Horký (* 15. března 1998) je 1. místopředsedou KS Olomouckého kraje a předseda MS Přerov. Pracuje jako krajská mediální spojka a volební manažer Pirátů Zlínského kraje. Jedním z hlavních příčin vstupu do Pirátské strany byl čím dál tím větší nezájem populace, a to zejména mladé části společnosti o politiku. Věří, že Pirátská strana díky svému protikorupčnímu a transparentnímu programu, který sama na sobě aplikuje, může změnit pohled lidí na politiku jako takovou. Chce se na tom podílet.
+Jaromír Horký (* 15. března 1998) je krajským zastupitelem, 1. místopředsedou KS Olomouckého kraje. Pracuje jako PR a marketingový specialista a asistent náměstkyně hejtmana ve Zlínském kraji Hany Ančincové. Stojí za úspěšnou krajskou kampaní Pirátů ve Zlínském kraji. Je garantem programového bodu kultura a členem krajských expertní týmu pro sport a transparentnost. Jedním z hlavních příčin vstupu do Pirátské strany byl čím dál tím větší nezájem populace, a to zejména mladé části společnosti o politiku. Věří, že Pirátská strana díky svému protikorupčnímu a transparentnímu programu, který sama na sobě aplikuje, může změnit pohled lidí na politiku jako takovou. Chce se na tom podílet.
 
-Tři roky studoval právo na Právnické fakultě Masarykovy univerzity a aktuálně je zapsán v kombinované formě studia Teorie interaktivních médií na Filozofické fakultě na téže univerzitě. Je hrdý přerovák, kterému není Přerov lhostejný, ba naopak! Snaží se vnést do města pohled mladého člověka s rozhledem, který se rád inspiruje různě po Česku nebo v zahraničí. 
+Tři roky studoval právo na Právnické fakultě Masarykovy univerzity a poté v kombinované formě studia Teorie interaktivních médií na Filozofické fakultě na téže univerzitě, následně se však začal naplno věnovat PR a marketingu. Je hrdý přerovák, kterému není Přerov lhostejný, ba naopak! Snaží se vnést do města pohled mladého člověka s rozhledem, který se rád inspiruje různě po Česku nebo v zahraničí. 
 
 V Přerově úzce spolupracuje s komunálním sdružením [Společně pro Přerov a Piráti](https://www.facebook.com/spolecneproprerov/090), pod jehož vlajkou kandidoval v komunálních volbách 2018. 
 

@@ -6,7 +6,7 @@ date: 2019-11-22
 tags: 
 - olomouc
 author: Mediální odbor
-image: articles/2019/2019-11-22-pirati-v-olomouckem-kraji-zvolili-sveho-druheho-kandidata-do-senatu.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-11-22-pirati-v-olomouckem-kraji-zvolili-sveho-druheho-kandidata-do-senatu.jpg  #751x422 pixelu
 ---
 Olomouc, 22. 11. 2019 – Členská základna Pirátů Olomouckého kraje zvolila svého druhého kandidáta do Senátu. V internetovém hlasování byl s necelými 87 % zvolen bankovní specialista Zdeněk Žák a bude tak usilovat o post senátora ve volebním obvodě č. 66. „Věřím, že i při práci senátora bych uplatnil své analytické schopnosti, logické uvažování. Zároveň si myslím, že jsem schopen diskuse a hledání co nejširší názorové shody,“ napsal do své kandidátské řeči Zdeněk Žák.
 

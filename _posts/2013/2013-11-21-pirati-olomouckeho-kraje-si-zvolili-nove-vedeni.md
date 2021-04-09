@@ -5,7 +5,7 @@ title: Piráti Olomouckého kraje si zvolili nové vedení
 date: 2013-11-21
 tags: olomoucký-kraj
 author: Roman Kümmel
-image: articles/2013/2013-11-21-pirati-olomouckeho-kraje-si-zvolili-nove-vedeni.jpg   #751x422 pixelu
+image: assets/img/articles/2013/2013-11-21-pirati-olomouckeho-kraje-si-zvolili-nove-vedeni.jpg   #751x422 pixelu
 ---
 Ve čtvrtek 21. listopadu 2013 se v olomouckém klubu Nirvana konalo volební zasedání krajského sdružení České pirátské strany v Olomouckém kraji. Hlasovalo se o odvolání dosavadního předsedy, a vzápětí se volilo nové vedení krajského sdružení. Na zasedání proběhla rovněž nominace a volba zástupce kraje v republikovém výboru strany.
 

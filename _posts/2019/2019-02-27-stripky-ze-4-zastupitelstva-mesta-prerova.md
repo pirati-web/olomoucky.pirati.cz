@@ -6,7 +6,7 @@ date: 2019-02-27
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-02-27-stripky-ze-4-zastupitelstva-mesta-prerova.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-02-27-stripky-ze-4-zastupitelstva-mesta-prerova.jpg  #751x422 pixelu
 ---
 Přerov, 27. 2. 2019 - Rozhodnutím vládnoucí koalice se zastupitelstva konají pouze jednou za dva měsíce a množství bodů k projednání se tak hezky nastřádalo. Proto zmíníme jen ty nejzajímavější.
 

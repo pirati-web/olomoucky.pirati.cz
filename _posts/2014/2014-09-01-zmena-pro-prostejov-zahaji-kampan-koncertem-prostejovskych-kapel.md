@@ -5,7 +5,7 @@ title: Změna pro Prostějov zahájí kampaň koncertem prostějovských kapel
 date: 2014-09-01
 tags: prostějov
 author: Martin Šmída
-image: articles/2014/2014-09-01-zmena-pro-prostejov-zahaji-kampan-koncertem-prostejovskych-kapel.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-09-01-zmena-pro-prostejov-zahaji-kampan-koncertem-prostejovskych-kapel.jpg   #751x422 pixelu
 ---
 Komunální volby se blíží a volební kampaň startuje. Strany se snaží získávat voliče různými způsoby, Změna pro Prostějov, tedy společná kandidátka Strany zelených, České pirátské strany a nezávislých kandidátů, vsadila na kontaktní kampaň spojenou s pořádáním série koncertů pro Změnu, kterou zahájila již v neděli 31. srpna společným vystoupením kapely FIDDLE-DEDEE a skupiny DOJEM. 
 

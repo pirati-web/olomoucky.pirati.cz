@@ -5,7 +5,7 @@ title: Pozvánka na listopadové zasedání 1. 11. 2012
 date: 2012-10-24
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: articles/2012/2012-10-24-pozvanka-na-listopadove-zasedani-01-11-2012.jpg   #751x422 pixelu
+image: assets/img/articles/2012/2012-10-24-pozvanka-na-listopadove-zasedani-01-11-2012.jpg   #751x422 pixelu
 ---
 Vážení členové a příznivci, krajské předsednictvo vás tímto zve na každoměsíční zasedání olomouckého krajského sdružení Pirátů.
 
