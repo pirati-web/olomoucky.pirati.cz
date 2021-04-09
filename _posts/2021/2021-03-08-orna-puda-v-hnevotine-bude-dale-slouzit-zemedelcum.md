@@ -6,7 +6,7 @@ date: 2021-03-08
 tags: 
 - piráti
 author: Josef Indra
-image: assets/img/articles/2021/2021-03-08-orna-puda-v-hnevotine-bude-dale-slouzit-zemedelcum.jpg  #751x422 pixelu
+image: articles/2021/2021-03-08-orna-puda-v-hnevotine-bude-dale-slouzit-zemedelcum.jpg  #751x422 pixelu
 ---
 Hejtmanství Olomouckého kraje nepodá kasační stížnost vůči rozhodnutí soudu, který zrušil část zásad územního rozvoje Olomouckého kraje. Kauza kolem zastavění orné půdy v Hněvotíně o celkové rozloze 44 ha, byla velmi ožehavým tématem už několik let. O původním záměru záboru zemědělské půdy ve prospěch průmyslové zóny rozhodlo bývalé vedení Olomouckého kraje. 
 

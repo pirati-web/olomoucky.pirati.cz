@@ -5,7 +5,7 @@ title: Dělnická mládež demostruje v Olomouci? To si nenecháme ujít!
 date: 2015-10-12
 tags: olomouc
 author: Martin Šmída
-image: assets/img/articles/2015/2015-10-12-delnicka-mladez-demostruje-v-olomouci-to-si-nenechame-ujit.jpg   #751x422 pixelu
+image: articles/2015/2015-10-12-delnicka-mladez-demostruje-v-olomouci-to-si-nenechame-ujit.jpg   #751x422 pixelu
 ---
 Poslední sobotu v říjnu (31. 10.) se chystá Dělnická mládež demonstrovat proti migraci a za vystoupení z EU na Horním náměstí v Olomouci.
 

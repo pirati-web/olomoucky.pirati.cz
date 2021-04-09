@@ -6,7 +6,7 @@ date: 2018-12-07
 tags: 
 - olomouc
 author: Mediální odbor
-image: assets/img/articles/2018/2018-12-07-nechceme-odstrihnout-univerzitu.jpg  #751x422 pixelu
+image: articles/2018/2018-12-07-nechceme-odstrihnout-univerzitu.jpg  #751x422 pixelu
 ---
 Olomouc, 7. 12. 2018 - Nejdůležitějším partnerem města je Univerzita Palackého. Většina politických subjektů v Zastupitelstvu města Olomouce toto před volbami tvrdila a spolupráci s univerzitou označovala jako svoji prioritu. Realita se ale ukazuje být jiná.
 

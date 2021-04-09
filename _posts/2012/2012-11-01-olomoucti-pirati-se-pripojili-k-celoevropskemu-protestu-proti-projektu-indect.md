@@ -5,7 +5,7 @@ title: Olomoučtí Piráti se připojili k Celoevropskému protestu proti projek
 date: 2012-11-01
 tags: olomouc
 author: Vojtěch Pikal
-image: assets/img/articles/2012/2012-11-01-olomoucti-pirati-se-pripojili-k-celoevropskemu-protestu-proti-projektu-indect.jpg   #751x422 pixelu
+image: articles/2012/2012-11-01-olomoucti-pirati-se-pripojili-k-celoevropskemu-protestu-proti-projektu-indect.jpg   #751x422 pixelu
 ---
 Dne 20.10. se Piráti v Olomouci připojili k mezinárodním protestům proti programu INDECT rozložením informačního petičního stánku v centru města.
 

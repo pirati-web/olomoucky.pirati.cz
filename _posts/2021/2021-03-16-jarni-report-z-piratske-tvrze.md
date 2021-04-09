@@ -6,7 +6,7 @@ date: 2021-03-16
 tags: 
 - pirátská-tvrz
 author: Radek Vojtek
-image: assets/img/articles/2021/2021-03-16-jarni-report-z-piratske-tvrze.jpg  #751x422 pixelu
+image: articles/2021/2021-03-16-jarni-report-z-piratske-tvrze.jpg  #751x422 pixelu
 ---
 Z důvodu nekončícího lockdownu a vládního chaosu se nám nyní těžko podnikají a plánují jakékoli společné aktivity. Doufáme alespoň v to, že se nám v létě podaří uskutečnit nějaké sportovní turnaje a festivaly jako VyOsení a Kytary In Majetín.
 

@@ -6,7 +6,7 @@ date: 2018-06-13
 tags: 
 - pirátská-tvrz
 author: Radim Studený
-image: assets/img/articles/2018/2018-06-13-odpoved-starostky-obce-majetin-na-otevreny-dopis-predsedy-ms-piratska-tvrz.jpg   #751x422 pixelu
+image: articles/2018/2018-06-13-odpoved-starostky-obce-majetin-na-otevreny-dopis-predsedy-ms-piratska-tvrz.jpg   #751x422 pixelu
 ---
 Majetín, 13. 6. 2018 - Uveřeňujeme v plném znění odpověď starostky obce Majetín na [otevřený dopis](https://olomoucky.pirati.cz/tiskove-zpravy/otevreny-dopis-starostce-obce-majetin.html) předsedy MS Pirátská Tvrz Radima Studeného ze dne 27. 5. 2018:
 

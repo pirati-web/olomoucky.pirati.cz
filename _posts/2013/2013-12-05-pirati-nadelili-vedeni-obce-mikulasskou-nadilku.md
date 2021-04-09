@@ -5,7 +5,7 @@ title: Piráti nadělili vedení obce mikulášskou nadílku
 date: 2013-12-05
 tags: pirátská-tvrz
 author: Roman Kümmel
-image: assets/img/articles/2013/2013-12-05-pirati-nadelili-vedeni-obce-mikulasskou-nadilku.jpg   #751x422 pixelu
+image: articles/2013/2013-12-05-pirati-nadelili-vedeni-obce-mikulasskou-nadilku.jpg   #751x422 pixelu
 ---
 Na obecním úřadě v Brodku u Přerova  proběhla ve čtvrtek 5. 12. před polednem první pirátská mikulášská nadílka. Mikuláš (Ing. Vladimír Hlavinka - 2. místopředseda KS Olk) zhodnotil dosavadní fungování městyse Brodek a poukázal na problémy, které Brodek řeší, a které naopak neřeší.
 

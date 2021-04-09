@@ -6,7 +6,7 @@ date: 2019-04-12
 tags: 
 - prostějov
 author: Mediální odbor
-image: assets/img/articles/2019/2019-04-12-prostejov-a-domaci-hospicova-pece.jpg  #751x422 pixelu
+image: articles/2019/2019-04-12-prostejov-a-domaci-hospicova-pece.jpg  #751x422 pixelu
 ---
 Piráti, jako součást prostějovské koalice Na rovinu!, se podíleli na programu, který  měl jako jedno z témat rozvoj domácí hospicové péče v Prostějově. Na zastupitelstvu dne 30. 4. 2019 se bude projednávat dotace pro jediný mobilní hospic poskytující své služby na území města Prostějova. Jako strana, která si je vědoma zodpovědnosti za všechny oblasti lidského života, jsme nemohli ponechat toto vážné téma stranou. 
 

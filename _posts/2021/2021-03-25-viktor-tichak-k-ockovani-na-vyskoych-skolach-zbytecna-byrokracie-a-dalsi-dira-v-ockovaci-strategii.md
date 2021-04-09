@@ -6,7 +6,7 @@ date: 2021-03-25
 tags: 
 - piráti
 author: Josef Indra
-image: assets/img/articles/2021/2021-03-25-viktor-tichak-k-ockovani-na-vyskoych-skolach-zbytecna-byrokracie-a-dalsi-dira-v-ockovaci-strategii.jpg  #751x422 pixelu
+image: articles/2021/2021-03-25-viktor-tichak-k-ockovani-na-vyskoych-skolach-zbytecna-byrokracie-a-dalsi-dira-v-ockovaci-strategii.jpg  #751x422 pixelu
 ---
 Česká konference rektorů vyzvala univerzity a vysoké školy, aby daly dohromady seznamy zaměstnanců, které spadají do dvou prioritních skupin: 
 

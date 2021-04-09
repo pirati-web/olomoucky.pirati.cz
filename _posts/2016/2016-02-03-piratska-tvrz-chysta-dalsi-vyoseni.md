@@ -5,7 +5,7 @@ title: Pirátská Tvrz chystá další VyOsení
 date: 2016-02-03
 tags: pirátská-tvrz
 author: Martin Šmída
-image: assets/img/articles/2016/2016-02-03-piratska-tvrz-chysta-dalsi-vyoseni.jpg   #751x422 pixelu
+image: articles/2016/2016-02-03-piratska-tvrz-chysta-dalsi-vyoseni.jpg   #751x422 pixelu
 ---
 Poslední lednový den se sešli členové a příznivci místního sdružení Pirátská Tvrz. Shrnuli své aktivity z loňska, zastupitel v Majetíně Martin Šmída a člen rozvojové komise Tomáš Lacina prezentovali svou dosavadní práci, a předseda Pirátské Tvrze Radim Studený nastínil plány do budoucna. 
 

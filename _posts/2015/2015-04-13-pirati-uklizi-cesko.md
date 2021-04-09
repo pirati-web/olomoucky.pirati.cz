@@ -5,7 +5,7 @@ title: Piráti uklízí Česko
 date: 2015-04-13
 tags: olomoucký-kraj
 author: Martin Šmída
-image: assets/img/articles/2015/2015-04-13-pirati-uklizi-cesko.jpg   #751x422 pixelu
+image: articles/2015/2015-04-13-pirati-uklizi-cesko.jpg   #751x422 pixelu
 ---
 Možná jste již zaznamenali probíhající vlnu dobrovolnických úklidů v rámci akce "Ukliďme Česko". Tento typ úklidových akcí, mezinárodně osvědčeného modelu "Let's Do It!", se uskutečnil úspěšně ve více jak 100 zemích za účasti 9 milionů dobrovolníků. Letos se hojně zapojují i členové a příznivci Pirátské strany a příslušných oblastních sdružení. Několik pirátských úklidů již letos proběhlo a další budou následovat, především v sobotu 18. 4., kdy celá akce vrcholí. I vy tak máte možnost dobrovolnicky se zapojit do zvelebení veřejného prostoru.
 

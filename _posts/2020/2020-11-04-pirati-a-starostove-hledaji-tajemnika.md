@@ -7,7 +7,7 @@ tags:
 - piráti-a-starostové
 - olomoucký-kraj
 author: Josef Indra
-image: assets/img/articles/2020/2020-11-04-pirati-a-starostove-hledaji-tajemnika.jpg  #751x422 pixelu
+image: articles/2020/2020-11-04-pirati-a-starostove-hledaji-tajemnika.jpg  #751x422 pixelu
 ---
 Koalice Piráti a Starostové hledají nového tajemníka zastupitelského klubu v Olomouckém kraji. Pozice je především určena uchazečům, kteří mají rádi administrativní práci a vytváření analýz. Hledáme uchazeče, který zároveň má přehled v politice a výhodou je souznění s našimi hodnotami. Níže jsou uvedeny hlavní požadavky, které jsou na pozici vyžadovány.  
 

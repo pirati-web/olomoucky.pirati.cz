@@ -5,7 +5,7 @@ title: Nástup do odborů!
 date: 2012-05-11
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: assets/img/articles/2012/2012-05-11-nastup-do-odboru.jpg   #751x422 pixelu
+image: articles/2012/2012-05-11-nastup-do-odboru.jpg   #751x422 pixelu
 ---
 Vážení členové, příznivci, Piráti, již před nějakou dobou jsme si založili krajské odbory, zvolili jejich vedoucí ale jejich činnost ještě trošku vázne. Organizaci máme dobrou, ale chybí pracovní síla.
 

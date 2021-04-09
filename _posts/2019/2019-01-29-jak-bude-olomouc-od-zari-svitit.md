@@ -6,7 +6,7 @@ date: 2019-01-29
 tags: 
 - olomouc
 author: Mediální odbor
-image: assets/img/articles/2019/2019-01-29-jak-bude-olomouc-od-zari-svitit.jpg  #751x422 pixelu
+image: articles/2019/2019-01-29-jak-bude-olomouc-od-zari-svitit.jpg  #751x422 pixelu
 ---
 Olomouc, 29. 1. 2019 - Piráti a Starostové opakovaně upozorňují na nedostatek financí určených na veřejné osvětlení a provoz semaforů.
 

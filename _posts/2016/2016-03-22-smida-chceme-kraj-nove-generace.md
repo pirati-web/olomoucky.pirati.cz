@@ -5,7 +5,7 @@ title: "Šmída: Chceme kraj nové generace"
 date: 2016-03-22
 tags: pirátská-tvrz
 author: Martin Šmída
-image: assets/img/articles/2016/2016-03-22-smida-chceme-kraj-nove-generace.jpg   #751x422 pixelu
+image: articles/2016/2016-03-22-smida-chceme-kraj-nove-generace.jpg   #751x422 pixelu
 ---
 Rozhovor s předsedou Pirátů v Olomouckém kraji a lídrem do krajských voleb Martinem Šmídou. Převzato z Pirátských listů: [http://www.piratskelisty.cz/clanek-1482-smida-chceme-kraj-nove-generace](http://www.piratskelisty.cz/clanek-1482-smida-chceme-kraj-nove-generace)
 

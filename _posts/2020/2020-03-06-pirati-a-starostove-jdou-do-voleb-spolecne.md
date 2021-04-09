@@ -6,7 +6,7 @@ date: 2020-03-06
 tags: 
 - olomoucký-kraj
 author: Mediální odbor
-image: assets/img/articles/2020/2020-03-06-pirati-a-starostove-jdou-do-voleb-spolecne.jpg  #751x422 pixelu
+image: articles/2020/2020-03-06-pirati-a-starostove-jdou-do-voleb-spolecne.jpg  #751x422 pixelu
 ---
  Česká pirátská strana a hnutí Starostové a nezávislí budou v Olomouckém kraji kandidovat společně. O vytvoření společné kandidátky pro krajské volby rozhodli hlasováním členové obou stran. Lídrem společné kandidátky bude zástupce hnutí STAN, olomoucký zastupitel a ředitel Správy kolejí a menz Univerzity Palackého **Josef Suchánek**. Dvojkou společné kandidátky a lídryní Pirátů bude zkušená komunální zastupitelka a dlouholetá ambasadorka Rekonstrukce státu **Zdeňka Dvořáková Kocourková** ze Šumperka. 
 

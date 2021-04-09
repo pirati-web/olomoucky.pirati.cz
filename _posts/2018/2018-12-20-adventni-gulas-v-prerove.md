@@ -6,7 +6,7 @@ date: 2018-12-20
 tags: 
 - přerov
 author: Jaromír Horký
-image: assets/img/articles/2018/2018-12-20-adventni-gulas-v-prerove.jpg  #751x422 pixelu
+image: articles/2018/2018-12-20-adventni-gulas-v-prerove.jpg  #751x422 pixelu
 ---
 Přerov, 20. 12. 2018 - V pátek 14. 12. 2018 uspořádali Společně pro Přerov a Piráti adventní guláš přímo v centru města.
 

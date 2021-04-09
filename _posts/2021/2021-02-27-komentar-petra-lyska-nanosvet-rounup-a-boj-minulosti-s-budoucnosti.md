@@ -7,7 +7,7 @@ tags:
 - piráti
 - prostějov
 author: Josef Indra
-image: assets/img/articles/2021/2021-02-27-komentar-petra-lyska-nanosvet-rounup-a-boj-minulosti-s-budoucnosti.jpg  #751x422 pixelu
+image: articles/2021/2021-02-27-komentar-petra-lyska-nanosvet-rounup-a-boj-minulosti-s-budoucnosti.jpg  #751x422 pixelu
 ---
 Tak nám v úterý, 23.2.2021, proběhlo další zastupitelstvo Statutárního města Prostějova. Pandemie v plném proudu, údajně nevětraný sál a pár *„nudných“* bodů.
 

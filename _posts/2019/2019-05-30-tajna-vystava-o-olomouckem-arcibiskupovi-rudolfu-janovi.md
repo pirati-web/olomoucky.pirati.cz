@@ -6,7 +6,7 @@ date: 2019-05-30
 tags: 
 - olomouc
 author: Mediální odbor
-image: assets/img/articles/2019/2019-05-30-tajna-vystava-o-olomouckem-arcibiskupovi-rudolfu-janovi.jpg  #751x422 pixelu
+image: articles/2019/2019-05-30-tajna-vystava-o-olomouckem-arcibiskupovi-rudolfu-janovi.jpg  #751x422 pixelu
 ---
 Olomouc, 30. 5. 2019 - Zaznamenali jste někde, že 31. května 2019 má být slavnostně otevřená výstava o olomouckém arcibiskupovi Rudolfu Janovi? Kromě specializované stránky rudolfjan.cz, kde je akce bez bližších informací zmíněna, všechny oficiální servery o akci mlčí. Nu což, některé výstavy mohou mít i skromnější podobu a malou publicitu. Nemělo by se to ale dít u akce, na kterou město dalo soukromému producentovi dotaci 130 tisíc korun.
 

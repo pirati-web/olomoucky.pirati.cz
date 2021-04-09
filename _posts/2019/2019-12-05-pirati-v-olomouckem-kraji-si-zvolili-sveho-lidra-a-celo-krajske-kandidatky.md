@@ -6,7 +6,7 @@ date: 2019-12-05
 tags: 
 - olomoucký-kraj
 author: Mediální odbor
-image: assets/img/articles/2019/2019-12-05-pirati-v-olomouckem-kraji-si-zvolili-sveho-lidra-a-celo-krajske-kandidatky.jpg  #751x422 pixelu
+image: articles/2019/2019-12-05-pirati-v-olomouckem-kraji-si-zvolili-sveho-lidra-a-celo-krajske-kandidatky.jpg  #751x422 pixelu
 ---
 Piráti v Olomouckém kraji si v průběhu minulých týdnů zvolili kandidáta na hejtmana a čelo své kandidátní listiny do krajských voleb. Volba probíhala prostřednictvím internetového hlasování a do obsáhlé rozpravy na pirátském fóru se zapojila většina členů. Ti si vybrali šestici osobností z celkem 13 nominantů. “Jsem rád, že mají Piráti v Olomouckém kraji mnoho skvělých lidí, z kterých lze vybírat,” říká předseda krajského sdružení Viktor Tichák.
 

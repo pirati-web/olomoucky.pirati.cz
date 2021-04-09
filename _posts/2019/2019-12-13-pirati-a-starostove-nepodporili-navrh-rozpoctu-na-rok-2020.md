@@ -6,7 +6,7 @@ date: 2019-12-13
 tags: 
 - olomouc
 author: Antonín Štěpán
-image: assets/img/articles/2019/2019-12-13-pirati-a-starostove-nepodporili-navrh-rozpoctu-na-rok-2020.jpg  #751x422 pixelu
+image: articles/2019/2019-12-13-pirati-a-starostove-nepodporili-navrh-rozpoctu-na-rok-2020.jpg  #751x422 pixelu
 ---
 
 Olomouc, 13. 12. 2019 - Zastupitelstvo města Olomouce dnes schvalovalo návrh rozpočtu města na rok 2020. Piráti a Starostové tento rozpočet nepodpořili, protože je špatně připravený, je šitý horkou jehlou a je navázán na populistické kroky: Koalice plní programové prohlášení, přitom ale na konci svého vládnutí zanechá město v zuboženém stavu.

@@ -6,7 +6,7 @@ date: 2020-06-07
 tags: 
 - pirátská-tvrz
 author: Radek Vojtek
-image: assets/img/articles/2020/2020-06-07-otevreny-dopis-pro-vedeni-mestyse-reakce-na-odpoved.jpg  #751x422 pixelu
+image: articles/2020/2020-06-07-otevreny-dopis-pro-vedeni-mestyse-reakce-na-odpoved.jpg  #751x422 pixelu
 redirect_from:
   - /tiskove-zpravy/otevren-dopis-pro-vedeni-mestyce-reakce-na-odpoved.html
 ---

@@ -6,7 +6,7 @@ date: 2018-11-07
 tags: 
 - pirátská-tvrz
 author: Mediální odbor
-image: assets/img/articles/2018/2018-11-07-v-majetine-a-brodku-u-prerova-probehla-ustavujici-zasedani-zastupitelstev.jpg  #751x422 pixelu
+image: articles/2018/2018-11-07-v-majetine-a-brodku-u-prerova-probehla-ustavujici-zasedani-zastupitelstev.jpg  #751x422 pixelu
 ---
 
 V Majetíně proběhlo ustavující zasedání ve čtvrtek 1. listopadu 2018. V Brodku u Přerova proběhlo ustavující zasedání zastupitelstva již v pondělí 22. října 2018.

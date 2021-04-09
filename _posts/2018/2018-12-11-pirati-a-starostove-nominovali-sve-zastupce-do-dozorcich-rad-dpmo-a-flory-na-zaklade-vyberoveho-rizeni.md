@@ -6,7 +6,7 @@ date: 2018-12-11
 tags: 
 - olomouc
 author: Mediální odbor
-image: assets/img/articles/2018/2018-12-11-pirati-a-starostove-nominovali-sve-zastupce-do-dozorcich-rad-dpmo-a-flory-na-zaklade-vyberoveho-rizeni.jpg  #751x422 pixelu
+image: articles/2018/2018-12-11-pirati-a-starostove-nominovali-sve-zastupce-do-dozorcich-rad-dpmo-a-flory-na-zaklade-vyberoveho-rizeni.jpg  #751x422 pixelu
 ---
 Olomouc, 11. 12. 2018 - Chystané změny v akciových společnostech s většinovou účastí města Olomouce jsou příkladem špatné komunikace radnice s opozicí. Informace o dozorčích radách byly dlouho nejasné, přišly pozdě a téměř znemožnily řádná výběrová řízení. Jedná se o placené, velmi zodpovědné pozice. Následující text vysvětluje, proč by měla olomoucká koalice věnovat této problematice větší pozornost. Zároveň ukazuje, že i v šibeničním termínu dodržují Piráti a Starostové pravidla transparentního výběru svých zástupců.
 

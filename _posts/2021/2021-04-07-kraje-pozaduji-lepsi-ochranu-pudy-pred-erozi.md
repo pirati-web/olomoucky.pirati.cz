@@ -6,7 +6,7 @@ date: 2021-04-07
 tags: 
 - piráti
 author: Josef Indra
-image: assets/img/articles/2021/2021-04-07-kraje-pozaduji-lepsi-ochranu-pudy-pred-erozi.jpg  #751x422 pixelu
+image: articles/2021/2021-04-07-kraje-pozaduji-lepsi-ochranu-pudy-pred-erozi.jpg  #751x422 pixelu
 ---
 Půda je pro nás v Olomouckém kraji velmi důležitá. Obzvláště na Hané víme, jaký poklad obhospodařujeme. Proto i sama půda potřebuje ochranu, abychom ji nedecimovali svým využíváním. Vláda v současné době připravuje Protierozní vyhlášku. Ta je od 16. března v meziresortním připomínkovém řízení. Radní Martin Šmída následně na komisi pro zemědělství a venkov asociace krajů České republiky vznesl potřebu koordinovaného připomínkování k současnému znění připravované vyhlášky. 
 

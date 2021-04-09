@@ -5,7 +5,7 @@ title: Přejeme úspěšný rok 2016
 date: 2016-01-26
 tags: pirátská-tvrz
 author: Martin Šmída
-image: assets/img/articles/2016/2016-01-26-prejeme-uspesny-rok-2016.jpg   #751x422 pixelu
+image: articles/2016/2016-01-26-prejeme-uspesny-rok-2016.jpg   #751x422 pixelu
 ---
 Členové a příznivci Pirátské tvrze přejí všem občanům bez rozdílu věku, pohlaví, rasy i vyznání úspěšný rok 2016!
 

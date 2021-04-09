@@ -5,7 +5,7 @@ title: Polepme celý Olomoucký kraj!
 date: 2012-09-27
 tags: olomoucký-kraj
 author: Jiří Kosek
-image: assets/img/articles/2012/2012-09-27-polepme-cely-olomoucky-kraj.jpg   #751x422 pixelu
+image: articles/2012/2012-09-27-polepme-cely-olomoucky-kraj.jpg   #751x422 pixelu
 ---
 Vážení členové a příznivci. Blíží se krajské volby a hledáme dobrovolníky k vylepování plakátů.
 

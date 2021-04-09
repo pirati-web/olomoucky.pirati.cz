@@ -5,7 +5,7 @@ title: Report z Tvrze
 date: 2014-12-23
 tags: pirátská-tvrz
 author: Michal Wagner
-image: assets/img/articles/2014/2014-12-23-report-z-tvrze.jpg   #751x422 pixelu
+image: articles/2014/2014-12-23-report-z-tvrze.jpg   #751x422 pixelu
 ---
 Místní sdružení Pirátská Tvrz oslavila první rok svého fungování. Krom pořádání kulturních akcí se její členové zapojili i do komunální politiky.
 

@@ -6,7 +6,7 @@ date: 2021-03-03
 tags: 
 - piráti
 author: Josef Indra
-image: assets/img/articles/2021/2021-03-03-spolecnost-odpady-olomouckeho-kraje-potrebuje-ozivit.jpg  #751x422 pixelu
+image: articles/2021/2021-03-03-spolecnost-odpady-olomouckeho-kraje-potrebuje-ozivit.jpg  #751x422 pixelu
 ---
 V úterý 2. března svolal radní pro životní prostředí, odpady a zemědělství Olomouckého kraje Martin Šmída videokonferenci na téma Budoucnost odpadového hospodářství v Olomouckém kraji. Pozváni byli všichni nominanti do orgánů Servisní společnosti odpady Olomouckého kraje a. s., kterých je v současnosti 22.  
 

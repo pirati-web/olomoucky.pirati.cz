@@ -6,7 +6,7 @@ date: 2019-09-17
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2019/2019-09-17-obnovme-a-zatravneme-stare-polni-cesty-vyzyvaji-spolecne-pro-prerov-a-pirati.jpg  #751x422 pixelu
+image: articles/2019/2019-09-17-obnovme-a-zatravneme-stare-polni-cesty-vyzyvaji-spolecne-pro-prerov-a-pirati.jpg  #751x422 pixelu
 ---
 Obnovování starých polních cest je jednoduchý způsob, jak může každá obec pomoci kulturní krajině, snížit erozi půdy a pomoci v krajině lépe zadržet vodu. Společně pro Přerov a Piráti proto chtějí, aby se město Přerov připojilo k výzvě starostů z Plzeňského kraje, kteří k obnově a zatravnění polních cest nabádají.
 
