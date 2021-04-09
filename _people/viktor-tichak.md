@@ -2,9 +2,12 @@
 uid: viktor.tichak
 name:     Viktor Tichák          # běžně používáné jméno
 fullname: Mgr. Viktor Tichák   # jméno s tituly etc.
-category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- zastupitele
-- predsednictvo
+description: Předseda Olomouckého kraje
+category:
+  - zastupitele
+  - predsednictvo
+  - koordinatori
+  - kontaktni_osoba
 position: Předseda krajského sdružení
 img: people/viktor-tichak.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
