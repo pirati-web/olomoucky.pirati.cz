@@ -36,5 +36,5 @@ Na otázku, zda se plánuje na hřbitově postupná náhrada listnatých stromů
 
 K dotazu, jestli má město nějaký plán instalace fotovoltaiky na objektech města, analýzu případných návratností, jsem žádnou odpověď nedostal, a tak očekávám obligátních 30 dní.
 
-V dubnu máme další jednání, tentokrát řádné a já se už nemohu dočkat, co zajímavého se zase dozvím. 
+20.dubna proběhne další jednání, tentokrát řádné a já se už nemohu dočkat, co zajímavého se zase dozvím. 
 A pokud máte nějaké návrhy, na co se naší slovutné rady města zeptat, pište na petr.lysek@pirati.cz .
