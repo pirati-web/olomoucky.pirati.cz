@@ -14,11 +14,15 @@ Na začátek proběhly obvyklé tanečky kolem schválení programu, ročního t
 
 [Program](http://mapy.mestopv.cz/soubory/materialy%20do%20zastupitelstva/2021/7.4.2021/) byl krátký, začalo se svižně a hlavním bodem, kvůli kterému jsme se sešli mimořádně, byl bod *„Rekonstrukce velké tělocvičny na ZŠ E. Valenty – schválení podání žádosti o dotaci“*. Prošel bez zaváhání, stejně jako další bod „Dotační program Péče o historické dědictví města Prostějova v roce 2021“
 
+**Chtělo by to skládací auto**
+
 Posléze začala ta zábavnější část středečního dne ve sportovní hale. Sešly se nám na stole tři žádosti o prodeje pozemků, související se léta neřešenou situací kolem odstavných parkovacích ploch v některých okrajových částech města. Náměstek Pospíšil, Mgr., se sebevědomím mu vlastním, opakovaně prohlašoval, že situaci řeší komplexně i koncepčně. Nicméně ona *„komplexní koncepce“* je v zásadě koncentrována do hesla *„zaplať anebo zapomeň“*. Dle mého názoru to s řešením parkování v těchto oblastech nemá nic společného. Chápu, že situace není jednoduchá, nicméně přenést na občany historické chyby města nebo legislativy považuji za naprosto špatnou a nepřijatelnou koncepci. Někdy to na mě působí, jako by radní nebyli pověřeni správou města, ale cítili se jeho majitelem. K problematice se ještě vrátím, chci oslovit odborníky a zjistit možná oboustranně přijatelná řešení. Tyto opakované žádosti jsou důsledkem chybějící koncepce řešení dopravy a parkování v celém městě a toto je jen jeden ze segmentů, které se tady dlouhodobě neřešily a neřeší. A nevymyslí to žádný politik, i když si většina asi myslí, že rozumí všemu. Zde je nutné oslovit lidi, kteří problematice rozumí a jsou schopni nalézt přijatelné řešení. 
 
 Plot psí loučky na Plumlovské větší emoce nevzbudil, i když odhadovaná cena 150 000,- Kč za 80 m plotu se zdá poněkud vysoká, taková prostějovská.  
 
 Konečně jsme se mohli vrhnout na nejoblíbenější bod programu *„Dotazy, připomínky a podněty členů zastupitelstva města“*.
+
+**Tak už jsme tady s těmi nástřiky, pane …**
 
 K nano nástřikům, které nabraly celkem dynamický vývoj, lze podrobnosti najít jinde. Za mě je jednání vedení města naprosto nepochopitelné, již před minulým zastupitelstvem měli informace, že nemusí být vše v pořádku, že nedisponují adekvátními dokumenty a parafrázovanými slovy klasika, sovy nemusí být tím, čím se zdají být. Myslím, že byla nevratně promeškána šance uznat chybu v postupu a místo toho nastoupila oblíbená metoda – opozice je zlá a škaredá a my to mysleli dobře a kdo nic nedělá za dobrotu na žebrotu. Možné to je, ale [posudek](http://prostejovnarovinu.cz/1534/stanovisko-statniho-zdravotniho-ustavu-k-soudne-znaleckemu-posudku/) ze SZÚ je z mého pohledu naprosto zdrcující.
 
@@ -33,6 +37,8 @@ Další dotaz byl „Kde se dá zjistit plán výsadby dřevin ve městě včetn
 Na místě mi pak bylo vysvětleno, že možnost nahlédnutí se týká jen zastupitelů, že v podstatě lidem není nic do toho, co se plánuje, protože ty plány taky nemusí být schváleny. Osobně to vidím přesně naopak a mám za to, že občané by měli vědět nejen, co už půjde dolů, ale i co se ve městě vůbec rodí za nápady s naší zelení. Přinejmenším s tou, která je ve vlastnictví a správě města a jeho organizací.
 
 Na otázku, zda se plánuje na hřbitově postupná náhrada listnatých stromů za celoročně zelenou neopadavou výsadbu zazněla odpověď ne. Komu vadí na hřbitově listnaté stromy, toho odpověď nepotěší, já se přiznám k tomu, že mě potěšila a že si myslím, že vzrostlé majestátní listnaté stromy mají na hřbitově své místo.
+
+**Už končíme**
 
 K dotazu, jestli má město nějaký plán instalace fotovoltaiky na objektech města, analýzu případných návratností, jsem žádnou odpověď nedostal, a tak očekávám obligátních 30 dní.
 
