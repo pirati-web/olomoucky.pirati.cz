@@ -4,8 +4,7 @@ category: CLANKY
 title: "Komentář Jaromíra Horkého: Už bylo dost zmatků a chaosu, nechme alespoň děti sportovat"
 date: 2021-04-12
 tags: 
-- pirati
-- komentář
+- piráti
 author: Josef Indra
 image: assets/img/articles/2021/2021-04-12-komentar-jaromira-horkeho-uz-bylo-dost-zmatku-a-chaosu-nechme-alespon-deti-sportovat.jpg  #751x422 pixelu
 ---
