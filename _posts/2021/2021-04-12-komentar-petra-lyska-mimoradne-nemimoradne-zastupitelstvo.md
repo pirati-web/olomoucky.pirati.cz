@@ -10,7 +10,7 @@ image: assets/img/articles/2021/2021-04-12-komentar-petra-lyska-mimoradne-nemimo
 ---
 Protože je prý nejlepší mít zastupitelstva ve dvouměsíční periodě, jsou oblíbené tzv. mimořádná zastupitelstva. Navodí se dojem neodkladné důležitosti a vloží se narychlo termín mezi ty plánované. Proč ne, má to vždy tak trochu nádech tajemna – co bude tak neodkladně důležitého. A bylo. 
 
-Na začátek proběhly obvyklé tanečky kolem schválení programu, ročního trvání mimořádné situace, která neumožňuje zajistit přenos ze zastupitelstva ani v mezeném rozsahu a my se mohli vrhnout do práce.
+Na začátek proběhly obvyklé tanečky kolem schválení programu, ročního trvání mimořádné situace, která neumožňuje zajistit přenos ze zastupitelstva ani v omezeném rozsahu a my se mohli vrhnout do práce.
 
 [Program](http://mapy.mestopv.cz/soubory/materialy%20do%20zastupitelstva/2021/7.4.2021/) byl krátký, začalo se svižně a hlavním bodem, kvůli kterému jsme se sešli mimořádně, byl bod *„Rekonstrukce velké tělocvičny na ZŠ E. Valenty – schválení podání žádosti o dotaci“*. Prošel bez zaváhání, stejně jako další bod „Dotační program Péče o historické dědictví města Prostějova v roce 2021“
 
