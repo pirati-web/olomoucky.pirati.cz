@@ -4,7 +4,7 @@ category: CLANKY
 title: "Olomoucký kraj provede forenzní audit v příspěvkové organizaci Správa silnic Olomouckého kraje"
 date: 2021-04-20
 tags: 
-- Olomoucký-kraj
+- olomoucký-kraj
 author: Josef Indra
 image: assets/img/articles/2021/2021-04-20-olomoucky-kraj-provede-forenzni-audit-v-prispevkove-organizaci-sprava-silnic-olomouckeho-kraje.jpg  #751x422 pixelu
 ---
