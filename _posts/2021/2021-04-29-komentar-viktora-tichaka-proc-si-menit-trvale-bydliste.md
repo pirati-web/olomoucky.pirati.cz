@@ -9,6 +9,7 @@ author: Josef Indra
 image: assets/img/articles/2021/2021-04-29-komentar-viktora-tichaka-proc-si-menit-trvale-bydliste.jpg  #751x422 pixelu
 ---
 Když jste se stěhovali, byla úřední změna místa vašeho trvalého pobytu první věc, kterou jste udělali? Proč ano? Proč ne?
+
 Stovky tisíc Čechů žijí v jiném místě, než je oficiální údaj v jejich občance. Sem tam na problém upozorní nějaké médium. Ale jedná se opravdu o problém?
 
 K výhodám trvalého bydliště patří nejen parkovací karta, ale třeba možnost vyhodit starý gauč na sběrném dvoře, kde po vás (někdy) chtějí občanku. Výhodou je samozřejmě také umístění dětí do škol a školek v blízkosti bydliště, přednost v evidenci u praktického lékaře, při poskytování sociálních dávek nebo příspěvku na bydlení, ale též umístění v domově pro seniory. V neposlední řadě můžete svým hlasem ovlivňovat politiku v obci, kde bydlíte.
@@ -32,6 +33,7 @@ A důsledky?
 No a jak z toho ven? Existují cesta jednoduchá jednorázová a složitá systémová.
 
 – Motivovat lidi, aby si v obci trvalý pobyt zařídili. Volné vstupenky do ZOO, prvních pár let neplacení poplatků a rok MHD zdarma či jiné benefity.
+
 – Změnit rozpočtové určení daní tak, aby více odráželo realitu, buď:
 
 1)změnami koeficientů pro větší spádová města;
