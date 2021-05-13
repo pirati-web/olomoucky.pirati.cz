@@ -4,7 +4,7 @@ category: CLANKY
 title: "Město Jeseník spouští projekt Dostupného družstevního bydlení"
 date: 2021-05-13
 tags: 
-- jeseník
+- olomoucký-kraj
 author: Josef Indra
 image: assets/img/articles/2021/2021-05-13-mesto-jesenik-spousti-projekt-dostupneho-druzstevniho-bydleni.jpg  #751x422 pixelu
 ---
