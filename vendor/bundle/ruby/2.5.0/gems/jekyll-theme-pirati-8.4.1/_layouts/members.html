@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+
+<div class="container container--default py-8 lg:py-24">
+  {% include page-header.html headline=page.title content=content contentClass="mb-8 lg:mb-16 content-block" %}
+
+  {% if page.viewMode == 'grouped' %}
+    {% for group in page.groups %}
+      <section>
+        {% assign team = site.people | where_exp: "item", "item.categories contains group.category" %}
+        {% if group.sort %}
+          {% assign team = team | sort: group.sort %}
+        {% endif %}
+        {% include people/list-group.html team=team teamName=group.name teamShortcut=group.category %}
+      </section>
+      {% unless forloop.last %}<hr class="hr--big" />{% endunless %}
+    {% endfor %}
+  {% else %}
+    {% if page.category %}
+      {% assign team = site.people | where_exp: "item", "item.categories contains page.category" %}
+    {% else %}
+      {% assign team = site.people %}
+    {% endif %}
+
+    {% if page.sort %}
+      {% assign team = team | sort: page.sort %}
+    {% endif %}
+
+    <section>
+      {% include people/list-responsive.html team=team %}
+    </section>
+  {% endif %}
+</div>

@@ -1,0 +1,16 @@
+
+<div class="hidden lg:block">
+  <div class="content-block">
+    <h2>Lidé</h2>
+  </div>
+
+  <div class="space-y-4">
+    {% assign persons = site.people | sample:3 %}
+    {% for person in persons %}
+      {% include people/profile-badge.html item=person style='card' showContactInfo=false %}
+    {% endfor %}
+  </div>
+
+  {% capture href %}{% if peopleCol.root %}{{ peopleCol.root }}{% else %}{{ '/lide/' | relative_url }}{% endif %}{% endcapture %}
+  {% include buttons/icon.html icon="ico--chevron-right" class="btn--violet-500 btn--fullwidth btn--hoveractive pt-4" cta="Poznejte celý náš tým" href=href %}
+</div>

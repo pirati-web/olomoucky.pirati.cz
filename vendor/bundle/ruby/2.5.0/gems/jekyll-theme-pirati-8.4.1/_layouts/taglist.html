@@ -1,0 +1,31 @@
+---
+layout: page
+nocols: true
+---
+
+{{ content }}
+
+{% capture tags %}
+	{% for tag in site.tags %}
+		{{ tag[0] }}
+	{% endfor %}
+	{% for team in site.teams %}
+		{{ team.tags }}
+{% endfor %}
+{% endcapture %}
+{% assign sortedtags = tags | split:' ' | uniq | sort %}
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+  {% for tag in sortedtags %}
+    <section class="card">
+      <div class="card__body p-4">
+        <h2 class="head-heavy-xs mb-2" id="{{ tag }}">{{ tag }}</h3>
+        <ul class="unordered-list unordered-list--linked unordered-list--dense leading-normal font-light text-sm">
+          {% for post in site.tags[tag] %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+  {% endfor %}
+</div>

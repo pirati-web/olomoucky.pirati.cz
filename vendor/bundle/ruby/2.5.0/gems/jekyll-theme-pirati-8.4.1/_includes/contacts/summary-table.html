@@ -1,0 +1,64 @@
+{% if site.contactSummaryItems %}
+  {% for line in site.contactSummaryItems %}
+    <div>
+      {% if line.type == 'organizationEmail' %}
+        <h4>Emailová adresa</h4>
+        {% capture href %}mailto:{{ site.organization.email }}{% endcapture %}
+        {% include contact-line.html href=href icon="ico--envelope" caption=site.organization.email %}
+      {% elsif line.type == 'organizationRedmineLink' %}
+        <h4>Podatelna (Redmine)</h4>
+        {% include contact-line.html href=site.organization.redmineLink icon="ico--envelope" caption=site.organization.email %}
+      {% elsif line.type == 'organizationPhone' %}
+        <h4>Telefonický kontakt</h4>
+        {% capture href %}tel:{{ site.organization.phone }}{% endcapture %}
+        {% include contact-line.html href=href icon="ico--phone" caption=site.organization.phone %}
+      {% elsif line.type == 'organizationTransparentAccount' %}
+        <h4>Transparentní {% if line.includeMoreLink %}účty{% else %}účet{% endif %}</h4>
+        {% capture href %}tel:{{ site.organization.phone }}{% endcapture %}
+        {{ site.organization.transparentAccount }}{% if line.includeMoreLink %} a <a href="https://wiki.pirati.cz/fo/seznam_uctu">další účty</a>{% endif %}
+      {% elsif line.type == 'organizationDataBox' %}
+        <h4>Datová schránka</h4>
+        {% include contact-line.html icon="ico--drawer" caption=site.organization.dataBoxId %}
+      {% elsif line.type == 'piratiRootWebsite' %}
+        <h4>Celostátní web</h4>
+        {% include contact-line.html href="https://www.pirati.cz" icon="ico--pirati" caption="www.pirati.cz" %}
+      {% elsif line.type == 'custom' %}
+        <h4>{{ line.body }}</h4>
+        {% if line.iconClass %}
+          {% include contact-line.html icon=line.iconClass caption=line.label %}
+        {% else %}
+          {{ line.label }}
+        {% endif %}
+      {% endif %}
+    </div>
+  {% endfor %}
+{% else %}
+  {% comment %}Support legacy configuration where site.contactSummaryItems is undefined{% endcomment %}
+  <div>
+    <h4>Emailová adresa</h4>
+    {% capture href %}mailto:{{ site.organization.email }}{% endcapture %}
+    {% include contact-line.html href=href icon="ico--envelope" caption=site.organization.email %}
+  </div>
+  <div>
+    <h4>Podatelna (Redmine)</h4>
+    {% include contact-line.html href=site.organization.redmineLink icon="ico--envelope" caption=site.organization.email %}
+  </div>
+  <div>
+    <h4>Telefonický kontakt</h4>
+    {% capture href %}tel:{{ site.organization.phone }}{% endcapture %}
+    {% include contact-line.html href=href icon="ico--phone" caption=site.organization.phone %}
+  </div>
+  <div>
+    <h4>Celostátní web</h4>
+    {% include contact-line.html href="https://www.pirati.cz" icon="ico--pirati" caption="www.pirati.cz" %}
+  </div>
+  <div>
+    <h4>Datová schránka</h4>
+    {% include contact-line.html icon="ico--drawer" caption=site.organization.dataBoxId %}
+  </div>
+  <div>
+    <h4>Transparentní {% if line.includeMoreLink %}účty{% else %}účet{% endif %}</h4>
+    {% capture href %}tel:{{ site.organization.phone }}{% endcapture %}
+    {{ site.organization.transparentAccount | default: '2100048174/2010' }}{% if line.includeMoreLink %} a <a href="https://wiki.pirati.cz/fo/seznam_uctu">další účty</a>{% endif %}
+  </div>
+{% endif %}

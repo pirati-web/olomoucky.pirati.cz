@@ -1,0 +1,8 @@
+{% if include.article.authorId %}
+  {% assign author = site.people | where_exp:"item","item.uid contains include.article.authorId" | first %}
+  <a href={{author.url}}>
+    {{author.name}}
+  </a>
+{% else %}
+  {{ include.article.author }}
+{% endif %}

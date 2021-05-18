@@ -1,0 +1,9 @@
+<section>
+  <h1 class="head-alt-md md:head-alt-lg pb-4 lg:pb-8">Aktuální témata</h1>
+  {% assign posts = site.posts | slice:0,6 %}
+  {% include articles/list-responsive.html posts=posts %}
+
+  <nav class="text-center">
+    {% include buttons/icon.html href="/aktuality" cta="Další články" icon="ico--chevron-right" class="text-xl pt-8" rel="next" %}
+  </nav>
+</section>

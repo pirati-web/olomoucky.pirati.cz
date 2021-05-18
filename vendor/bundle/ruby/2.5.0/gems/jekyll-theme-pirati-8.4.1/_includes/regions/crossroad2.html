@@ -1,0 +1,5 @@
+<section class="pk-election-crossroad row u-uniform-size-row">
+  {% for place in include.places %}
+     {% include regions/item.html img=place.img name=place.name area=place.area link=place.link president=place.president fb=place.fb %}
+  {% endfor %}
+</section>

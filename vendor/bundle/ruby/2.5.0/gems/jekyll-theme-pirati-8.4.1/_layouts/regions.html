@@ -1,0 +1,15 @@
+---
+layout: page
+nocols: true
+---
+
+<div class="content-block mb-8">{{ content }}</div>
+
+{% if page.regions %}
+  {% include regions/crossroad.html places=page.regions %}
+{% endif %}
+
+{% if site.data.regions %}
+  {% include regions/crossroad.html places=site.data.regions %}
+{% endif %}
+

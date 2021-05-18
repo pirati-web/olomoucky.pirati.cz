@@ -1,0 +1,11 @@
+<div class="flex flex-wrap item-center">
+  <div class="social-icon-group space-x-0/5">
+    {% include social-icons.html profiles=page.profiles %}
+  </div>
+
+  {% if page.profiles.flickr %}
+    <div class="flex-grow text-right">
+      <a href="{{ page.profiles.flickr }}" class="inline-flex items-center"><span class="font-light text-sm">Více fotografií</span><i class="ico--flickr ml-2 no-underline hover:no-underline"></i></a>
+    </div>
+  {% endif %}
+</div>

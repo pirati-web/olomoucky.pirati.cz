@@ -1,0 +1,11 @@
+{% capture mainContent %}
+<h1 class="head-alt-md md:head-alt-xl">{{ include.title }}</h1>
+{% endcapture %}
+
+{% capture subContent %}
+  {% if include.cta %}
+    {% include buttons/icon.html href=include.href icon="ico--chevron-right" class="btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" cta=include.cta %}
+  {% endif %}
+{% endcapture %}
+
+{% include hero/advanced.html mainContent=mainContent subContent=subContent img=include.img imgClass="h-32 lg:h-80 lg:m-auto hidden md:block" %}

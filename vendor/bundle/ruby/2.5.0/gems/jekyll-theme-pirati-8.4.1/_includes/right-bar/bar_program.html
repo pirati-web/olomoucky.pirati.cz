@@ -1,0 +1,27 @@
+{% if page.campaignGroupUid %}
+  {% assign campaignGroup = site.data.campaigns | where: "groupUid", page.campaignGroupUid | first %}
+{% endif %}
+
+{% if campaignGroup %}
+<div class="content-block">
+  <h2>{{ campaignGroup.title }}</h2>
+
+  {% for campaign in campaignGroup.campaigns %}
+    {% assign programSections = site.program | where: "campaignCategoryUid", campaign.categoryUid | sort:"order" %}
+
+    <h3>{{ campaign.title }}</h3>
+
+    <ul class="unordered-list unordered-list--linked">
+      {% for programSection in programSections %}
+        <li><a class="{% if page.uid == programSection.uid %}font-bold  {% endif %}content-block--nostyle" href="{{ programSection.url | relative_url }}">{{ programSection.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% unless forloop.last %}
+      <hr>
+    {% endunless %}
+  {% endfor %}
+
+  {% comment %}Allows to add custom content to program rbar{% endcomment %}
+  {% include right-bar/program-extras.html %}
+</div>
+{% endif %}

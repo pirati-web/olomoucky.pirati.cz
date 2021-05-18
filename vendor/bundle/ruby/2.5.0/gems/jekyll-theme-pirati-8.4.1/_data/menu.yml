@@ -1,0 +1,80 @@
+top:
+  - link: "pirati.cz"
+    url:  "https://www.pirati.cz"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
+  - link: "Pirátské listy"
+    url:  "http://www.piratskelisty.cz"
+    icon: "ico--newspaper"
+
+main:
+  - link: /
+    name: Úvod
+    class: hide-for-medium
+  - link: /aktuality/
+    name: Aktuality
+    match: aktuality
+  - link: /lide/
+    name: O nás
+    match: lide, regiony
+    submenu:
+      - link: /lide/
+        name: Naši lidé
+        match: lide
+      - link: /regiony/
+        name: Místní sdružení
+        match: regiony
+      - link: /regiony/index2.html
+        name: Jiný rozcestník
+        match: index2
+  - link: /komunalni-volby/praha2018
+    name: Komunální volby
+    match: komunalni-volby
+    submenu:
+      - link: /komunalni-volby/praha2018/
+        name: Program na radnici
+        match: radnice
+      - link: /komunalni-volby/senat/
+        name: Senát
+        match: senat
+      - link: /komunalni-volby/mapa-zameru/
+        name: Mapa záměrů
+        match: mapa-zameru
+  - link: /pripoj-se/
+    name: Připoj se
+    match: pripoj-se
+  - link: /piratske-centrum/
+    name: Piratské centrum
+    match: piratske-centrum
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+# hideSearch: yes
+
+bottom:
+  - class: small-12 medium-4
+    title: Připoj se
+    links:
+      - link: /pripoj-se/
+        name: Dej nám vědět
+  - class: small-12 medium-4
+    title: Makáme
+    links:
+      - link: /lide/
+        name: Lidé
+      - link: /komunalni-volby/
+        name: Volby
+      - link: /aktuality/
+        name: Aktuality
+
+# Display transparency section in the footer?
+transparencySection: true
+
+contact:
+  - id: jakub.pirat
+    position: Kontakt pro dorovolníky
+  - id: aktivni.priznivec
+    position: Kontakt pro novináře

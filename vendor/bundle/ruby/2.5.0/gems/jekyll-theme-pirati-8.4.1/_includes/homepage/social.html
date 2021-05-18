@@ -1,0 +1,10 @@
+{% if site.facebook.profilePage or site.forum.page %}
+  <div class="flex flex-col lg:flex-row lg:space-x-8">
+    {% if site.facebook.profilePage %}
+      {% include buttons/super.html href=site.facebook.profilePage cta="Sledujte nás na Facebooku" icon="ico--facebook" class="bg-brands-facebook text-white container-padding--zero lg:container-padding--auto lg:w-full" %}
+    {% endif %}
+    {% if site.forum.page %}
+      {% include buttons/super.html href=site.forum.page cta="Sledujte naše fórum" icon="ico--bubbles" class="bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full" %}
+    {% endif %}
+  </div>
+{% endif %}

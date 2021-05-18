@@ -1,0 +1,8 @@
+<{% if include.href %}a href="{{ include.href }}"{% else %}button{% endif %} class="btn btn--icon {{ include.class }}" {% if include.rel %}rel="{{ include.rel }}"{% endif %} {% if include.aria_label %}aria-label="{{ include.aria_label }}"{% endif %}>
+  <div class="btn__body-wrap">
+    <div class="btn__body {{ include.body_class }}">{{ include.cta }}</div>
+    <div class="btn__icon {{ include.icon_class }}">
+      <i class="{{ include.icon }}"></i>
+    </div>
+  </div>
+</{% if include.href %}a{% else %}button{% endif %}>

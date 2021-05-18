@@ -1,0 +1,11 @@
+{%- if include.person.titles.before -%}
+  {%- unless include.plain -%}<span class="academic-title academic-title--before">{%- endunless -%}
+    {{ include.person.titles.before }}
+  {%- unless include.plain -%}</span>{%- endunless -%}
+{%- endif %} {% unless include.plain -%}<span class="academic-title-name">{%- endunless -%}
+  {{ include.person.name }}
+{%- unless include.plain -%}</span>{%- endunless -%}{% if include.person.titles.after %}
+  {%- unless include.plain -%}<span class="academic-title academic-title--after">{%- endunless -%}
+    , {{ include.person.titles.after }}
+  {%- unless include.plain -%}</span>{%- endunless -%}
+{%- endif -%}

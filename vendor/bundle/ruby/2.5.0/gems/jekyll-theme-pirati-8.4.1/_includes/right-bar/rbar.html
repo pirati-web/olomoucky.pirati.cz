@@ -1,0 +1,55 @@
+<aside class="container-padding--zero lg:container-padding--auto lg:card lg:elevation-10">
+  <div class="lg:card__body p-4 lg:p-8">
+    {% for rbar in page.rbar %}
+      {% if rbar contains 'profile' %}
+        {% include right-bar/bar_profile.html %}
+      {% endif %}
+      {% if rbar contains 'garant' %}
+        {% include right-bar/bar_garant.html %}
+      {% endif %}
+      {% if rbar contains 'kodo' %}
+        {% include right-bar/bar_kodo.html %}
+      {% endif %}
+      {% if rbar contains 'program' %}
+        {% include right-bar/bar_program.html %}
+      {% endif %}
+      {% if rbar contains 'people' %}
+        {% include right-bar/bar_people.html %}
+      {% endif %}
+      {% if rbar contains 'video' %}
+        {% include right-bar/bar_video.html %}
+      {% endif %}
+      {% if rbar contains 'fb' and site.facebook.profilePage %}
+        {% include right-bar/bar_fb.html %}
+      {% endif %}
+      {% if rbar contains 'tw' and site.twitter.profile %}
+        {% include right-bar/bar_tw.html %}
+      {% endif %}
+      {% if rbar contains 'textbox' %}
+        {% include right-bar/bar_textbox.html %}
+      {% endif %}
+      {% if rbar contains 'map' %}
+        {% include right-bar/bar_map.html %}
+      {% endif %}
+      {% if rbar contains 'personArticles' %}
+        {% include right-bar/bar_person_articles.html %}
+      {% endif %}
+      {% if rbar contains 'board' %}
+        {% include right-bar/bar_board.html %}
+      {% endif %}
+      {% if rbar contains 'tagArticles' %}
+        {% include right-bar/bar_tag_articles.html %}
+      {% endif %}
+      {% if rbar contains 'pageContact' %}
+        {% include right-bar/bar_page_contact.html %}
+      {% endif %}
+
+      {% unless forloop.last %}
+        <hr />
+      {% endunless %}
+
+      {% comment %}Allows to append custom right bars variants{% endcomment %}
+      {% include right-bar/custom-bars.html rbar=rbar %}
+    {% endfor %}
+  </div>
+</aside>

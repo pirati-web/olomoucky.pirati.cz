@@ -1,0 +1,14 @@
+<table> 
+{% for priority in include.priorities %}
+	<tr> <td>
+		<img src="{{ priority.img | prepend: 'assets/img/' | relative_url}}" alt="ikona" height="168" width="168"><td>
+		<strong>
+			{{priority.name}}
+		</strong>
+			{{priority.text}}
+
+	</tr>
+{% endfor %}
+
+</table>
+

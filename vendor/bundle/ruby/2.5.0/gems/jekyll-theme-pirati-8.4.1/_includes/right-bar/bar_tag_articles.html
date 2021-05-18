@@ -1,0 +1,10 @@
+{% assign posts = "" | split: ", " %}
+{% for tag in page.tags %}
+    {% assign tagPosts = site.posts | where_exp: "item","item.tags contains tag" %}
+    {% assign posts = posts | concat: tagPosts %}
+{% endfor %}
+{% assign posts = posts | sort: "date" | reverse %}
+
+{% if posts %}
+    {% include right-bar/rbar_articles.html posts=posts title="Seznam článků" %}
+{% endif %}

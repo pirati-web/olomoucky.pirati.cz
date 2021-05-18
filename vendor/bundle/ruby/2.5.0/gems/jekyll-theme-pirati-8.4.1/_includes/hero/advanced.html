@@ -1,0 +1,65 @@
+<header
+  class="hero py-8 lg:py-16 {{ include.class }} {% if include.bgImg %}hero--image{% endif %}"
+  {% if include.bgImg %}style="--image-url: url({{ include.bgImg }})"{% endif %}
+>
+  <div
+    class="
+      container container--default grid
+
+      {% if include.img %}
+        lg:grid-cols-7
+
+        {% if include.subContent %}lg:grid-rows-3{% else %}lg:grid-rows-1{% endif %}
+      {% else %}
+        lg:grid-cols-1
+
+        {% if include.subContent %}lg:grid-rows-2{% else %}lg:grid-rows-1{% endif %}
+      {% endif %}
+
+      gap-2 items-center
+    ">
+    <div class="
+      {% if include.img %}
+        lg:col-span-3
+
+        {% if include.subContent %}lg:row-span-2{% else %}lg:row-span-1{% endif %}
+      {% else %}
+        lg:col-span-1
+        lg:row-span-1
+      {% endif %}
+
+      order-1
+    ">
+      {{ include.mainContent }}
+    </div>
+    {% if include.subContent %}
+    <div class="
+      lg:row-span-1
+      {% if include.img %}lg:col-span-3{% else %}lg:col-span-1{% endif %}
+      order-3
+    ">
+      <div class="mt-4 md:mt-8 space-y-4 {{ include.subContentClass }}">
+        {{ include.subContent }}
+      </div>
+    </div>
+    {% endif %}
+    {% if include.img %}
+      <div class="
+        lg:col-span-4 order-2
+        row-span-1
+        {% if include.subContent %}lg:row-span-3{% else %}lg:row-span-1{% endif %}
+      ">
+        {% if site.mediaStorage %}
+            {% capture img_path %}https://a.pirati.cz/resize/900x500/{{ site.mediaStorage }}/img/{{ include.img }}{% endcapture %}
+        {% else %}
+          {% if include.img contains ".svg" %}
+            {% capture img_path %}{{ include.img | prepend: "/assets/img/" | absolute_url }}{% endcapture %}
+          {% else %}
+            {% capture img_path %}{% asset '{{ include.img }}' magick:resize="900^" @path %}{% endcapture %}
+          {% endif %}
+        {% endif %}
+        <img src="{{ img_path }}" alt="{{ include.title }}" class="object-contain {{ include.imgClass }}" />
+      </div>
+    {% endif %}
+  </div>
+</header>

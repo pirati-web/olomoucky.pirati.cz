@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+{% if page.img %}
+  {% if site.mediaStorage %}
+      {% capture imgPath %}https://a.pirati.cz/{{ site.mediaStorage }}/img/{{ page.img }}{% endcapture %}
+  {% else %}
+    {% capture imgPath %}{% asset '{{ page.img }}' @path %}{% endcapture %}
+    {% assign imgPath = imgPath | absolute_url %}
+  {% endif %}
+{% endif %}
+
+{% include hero/simple.html headline=page.heroHeadline description=page.heroDescription bgImg=imgPath %}
+
+<div class="container container--default pt-8 lg:pb-16">
+  <article>
+    <meta itemprop="name" content="{{ page.title }}">
+    {% if page.shorthand %}
+      <meta itemprop="alternateName" content="{{ page.shorthand }}">
+    {% endif %}
+    {% if page.openingHoursSEO %}
+      <meta itemprop="openingHours" content="{{ page.openingHoursSEO }}">
+    {% endif %}
+    {% if page.mapIframeLink %}
+      <meta itemprop="hasMap" content="{{ page.mapIframeLink }}">
+    {% endif %}
+    <meta itemprop="url" content="{{ page.url | absolute_url }}">
+    {% if site.facebook.profilePage %}
+      <meta itemprop="sameAs" content="{{ site.facebook.profilePage }}">
+    {% endif %}
+
+    <div class="lg:flex lg:space-x-8 xl:space-x-16">
+      <div class="lg:w-3/5 xl:w-2/3">
+        <div class="content-block">
+          {{ content }}
+        </div>
+        {% if page.calendarId or page.calendarPage %}
+          <h2 class="head-heavy-sm mb-4 mt-4">{{ page.calendarTitle | default: "Kalendář akcí" }}</h2>
+          {% include calendar.html calendarId=page.calendarId title=page.calendarTitle calendarPage=page.calendarPage hideBanner=true classes="mb-4" %}
+        {% endif %}
+      </div>
+      <div class="pt-8 lg:w-2/5 xl:w-1/3 lg:pt-0">
+        <div class="lg:card lg:elevation-10">
+          <div class="lg:card__body" itemprop="address" itemtype="https://schema.org/PostalAddress" itemscope>
+            <div class="content-block">
+            <h2>Kde to najdu?</h2>
+              {% if page.mapIframeLink %}
+                <iframe src="{{ page.mapIframeLink }}" width="100%" height="300" id="mapa-mobile" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              {% endif %}
+              {% if page.address %}
+                <p>
+                  {{ page.address | newline_to_br }}
+                </p>
+              {% endif %}
+              {% if page.addressNote %}
+                <p><small>{{ page.addressNote }}</small></p>
+              {% endif %}
+              <hr>
+            </div>
+
+            {% if page.contactPersons %}
+              <h2 class="head-heavy-sm mb-2">Kontakt</h2>
+              {% for contact in page.contactPersons %}
+                {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
+                {% if forloop.first %}
+                  {% capture badgeClass %}badge--condensed{% endcapture %}
+                {% else %}
+                  {% capture badgeClass %}badge--condensed mt-4{% endcapture %}
+                {% endif %}
+
+                {% include people/profile-badge.html description=contact.description item=person class=badgeClass avatarClass="avatar--md" %}
+              {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+
+        {% if site.facebook.profilePage or site.forum.page %}
+          <div class="flex flex-col pt-8 lg:space-y-4">
+            {% if site.facebook.profilePage %}
+              {% include buttons/super.html href=site.facebook.profilePage cta="Sledujte nás na Facebooku" icon="ico--facebook" class="bg-brands-facebook text-white container-padding--zero lg:container-padding--auto lg:w-full" %}
+            {% endif %}
+            {% if site.forum.page %}
+              {% include buttons/super.html href=site.forum.page cta="Sledujte naše fórum" icon="ico--bubbles" class="bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full" %}
+            {% endif %}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </article>
+</div>

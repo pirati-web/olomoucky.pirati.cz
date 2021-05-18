@@ -1,0 +1,12 @@
+{% comment %}
+This requires the page header to define
+textbox:
+  title: # optional
+  text:  # required
+{% endcomment %}
+{% if page.textbox.text %}
+  {% if page.textbox.title %}<h2 class="head-heavy-sm mb-2">{{ page.textbox.title }}</h2>{% endif %}
+  <div class="content-block">
+    <p>{{ page.textbox.text }}</p>
+  </div>
+{% endif %}

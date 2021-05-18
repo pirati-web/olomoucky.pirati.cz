@@ -1,0 +1,12 @@
+<h2 class="head-heavy-sm mb-2">Koordinátoři dobrovolníků</h2>
+{% assign kodos = site.people | where_exp: "item","item.categories contains 'kodo'" | sort:"ordkodo" %}
+
+<div class="space-y-4">
+  {% for person in kodos %}
+    {% include people/profile-badge.html item=person  %}
+  {% endfor %}
+</div>
+
+{% assign peopleCol = site.collections | where: "label", "people" | first %}
+{% capture href %}{% if peopleCol.root %}{{ peopleCol.root }}{% else %}{{ '/kontakt/' | relative_url }}{% endif %}{% endcapture %}
+{% include buttons/icon.html href=href cta="Ozvi se nám" icon="ico--chevron-right" class="btn--black btn--hoveractive btn--fullwidth mt-4" %}

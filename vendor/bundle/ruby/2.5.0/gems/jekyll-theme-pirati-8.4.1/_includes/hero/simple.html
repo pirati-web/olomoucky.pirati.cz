@@ -1,0 +1,13 @@
+<header
+  class="hero {% if include.bgImg %}hero--image{% endif %} {% unless include.heroSpacing %}py-16{% else %}{{ include.heroSpacing }}{% endunless %} {{ include.class }}"
+  {% if include.bgImg %}style="--image-url: url({{ include.bgImg }})"{% endif %}
+>
+  <div class="container container--default">
+    <h1 class="head-alt-md md:head-alt-lg max-w-2xl {{ include.headlineClass }}">
+      {{ include.headline }}
+    </h1>
+    <h2 class="head-xs mt-2 {{ include.descriptionClass }}">
+      {{ include.description }}
+    </h2>
+  </div>
+</header>

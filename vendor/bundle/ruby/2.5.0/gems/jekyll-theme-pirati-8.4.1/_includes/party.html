@@ -1,0 +1,15 @@
+{% assign party = site.data.parties | where: "uid", include.uid  | first %}
+
+<div class="flex items-center">
+  {% if party.logoImg %}
+    {% comment %}We expect an SVG format here to make things scalable{% endcomment %}
+    {% if site.mediaStorage %}
+        {% capture partyImg %}https://a.pirati.cz/{{ site.mediaStorage }}/img/{{ party.logoImg }}{% endcapture %}
+    {%- else -%}
+        {% capture partyImg %}{{ party.logoImg | prepend: "/assets/img/" | absolute_url }}{% endcapture %}
+    {%- endif -%}
+    {% include avatar.html class="w-6 mr-2" alt=party.name src=partyImg %}
+  {% endif %}
+
+  <span class="font-bold font-condensed">{{ party.name }}</span>
+</div>
