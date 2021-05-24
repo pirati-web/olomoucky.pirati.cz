@@ -8,7 +8,7 @@ tags:
 author: Josef Indra
 image: assets/img/articles/2021/2021-05-20-olomoucky-kraj-porada-dalsi-rocnik-udileni-cen-za-prinos-v-oblasti-zivotniho-prostredi.jpg  #751x422 pixelu
 ---
-I v tomto roce bude Olomoucký kraj udílet ceny za přínos v oblasti životního prostředí. Pro udílení cen může nominovat svého zástupce jakýkoliv občan nebo i organizace především z území Olomouckého kraje do 20. června 2021 na webu cenykraje.cz.
+I v tomto roce bude Olomoucký kraj udílet ceny za přínos v oblasti životního prostředí. Pro udílení cen může nominovat svého zástupce jakýkoliv občan nebo i organizace především z území Olomouckého kraje do 20. června 2021 na webu cenykraje.cz. 
 
 *„Náhradní planetu nemáme, proto považuji péči o životní prostředí, krajinu, vodu, půdu, ovzduší, faunu či flóru za nesmírně důležitou. Lidé, společnosti a spolky nebo obce, jejichž přínos k ochraně přírody byl zvlášť významný, si ocenění a poděkování určitě zaslouží. Olomoucký kraj se  navíc může pyšnit zcela unikátní přírodou, vždyť se na jeho území nachází hned dvě chráněné krajinné oblasti,“* uvedl radní Olomouckého kraje pro oblast životního prostředí Martin Šmída.
 
