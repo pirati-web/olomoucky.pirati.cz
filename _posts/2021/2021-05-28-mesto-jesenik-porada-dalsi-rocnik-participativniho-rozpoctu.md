@@ -4,7 +4,7 @@ category: CLANKY
 title: "Město Jeseník pořádá další ročník participativního rozpočtu"
 date: 2021-05-28
 tags: 
-- jeseník
+- jesenicko
 author: Josef Indra
 image: assets/img/articles/2021/2021-05-28-mesto-jesenik-porada-dalsi-rocnik-participativniho-rozpoctu.jpg  #751x422 pixelu
 ---

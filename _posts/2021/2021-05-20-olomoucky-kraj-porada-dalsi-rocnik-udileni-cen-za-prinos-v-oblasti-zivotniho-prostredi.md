@@ -5,7 +5,6 @@ title: "Olomoucký kraj pořádá další ročník udílení cen za přínos v o
 date: 2021-05-20
 tags: 
 - olomoucký-kraj
-- životní-prostředí
 author: Josef Indra
 image: assets/img/articles/2021/2021-05-20-olomoucky-kraj-porada-dalsi-rocnik-udileni-cen-za-prinos-v-oblasti-zivotniho-prostredi.jpg  #751x422 pixelu
 ---
