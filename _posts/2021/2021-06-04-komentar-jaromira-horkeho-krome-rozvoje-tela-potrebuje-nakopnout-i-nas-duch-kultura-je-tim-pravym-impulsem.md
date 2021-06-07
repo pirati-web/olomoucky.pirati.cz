@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Komentář Jaromíra Horkého: Kromě rozvoje těla, potřebuje nakopnout i náš duch. Kultura je tím pravým impulsem!"
+title: "Komentář Jaromíra Horkého: Kromě rozvoje těla potřebuje nakopnout i náš duch. Kultura je tím pravým impulsem!"
 date: 2021-06-04
 tags: 
 - olomoucky-kraj
