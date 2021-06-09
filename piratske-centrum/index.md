@@ -18,7 +18,7 @@ contactPersons:
   - id: michal.langer
     description: Správce co-worku
 residenceImg: https://a.pirati.cz/olomoucky/img/miscellaneous/picolo.jpg
-mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2606.652223128082!2d16.602135678777746!3d49.20715664427058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47129469d89006e1%3A0x1f3fd82016dcb4b0!2sLidick%C3%A1%2081%2C%20602%2000%20Brno-st%C5%99ed!5e0!3m2!1sen!2scz!4v1617122554744!5m2!1sen!2scz
+mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2586.111521618909!2d17.24639791574584!3d49.59564635646581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47124f2fffff5aa9%3A0xc600af4921bef215!2sPicolo%20-%20Pir%C3%A1tsk%C3%A9%20centrum%20Olomouc!5e0!3m2!1scs!2scz!4v1623277268308!5m2!1scs!2scz
 ---
 
 Pirátské centrum slouží jako prostor pro širokou veřejnost a různorodé občanské aktivity. Můžete zde uspořádat přednášku, besedu, workshop, promítání atp. K dispozici je projektor s plátnem a také kamera pro záznam či streaming na YouTube.
