@@ -8,7 +8,7 @@ rbar:
   - tagArticles
 redirect_from:
 tags:
-   - přerov
+   - šumpersko
 boardName: Předsednictvo
 board:
    - position: Předseda
