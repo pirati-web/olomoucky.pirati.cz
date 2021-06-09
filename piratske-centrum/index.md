@@ -25,6 +25,6 @@ Pirátské centrum slouží jako prostor pro širokou veřejnost a různorodé o
 
 Picolo je k dispozici zcela ZDARMA a pro akce nekomerčního charakteru. Vyhrazujeme si právo akci odmítnout.
 
-Adresa: 8. května 522/5, 779 00 Olomouc
-Otevírací doba: Pondělí 9-13 hodin, mimo tuto dobu po domluvě
-Facebook: [https://www.facebook.com/picoloexistuje/](https://www.facebook.com/picoloexistuje/)
+- Adresa: 8. května 522/5, 779 00 Olomouc
+- Otevírací doba: Pondělí 9-13 hodin, mimo tuto dobu po domluvě
+- Facebook: [https://www.facebook.com/picoloexistuje/](https://www.facebook.com/picoloexistuje/)
