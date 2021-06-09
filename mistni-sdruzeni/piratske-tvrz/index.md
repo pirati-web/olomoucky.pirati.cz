@@ -1,56 +1,33 @@
 ---
 layout: page
 contentClass: content-block
-title: Místní sdružení Brno
+title: Pirátská Tvrz
 rbar:
   - board
   - pageContacts
   - tagArticles
 redirect_from:
-  - /msbrno/
-  - /brno/
-  - /regiony/brno.html
 tags:
-   - brno
-   - Brno-střed
-   - Brno
-   - Královo-pole
-   - krpole
-   - královo-pole
+   - pirátská-tvrz
 boardName: Předsednictvo
-#boardTurn:
-#    electionUrl: https://github.com/pirati-web/stredocesky.pirati.cz/edit/master/kladno/index.md
-#    endDate: 01.02.2021
 board:
    - position: Předseda
-     uid: tomas.kolacny
-   - position: 1. místopředsedkyně
-     uid: monika.spilkova
-   - position: 2. místopředseda
-     uid: marek.fiser
-   - position: 3. místopředseda
-     uid: michal.marciniszyn
-   - position: 4. místopředseda
-     uid: jan.wagner
+     uid: radek.vojtek
+   - position: 
+     uid: jan.koutny
+   - position: 
+     uid: vladimir.kubala
 contactPersons:
-   - position: Předseda
-     uid: tomas.kolacny
-   - position: Krajský koordinátor
-     uid: vendula.svobodova
+   - position: Koordinátor KS Olomouckého kraje
+     uid: michal.langer
 profiles:
-   facebook: "https://www.facebook.com/CPS.JMK/"
-   forum: "https://forum.pirati.cz/viewforum.php?f=900"
+   facebook: https://www.facebook.com/PiratskaTvrz/?fref=ts
+   forum: https://forum.pirati.cz/piratska-tvrz-f640/
    mail: vendula.svobodova@pirati.cz
 
 
 ---
 
-Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti má téměř čtyři desítky členů a na 60 registrovaných příznivců.
+Místní sdružení Pirátská Tvrz sdružuje Piráty z Majetína, Grygova, Brodku u Přerova, Lukové, Krčmaně, Kokor, Rokytnice, Císařova, Citova a Tovačova.
 
-* [Programové priority Brno (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-priority.pdf)
-* [Program Brno (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-program.pdf)
-
-<hr>
-
-<img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/Brno-stred2_web.png" width="1000">
-
+Seznam kandidátů pro volby do zastupitelstev obcí konaných ve dnech 5. a 6. 10. 2018 v [Majetíně](/volby/komunalni/2018/majetin) a [Brodku u Přerova](/volby/komunalni/2018/brodek-u-prerova).
