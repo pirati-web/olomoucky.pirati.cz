@@ -9,7 +9,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Místopředseda krajského sdružení
 img: people/jaromir-horky.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 1. místopředseda krajského sdružení Olomouckého kraje, předseda místního sdružení Přerov, krajský zastupitel v Olomouckém kraji                # kratký popis, max 160 znaků
+description: 1. místopředseda krajského sdružení Olomouckého kraje, krajský zastupitel v Olomouckém kraji                # kratký popis, max 160 znaků
 mail: jaromir.horky@pirati.cz
 mob: 774 942 021
 profiles:
