@@ -7,8 +7,8 @@ shorthand: Picolo
 openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
 heroHeadline: Zbrusu nové krajské pirátské centrum!
 heroDescription: Picolo - Pirátské centrum Olomouc
-heroImg: https://a.pirati.cz/olomoucky/img/miscellaneous/picolo.jpg
-img: https://a.pirati.cz/olomoucky/img/miscellaneous/picolo.jpg
+heroImg: miscellaneous/picolo.jpg
+img: miscellaneous/picolo.jpg
 address: |
   Picolo - Pirátské centrum Olomouc
   8. května 522/5
