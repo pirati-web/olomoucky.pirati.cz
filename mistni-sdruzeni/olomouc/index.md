@@ -23,7 +23,7 @@ contactPersons:
 profiles:
    facebook: https://www.facebook.com/piratiOlomouc
    forum: https://forum.pirati.cz/olomouc-f710/
-   mail: vendula.svobodova@pirati.cz
+   mail: 
 
 
 ---

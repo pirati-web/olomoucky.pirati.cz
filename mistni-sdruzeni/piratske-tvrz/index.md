@@ -23,7 +23,7 @@ contactPersons:
 profiles:
    facebook: https://www.facebook.com/PiratskaTvrz/?fref=ts
    forum: https://forum.pirati.cz/piratska-tvrz-f640/
-   mail: vendula.svobodova@pirati.cz
+   mail: 
 
 
 ---

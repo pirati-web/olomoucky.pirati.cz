@@ -23,7 +23,7 @@ contactPersons:
 profiles:
    facebook: "https://www.facebook.com/Prerovsko/"
    forum: "https://forum.pirati.cz/prerov-f664/"
-   mail: vendula.svobodova@pirati.cz
+   mail: 
 
 
 ---
