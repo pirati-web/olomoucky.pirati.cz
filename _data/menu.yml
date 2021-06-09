@@ -22,9 +22,9 @@ main:
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
-  - link: /piratska-centra/
-    name: Pirátská centra
-    match: piratska-centra 
+  - link: /piratske-centrum/
+    name: Pirátské centrum
+    match: piratske-centrum
   - link: /kontakt/
     name: Kontakty
     match: kontakt
