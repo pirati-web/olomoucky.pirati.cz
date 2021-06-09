@@ -128,9 +128,7 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
-  teams:
-    output: true
-    permalink: /mistni-sdruzeni/:title/
+
   program:
     output: true
     permalink: /program/:path/
