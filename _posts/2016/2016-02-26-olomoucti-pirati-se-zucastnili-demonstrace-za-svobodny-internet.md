@@ -5,7 +5,7 @@ title: Olomoučtí piráti se zúčastnili demonstrace za svobodný Internet
 date: 2016-03-22
 tags: olomouc
 author: Jakub Nepejchal
-image: articles/2016/2016-02-26-olomoucti-pirati-se-zucastnili-demonstrace-za-svobodny-internet.jpg   #751x422 pixelu
+image: assets/img/articles/2016/2016-02-26-olomoucti-pirati-se-zucastnili-demonstrace-za-svobodny-internet.jpg   #751x422 pixelu
 ---
 I členové olomouckého krajského sdružení přijeli do Prahy podpořit demonstraci za svobodný internet - V sobotu 20. 2. zorganizovala Česká pirátská strana demonstraci za svobodný internet, kterou přijeli do Prahy podpořit i zástupci z Olomouckého kraje.
 

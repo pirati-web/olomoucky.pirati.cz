@@ -8,7 +8,7 @@ tags:
 - olomoucký-kraj
 - přerov
 author: Josef Indra
-image: articles/2021/2021-01-27-resime-nebezpecnou-skladku-kalu-v-kralicich-na-hane.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-01-27-resime-nebezpecnou-skladku-kalu-v-kralicich-na-hane.jpg  #751x422 pixelu
 ---
 **Do bezprostřední blízkosti městyse Kralice na Hané nechala od roku 2015 firma SPRESO s. r. o., pod záminkou kompostování, navozit čistírenské kaly. Ty vzápětí začala ukládat, v rozporu s provozním řádem,  i mimo určenou plochu, a tento odpad se tak nahromadil i na přilehlých pozemcích. V celkovém objemu se dnes jedná o téměř 31 tisíc tun kalů. Kaly navíc leží v ochranném pásmu významného vodního zdroje užívaného pro hromadné zásobování pitnou vodou. Tímto problémem se začal zabývat místní občan Karel Labonek, který informoval i krajského radního Martina Šmídu.**
 

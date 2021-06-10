@@ -6,7 +6,7 @@ date: 2018-10-09
 tags: 
 - prostějov
 author: Mediální odbor
-image: articles/2018/2018-10-09-pirati-v-prostejove-obhajili-dva-mandaty-a-s-koalici-na-rovinu-ziskali-druhe-misto.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-10-09-pirati-v-prostejove-obhajili-dva-mandaty-a-s-koalici-na-rovinu-ziskali-druhe-misto.jpg  #751x422 pixelu
 ---
 Prostějov, 9. 10. 2018 - “Nepodařilo se porazit hnutí ANO ani zásadně zvrátit poměr sil v zastupitelstvu města a do dalších částí země tak vyslat jasný signál, že kvalitní komunální politika není o tom, kdo má na koho číslo.“ říká Petr Kapounek, manažer kampaně a místopředseda Pirátů v Prostějově a dodává: „Ale zároveň tu hnutí ANO získalo jen o cca 2 % a jeden mandát více a na zdejší poměry velmi slabý výsledek.”
 

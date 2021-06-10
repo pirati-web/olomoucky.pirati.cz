@@ -6,7 +6,7 @@ date: 2019-07-02
 tags: 
 - prostějov
 author: Mediální odbor
-image: articles/2019/2019-07-02-ministerstvo-vnitra-proverilo-postup-volby-clena-dozorci-rady-spolecnosti-vodovody-a-kanalizace-a-s.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-07-02-ministerstvo-vnitra-proverilo-postup-volby-clena-dozorci-rady-spolecnosti-vodovody-a-kanalizace-a-s.jpg  #751x422 pixelu
 ---
 
 Prostějov, 2. 7. 2019 - Ministerstvo vnitra vydalo stanovisko k zákonnosti volby člena Dozorčí rady společnosti, která spravuje vodárenskou infrastrukturu. Do kontrolního orgánu společnosti byli na jednání Zastupitelstva města Prostějova dne 17. 5. 2019 navrženi dva kandidáti. Zastupitelstvo však žádného z nic neschválilo. Na jednání zastupitelstva 11. 6. 2019 byli znovu navržení dva kandidáti. Strany, které nejsou zastoupeny v Radě města, navrhly svého kandidáta Ing. Michala Drozda, člena Finančního výboru, aby v kontrolním orgánu důležité obchodní společnosti byl také jejich zástupce. V průběhu projednávání vyšlo najevo, že na valné hromadě společnosti VaK byl již 20. května zvolen členem dozorčí rady Ing. Václav Šmíd, který 17. května schválený nebyl, a k jeho nominaci se mělo zastupitelstvo vyjádřit teprve 11. června.

@@ -14,8 +14,6 @@ profiles:
   facebook:
   twitter:      
   flickr:
-heroImg: banner-default.jpg
-published: true
 ---
 Hynek Kliment (* 3.listopadu 1965) je členem pirátské strany od března 2018. Od května 2018 je předsedou MS Hranicko.
 

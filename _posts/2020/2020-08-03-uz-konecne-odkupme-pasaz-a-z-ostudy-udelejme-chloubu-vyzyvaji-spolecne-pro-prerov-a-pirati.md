@@ -6,7 +6,7 @@ date: 2020-08-03
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2020/2020-08-03-uz-konecne-odkupme-pasaz-a-z-ostudy-udelejme-chloubu-vyzyvaji-spolecne-pro-prerov-a-pirati.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-08-03-uz-konecne-odkupme-pasaz-a-z-ostudy-udelejme-chloubu-vyzyvaji-spolecne-pro-prerov-a-pirati.jpg  #751x422 pixelu
 redirect_from:
   - /tiskove-zpravy/uz-konecne-odkupme-pasaz-v-prerove.html
 ---

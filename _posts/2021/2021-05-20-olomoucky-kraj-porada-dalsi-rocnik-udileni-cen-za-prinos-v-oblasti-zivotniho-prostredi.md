@@ -6,7 +6,7 @@ date: 2021-05-20
 tags: 
 - olomoucký-kraj
 author: Josef Indra
-image: articles/2021/2021-05-20-olomoucky-kraj-porada-dalsi-rocnik-udileni-cen-za-prinos-v-oblasti-zivotniho-prostredi.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-05-20-olomoucky-kraj-porada-dalsi-rocnik-udileni-cen-za-prinos-v-oblasti-zivotniho-prostredi.jpg  #751x422 pixelu
 ---
 I v tomto roce bude Olomoucký kraj udílet ceny za přínos v oblasti životního prostředí. Pro udílení cen může nominovat svého zástupce jakýkoliv občan nebo i organizace především z území Olomouckého kraje do 20. června 2021 na webu cenykraje.cz. 
 

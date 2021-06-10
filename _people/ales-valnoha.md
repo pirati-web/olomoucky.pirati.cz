@@ -16,8 +16,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-heroImg: banner-default.jpg
-published: true
 ---
 Aleš Valnoha (* 1982) je 2. místopředseda MS Šumpersko. Narodil se v Jeseníku, pochází však ze Zábřeha, kde prožil své dětství a dospívání. Navštěvoval Střední obornou školu Památkové péče v Šumperku. Po střední škole zavítal pracovně na tři roky do Irska, kde prošel různé profese ve stavebnictví. Po návratu strávil pracovně sedm let v Ostravě u největší cestovní kanceláře na českém trhu. Při této práci studoval obor Geografie a regionální rozvoj na Ostravské univerzitě. Studium se mu nepodařilo zdárně zakončit, přesto však studiem získal hodně.
 

@@ -6,7 +6,7 @@ date: 2019-02-05
 tags: 
 - prostějov
 author: Mediální odbor
-image: articles/2019/2019-02-05-prostejov-ma-sanci-stat-se-chytrym-mestem-sbirame-napady.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-02-05-prostejov-ma-sanci-stat-se-chytrym-mestem-sbirame-napady.jpg  #751x422 pixelu
 ---
 Prostějov, 5. 2. 2019 - V pátek 25. ledna poprvé zasedla nově zřízená komise pro informatiku a Smart city města Prostějova. Komise je obsazena převážně vysoce kompetentními lidmi a již z prvního jednání je zřejmé, že mezi jejími členy je velký zájem město Prostějov v oblasti Smart city a kvality využívání informačních technologií posunout vpřed. Piráty v komisi zastupuje místopředseda krajského sdružení Olomoucký kraj Petr Kapounek, který je odborníkem na IT a telekomunikace.
 

@@ -6,7 +6,7 @@ date: 2020-08-05
 tags: 
 - olomoucký-kraj
 author: Zdeňka Dvořáková Kocourková
-image: articles/2020/2020-08-05-humans-of-pirati-zdenka-dvorakova-kocourkova-svoboda-rozhodovat-o-svem-zivote-je-nejvic.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-08-05-humans-of-pirati-zdenka-dvorakova-kocourkova-svoboda-rozhodovat-o-svem-zivote-je-nejvic.jpg  #751x422 pixelu
 ---
 Hodně čtu. Zajímají mě příběhy úspěšných lidí, v nichž hledám poučení. Rodiče mě vychovali tak, abych se nebála nahlas říkat svůj názor. Jsem ráda, že nemusím ohýbat hřbet a bát sejako lidé za socialismu. Nejdůležitější je pro mě udržet si v životě svobodu rozhodování, vyjadřování a myšlení a celý život hledám pravdu.
 

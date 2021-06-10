@@ -6,7 +6,7 @@ date: 2019-02-15
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-02-15-spolecne-pro-prerov-a-pirati-chteji-zlepsit-komunikaci-mesta-s-obcany-skrze-facebook.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-02-15-spolecne-pro-prerov-a-pirati-chteji-zlepsit-komunikaci-mesta-s-obcany-skrze-facebook.jpg  #751x422 pixelu
 ---
 Přerov je jedním z posledních statutárních měst spolu s Teplicemi, které nenajdete na žádné sociální síti. Společně pro Přerov a Piráti to chtějí změnit.
 

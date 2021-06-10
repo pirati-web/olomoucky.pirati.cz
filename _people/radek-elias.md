@@ -16,8 +16,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-heroImg: banner-default.jpg
-published: true
 ---
 Radek Eliáš (* 20.3.1982) je registrovaný příznivec Pirátské strany a pochází z Prostějova. V současné době žije v Olomouci.
 

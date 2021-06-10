@@ -5,7 +5,7 @@ title: V Majetíně kandidujeme samostatně
 date: 2014-06-07
 tags: pirátská-tvrz
 author: Michal Wagner
-image: articles/2014/2014-06-07-v-majetine-kandidujeme-samostatne.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-06-07-v-majetine-kandidujeme-samostatne.jpg   #751x422 pixelu
 ---
 Už to bude půl roku, co několik mladých lidí z Majetína a okolí založilo Místní sdružení Pirátská Tvrz. Sdružuje členy a příznivce České pirátské strany, potažmo celosvětového Pirátského hnutí a jeho idejí, jako je ochrana soukromí a svobod občanů nebo transparentní veřejná správa.
 

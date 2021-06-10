@@ -7,7 +7,7 @@ tags:
 - piráti
 - olomoucký-kraj
 author: Josef Indra
-image: articles/2021/2021-02-01-olomoucky-kraj-pomuze-ve-vystavbe-novych-cyklostezek.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-02-01-olomoucky-kraj-pomuze-ve-vystavbe-novych-cyklostezek.jpg  #751x422 pixelu
 ---
 Rada Olomouckého kraje odsouhlasila schválení smlouvy o spolupráci s obcemi Lesnice a Leština při výstavbě nových cyklostezek v rámci projektu *„Moravská stezka“*. Olomoucký kraj tak bude koordinovat a realizovat výstavbu na vybraných koridorech a pomůže obcím s organizační i finanční stránkou.  
  

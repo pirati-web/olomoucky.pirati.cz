@@ -5,7 +5,7 @@ title: Založení MS Olomouc
 date: 2014-05-11
 tags: olomouc
 author: Vojtěch Pikal
-image: articles/2014/2014-05-11-zalozeni-ms-olomouc.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-05-11-zalozeni-ms-olomouc.jpg   #751x422 pixelu
 ---
 Dne 11. 5. 2014 se sešli Jakub Nepejchal, Vojtěch Pikal, Jakub Burget a Miro Bartovič. Založili společně místní sdružení Olomouc.
 

@@ -6,7 +6,7 @@ date: 2018-07-31
 tags: 
 - pirátská-tvrz
 author: Martin Šmída
-image: articles/2018/2018-07-31-piratska-tvrz-se-predstavuje.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-07-31-piratska-tvrz-se-predstavuje.jpg   #751x422 pixelu
 ---
 Někteří novináři rádi tvrdí, že Piráti jsou strana jen pro mladé a vzdělané městské liberály, ideálně někde ze západní části naší republiky. A my prostě rádi boříme předsudky, takže jsme  už v roce 2013 založili venkovské místní sdružení Pirátská tvrz, a to v samém srdci Moravy, na pomezí okresů Olomouc, Přerov a Prostějov. Za centrum tohoto sdružení by se dala považovat obec Majetín s tisíci obyvateli, kde Piráti už 4 roky mají svého zástupce v zastupitelstvu. Neméně důležitý je však i městys Brodek u Přerova, kde probíhá také mnoho aktivit.
 

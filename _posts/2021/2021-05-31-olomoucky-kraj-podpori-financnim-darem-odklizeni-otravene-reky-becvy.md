@@ -6,7 +6,7 @@ date: 2021-05-31
 tags: 
 - olomoucký-kraj
 author: Josef Indra
-image: articles/2021/2021-05-31-olomoucky-kraj-podpori-financnim-darem-odklizeni-otravene-reky-becvy.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-05-31-olomoucky-kraj-podpori-financnim-darem-odklizeni-otravene-reky-becvy.jpg  #751x422 pixelu
 ---
 Rada Olomouckého kraje dnes schválila dar Českému rybářskému svazu ve výši 200 000 Kč. Poskytnutá částka bude použita na zaplacení zbývajících nákladů za odstraňování uhynulých ryb na řece Bečvě ze září minulého roku.  
 

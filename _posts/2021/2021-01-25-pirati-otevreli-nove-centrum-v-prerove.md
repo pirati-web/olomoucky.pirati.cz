@@ -8,7 +8,7 @@ tags:
 - olomoucký-kraj
 - přerov
 author: Josef Indra
-image: articles/2021/2021-01-25-pirati-otevreli-nove-centrum-v-prerove.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-01-25-pirati-otevreli-nove-centrum-v-prerove.jpg  #751x422 pixelu
 ---
 **Přerov, 25. ledna – Piráti v Přerově otevřeli nové pirátské centrum s názvem [PEPŘ](https://www.facebook.com/peprprerov). Jedná se o zkratku Pirátského epicentra Přerov. Po Olomouci je tak druhým pirátským centrem v Olomouckém kraji, které má sloužit kromě pirátských aktivit také široké veřejnosti.**
 

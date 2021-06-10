@@ -6,7 +6,7 @@ date: 2020-03-27
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2020/2020-03-17-spolecne-pro-prerov-a-pirati-vyzyvaji-zruste-najmy.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-03-17-spolecne-pro-prerov-a-pirati-vyzyvaji-zruste-najmy.jpg  #751x422 pixelu
 ---
 Přerov, 27. března 2020 - Společně pro Přerov a Piráti chtějí ulevit těm nejvíce postiženým podnikatelům a občanům v souvislosti s opatřeními proti šíření nákazy koronaviru. Kromě pomocného balíčku nabízí také řešení, odkud na něj vzít. Chtějí, aby si město vyplatilo dividendy z městských společností.
 

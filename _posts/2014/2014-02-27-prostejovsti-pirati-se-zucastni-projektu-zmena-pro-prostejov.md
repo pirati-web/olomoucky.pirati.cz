@@ -5,7 +5,7 @@ title: Prostějovští Piráti se zúčastní projektu Změna pro Prostějov
 date: 2014-02-27
 tags: prostějov
 author: Roman Kümmel
-image: articles/2014/2014-02-27-prostejovsti-pirati-se-zucastni-projektu-zmena-pro-prostejov.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-02-27-prostejovsti-pirati-se-zucastni-projektu-zmena-pro-prostejov.jpg   #751x422 pixelu
 
 ---
 27.února 2014 proběhla v Prostějově schůzka Pirátů, Strany zelených a řady osobností Prostějovska, z nichž mnozí působí i ve spolku Prostějov, který se dlouhodobě angažuje v kauze kolem Prostějovského KasCentra. Schůzku organizoval Ing. Jan Navrátil, předseda prostějovských Zelených a zúčastnili se jí také zástupci ANO, TOP09 a KDU-ČSL. Cílem bylo otevřít dialog o budoucnosti města Prostějova.

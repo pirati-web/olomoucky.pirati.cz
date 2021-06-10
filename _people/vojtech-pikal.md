@@ -19,8 +19,6 @@ profiles:
   psp: http://www.psp.cz/sqw/detail.sqw?id=6531
   report: https://forum.pirati.cz/poslanci-f884/reporty-poslance-vojtecha-pikala-t38965.html
 ordpos: 1
-heroImg: banner-default.jpg
-published: true
 ---
 Vojtěch Pikal (19. února 1987) je člen republikového výboru České pirátské strany, 5. místopředseda PS PČR, poslanec za Olomoucký kraj a člen místního sdružení Pirátů Olomouc. Vystudoval bakalářský program informatiky na Univerzitě Palackého v Olomouci.
 

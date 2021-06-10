@@ -6,7 +6,7 @@ date: 2021-06-03
 tags: 
 - olomoucký-kraj
 author: Josef Indra
-image: articles/2021/2021-06-03-martin-smida-resil-moznosti-vodniho-privadece-do-olomouckeho-kraje-ze-slezske-harty.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-06-03-martin-smida-resil-moznosti-vodniho-privadece-do-olomouckeho-kraje-ze-slezske-harty.jpg  #751x422 pixelu
 ---
 Radní Martin Šmída se dnes v Ostravě zúčastnil jednání, na kterém byly prezentovány možnosti posílení vodních zdrojů v povodí Horní Moravy vodou z povodí Odry. Jednalo se o plánu na vybudování téměř 50 kilometrů dlouhou stavbu přivaděče vody ze Slezské Harty na Olomoucko a Přerovsko.
 

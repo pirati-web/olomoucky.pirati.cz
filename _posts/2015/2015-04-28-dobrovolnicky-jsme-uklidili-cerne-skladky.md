@@ -5,7 +5,7 @@ title: Dobrovolnicky jsme uklidili černé skládky
 date: 2015-04-28
 tags: pirátská-tvrz
 author: Martin Šmída
-image: articles/2015/2015-04-28-dobrovolnicky-jsme-uklidili-cerne-skladky.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-04-28-dobrovolnicky-jsme-uklidili-cerne-skladky.jpg   #751x422 pixelu
 ---
 V sobotu 18. 4. se sešli členové a příznivci Pirátské strany a místního sdružení Pirátská tvrz a jiní dobrovolníci, aby společně uklidili několik černých skládek kolem břehu říčky Olešnice. Úklid se konal v rámci celorepublikové dobrovolnické akce "ukliďme Česko", od nichž jsme nafasovali pytle a rukavice.
 

@@ -6,7 +6,7 @@ date: 2020-11-09
 tags: 
 - přerov
 author: Josef Indra
-image: articles/2020/2020-11-09-mistni-sdruzeni-v-prerove-si-zvolilo-nove-predsednictvo.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-11-09-mistni-sdruzeni-v-prerove-si-zvolilo-nove-predsednictvo.jpg  #751x422 pixelu
 redirect_from:
   - /tiskove-zpravy/Prerov-ma-nove-predsednictvo.html
 ---

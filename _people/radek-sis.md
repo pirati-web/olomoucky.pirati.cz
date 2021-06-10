@@ -16,8 +16,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-heroImg: banner-default.jpg
-published: true
 ---
 Radek Sís (* 9.9.1986) je členem KS Olomouckého kraje. Registrován v rámci Pirátské strany je od listopadu 2014.
 

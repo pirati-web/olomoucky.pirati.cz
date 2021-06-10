@@ -5,7 +5,7 @@ title: Prostějovští Piráti podporují přiměřenou úpravu prostoru býval�
 date: 2017-01-16
 tags: prostějov
 author: Petr Lysek
-image: articles/2017/2017-01-16-prostejovsti-pirati-podporuji-primerenou-upravu-prostoru-byvaleho-zidovskeho-hrbitova-a-vyzyvaji-k-pokracovani-jednani.jpg   #751x422 pixelu
+image: assets/img/articles/2017/2017-01-16-prostejovsti-pirati-podporuji-primerenou-upravu-prostoru-byvaleho-zidovskeho-hrbitova-a-vyzyvaji-k-pokracovani-jednani.jpg   #751x422 pixelu
 ---
 V posledních dnech eskalovala díky petici občanů [www.studentskapv.cz](https://www.studentskapv.cz) mediální bouře kolem úpravy prostoru bývalého židovského hřbitova na Studentské ulici. Z obou stran znějí dle našeho názoru poněkud přehnaná tvrzení, která rozhodně nepřispívají k oboustranně akceptovatelnému řešení této jistě ne zcela jednoduché situace.
 

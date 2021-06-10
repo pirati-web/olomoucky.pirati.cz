@@ -16,8 +16,6 @@ profiles:
   twitter: 		  
   flickr:
 ordzas: 1   		  
-heroImg: banner-default.jpg
-published: true
 ---
 Petr Kapounek (* 9. prosince 1986, Prostějov) je zastupitel v Prostějově, člen komise IT a Smart city v Prostějově a komise IT na Olomouckém kraji. Vystudoval Střední průmyslovou školu elektrotechnickou. Pracuje jako projektový manažer v telekomunikační společnosti.
 

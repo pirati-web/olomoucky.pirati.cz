@@ -15,8 +15,6 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
-heroImg: banner-default.jpg
-published: true
 ---
 Anežka Hrušková (* 20. ledna 1999) je příznivcem Pirátů a studentkou Slezské univerzity, v roce 2020 kandiduje v krajských volbách za koalici Pirátů a Starostů. Je registrovanou příznivkyní Pirátů a dlouhodobě se účastní úklidových akcí v rámci ekokampaně UkliďmeČesko. Působí také jako dobrovolenice v obecně prospěšné společnosti Jsme tady, kde pomáhá hendikepovaným a ve volném čase se věnuje hře na kytaru.
 

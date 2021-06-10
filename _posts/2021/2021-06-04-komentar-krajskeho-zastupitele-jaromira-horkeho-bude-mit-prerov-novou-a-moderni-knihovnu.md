@@ -6,7 +6,7 @@ date: 2021-06-04
 tags: 
 - přerov
 author: Josef Indra
-image: articles/2021/2021-06-04-komentar-krajskeho-zastupitele-jaromira-horkeho-bude-mit-prerov-novou-a-moderni-knihovnu.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-06-04-komentar-krajskeho-zastupitele-jaromira-horkeho-bude-mit-prerov-novou-a-moderni-knihovnu.jpg  #751x422 pixelu
 ---
 Téma knihovny v Přerově není žádnou novou záležitostí. V dočasném provizoriu se nachází totiž už od roku 1959. V roce 2012 mohli zastupitelé vybrat jednu z nových lokalit pro knihovnu, rozhodnutí však oddálili a bohužel se od té doby moc nestalo.Na letošním dubnovém zastupitelstvu však zastupitelé ustanovili novou pracovní skupinu, která se má zabývat stavbou nové knihovny případně umístění aktuální knihovny do některé z již stávajících budov.
 

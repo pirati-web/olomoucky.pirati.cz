@@ -15,8 +15,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:
-heroImg: banner-default.jpg
-published: true
 ---
 Lubomír Vlček (* 31. července 1979) - předseda MS Šumpersko v Pirátské straně. Pochází z města Šumperk, kde v podstatě strávil celý svůj život a nic na tom nehodlá měnit.
 

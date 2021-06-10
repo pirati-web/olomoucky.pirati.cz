@@ -5,7 +5,7 @@ title: Rozhovor s Martinem Šmídou nejen o volbách a o MS Pirátská Tvrz
 date: 2017-11-27
 tags: pirátská-tvrz
 author: Radek Vojtek
-image: articles/2017/2017-11-27-rozhovor-s-martinem-smidou.jpg   #751x422 pixelu
+image: assets/img/articles/2017/2017-11-27-rozhovor-s-martinem-smidou.jpg   #751x422 pixelu
 ---
 Přinášíme rozhovor s Martinem Šmídou, toho času 2. místopředsedou České Pirátské strany, která v parlamentních volbách získala od voličů takřka 11% hlasů.
 

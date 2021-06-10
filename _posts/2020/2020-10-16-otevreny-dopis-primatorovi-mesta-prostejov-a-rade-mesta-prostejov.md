@@ -6,7 +6,7 @@ date: 2020-10-16
 tags: 
 - prostějov
 author: Petr Lysek
-image: articles/2020/2020-10-16-otevreny-dopis-primatorovi-mesta-prostejov-a-rade-mesta-prostejov.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-10-16-otevreny-dopis-primatorovi-mesta-prostejov-a-rade-mesta-prostejov.jpg  #751x422 pixelu
 ---
 Prostějov, 15. října 2020 - Vážený pane primátore, vážení představitelé vedení města Prostějova, dovolujeme si na Vás apelovat ve věci aktivnějšího řešení aktuálního krizového vývoje v souvislosti s šířením infekčního onemocnění covid-19. **Věříme, že vedení města Prostějova, včetně všech zaměstnanců, nyní dělá vše proto, abychom situaci zvládli a vyšli z ní v co nejkratší době vítězně. Náš podnět tedy směřuje k lepší komunikaci postupů, které jsou v dané věci realizovány.**
 

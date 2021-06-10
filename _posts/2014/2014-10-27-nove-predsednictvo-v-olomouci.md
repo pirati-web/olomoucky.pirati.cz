@@ -5,7 +5,7 @@ title: Nové předsednictvo v Olomouci
 date: 2014-10-27
 tags: olomouc
 author: Vojtěch Pikal
-image: articles/2014/2014-10-27-nove-predsednictvo-v-olomouci.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-10-27-nove-predsednictvo-v-olomouci.jpg   #751x422 pixelu
 ---
 V neděli 26. 10. 2014 proběhlo volební zasedání místního sdružení Olomouc Pirátské strany. Piráti si na něm zvolili nové místní předsednictvo.
 

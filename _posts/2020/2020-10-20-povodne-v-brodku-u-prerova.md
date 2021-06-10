@@ -6,7 +6,7 @@ date: 2020-10-20
 tags: 
 - pirátská-tvrz
 author: Radek Vojtek
-image: articles/2020/2020-10-20-povodne-v-brodku-u-prerova.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-10-20-povodne-v-brodku-u-prerova.jpg  #751x422 pixelu
 ---
 V noci na čtvrtek 15.10. velkou část městyse Brodek u Přerova zaplavila voda z místní říčky Olešnice. Voda se rozlila do několika ulic a začala zaplavovat desítky rodinných domů. Zaplaveno bylo také Masarykovo náměstí a kompletně celý podjezd ve směru na Prostějov. 
 

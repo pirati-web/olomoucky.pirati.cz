@@ -6,7 +6,7 @@ date: 2021-06-09
 tags: 
 - přerov
 author: Josef Indra
-image: articles/2021/2021-06-09-v-prerove-bude-vytvorena-pracovni.skupina-na-revitalizaci-domu-tgm-c-8-na-namesti.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-06-09-v-prerove-bude-vytvorena-pracovni.skupina-na-revitalizaci-domu-tgm-c-8-na-namesti.jpg  #751x422 pixelu
 ---
 Na zastupitelstvu města Přerova se podařilo zastupiteli Pavlu Ondrůjovi ze zastupitelského klubu Společně pro Přerov a Pirátů prosadit vytvoření pracovní skupiny na revitalizaci domu TGM č. 8 na náměstí. 
 

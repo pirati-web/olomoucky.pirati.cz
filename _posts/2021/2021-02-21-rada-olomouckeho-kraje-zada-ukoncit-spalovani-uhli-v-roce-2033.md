@@ -7,7 +7,7 @@ tags:
 - piráti
 - olomoucký-kraj
 author: Josef Indra
-image: articles/2021/2021-02-21-rada-olomouckeho-kraje-zada-ukoncit-spalovani-uhli-v-roce-2033.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-02-21-rada-olomouckeho-kraje-zada-ukoncit-spalovani-uhli-v-roce-2033.jpg  #751x422 pixelu
 ---
 **Rada Olomouckého kraje vyjádřila nesouhlas s aktuálním doporučením tzv. Uhelné komise skončit se spalováním uhlí v ČR do roku 2038 a vyzvala vládu k přijetí termínu konce spalování uhlí v roce 2033.  Konec spalování uhlí v roce 2033 se blíží propočtům, aby bylo možné splnit globální klimatické cíle stanovené Pařížskou klimatickou dohodou.** 
  

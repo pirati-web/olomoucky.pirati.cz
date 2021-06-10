@@ -6,7 +6,7 @@ date: 2020-03-10
 tags: 
 - olomouc 
 author: Mediální odbor
-image: articles/2020/2020-03-10-provincni-metody-vedeni-politickeho-boje.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-03-10-provincni-metody-vedeni-politickeho-boje.jpg  #751x422 pixelu
 ---
 
 Hanácký Večerník dne 10. 3. 2020 zveřejnil komentář Lukáše Blokši s názvem „Hledání trafiky pro neúspěšného lídra Pirátů“. Tento článek, jak máme potvrzeno, psaný na politickou objednávku, je plný lží a zavádějících informací. Ostatně není tajemstvím, že původně aktivistický plátek dávno změnil svůj politický kurz, po prodeji od původního vlastníka.

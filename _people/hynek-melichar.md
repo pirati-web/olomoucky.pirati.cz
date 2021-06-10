@@ -20,8 +20,6 @@ profiles:
   flickr:    
 ordzas: 4  
 ordmis: 1 
-heroImg: banner-default.jpg
-published: true
 ---
 Mgr. Hynek Melichar, Ph.D. (* 29. května 1982) je lídrem kandidátky do komunálních voleb 2018 v Olomouci.
 

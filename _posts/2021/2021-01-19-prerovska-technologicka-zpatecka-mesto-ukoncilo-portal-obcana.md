@@ -8,7 +8,7 @@ tags:
 - olomoucký-kraj
 - přerov
 author: Josef Indra
-image: articles/2021/2021-01-19-prerovska-technologicka-zpatecka-mesto-ukoncilo-portal-obcana.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-01-19-prerovska-technologicka-zpatecka-mesto-ukoncilo-portal-obcana.jpg  #751x422 pixelu
 ---
 **Město Přerov na začátku nového roku odstavilo Portál občana, který měl Přerovanům sloužit pro online komunikaci s úřadem a pro vyřízení různých životních situací z pohodlí domova. Důvod, který byl uveden v emailu oznamujícím ukončení tohoto systému bylo údajně nové nařízení Evropské unie, ve vazbě na zákon č. 12/2020 Sb. o právu digitální služby. Portál občana byl jedním z modulů projektu IOP09 za celkem 138 milionů, který bývalý primátor Puchalský označil jako přerovský tunel Blanka.**
  

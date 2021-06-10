@@ -6,7 +6,7 @@ date: 2019-08-06
 tags: 
 - olomoucký-kraj
 author: Antonín Štěpán
-image: articles/2019/2019-08-06-uterni-hlaseni-od-kormidel-petr-lysek.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-08-06-uterni-hlaseni-od-kormidel-petr-lysek.jpg  #751x422 pixelu
 ---
 Úterní hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi členy a zastupiteli v Olomouckém kraji. Každé úterý přinášíme zajímavé rozhovory s lidmi, kteří jsou součástí Pirátské strany.
 

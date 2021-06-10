@@ -6,7 +6,7 @@ date: 2018-11-18
 tags: 
 - olomoucký-kraj
 author: Marek Valko
-image: articles/2018/2018-11-18-sametovy-kviz-setkani-u-masaryka-ci-navrat-na-misto-cinu-pirati-v-olomouckem-kraji-vzpominali-na-17-listopad.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-11-18-sametovy-kviz-setkani-u-masaryka-ci-navrat-na-misto-cinu-pirati-v-olomouckem-kraji-vzpominali-na-17-listopad.jpg  #751x422 pixelu
 ---
 V Olomouci, Prostějově, Přerově i Šumperku si lidé připomínali události 17. listopadu 1989. Více než kdy jindy rezonovala v proslovech současná politická situace.
 

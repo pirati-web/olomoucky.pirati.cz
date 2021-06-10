@@ -6,7 +6,7 @@ date: 2018-11-05
 tags: 
 - olomouc
 author: Mediální odbor
-image: articles/2018/2018-11-05-pirati-a-starostove-poprve-zasedaji-v-zastupitelstvu-mesta-olomouce.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-11-05-pirati-a-starostove-poprve-zasedaji-v-zastupitelstvu-mesta-olomouce.jpg  #751x422 pixelu
 ---
 Dne 5. 11. probíhá ustavující zasedání Zastupitelstva města Olomouce, které bude v tomto složení fungovat ve volebním období 2018-2022. Na svá místa poprvé zasedá i šest nově zvolených zastupitelů za koalici Pirátů a Starostů. Jsme připraveni na poctivou a konstruktivní opoziční práci.
 

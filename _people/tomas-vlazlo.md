@@ -20,8 +20,6 @@ profiles:
   flickr:    
 ordzask: 6  
 ordzas: 6  
-heroImg: banner-default.jpg
-published: true
 ---
 Tomáš Vlazlo (* 23.9.1975) v současnosti 1. místostarosta města Jeseník, člen představenstva Vodovody a kanalizace Jesenicka a.s., člen pracovní skupiny „Koordinace a spolupráce“ Smart Region Olomoucký kraj, člen komise pro kulturu a cestovní ruch SMO ČR. V minulosti spolumajitel firmy zabývající se obchodem s kávovary, kávou a čajem a také novinář, marketingový specialista nebo pořadatel kulturních akcí.
 

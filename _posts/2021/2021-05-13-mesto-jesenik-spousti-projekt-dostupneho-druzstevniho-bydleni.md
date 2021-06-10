@@ -6,7 +6,7 @@ date: 2021-05-13
 tags: 
 - jesenicko
 author: Josef Indra
-image: articles/2021/2021-05-13-mesto-jesenik-spousti-projekt-dostupneho-druzstevniho-bydleni.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-05-13-mesto-jesenik-spousti-projekt-dostupneho-druzstevniho-bydleni.jpg  #751x422 pixelu
 ---
 Dostupnost vlastního bydlení je v dnešní době velmi diskutované téma. Ačkoliv je v současnosti velký trend nakupovat nemovitosti na hypotéku, pro mladší rodiny není jednoduché hypotéku bez požadovaných procent získat. Ceny bytů nebo pozemků až raketově rostou a právě v Jeseníku se na tento problém podívali tak, co v této perspektivě může pro obyvatele vymyslet samotné město, aby jim usnadnilo vlastní bydlení získat dostupněji.
 

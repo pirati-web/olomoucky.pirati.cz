@@ -16,8 +16,6 @@ profiles:
   twitter:
   linkedin:
 ordkor: 1   
-heroImg: banner-default.jpg
-published: true
 ---
 
 Miloš Zmeškal (15. května 1987) je koordinátorem dobrovolníků pro Olomoucký kraj.

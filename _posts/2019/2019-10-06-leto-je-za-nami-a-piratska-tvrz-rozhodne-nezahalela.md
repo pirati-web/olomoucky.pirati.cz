@@ -6,7 +6,7 @@ date: 2019-10-06
 tags: 
 - pirátská-tvrz
 author: Martin Šmída
-image: articles/2019/2019-10-06-leto-je-za-nami-a-piratska-tvrz-rozhodne-nezahalela.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-10-06-leto-je-za-nami-a-piratska-tvrz-rozhodne-nezahalela.jpg  #751x422 pixelu
 ---
 Hodový tenisový turnaj ve čtyřhře proběhl výborně. V příjemném počasí změřilo síly 16 hráčů a vítěznou dvojicí byl nakonec tým Čecháci. Gratulujeme!
 

@@ -14,8 +14,6 @@ profiles:
   github: https://github.com/JanBednarik
   facebook: https://www.facebook.com/jan.bednarik
   twitter: https://twitter.com/janbednarik
-heroImg: banner-default.jpg
-published: true
 ---
 Jan Bednařík (* 10. března 1986) je členem Republikového výboru Pirátské strany a emeritním předsedou krajského sdružení Olomouckého kraje. Pochází z Olomouce, kde také žije.
 

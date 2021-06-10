@@ -7,7 +7,7 @@ tags:
 - piráti
 - olomoucký-kraj
 author: Josef Indra
-image: articles/2020/2020-12-22-vojtech-pikal-bude-piratskym-lidrem-v-olomouckem-kraji.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-12-22-vojtech-pikal-bude-piratskym-lidrem-v-olomouckem-kraji.jpg  #751x422 pixelu
 ---
 V Olomouckém kraji si Pirátská členská základna zvolila svého lídra pro nadcházející volby do Poslanecké sněmovny v roce 2021. Pirátským lídrem byl zvolen místopředseda Poslanecké sněmovny Vojtěch Pikal, který Piráty v tomto kraji vedl do voleb již v roce 2017. Vojtěch Pikal byl zvolen v prvním kole primárních voleb, kde získal 45 hlasů. 
  

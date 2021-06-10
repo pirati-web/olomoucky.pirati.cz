@@ -6,7 +6,7 @@ date: 2018-02-14
 tags: 
 - olomouc
 author: Olomoucký deník
-image: articles/2018/2018-02-14-cim-vic-jsem-z-olomouce-pryc-tim-vetsi-jsem-patriot-rika-poslanec-pikal.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-02-14-cim-vic-jsem-z-olomouce-pryc-tim-vetsi-jsem-patriot-rika-poslanec-pikal.jpg   #751x422 pixelu
 ---
 *„Žil jsem tady dvacet let a pryč se nechystám. Olomouc je nádherná, má nezaměnitelnou atmosféru,“* říká třicetiletý poslanec za Pirátskou stranu.
 

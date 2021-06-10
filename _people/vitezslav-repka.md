@@ -16,8 +16,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-heroImg: banner-default.jpg
-published: true
 ---
 Mgr. Vítězslav Řepka (* 28. února 1990) je členem Pirátů v MS Olomouc. Vítězslav pochází z obce Bělkovice-Lašťany a od roku 2017 žije v Olomouci.
 

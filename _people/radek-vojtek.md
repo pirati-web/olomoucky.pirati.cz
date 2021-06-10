@@ -17,8 +17,6 @@ profiles:
   twitter:      
   flickr:
 ordmis: 2               
-heroImg: banner-default.jpg
-published: true
 ---
 Radek Vojtek pochází a žije v Brodku u Přerova. Vystudoval Obchodní akademii v Přerově.
 

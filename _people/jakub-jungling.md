@@ -15,8 +15,6 @@ profiles:
   facebook: https://www.facebook.com/jakub.jungling  
   twitter:         
   flickr: 
-heroImg: banner-default.jpg
-published: true
 ---
 Bc. Jakub Jüngling (* 1983) je členem MS Přerov a také přerovským rodákem, dalo by se říci, že s národním cítěním a nutkáním se zde podílet na veřejném a politickém dění. Po studiu angličtiny strávil nějaký čas ve městech jako Brno, Zlín a Praha, aby nakonec vycestoval na do Anglie. Pobýval rok a půl v zapadákově jménem Stoke-on-Trent, kde pracoval jako "International Content Advisor" v sázkovce bet365.
 

@@ -5,7 +5,7 @@ title: Piráti v Majetíně a Brodku finišují s přípravou na komunální vol
 date: 2014-07-07
 tags: pirátská-tvrz
 author: Michal Wagner
-image: articles/2014/2014-07-07-pirati-v-majetine-a-brodku-finisuji-s-pripravou-na-komunalni-volby.jpg   #751x422 pixelu
+image: assets/img/articles/2014/2014-07-07-pirati-v-majetine-a-brodku-finisuji-s-pripravou-na-komunalni-volby.jpg   #751x422 pixelu
 ---
 Piráti se za dobu svého působení na české politické scéně etablovali na stabilní politickou sílu, se kterou je třeba počítat. Komunální volby jsou další šance, jak prosadit pokrokové myšlenky tohoto celosvětového hnutí. Piráti jdou do komunálních voleb v mnoha městech a obcích, většinou však v koalici (např. se Zelenými). Existují však výjimky, kde kandidují samostatně. Jako například v obcích na pomezí olomouckého a přerovského okresu - v Majetíně a v Brodku u Přerova.
 

@@ -6,7 +6,7 @@ date: 2020-02-05
 tags: 
 - přerov
 author: Jaromír Horký
-image: articles/2020/2020-02-05-stripky-z-11-zastupitelstva-mesta-prerova.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-02-05-stripky-z-11-zastupitelstva-mesta-prerova.jpg  #751x422 pixelu
 ---
 
 V pondělí 3. února se poprvé v roce 2020 sešli zastupitelky a zastupitelé města Přerova. Na program se dostalo například velmi diskutované téma odkupu budovy TGM 16, propojení ulic Kopaniny-Lipnická nebo také program regenerace památkové zóny včetně obnovy studny na Horním náměstí, jak jsme v loňském roce navrhli. Přečtěte si krátký souhrn ze zasedání!

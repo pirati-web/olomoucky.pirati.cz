@@ -7,7 +7,7 @@ tags:
 - piráti
 - přerov
 author: Josef Indra
-image: articles/2021/2021-01-25-pirati-dali-impuls-prerovu-byt-bezpecnejsim-mestem.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-01-25-pirati-dali-impuls-prerovu-byt-bezpecnejsim-mestem.jpg  #751x422 pixelu
 ---
 *Přerov, 25.ledna* – **Piráti v Přerově vymysleli jak udělat město Přerov bezpečnějším. Nyní má každý sloup veřejného osvětlení a elektrický rozvaděč své specifické číslo a přístup k těmto datům budou mít také například hasiči, záchranáři nebo městská policie. K propojení těchto dat vybídl krajský zastupitel za Piráty Martin Švadlenka.**
 

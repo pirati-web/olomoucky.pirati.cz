@@ -16,8 +16,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-heroImg: banner-default.jpg
-published: true
 ---
 Jmenuji se David Bajnar. Je mi 40 let, jsem 10 let ženatý.Mám dvě děti. Syn 6 let a dcera 4 roky. Ti jsou největším koníčkem a smyslem života. Další moje koníčky jsou běh a cyklistika. 
 

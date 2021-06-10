@@ -6,7 +6,7 @@ date: 2019-10-14
 tags: 
 - picolo
 author: Mediální odbor
-image: articles/2019/2019-10-14-program-piratskeho-centra-picolo-na-rijen-2019.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-10-14-program-piratskeho-centra-picolo-na-rijen-2019.jpg  #751x422 pixelu
 ---
 Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5, v měsíci říjnu 2019.
 

@@ -6,7 +6,7 @@ date: 2019-10-25
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-10-25-8-zasedani-zastupitelstva-mesta-prerova-uspech-ale-i-mnoha-zklamani.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-10-25-8-zasedani-zastupitelstva-mesta-prerova-uspech-ale-i-mnoha-zklamani.jpg  #751x422 pixelu
 ---
 V pondělí 14. října zasedlo již tradičně v sále Městského domu v Přerově 35 členné zastupitelstvo, byť se zastupitelů sešlo pouze 31. Pokusíme se vám v krátkém přehledu popsat hlavní body programu a naše postoje k nim.
 

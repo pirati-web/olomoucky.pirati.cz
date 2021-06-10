@@ -5,7 +5,7 @@ title: Jak olomoučtí Piráti navštívili demonstraci Dělnické mládeže
 date: 2015-11-02
 tags: olomouc
 author: Martin Šmída
-image: articles/2015/2015-11-02-jak-pirati-navstivili-demonstraci-delnicke-mladeze.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-11-02-jak-pirati-navstivili-demonstraci-delnicke-mladeze.jpg   #751x422 pixelu
 ---
 Česká pirátská strana dne 31.10. 2015 zorganizovala v Olomouci shromáždění v reakci na nahlášenou demonstraci Dělnické mládeže (pohrobka soudem zrušené Dělnické strany pro propagaci nacismu) "proti imigraci a za vystoupení z EU". Důvodem pro naše shromáždění byla snaha ukázat, že ve společnosti je i mírnější názor, kterému lidskost není cizí, který trvá na dodržování Lidských práv a Ženevské úmluvy. Původně recesistická událost byla sdílená prostřednictvím sociálních sítí a přivedla do olomouckých ulic několik desítek lidí, kteří chtěli vyjádřit nesouhlas s veřejnou exhibicí neonacistů spojenou s šířením strachu z imigrantů. Jakkoliv respektujeme právo kohokoliv (ano, dokonce i Tomáše Vandase) hlásat téměř cokoliv, trváme na svém právu vyjádřit nesouhlas a odpor proti čemukoliv (obzvlášť proti Vandasovi). 
 

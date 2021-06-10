@@ -6,7 +6,7 @@ date: 2020-08-05
 tags: 
 - olomoucký-kraj
 author: Martin Morong
-image: articles/2020/2020-08-05-humans-of-pirati-martin-morong-politici-nejsou-nedotknutelni-ke-sve-funkci-musi-mit-pokoru.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-08-05-humans-of-pirati-martin-morong-politici-nejsou-nedotknutelni-ke-sve-funkci-musi-mit-pokoru.jpg  #751x422 pixelu
 ---
 Narodil jsem se v Jeseníku, k němuž mám vřelý vztah. Žije v něm má rodina, mám rád jesenické hory a přírodu a jsem rád, že jsem vyrostl a vystudoval gymnázium právě tam. Byla to možná nejlepší léta mého života. Moje maminka je zdravotní sestra a zdravotnictví mě vždy přitahovalo. Nebyla náhoda, že jsem se později rozhodl pro studium lékařství. Studoval jsem na Univerzitě Karlově a vyzkoušel si tak i život v Praze, ale usadil jsem se v Olomouci, kterou jsem si oblíbil a jsem v ní spokojen. Je velká tak akorát a do rodného Jeseníku to není daleko.
 

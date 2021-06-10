@@ -6,7 +6,7 @@ date: 2020-11-26
 tags: 
 - prostějov
 author: Josef Indra
-image: articles/2020/2020-11-26-v-prostejove-si-mistni-sdruzeni-zvolilo-nove-predsednictvo.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-11-26-v-prostejove-si-mistni-sdruzeni-zvolilo-nove-predsednictvo.jpg  #751x422 pixelu
 ---
 
 **Prostějov, 26.listopad 2020 – Prostějovští Piráti si zvolili nové předsednictvo. Dlouholetý předseda Petr Lysek se rozhodl nekandidovat v těchto volbách na post předsedy místního sdružení. Novým předsedou se tak stal Ondřej Moskal, student hospodářské politiky na Masarykově univerzitě. Prvním místopředsedou byl zvolen Petr Lysek a druhým předsedou se stal Jakub Šmíd.**

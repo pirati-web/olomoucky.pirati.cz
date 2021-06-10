@@ -6,7 +6,7 @@ date: 2021-03-16
 tags: 
 - piráti
 author: Josef Indra
-image: articles/2021/2021-03-16-komentar-jaromira-horkeho-budoucnost-maturity.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-03-16-komentar-jaromira-horkeho-budoucnost-maturity.jpg  #751x422 pixelu
 ---
 Vítáme přístup ministra školství k úpravám konání maturit, který je vstřícný zejména vůči žákům zdravotnických a sociálních oborů. Návrh premiéra Babiše na kompletní zrušení maturitní zkoušky a její nahrazení úřední maturitou považujeme za dané situace za zcestný. 
  

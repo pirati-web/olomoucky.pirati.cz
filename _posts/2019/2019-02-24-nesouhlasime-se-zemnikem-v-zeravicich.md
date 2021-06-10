@@ -6,7 +6,7 @@ date: 2019-02-24
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-02-24-nesouhlasime-se-zemnikem-v-zeravicích.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-02-24-nesouhlasime-se-zemnikem-v-zeravicích.jpg  #751x422 pixelu
 ---
 Přerov, 24. 2. 2019 - Společně pro Přerov a Piráti se staví za obyvatele místní části Žeravice, Čekyně i části Předmostí a nesouhlasí s otevřením zemníku u skládky komunálního odpadu v Žeravicích. Poté, co se po protestech místních zamezilo otevření pískovny v Žeravicích-Lapači se objevuje další těžařský záměr: zemník. Ten by chtěla firma TRIKO s.r.o. otevřít v těsné blízkosti třídírny odpadů a přerovské kompostárny.
 

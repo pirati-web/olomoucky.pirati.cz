@@ -6,7 +6,7 @@ date: 2021-05-26
 tags: 
 - olomouc
 author: Josef Indra
-image: articles/2021/2021-05-26-posledni-sance-urhadit-v-olomouci-poplatky-za-odpad-pozor-na-zmeny.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-05-26-posledni-sance-urhadit-v-olomouci-poplatky-za-odpad-pozor-na-zmeny.jpg  #751x422 pixelu
 ---
 Vzhledem k hackerskému útoku v letošním roce není možné platit poplatek za svoz komunálního odpadu prostřednictvím online formuláře, na nějž si mnoho občanů města už zvyklo. Oznámení je na webu města poněkud skryto, po kliknutí na banner “platba poplatku za komunální odpad” najdete pouze upozornění: *„Elektronický formulář na webových stránkách již není dostupný.”* Platné informace jsou pouze v sekci aktualit. Termín ale zůstává 31. května. Existují nyní dvě možnosti, jak poplatek uhradit:
 

@@ -6,7 +6,7 @@ date: 2018-10-17
 tags: 
 - olomouc
 author: Mediální odbor
-image: articles/2018/2018-10-17-mozne-problemy-koalice-v-olomouci.jpg  #751x422 pixelu
+image: assets/img/articles/2018/2018-10-17-mozne-problemy-koalice-v-olomouci.jpg  #751x422 pixelu
 ---
 Olomouc, 17. 10. 2018 - Míříme do opozice. Povolební vyjednávání bylo završeno. ANO, ODS, KDU-ČSL a SpOLečně podepsali koaliční smlouvu.
 

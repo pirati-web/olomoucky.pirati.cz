@@ -5,7 +5,7 @@ title: Stanovisko k petici Vraťte nám stát!
 date: 2012-05-26
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: articles/2012/2012-05-26-stanovisko-k-petici-vratte-nam-stat.jpg   #751x422 pixelu
+image: assets/img/articles/2012/2012-05-26-stanovisko-k-petici-vratte-nam-stat.jpg   #751x422 pixelu
 ---
 Olomouc, 26.5.2012. Piráti Olomouckého kraje v zájmu veřejné politické diskuze vydávají tímto stanovisko k jednotlivým požadavkům prohlášení "Vraťte nám stát!"
 

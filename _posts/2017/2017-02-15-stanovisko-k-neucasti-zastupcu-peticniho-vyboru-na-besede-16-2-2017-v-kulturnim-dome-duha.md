@@ -5,7 +5,7 @@ title: Stanovisko k neúčasti zástupců petičního výboru na besedě 16.2.20
 date: 2017-02-15
 tags: prostějov
 author: Petr Lysek
-image: articles/2017/2017-02-15-stanovisko-k-neucasti-zastupcu-peticniho-vyboru-na-besede-16-2-2017-v-kulturnim-dome-duha.jpg   #751x422 pixelu
+image: assets/img/articles/2017/2017-02-15-stanovisko-k-neucasti-zastupcu-peticniho-vyboru-na-besede-16-2-2017-v-kulturnim-dome-duha.jpg   #751x422 pixelu
 ---
 Včera jsme obdrželi stanovisko petičního výboru ohledně jejich neúčasti na besedě, které zde zveřejňujeme včetně naší reakce.
 

@@ -15,8 +15,6 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
-heroImg: banner-default.jpg
-published: true
 ---
 Alena Dvořáková(* 26. 12. 1988) pochází a žije se svou rodinou v Lipníku nad Bečvou, kde je místopředsedkyní v MS Hranicko. Vystudovala SŠ Hotelnictví, gastronomie a služeb v Šilheřovicích poté roční studium anglického jazyka. Pět let se věnovala jako asistent prodeje v chovatelských potřebách o živá zvířata. Nyní ji zaměstnavají vlastní potomci.  
 

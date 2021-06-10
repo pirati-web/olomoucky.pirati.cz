@@ -6,7 +6,7 @@ date: 2019-07-01
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-07-01-v-prerove-se-o-vikendu-deti-vydaly-po-stopach-piratskeho-pokladu.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-07-01-v-prerove-se-o-vikendu-deti-vydaly-po-stopach-piratskeho-pokladu.jpg  #751x422 pixelu
 ---
 Přerov, 1. 7. 2019 - Piráti v Přerově se rozhodli zpříjemnit dětem konec školního roku a uspořádali v prostředí místní laguny netradiční dětský den.
 

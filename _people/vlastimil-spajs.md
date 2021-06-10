@@ -15,8 +15,6 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
-heroImg: banner-default.jpg
-published: true
 ---
 Vlastimil Špajs (23.5.1990) narozen v Přerově a stále zde žije. Vyučen jako Optik. Je členem krajského expertního týmu pro oblast sociální a zdravotní. Přibližně ve dvaceti letech začal sledovat politiku. Nikdy neměl politické cíle, ale vývoj v naší zemi ho donutil přemýšlet, jestli přece jen, nemůže aspoň něco málo zlepšit k lepšímu. V roce 2020 se stal 2. místopředsedou MS Přerov.
 

@@ -17,8 +17,6 @@ profiles:
   twitter:        
   flickr:
 ordmis: 6
-heroImg: banner-default.jpg
-published: true
 ---
 PharmDr. Robert Šrejma je 2. místopředseda MS Šumperk. Narodil se roku 1992 v Zábřeze, kde dodnes žije. V Zábřeze také vystudoval všeobecné gymnázium a následně v Hradci Králové Farmaceutickou fakultu Univerzity Karlovy, kde navázal prací na doktorátu. Při studiu na univerzitě byl členem rady kolejí a menz. Po dokončení studia pracoval jako lékárník. Nyní je náplní jeho práce distribuce léčiv.
 

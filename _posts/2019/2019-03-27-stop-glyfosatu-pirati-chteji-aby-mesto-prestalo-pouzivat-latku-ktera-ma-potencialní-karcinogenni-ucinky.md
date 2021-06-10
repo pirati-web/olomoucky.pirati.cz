@@ -6,7 +6,7 @@ date: 2019-03-27
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-03-27-stop-glyfosatu-pirati-chteji-aby-mesto-prestalo-pouzivat-latku-ktera-ma-potencialní-karcinogenni-ucinky.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-03-27-stop-glyfosatu-pirati-chteji-aby-mesto-prestalo-pouzivat-latku-ktera-ma-potencialní-karcinogenni-ucinky.jpg  #751x422 pixelu
 ---
 Přerov, 27. 3. 2019 - Glyfosát spolehlivě hubí plevel a vysouší rostliny před sklizní. Vzhledem k jeho nadměrnému užívání však můžeme jeho přítomnost měřit v jídle, které jíme, ve vodě, kterou pijeme, i v našem těle samotném. Tato látka má potenciální rakovinotvorné účinky. Americký soud jej dokonce 21. března 2019 za rakovinotvorný označil.  Piráti v Přerově (v koalici Společně pro Přerov a Piráti) proto chtějí nahradit používání tohoto prostředku městem jinými technologiemi. 
 

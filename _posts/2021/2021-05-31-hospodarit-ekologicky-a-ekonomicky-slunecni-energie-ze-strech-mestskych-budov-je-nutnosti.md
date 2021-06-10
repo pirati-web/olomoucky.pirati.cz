@@ -6,7 +6,7 @@ date: 2021-05-31
 tags: 
 - prostějov
 author: Ondřej Moskal
-image: articles/2021/2021-05-31-hospodarit-ekologicky-a-ekonomicky-slunecni-energie-ze-strech-mestskych-budov-je-nutnosti.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-05-31-hospodarit-ekologicky-a-ekonomicky-slunecni-energie-ze-strech-mestskych-budov-je-nutnosti.jpg  #751x422 pixelu
 ---
 Pirátský zastupitel Petr Lysek se tázal vedení města, zda má město zpracovanou koncepci na realizaci fotovoltaických panelů a případné vytipované objekty. Odpověď byla následující: *„Energetička magistrátu města Prostějov ve spolupráci s odd. rozvoje pracují v rámci tvorby Nového strategického plánu a s tím související priorizací přípravy projektů  Město Prostějov s následujícím seznamem objektů pro případnou instalaci fotovoltaické elektrárny: DDM Vápenice – akce byla zařazena do návrhu rozpočtu pro rok 2021, ta ovšem nebyla schválena, ačkoliv je stavba po všech stránkách vhodná pro realizaci FVE.“*
 

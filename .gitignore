@@ -1,8 +1,11 @@
 _site
-.sass-cache
+_podklady/html/pirati.cz/
+
+.sass-cache/
 .jekyll-metadata
-.jekyll-cache
-.bundle
-vendor
+
 Gemfile.lock
-.DS_Store
+desktop.ini
+
+node_modules
+bower_components

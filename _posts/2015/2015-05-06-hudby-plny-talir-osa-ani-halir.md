@@ -5,7 +5,7 @@ title: Hudby plný talíř, OSA ani halíř
 date: 2015-05-06
 tags: pirátská-tvrz
 author: Martin Šmída
-image: articles/2015/2015-05-06-hudby-plny-talir-osa-ani-halir.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-05-06-hudby-plny-talir-osa-ani-halir.jpg   #751x422 pixelu
 ---
 Už několik let po celé republice probíhají festivaly svobodné hudby pod značkou VyOsení. Piráti tak dokazují, že udělat hudební festival bez poplatků OSA je možné.
 

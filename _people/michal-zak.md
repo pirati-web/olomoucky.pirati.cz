@@ -16,8 +16,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-heroImg: banner-default.jpg
-published: true
 ---
 Michal Žák (* 2. 6. 1989) je členem Pirátů v MS Olomouc. Do strany přišel kvůli jeho zájmu o politické dění a sympatiím ke stranickému programu. 
 

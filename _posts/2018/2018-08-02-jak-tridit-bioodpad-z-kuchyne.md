@@ -6,7 +6,7 @@ date: 2018-08-02
 tags: 
 - pirátská-tvrz
 author: Martin Šmída
-image: articles/2018/2018-08-02-jak-tridit-bioodpad-z-kuchyne.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-08-02-jak-tridit-bioodpad-z-kuchyne.jpg   #751x422 pixelu
 ---
 Ze zkušeností víme, že ve směsném komunálním odpadu bývá až polovina bio-složky. Jedná se zpravidla o bioodpad z kuchyně. Přitom jakýkoli odpad rostlinného původu se může vyseparovat a buď rovnou kompostovat v domácím kompostu nebo se může pomocí svozu hnědých popelnic předat profesionálním kompostárnám.
 

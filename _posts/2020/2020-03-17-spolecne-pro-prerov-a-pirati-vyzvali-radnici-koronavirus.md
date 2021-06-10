@@ -6,7 +6,7 @@ date: 2020-03-17
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2020/2020-03-17-spolecne-pro-prerov-a-pirati-vyzvali-radnici-koronavirus.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-03-17-spolecne-pro-prerov-a-pirati-vyzvali-radnici-koronavirus.jpg  #751x422 pixelu
 ---
 Přerov, 17. března 2020 - Společně pro Přerov a Piráti vyzvali vedení města, aby přijalo přísnější opatření proti šíření koronaviru a konalo preventivně. Zároveň také vyzvali vedení města, aby šlo občanům příkladem.
 

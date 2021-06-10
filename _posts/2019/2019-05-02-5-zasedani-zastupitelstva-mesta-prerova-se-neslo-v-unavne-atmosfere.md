@@ -6,7 +6,7 @@ date: 2019-05-02
 tags: 
 - přerov
 author: Mediální odbor
-image: articles/2019/2019-05-02-5-zasedani-zastupitelstva-mesta-prerova-se-neslo-v-unavne-atmosfere.jpg  #751x422 pixelu
+image: assets/img/articles/2019/2019-05-02-5-zasedani-zastupitelstva-mesta-prerova-se-neslo-v-unavne-atmosfere.jpg  #751x422 pixelu
 ---
 Přerov, 2. 5. 2019 - V úterý 30. dubna v městském sále Městského domu zasedlo Zastupitelstvo města Přerova. Na programu bylo kromě námi iniciovaného zákazu glyfosátu a vzniku pracovní skupiny pro participativní rozpočet bylo také schvalování záměru odkupu budov na náměstí T.G. Masaryka. Níže vám přinášíme naše krátké zhodnocení celého zasedání.
 

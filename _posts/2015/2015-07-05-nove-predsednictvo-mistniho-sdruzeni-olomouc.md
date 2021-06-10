@@ -5,7 +5,7 @@ title: Nové předsednictvo místního sdružení Olomouc
 date: 2015-07-05
 tags: olomouc
 author: Miloš Zmeškal
-image: articles/2015/2015-07-05-nove-predsednictvo-mistniho-sdruzeni-olomouc.jpg   #751x422 pixelu
+image: assets/img/articles/2015/2015-07-05-nove-predsednictvo-mistniho-sdruzeni-olomouc.jpg   #751x422 pixelu
 ---
 Po rezignaci předsedy bylo zvoleno nové předsednictvo MS Olomouc v tomto složení:
 

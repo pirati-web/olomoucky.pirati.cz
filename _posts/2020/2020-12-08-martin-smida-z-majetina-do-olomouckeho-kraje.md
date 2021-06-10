@@ -6,7 +6,7 @@ date: 2020-12-08
 tags: 
 - pirátská-tvrz
 author: Martin Šmída
-image: articles/2020/2020-12-08-martin-smida-z-majetina-do-olomouckeho-kraje.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-12-08-martin-smida-z-majetina-do-olomouckeho-kraje.jpg  #751x422 pixelu
 ---
 Vážení občané Majetína, v první řadě cítím povinnost poděkovat za Vaši důvěru v krajských volbách. I díky Vám jsem byl zvolen zastupitelem Olomouckého kraje.
 

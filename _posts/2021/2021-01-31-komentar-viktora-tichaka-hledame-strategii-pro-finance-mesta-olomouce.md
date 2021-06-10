@@ -7,7 +7,7 @@ tags:
 - piráti
 - olomouc
 author: Josef Indra
-image: articles/2021/2021-01-31-komentar-viktora-tichaka-hledame-strategii-pro-finance-mesta-olomouce.jpg  #751x422 pixelu
+image: assets/img/articles/2021/2021-01-31-komentar-viktora-tichaka-hledame-strategii-pro-finance-mesta-olomouce.jpg  #751x422 pixelu
 ---
 **Na 22. února jsem jakožto předseda svolal jednání Finančního výboru Zastupitelstva města Olomouce, a to i přesto, že na obzoru nyní není zasedání zastupitelstva, k jehož bodům by se měl výbor vyjadřovat. Zastupitelstvo se sejde až na začátku března. Rolí finančního výboru je však průběžná kontrola hospodaření města a neméně důležitou rolí také otevírání důležitých témat, která by vedla k podstatným změnám. Jen na základě velkých změn je možné dostat Olomouc pryč z červených čísel.**
 

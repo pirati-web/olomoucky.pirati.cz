@@ -16,8 +16,6 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
-heroImg: banner-default.jpg
-published: true
 ---
 Ing. Vlastimil Bednařík (* 10. 9. 1959) je členem Pirátů od března 2018. Narodil se v Olomouci, kde stále žije. Rozvedený, 3 děti.
 

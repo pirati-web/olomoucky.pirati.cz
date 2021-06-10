@@ -15,8 +15,6 @@ profiles:
   facebook:       
   twitter:        
   flickr: 
-heroImg: banner-default.jpg
-published: true
 ---
 
 Jaroslav pochází z Mohelnice, více jak 20 let žije v Přerově, kde je také členem MS. Je ženatý a má dvě děti.

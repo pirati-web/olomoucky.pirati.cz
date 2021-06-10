@@ -6,7 +6,7 @@ date: 2020-01-21
 tags: 
 - picolo
 author: Jan Dvořák
-image: articles/2020/2020-01-21-program-piratskeho-centra-picolo-na-unor-2020.jpg  #751x422 pixelu
+image: assets/img/articles/2020/2020-01-21-program-piratskeho-centra-picolo-na-unor-2020.jpg  #751x422 pixelu
 ---
 Přinášíme pravidelný přehled akcí konaných v pirátském centru Picolo v Olomouci, na ulici 8. května 5, v měsíci únoru 2020.
 

@@ -6,7 +6,7 @@ date: 2018-03-24
 tags: 
 - picolo
 author: Tomáš Svoboda
-image: articles/2018/2018-03-24-slavnostni-otevreni-piratskeho-centra-poslanecke-kancelare-diskuze-o-ustave-a-afterparty.jpg   #751x422 pixelu
+image: assets/img/articles/2018/2018-03-24-slavnostni-otevreni-piratskeho-centra-poslanecke-kancelare-diskuze-o-ustave-a-afterparty.jpg   #751x422 pixelu
 ---
 První den po Velikonocích, v úterý 3.4.2018 se uskuteční na ulici 8. května v Olomouci slavnostní otevření poslanecké kanceláře Bc. Vojtěch Pikala, poslance za Českou pirátskou stranu a současně místopředsedy Poslanecké sněmovny ČR. 
 
