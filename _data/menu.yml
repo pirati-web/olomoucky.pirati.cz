@@ -19,12 +19,13 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
+  - link: /picolo/
+    name: Pirátské centrum
+    match: picolo    
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
-  - link: /piratske-centrum/
-    name: Pirátské centrum
-    match: piratske-centrum
+
   - link: /kontakt/
     name: Kontakty
     match: kontakt
