@@ -15,6 +15,8 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
+heroImg: banner-default.jpg
+published: true
 ---
 Marika Řehová (* 19. července 1988) je členkou KS Olomouckého kraje a MS Olomouc. Narodila se a převážnou část života prožila v Ostravě, kde studovala SOŠ strojírenskou a SOŠ zdravotnickou. Nyní žije v Olomouci a pracuje v nemocnici na oddělení JIP, v současné době je na mateřské dovolené. Je maminkou dvou synů, z nichž jeden trpí poruchou autistického spektra. 
 

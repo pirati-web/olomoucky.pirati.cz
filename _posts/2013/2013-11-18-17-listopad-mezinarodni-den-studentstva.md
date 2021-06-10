@@ -5,7 +5,7 @@ title: 17.listopad - Mezinárodní den studentstva
 date: 2013-11-18
 tags: olomouc
 author: Roman Kümmel
-image: assets/img/articles/2013/2013-11-18-17-listopad-mezinarodni-den-studentstva.jpg   #751x422 pixelu
+image: articles/2013/2013-11-18-17-listopad-mezinarodni-den-studentstva.jpg   #751x422 pixelu
 ---
 V neděli 17.listopadu jsme si připomněli celosvětově významný [Mezinárodní den studenstva](https://cs.wikipedia.org/wiki/Mezin%C3%A1rodn%C3%AD_den_studentstva)  a [Den boje za svobodu a demokracii](http://cs.wikipedia.org/wiki/Den_boje_za_svobodu_a_demokracii).
 

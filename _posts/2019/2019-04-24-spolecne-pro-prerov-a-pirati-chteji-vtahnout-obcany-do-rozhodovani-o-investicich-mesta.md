@@ -6,7 +6,7 @@ date: 2019-04-24
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2019/2019-04-24-spolecne-pro-prerov-a-pirati-chteji-vtahnout-obcany-do-rozhodovani-o-investicich-mesta.jpg  #751x422 pixelu
+image: articles/2019/2019-04-24-spolecne-pro-prerov-a-pirati-chteji-vtahnout-obcany-do-rozhodovani-o-investicich-mesta.jpg  #751x422 pixelu
 ---
 Přerov, 24. 4. 2019 - Přitáhnout občany zpět k zájmu o své město, možnost navrhovat a rozhodovat o projektech ve svém okolí a přiblížit město občanům. K tomu má sloužit participativní rozpočet, který Společně pro Přerov a Piráti navrhují.
 

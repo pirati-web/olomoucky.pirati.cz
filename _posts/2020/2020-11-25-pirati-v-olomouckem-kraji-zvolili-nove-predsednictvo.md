@@ -7,7 +7,7 @@ tags:
 - piráti
 - olomoucký-kraj
 author: Josef Indra
-image: assets/img/articles/2020/2020-11-25-pirati-v-olomouckem-kraji-si-zvolili-nove-predsednictvo.jpg  #751x422 pixelu
+image: articles/2020/2020-11-25-pirati-v-olomouckem-kraji-si-zvolili-nove-predsednictvo.jpg  #751x422 pixelu
 redirect_from:
   - /tiskove-zpravy/v-olomouckem-kraji-zvolili-nove-predsednictvo.html
 ---

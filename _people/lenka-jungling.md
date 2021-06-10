@@ -16,6 +16,8 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
+heroImg: banner-default.jpg
+published: true
 ---
 Ing. Lenka Jüngling (* 1989) je členkou MS Přerov a také přerovskou rodačkou. Vždy prohlašovala, že až se jednou usadí, zapojí se do politiky. Tomu předcházela studia, bydlení a brigády v zahraničí.
 

@@ -1,95 +1,183 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
+# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
+# technické nastavení
+#
 
-# Site settings
-title: Piráti Olomoucký kraj
-email: olomouckykraj@pirati.cz
-description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+title: Piráti - Olomoucký kraj # To co je napsané na tabu ve kterém je stránka.
+email: olomoucky@pirati.cz
+description: >-
+  Česká pirátská strana - Krajské sdružení Olomoucký kraj
+# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+keywords: krajské sdružení, olomoucký, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
 
-administrator:
-  email: honza.dvorak@pirati.cz # mail kam pujdou chybove vystupy
+mediaStorage: olomoucky
 
+administrator:
+  email: jan.suchanek@gmail.com, honza.dvorak@pirati.cz
+
+organization:
+  name: Piráti - Olomoucký kraj
+  shortName: Piráti - Olomoucký kraj
+  email: olomoucky@pirati.cz
+  phone: +420 778 111 488
+  address: |
+    Na Moráni 360/3
+    120 00 Praha 2
+  residenceImg: https://a.pirati.cz/olomoucky/img/pice-mapa.png
+  mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
+  redmineLink: https://redmine.pirati.cz/projects/olomoucky
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  #- type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+#  - type: piratiRootWebsite
+#  - type: custom
+    #iconClass: fa fa-envelope
+    #label: Vlastní řádek tabulky
+    #body: <a href="http://example.com">link</a>
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Krajský kalendář
+  id: har1dmou53l37fbr4lci4prbhc@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=0014epo7k8kbgpgq3gaudeodnc%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
+
+facebook:
+  loadSDK: true
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: https://www.facebook.com/piratiOlomoucko/
+  profilePageName: Piráti - Olomoucký kraj
+  #appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: pirati_sck
+
+instagram:
+  #profilePage: https://www.instagram.com/pirati.cz/
+
+gplus:
+  #profilePage: https://plus.google.com/u/0/+piratskastrana
+
+flicker:
+  #profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/olomoucky-kraj-f276/
+
+github:
+  url: https://github.com/pirati-web/olomoucky.pirati.cz/
+  branch: master
+
+youtube:
+  channel: UCID4m0gBoaG5sFmQ5l-iRBQ
+
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
 # Build settings
 markdown: kramdown
-
-gems:
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
+  - jekyll-environment-variables
   - jekyll-redirect-from
-paginate_path: "aktuality/:num/"
+paginate_path: "/aktuality/:num/"
 paginate: 11
-
-timezone: Europe/Prague
 
 exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - bower.json
-  - gulpfile.js
-  - node_modules
-  - bower_components
   - vendor
+  - TODO.txt
 
-sass:
-    style: compressed
-
-permalink: /tiskove-zpravy/:title.html
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
+
   program:
-    output: false
-    permalink: /program/:path/
-  teams:
     output: true
-    permalink: /mistni-sdruzeni/:title/
-  elections:
+    permalink: /program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
     output: false
-    permalink: /volby/:path/
 
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
-      layout: "page"
-      rbar: "people, foto"
+      layout: "person"
+      rbar:
+        - profile
+        - people
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "program"
-  -
-    scope:
-      path: "_program/psp2017"
-    values:
-      layout: "page"
-      rbar: "program program_item"
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
-  -
-    scope:
-      path: "_elections"
-    values:
-      layout: "kandidatka"
-
-calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=0014epo7k8kbgpgq3gaudeodnc%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
-fb: https://www.facebook.com/piratiOlomoucko/
-tw: piratiOlomoucko
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 emptyArray: []
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

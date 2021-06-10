@@ -6,7 +6,7 @@ date: 2018-08-15
 tags: 
 - přerov
 author: Pepa Zgola
-image: assets/img/articles/2018/2018-08-15-proc-by-mesto-prerov-melo-pouzivat-svobodny-software.jpg  #751x422 pixelu
+image: articles/2018/2018-08-15-proc-by-mesto-prerov-melo-pouzivat-svobodny-software.jpg  #751x422 pixelu
 ---
 V pirátském volebním programu najdeme mnoho míst, v nichž se píše o nutnosti využívat ve větší míře tzv. svobodný software ve státní správě a samosprávě. Co je tedy svobodný software a jak může pozitivně ovlivnit softwarovou nesvobodu našeho města?
 

@@ -6,7 +6,7 @@ date: 2018-09-11
 tags: 
 - pirátská-tvrz
 author: Mediální odbor
-image: assets/img/articles/2018/2018-09-11-program-ceske-piratske-strany-do-komunalnich-voleb-v-brodku-u-prerova.jpg  #751x422 pixelu
+image: articles/2018/2018-09-11-program-ceske-piratske-strany-do-komunalnich-voleb-v-brodku-u-prerova.jpg  #751x422 pixelu
 ---
 
 Také v Brodku u Přerova mají Piráti svoji kandidátku pro komunální volby. Jaký je jejich volební program? To se dozvíte na následujících řádcích.

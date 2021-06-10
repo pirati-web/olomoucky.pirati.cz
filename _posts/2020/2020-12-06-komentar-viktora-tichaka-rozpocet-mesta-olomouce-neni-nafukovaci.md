@@ -6,7 +6,7 @@ date: 2020-12-06
 tags: 
 - olomouc
 author: Viktor Tichák
-image: assets/img/articles/2020/2020-12-06-komentar-viktora-tichaka-rozpocet-mesta-olomouce-neni-nafukovaci.jpg  #751x422 pixelu
+image: articles/2020/2020-12-06-komentar-viktora-tichaka-rozpocet-mesta-olomouce-neni-nafukovaci.jpg  #751x422 pixelu
 redirect_from:
   - /tiskove-zpravy/komentar-vitkora-tichaka-rozpocet-mesta-olomouce-neni-nafukovaci.html
 ---

@@ -6,7 +6,7 @@ date: 2021-04-29
 tags: 
 - olomouc
 author: Josef Indra
-image: assets/img/articles/2021/2021-04-29-komentar-viktora-tichaka-proc-si-menit-trvale-bydliste.jpg  #751x422 pixelu
+image: articles/2021/2021-04-29-komentar-viktora-tichaka-proc-si-menit-trvale-bydliste.jpg  #751x422 pixelu
 ---
 Když jste se stěhovali, byla úřední změna místa vašeho trvalého pobytu první věc, kterou jste udělali? Proč ano? Proč ne?
 

@@ -16,6 +16,8 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
+heroImg: banner-default.jpg
+published: true
 ---
 Bc. Martin Adámek. Vystudoval jsem střední odbornou školu dopravy a cestovního ruchu obor letecká doprava v Krnově. Následně pak vysokou školu Logistiky v Přerově. 
 

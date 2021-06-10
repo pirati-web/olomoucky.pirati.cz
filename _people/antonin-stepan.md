@@ -14,6 +14,8 @@ profiles:
   facebook:
   twitter:      
   flickr:
+heroImg: banner-default.jpg
+published: true
 ---
 Antonín Štěpán (* 5. března 1988) je členem České pirátské strany od února 2018. Od května 2018 působil do listopadu 2020 jako vedoucí krajského mediálního odboru.
 

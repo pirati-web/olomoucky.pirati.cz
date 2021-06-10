@@ -5,7 +5,7 @@ title: Program a kandidáti Pirátů v Majetíně
 date: 2014-09-07
 tags: pirátská-tvrz
 author: Martin Šmída
-image: assets/img/articles/2014/2014-09-07-program-a-kandidati-piratu-v-majetine.jpg   #751x422 pixelu
+image: articles/2014/2014-09-07-program-a-kandidati-piratu-v-majetine.jpg   #751x422 pixelu
 ---
 V Brodku u Přerova a v sousedním Majetíně jsme sestavili samostatné Pirátské kandidátky. Zatímco v Majetíně Piráti uspěli, získali pře 11 % hlasů a mají jednoho zastupitele z devíti, v Brodku zůstali těsně pod hranicí, když získali 4,7 %.
 

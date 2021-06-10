@@ -6,7 +6,7 @@ date: 2021-06-04
 tags: 
 - olomoucky-kraj
 author: Josef Indra
-image: assets/img/articles/2021/2021-06-04-komentar-jaromira-horkeho-krome-rozvoje-tela-potrebuje-nakopnout-i-nas-duch-kultura-je-tim-pravym-impulsem.jpg  #751x422 pixelu
+image: articles/2021/2021-06-04-komentar-jaromira-horkeho-krome-rozvoje-tela-potrebuje-nakopnout-i-nas-duch-kultura-je-tim-pravym-impulsem.jpg  #751x422 pixelu
 ---
 Jsem nesmírně rád, že už konečně se může člověk podívat do divadla, zajít do restaurace či prohlídku hradu. Všechno má však svá omezení v podobě testů a bohužel jen do restaurace a služeb otevřených v minulé vlně stačí ten, který si člověk může udělat sám. Dalším problémem je otevření některých služeb jako diskotéky a kluby, kde se hovoří o tom, že jejich provoz byl obnoven za účelem neproplácet provozovatelům kompenzace.  
 

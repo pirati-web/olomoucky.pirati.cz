@@ -6,7 +6,7 @@ date: 2021-05-31
 tags: 
 - přerov
 author: Josef Indra
-image: assets/img/articles/2021/2021-05-31-prerov-diky-navrhu-spolecne-pro-prerov-a-piratu-podpori-cesky-rybarsky-svaz.jpg  #751x422 pixelu
+image: articles/2021/2021-05-31-prerov-diky-navrhu-spolecne-pro-prerov-a-piratu-podpori-cesky-rybarsky-svaz.jpg  #751x422 pixelu
 ---
 Na dubnovém zastupitelstvu města Přerova navrhl opoziční lídr Jan Horký za koalici Společně pro Přerov a Pirátů poskytnout dotaci pro Český rybářský svaz ve výši 100 000 Kč na částečnou likvidaci škod po ekologické havárii v řece Bečvě. Nyní rada města odsouhlasila detaily a rybářům dotace pomůže k financování jejich činnosti v tomto roce.
 

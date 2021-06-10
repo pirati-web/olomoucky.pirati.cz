@@ -5,7 +5,7 @@ title: Olomoucký kraj hlásí plné pokrytí
 date: 2014-09-07
 tags: olomoucký-kraj
 author: Martin Šmída
-image: assets/img/articles/2014/2014-09-07-olomoucky-kraj-hlasi-plne-pokryti.jpg   #751x422 pixelu
+image: articles/2014/2014-09-07-olomoucky-kraj-hlasi-plne-pokryti.jpg   #751x422 pixelu
 ---
 Piráti fungují otevřeně, demokraticky a decentralizovaně. Díky tomu oživujeme aktivity ve všech koutech republiky. Dlouho opomíjený region Jesenicko nyní bude obstarávat nově založené místní sdružení - v Olomouckém kraji už páté.
 

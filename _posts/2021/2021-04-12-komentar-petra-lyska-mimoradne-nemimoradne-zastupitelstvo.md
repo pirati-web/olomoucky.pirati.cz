@@ -6,7 +6,7 @@ date: 2021-04-12
 tags: 
 - prostějov
 author: Josef Indra
-image: assets/img/articles/2021/2021-04-12-komentar-petra-lyska-mimoradne-nemimoradne-zastupitelstvo.jpg  #751x422 pixelu
+image: articles/2021/2021-04-12-komentar-petra-lyska-mimoradne-nemimoradne-zastupitelstvo.jpg  #751x422 pixelu
 ---
 Protože je prý nejlepší mít zastupitelstva ve dvouměsíční periodě, jsou oblíbené tzv. mimořádná zastupitelstva. Navodí se dojem neodkladné důležitosti a vloží se narychlo termín mezi ty plánované. Proč ne, má to vždy tak trochu nádech tajemna – co bude tak neodkladně důležitého. A bylo. 
 

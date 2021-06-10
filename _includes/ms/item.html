@@ -1,0 +1,23 @@
+<article class="card card--hoveractive">
+  <div class="article-card-cover">
+    <a href="{{include.link}}">{% asset {{include.img}} alt={{include.name}} %}</a>
+  </div>
+  <div class="card__body p-8">
+    <a href="{{include.link}}">
+      <h1 class="card-headline mb-2">
+        {{include.name}}
+      </h1>
+    </a>
+    <div class="content-block">
+      <ul>
+        <li>Působnost: {{ include.area }}</li>
+        {% assign person = site.people | where_exp:"item","item.uid contains include.president" | first %}
+        {% if person %}
+          <li>Předseda: <a href={{person.url}}> {{person.name}}</a> </li>
+        {% else %}
+          <li>Předseda: {{include.president}} </li>
+        {% endif %}
+      </ul>
+    </div>
+
+<p class="card-body-text"></p></div></article>

@@ -7,7 +7,7 @@ tags:
 - olomouc
 - olomoucký-kraj
 author: Jaromír Horký
-image: assets/img/articles/2020/2020-07-20-vedeckou-knihovnu-ceka-skrtani-pracovnich-pozic.jpg  #751x422 pixelu
+image: articles/2020/2020-07-20-vedeckou-knihovnu-ceka-skrtani-pracovnich-pozic.jpg  #751x422 pixelu
 ---
 
 **Ve VKOL nyní vládne pochmurná nálada, často na hranici zoufalství. Stejně jako jiné oblasti, i knihovny byly v průběhu koronavirové pandemie vystaveny těžkým zkouškám. Tato zkouška má však VKOL stát 10 pracovních pozic, přitom místa, kde by VKOL mohla ušetřit se dají najít snadno.**

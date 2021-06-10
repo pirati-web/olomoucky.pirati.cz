@@ -5,7 +5,7 @@ title: Ivan Bartoš a eurokampaň v Olomouckém kraji
 date: 2014-05-06
 tags: olomoucký-kraj
 author: Vojtěch Pikal
-image: assets/img/articles/2014/2014-05-06-ivan-bartos-a-eurokampan-v-olomouckem-kraji.jpg   #751x422 pixelu
+image: articles/2014/2014-05-06-ivan-bartos-a-eurokampan-v-olomouckem-kraji.jpg   #751x422 pixelu
 ---
 S blížícími se volbami do evropského parlamentu vrcholí také příprava pirátské volební kampaně. V ulicích je každý den mnoho našich dobrovolníků, kteří vylepují plakáty, rozdávají informační letáky a seznamují občany našeho kraje s pirátskými cíli.
 

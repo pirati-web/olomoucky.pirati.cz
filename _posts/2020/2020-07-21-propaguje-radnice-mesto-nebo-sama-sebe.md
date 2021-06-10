@@ -6,7 +6,7 @@ date: 2020-07-21
 tags: 
 - prostějov
 author: Dominik Voráč
-image: assets/img/articles/2020/2020-07-21-propaguje-radnice-mesto-nebo-sama-sebe.jpg  #751x422 pixelu
+image: articles/2020/2020-07-21-propaguje-radnice-mesto-nebo-sama-sebe.jpg  #751x422 pixelu
 ---
 Sociální sítě využívají kromě běžných uživatelů i různé firmy, podnikatelé či veřejně známé osobnosti. Důvod je prostý – poskytují totiž možná co nejlepší způsob propagace, a to většinou s minimálními  výdaji. Nesmíme však zapomínat, že sociální sítě využívají nejen tyto subjekty, ale například i města. V tomto případě by takový profil měl primárně plnit funkci informační, tedy informovat občany o dění v daném městě. Funkce propagační je však neméně důležitá, zvláště pro Prostějov. Z jakých důvodů?
 

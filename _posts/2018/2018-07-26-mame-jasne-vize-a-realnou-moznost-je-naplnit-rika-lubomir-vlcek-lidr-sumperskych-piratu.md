@@ -6,7 +6,7 @@ date: 2018-07-26
 tags: 
 - šumpersko
 author: Mediální odbor
-image: assets/img/articles/2018/2018-07-26-mame-jasne-vize-a-realnou-moznost-je-naplnit-rika-lubomir-vlcek-lidr-sumperskych-piratu.jpg   #751x422 pixelu
+image: articles/2018/2018-07-26-mame-jasne-vize-a-realnou-moznost-je-naplnit-rika-lubomir-vlcek-lidr-sumperskych-piratu.jpg   #751x422 pixelu
 ---
 Lubomír Vlček vstupuje do komunální politiky v Šumperku jako volební lídr a předseda šumperských Pirátů. V rozhovoru se rozpovídal například o motivaci vstoupit do politiky nebo o cílech Pirátů v Šumperku pro nadcházející volby. 
 

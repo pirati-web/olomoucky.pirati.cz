@@ -5,7 +5,7 @@ title: Piráti dělají pořádek nejen v politice, ale i v přírodě.
 date: 2014-03-07
 tags: pirátská-tvrz
 author: Michal Wagner
-image: assets/img/articles/2014/2014-03-07-pirati-delaji-poradek-nejen-v-politice-ale-i-v-prirode.jpg   #751x422 pixelu
+image: articles/2014/2014-03-07-pirati-delaji-poradek-nejen-v-politice-ale-i-v-prirode.jpg   #751x422 pixelu
 ---
 Členové Pirátů a jejich registrovaní příznivci, sympatizanti či ostatní aktivisté a občané se zapojí do celostátní úklidové akce "Ukliďme Česko".
 

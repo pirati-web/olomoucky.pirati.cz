@@ -1,9 +1,0 @@
-<header>
-  <h1 itemprop="headline" class="head-alt-md md:head-alt-lg max-w-5xl mb-8">{{ include.headline }}</h1>
-</header>
-
-{% if include.content %}
-  <div class="{{ include.contentClass | default: page.contentClass | default: layout.contentClass }}" itemprop="description">
-    {{ include.content }}
-  </div>
-{% endif %}

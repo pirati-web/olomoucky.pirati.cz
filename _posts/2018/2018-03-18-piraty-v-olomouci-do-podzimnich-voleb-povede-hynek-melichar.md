@@ -6,7 +6,7 @@ date: 2018-03-18
 tags: 
 - olomouc
 author: Tomáš Svoboda
-image: assets/img/articles/2018/2018-03-18-piraty-v-olomouci-do-podzimnich-voleb-povede-hynek-melichar.jpg   #751x422 pixelu
+image: articles/2018/2018-03-18-piraty-v-olomouci-do-podzimnich-voleb-povede-hynek-melichar.jpg   #751x422 pixelu
 ---
 Na svém čtvrtečním zasedání si Olomoučtí Piráti zvolili lídra své kandidátky, který povede Piráty k úspěchu v podzimních komunálních volbách. Svého protikandidáta Jakuba Knápka porazil ve druhém kole poměrem hlasů devět ku dvěma. 
 

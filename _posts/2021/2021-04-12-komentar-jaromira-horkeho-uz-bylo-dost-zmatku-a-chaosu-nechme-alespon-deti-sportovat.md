@@ -6,7 +6,7 @@ date: 2021-04-12
 tags: 
 - piráti
 author: Josef Indra
-image: assets/img/articles/2021/2021-04-12-komentar-jaromira-horkeho-uz-bylo-dost-zmatku-a-chaosu-nechme-alespon-deti-sportovat.jpg  #751x422 pixelu
+image: articles/2021/2021-04-12-komentar-jaromira-horkeho-uz-bylo-dost-zmatku-a-chaosu-nechme-alespon-deti-sportovat.jpg  #751x422 pixelu
 ---
 
 Na výměnu ministrů zdravotnictví podle ročního období má pan premiér plné právo. Na vytváření všeobecného chaosu ne. Narážím na naprosto nezvládnutou komunikaci dnešního rozvolňování, které záměrně není nazýváno jako rozvolňování. 

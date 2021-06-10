@@ -7,7 +7,7 @@ tags:
 - piráti
 - olomouc
 author: Josef Indra
-image: assets/img/articles/2021/2021-02-24-rozhovor-s-doktorem-martinem-morongem-o-ockovani.jpg  #751x422 pixelu
+image: articles/2021/2021-02-24-rozhovor-s-doktorem-martinem-morongem-o-ockovani.jpg  #751x422 pixelu
 ---
 **Připravili jsme pro vás rozhovor s lékařem Fakultní nemocnice v Olomouci a krajským zastupitelem Martinem Morongem, který odpovídá na otázky zabývající se očkováním v Olomouckém kraji.**
 

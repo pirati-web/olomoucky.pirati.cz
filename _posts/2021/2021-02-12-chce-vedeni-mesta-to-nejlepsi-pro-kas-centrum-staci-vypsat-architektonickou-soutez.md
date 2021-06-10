@@ -7,7 +7,7 @@ tags:
 - piráti
 - prostějov
 author: Petr Lysek a Ondřej Moskal
-image: assets/img/articles/2021/2021-02-12-chce-vedeni-mesta-to-nejlepsi-pro-kas-centrum-staci-vypsat-architektonickou-soutez.jpg  #751x422 pixelu
+image: articles/2021/2021-02-12-chce-vedeni-mesta-to-nejlepsi-pro-kas-centrum-staci-vypsat-architektonickou-soutez.jpg  #751x422 pixelu
 ---
 **Dlouholetá otázka, co se stane s KASC, bude co nevidět zodpovězena. Poté, co byl vyřešen problém s případnou likvidací objektu, nás čeká neméně důležité rozhodnutí. Jak naložíme s objektem? Jeho zachování si přála naprostá většina obyvatel Prostějova.**
 

@@ -6,7 +6,7 @@ date: 2019-10-14
 tags: 
 - přerov
 author: Mediální odbor
-image: assets/img/articles/2019/2019-10-14-diky-zastupiteli-zdenku-schenkovi-bude-v-prerove-na-hornim-namesti-obnovena-studna.jpg  #751x422 pixelu
+image: articles/2019/2019-10-14-diky-zastupiteli-zdenku-schenkovi-bude-v-prerove-na-hornim-namesti-obnovena-studna.jpg  #751x422 pixelu
 ---
 Přerov, 14. 10. 2019 - Archeologové na počátku dubna zahájili archeologický výzkum v prostoru mezi starými lípami na Horním náměstí v Přerově, kde se v minulosti nacházela studna. Ta bude díky návrhu Zdeňka Schenka z klubu Společně pro Přerov a Pirátů obnovena a stane se tak zajímavostí Horního náměstí.
 

@@ -6,7 +6,7 @@ date: 2020-05-06
 tags: 
 - pirátská-tvrz
 author: Radek Vojtek
-image: assets/img/articles/2020/2020-05-06-otevreny-dopis-pro-vedeni-mestyse-brodek-u-prerova.jpg #751x422 pixelu
+image: articles/2020/2020-05-06-otevreny-dopis-pro-vedeni-mestyse-brodek-u-prerova.jpg #751x422 pixelu
 redirect_from:
   - /tiskove-zpravy/otevreny-dopis-pro-vedeni-mestyce-brodek-u-prerova.html
 ---

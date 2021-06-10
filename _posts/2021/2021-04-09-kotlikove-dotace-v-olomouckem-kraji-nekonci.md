@@ -6,7 +6,7 @@ date: 2021-04-09
 tags: 
 - piráti
 author: Josef Indra
-image: assets/img/articles/2021/2021-04-09-kotlikove-dotace-v-olomouckem-kraji-nekonci.jpg  #751x422 pixelu
+image: articles/2021/2021-04-09-kotlikove-dotace-v-olomouckem-kraji-nekonci.jpg  #751x422 pixelu
 ---
 Kotlíkové dotace v Olomouckém kraji nekončí, kraj chce přilákat i nové zájemce o tuto dotaci. Podle vyjádření kraj podpoří v nové výzvě až 150 nových žadatelů. Tímto krokem chce kraj podpořit ty žadatele, na které se nedostalo v poslední výzvě, ale také motivovat nové žadatele, aby vyměnili starší kotle za nové ekologičtější zdroje vytápění. 
 

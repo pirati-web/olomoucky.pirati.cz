@@ -6,7 +6,7 @@ date: 2020-12-07
 tags: 
 - piráti
 author: Josef Indra
-image: assets/img/articles/2020/2020-12-07-listopadove-okenko-mistopredsedy-poslanecke-snemovny-vojtecha-pikala.jpg  #751x422 pixelu
+image: articles/2020/2020-12-07-listopadove-okenko-mistopredsedy-poslanecke-snemovny-vojtecha-pikala.jpg  #751x422 pixelu
 ---
 Počátkem měsíce jsem se účastnil několika schůzek s arménským velvyslancem k aktuální situaci v Arménii, kde se rozhořel (a nyní již i opět nešťastně a provizorně vyřešil) jeden z tzv. zamrzlých konfliktů mezi Arménii a Ázerbájdžánem. V listopadu jsem se zúčastnil také sedmi schůzí PS PČR, přičemž jsem tradičně i jednání částečně řídil. Jen pro Vaši informaci - běžně bývá v průměru méně než jedna schůze za měsíc. 
 

@@ -6,7 +6,7 @@ date: 2021-04-28
 tags: 
 - olomoucký-kraj
 author: Josef Indra
-image: assets/img/articles/2021/2021-04-28-olomoucky-a-zlinsky-kraj-pripominkuji-novelu-vodniho-zakona.jpg  #751x422 pixelu
+image: articles/2021/2021-04-28-olomoucky-a-zlinsky-kraj-pripominkuji-novelu-vodniho-zakona.jpg  #751x422 pixelu
 ---
 **V úterý 27. dubna proběhla koordinační schůzka mezi příslušnými vedoucími oddělení vodního hospodářství Olomouckého a Zlínského kraje a rovněž náměstkyní Zlínského kraje Hanou Ančincovou a radním Olomouckého kraje pro oblast životního prostředí Martinem Šmídou na téma chystané novely vodního zákona a probíhajícímu připomínkovému řízení k této novele.**
 

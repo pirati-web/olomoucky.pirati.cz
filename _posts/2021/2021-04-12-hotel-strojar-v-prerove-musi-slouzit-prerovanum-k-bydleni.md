@@ -6,7 +6,7 @@ date: 2021-04-12
 tags: 
 - přerov
 author: Josef Indra
-image: assets/img/articles/2021/2021-04-12-hotel-strojar-v-prerove-musi-slouzit-prerovanum-k-bydleni.jpg  #751x422 pixelu
+image: articles/2021/2021-04-12-hotel-strojar-v-prerove-musi-slouzit-prerovanum-k-bydleni.jpg  #751x422 pixelu
 ---
 Město Přerov stále řeší, co s budovou hotelu Strojař. Aktuálně se objevil dokonce zájemce o koupi celé budovy včetně sousedících pozemků. Koalice Společně pro Přerov a Pirátů vidí více řešení, jak s objektem naložit, ale důležité je celý projekt nachystat tak, aby v budoucnu sloužil především lidem.
  

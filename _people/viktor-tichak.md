@@ -22,6 +22,8 @@ profiles:
   flickr:       
 ordzas: 5
 ordpre: 1
+heroImg: banner-default.jpg
+published: true
 ---
 **Mgr. Viktor Tichák, Ph.D.** je členem Pirátů od r. 2018. Narodil se v Olomouci, žije v Olomouci a Ostravě. 
 

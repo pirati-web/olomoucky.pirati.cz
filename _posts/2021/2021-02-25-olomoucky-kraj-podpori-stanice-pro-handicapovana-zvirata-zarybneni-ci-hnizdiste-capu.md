@@ -7,7 +7,7 @@ tags:
 - piráti
 - olomoucký-kraj
 author: Josef Indra
-image: assets/img/articles/2021/2021-02-25-olomoucky-kraj-podpori-stanice-pro-handicapovana-zvirata-zarybneni-ci-hnizdiste-capu.jpg  #751x422 pixelu
+image: articles/2021/2021-02-25-olomoucky-kraj-podpori-stanice-pro-handicapovana-zvirata-zarybneni-ci-hnizdiste-capu.jpg  #751x422 pixelu
 ---
 Zastupitelstvo Olomouckého kraje na svém zasedání podpořilo návrh Rady Olomouckého kraje vypsat dotační program pro podpoření činnosti záchranných stanic pro handicapované živočichy v celkové výši 250 000 Kč. Druhý dotační program, ve výši 2 000 000 Kč, podpoří akce či jednotlivé činnosti podporující životní prostředí v Olomouckém kraji. 
  

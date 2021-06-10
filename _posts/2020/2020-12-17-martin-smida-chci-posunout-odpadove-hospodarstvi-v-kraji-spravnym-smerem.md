@@ -7,7 +7,7 @@ tags:
 - piráti-a-starostové
 - olomoucký-kraj
 author: Josef Indra
-image: assets/img/articles/2020/2020-12-17-martin-smida-chci-posunout-odpadove-hospodarstvi-v-kraji-spravnym-smerem.jpg  #751x422 pixelu
+image: articles/2020/2020-12-17-martin-smida-chci-posunout-odpadove-hospodarstvi-v-kraji-spravnym-smerem.jpg  #751x422 pixelu
 ---
 Olomouc, 17. prosince 2020 - Dnes proběhla valná hromada spolku Odpady Olomouckého kraje, které se zúčastnil také radní Olomouckého kraje pro životní prostředí Martin Šmída.  *„Oblast odpadového hospodářství mě velmi zajímá a věnuji tomuto tématu velkou pozornost. Odpady Olomouckého kraje jsou pro mě hlavní výzva pro celé nadcházející čtyřleté období.  Byla to jedna z prvních věcí, kterou jsem se současnou radou Olomouckého kraje řešil,“* uvádí Šmída. 
 

@@ -5,7 +5,7 @@ title: Pirátská Tvrz se chystá na volby!
 date: 2017-09-06
 tags: pirátská-tvrz
 author: Martin Šmída
-image: assets/img/articles/2017/2017-09-06-piratska-tvrz-se-chysta-na-volby.jpg   #751x422 pixelu
+image: articles/2017/2017-09-06-piratska-tvrz-se-chysta-na-volby.jpg   #751x422 pixelu
 ---
 Členové a příznivci Pirátů ani v létě nezaháleli. Hned na začátku prázdnin při majetínských hodových oslavách přidali svou špetkou do mlýna, když uspořádali veřejný tenisový turnaj ve čtvyřhře. Turnaje se zúčastnilo 16 hráčů a vítězem se stala dvojice otec a syn Grofkovi, když ve finále porazili dvojici Růžička, Ludrovský. Gratulujeme a všem zúčastněným děkujeme! Piráti rovněž vyrobili plavidlo na neckiádu a na vlnách majetínského rybníku Hliník si udělali plovoucí párty, kde nechybělo grillování a pivo - nakonec se pro naše plavidlo vžilo označení „Grilláti z Karibiku“. Akce to byla podařená a děkujeme všem, co se zapojili.
 

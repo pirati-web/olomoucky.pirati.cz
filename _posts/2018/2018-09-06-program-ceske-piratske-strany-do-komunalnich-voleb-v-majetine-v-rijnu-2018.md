@@ -6,7 +6,7 @@ date: 2018-09-06
 tags: 
 - pirátská-tvrz
 author: Mediální odbor
-image: assets/img/articles/2018/2018-09-06-program-ceske-piratske-strany-do-komunalnich-voleb-v-majetine-v-rijnu-2018.jpg  #751x422 pixelu
+image: articles/2018/2018-09-06-program-ceske-piratske-strany-do-komunalnich-voleb-v-majetine-v-rijnu-2018.jpg  #751x422 pixelu
 ---
 
 Piráti mají svoji kandidátku pro komunální volby také v Majetíně. A jaký je jejich volební program? To se dozvíte na následujících řádcích.

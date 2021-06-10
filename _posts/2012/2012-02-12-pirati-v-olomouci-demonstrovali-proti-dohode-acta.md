@@ -5,7 +5,7 @@ title: Piráti v Olomouci demonstrovali proti dohodě ACTA
 date: 2012-02-12
 tags: olomoucký-kraj
 author: Petr Kopač
-image: assets/img/articles/2012/2012-02-12-pirati-v-olomouci-demonstrovali-proti-dohode-acta.jpg   #751x422 pixelu
+image: articles/2012/2012-02-12-pirati-v-olomouci-demonstrovali-proti-dohode-acta.jpg   #751x422 pixelu
 ---
 V sobotu 11.2. kolem 14:00 se začali na Horní náměstí před radnicí sházet hloučky lidí s transparenty na ohlášené demonstraci. Olomoučané se tak připojili k celosvětovému protestu proti mezinárodní dohodě ACTA, který probíhá v 30ti zemích světa. Jen v ČR na se akce konala na 18ti místech.
 

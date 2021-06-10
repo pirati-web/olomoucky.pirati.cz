@@ -16,6 +16,8 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
+heroImg: banner-default.jpg
+published: true
 ---
 Petr Chmelař (* 5. 1. 1985). V roce 2004 dostudoval SPŠ Hranice v oboru chemie. A od roku 2006 je zaměstnán v chemickém podniku Precheza a.s.
 

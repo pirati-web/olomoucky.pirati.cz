@@ -18,6 +18,8 @@ profiles:
   twitter:        
   flickr: 
 ordpre: 3        
+heroImg: banner-default.jpg
+published: true
 ---
 Zdeněk Žák (* 19. srpna 1977) je členem Pirátské strany od března 2018. Narodil se v Zábřehu. Dlouhodobě žil v Mohelnici a Praze. V Olomouci žije od roku 2011. Od roku 2012 je ženatý. S manželkou mají 2 dcery.
 

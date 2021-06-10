@@ -7,7 +7,7 @@ tags:
 - piráti
 - olomoucký-kraj
 author: Josef Indra
-image: assets/img/articles/2021/2021-01-18-pirati-si-zvolili-v-primarnich-volbach-celni-kandidaty.jpg  #751x422 pixelu
+image: articles/2021/2021-01-18-pirati-si-zvolili-v-primarnich-volbach-celni-kandidaty.jpg  #751x422 pixelu
 ---
  *Olomoucký kraj, 18. ledna 2021* – **Piráti v Olomouckém kraji si zvolili první trojici kandidátů, kteří je povedou ve volbách do Poslanecké sněmovny. Již před Vánoci byl zvolen lídr, současný místopředseda Poslanecké sněmovny Vojtěch Pikal, který svou pozici obhájil. Na druhém místě byl nominován vysokoškolský pedagog a zastupitel Olomouce Viktor Tichák. Třetí příčku bude zastávat krajský zastupitel a marketingový specialista Jaromír Horký. Čelo Pirátských kandidátů uzavře Olomoucký zastupitel Hynek Melichar a krajský radní Martin Šmída. O jejich pořadí však ještě probíhá členské hlasování.** 
 

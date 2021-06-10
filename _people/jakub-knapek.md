@@ -16,6 +16,8 @@ profiles:
   twitter:        
   flickr:
 ordzas: 6       
+heroImg: banner-default.jpg
+published: true
 ---
 Mgr. Jakub Knápek (* 17.5.1974), ženatý, otec dvou kluků. Bydlí a pracuje v Olomouci. Pirátem je od března 2018.
 

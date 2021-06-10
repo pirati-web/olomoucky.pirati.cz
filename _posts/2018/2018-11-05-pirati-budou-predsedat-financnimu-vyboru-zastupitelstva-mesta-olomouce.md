@@ -6,7 +6,7 @@ date: 2018-11-05
 tags: 
 - olomouc
 author: Mediální odbor
-image: assets/img/articles/2018/2018-11-05-pirati-budou-predsedat-financnimu-vyboru-zastupitelstva-mesta-olomouce.jpg  #751x422 pixelu
+image: articles/2018/2018-11-05-pirati-budou-predsedat-financnimu-vyboru-zastupitelstva-mesta-olomouce.jpg  #751x422 pixelu
 ---
 Dne 5. 11. 2018 proběhlo ustavující zasedání Zastupitelstva města Olomouce. Byla zvolena Rada města Olomouce bez účasti Pirátů a Starostů. Novou Radu jsme nepodpořili, protože neodráží přání Olomoučanů, aby na radnici nastala změna. Naším cílem je nyní vykonávat poctivou opoziční práci.
 

@@ -6,7 +6,7 @@ date: 2021-04-20
 tags: 
 - olomoucký-kraj
 author: Josef Indra
-image: assets/img/articles/2021/2021-04-20-olomoucky-kraj-provede-forenzni-audit-v-prispevkove-organizaci-sprava-silnic-olomouckeho-kraje.jpg  #751x422 pixelu
+image: articles/2021/2021-04-20-olomoucky-kraj-provede-forenzni-audit-v-prispevkove-organizaci-sprava-silnic-olomouckeho-kraje.jpg  #751x422 pixelu
 ---
 V úterý 13. dubna byla na serveru Seznamzpravy.cz zveřejněna další část poznámek z údajného diáře poslance Faltýnka. Ve zmíněné reportáži se objevily také informace týkající se Olomouckého kraje. Konkrétně zde prostějovský právník Zdeněk Klapka v minulosti radil Faltýnkovi, jak ovládnout dopravní veřejné zakázky v Olomouckém kraji.
 

@@ -6,7 +6,7 @@ date: 2019-05-16
 tags: 
 - olomouc
 author: Mediální odbor
-image: assets/img/articles/2019/2019-05-16-nabizime-clenum-spolecne-misto-v-zastupitelskem-klubu.jpg  #751x422 pixelu
+image: articles/2019/2019-05-16-nabizime-clenum-spolecne-misto-v-zastupitelskem-klubu.jpg  #751x422 pixelu
 ---
 Olomouc, 16. 5. 2019 - Kuloární historka o možné výměně pana náměstka Hekely se k našim zastupitelům donesla již před minulým zasedáním Zastupitelstva města Olomouce dne 26. dubna. Možnou “velkou rošádu”, kdy by na místo náměstka dosedl až v pořadí 5. náhradník, vnímáme jako velmi nestandardní a nedemokratickou. Ptáme se na důvody a účel tak nelogického postupu.
 

@@ -6,7 +6,7 @@ date: 2018-04-04
 tags: 
 - picolo
 author: XOLK
-image: assets/img/articles/2018/2018-04-04-otevreni-poslanecke-kancelare-a-piratskeho-centra-picolo-v-olomouci.jpg   #751x422 pixelu
+image: articles/2018/2018-04-04-otevreni-poslanecke-kancelare-a-piratskeho-centra-picolo-v-olomouci.jpg   #751x422 pixelu
 ---
 Olomouc, 4. dubna 2018 – Pirátský místopředseda Sněmovny Vojtěch Pikal v úterý slavnostně otevřel svou regionální poslaneckou kancelář v Olomouci. Spolu s kanceláří bylo otevřeno i místní pirátské centrum, zvané Picolo – multifunkční prostor zřízený pro společné působení Pirátů i pro místní akce pořádané občany. První debata se uskutečnila hned v rámci otevření centra, a to na téma Ústavy ČR.
 

@@ -5,7 +5,7 @@ title: "Pirátský nábor pokračuje: Za tři měsíce tři místní sdružení 
 date: 2014-02-17
 tags: olomoucký-kraj
 author: Roman Kümmel
-image: assets/img/articles/2014/2014-02-17-piratsky-nabor-pokracuje-za-tri-mesice-tri-mistni-sdruzeni-v-olomouckem-kraji.jpg   #751x422 pixelu
+image: articles/2014/2014-02-17-piratsky-nabor-pokracuje-za-tri-mesice-tri-mistni-sdruzeni-v-olomouckem-kraji.jpg   #751x422 pixelu
 ---
 V poslední době můžeme sledovat zvýšenou aktivitu u Pirátů v Olomouckém kraji. Po změně krajského předsednictva přicházejí do strany noví členové a přidávají se příznivci, což je ideální příležitost pro založení místních sdružení.
 

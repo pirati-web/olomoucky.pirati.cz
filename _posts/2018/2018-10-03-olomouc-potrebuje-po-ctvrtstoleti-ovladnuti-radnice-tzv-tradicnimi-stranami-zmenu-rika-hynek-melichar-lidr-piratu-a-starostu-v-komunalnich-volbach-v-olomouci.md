@@ -6,7 +6,7 @@ date: 2018-10-03
 tags: 
 - olomouc
 author: Hynek Melichar
-image: assets/img/articles/2018/2018-10-03-olomouc-potrebuje-po-ctvrtstoleti-ovladnuti-radnice-tzv-tradicnimi-stranami-zmenu-rika-hynek-melichar-lidr-piratu-a-starostu-v-komunalnich-volbach-v-olomouci.jpg  #751x422 pixelu
+image: articles/2018/2018-10-03-olomouc-potrebuje-po-ctvrtstoleti-ovladnuti-radnice-tzv-tradicnimi-stranami-zmenu-rika-hynek-melichar-lidr-piratu-a-starostu-v-komunalnich-volbach-v-olomouci.jpg  #751x422 pixelu
 ---
 **Olomouc potřebuje po čtvrtstoletí ovládnutí radnice tzv. „tradičními“ stranami změnu.** Je nutné narušit klientelistickou síť, která zde vznikla díky nedostatku kontroly radnice občany a dlouhodobé úzké spolupráci ODS a ČSSD (ať už skryté či otevřené). Korupční a klientelistická politika stylu devadesátých let musí zmizet v nenávratnu. Pravidelně posloucháme stížnosti občanů, že město je vůči jejich problémům a stížnostem hluché. Mezi správou města a jeho obyvateli se utvořila propast, která jen nadále umožňuje místním politikům pokračovat v zajetých kolejích. Koalice a rozdělení postů v Radě města, komisích či městských firmách jsou přezíravě „upečené“ půl roku před volbami. Součástí tohoto systému už se prakticky stalo i formálně opoziční hnutí ANO. 
 

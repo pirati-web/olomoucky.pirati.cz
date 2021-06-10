@@ -6,7 +6,7 @@ date: 2018-09-17
 tags: 
 - hranicko
 author: Jan Bednařík
-image: assets/img/articles/2018/2018-09-17-v-hranicich-letos-kandidovat-nebudeme.jpg  #751x422 pixelu
+image: articles/2018/2018-09-17-v-hranicich-letos-kandidovat-nebudeme.jpg  #751x422 pixelu
 ---
 Hranice, 17. 9. 2018 - V souvislosti s odstoupením lídra Hranické kandidátky Pirátské strany Hynka Klimenta došlo k odvolání celé Pirátské kandidátky v Hranicích. Rozhodnutí vzešlo z hlasování Republikového výboru na základě podnětu krajského předsednictva, které situaci projednalo s kandidáty z Hranic a krajským fórem.
 

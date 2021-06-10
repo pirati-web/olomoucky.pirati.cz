@@ -6,7 +6,7 @@ date: 2020-06-07
 tags: 
 - pirátská-tvrz
 author: Mediální odbor
-image: assets/img/articles/2020/2020-06-07-odpoved-na-otevreny-dopis-ze-dne-6-5-2020.jpg  #751x422 pixelu
+image: articles/2020/2020-06-07-odpoved-na-otevreny-dopis-ze-dne-6-5-2020.jpg  #751x422 pixelu
 ---
 Věc: Odpověď na „Otevřený dopis“. Vážený pane místopředsedo, dne 6. 5. 2020 obdržel Městys Brodek u Přerova prostřednictvím e-mailové pošty Váš otevřený dopis, ve kterém kladete „vedení obce své otázky“ a navrhujete spolupráci. Rada městyse po projednání Vašeho otevřeného dopisu především konstatuje, že je pro členy Rady městyse v prostředí demokratické společnosti překvapivý způsob, jakým bylo vedení městyse Brodek u Přerova osloveno.
 

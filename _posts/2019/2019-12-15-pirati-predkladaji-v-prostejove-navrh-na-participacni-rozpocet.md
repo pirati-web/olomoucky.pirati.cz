@@ -6,7 +6,7 @@ date: 2019-12-15
 tags: 
 - prostějov
 author: Petr Kapounek
-image: assets/img/articles/2019/2019-12-15-pirati-predkladaji-v-prostejove-navrh-na-participacni-rozpocet.jpg  #751x422 pixelu
+image: articles/2019/2019-12-15-pirati-predkladaji-v-prostejove-navrh-na-participacni-rozpocet.jpg  #751x422 pixelu
 ---
 Prostějov, 15. 12. 2019 - Na zasedání zastupitelstva města Prostějova dne 17.12.2019 předkládáme návrh na zřízení participačního rozpočtu města Prostějova na rok 2020. Podle návrhu by měl být v roce 2020 vyhlášen a vyhodnocen sběr návrhů na veřejně prospěšné projekty realizované na pozemcích města Prostějova a v návrhu rozpočtu na rok 2021 by měla být vyčleněna částka 5 mil. Kč na realizaci těch, které splnily podmínky a zvítězily v hlasování občanů. Jako alternativa v případě nesouhlasu s návrhem je předkládána druhá varianta usnesení, která by vedla ke zřízení pracovní skupiny, která by připravila takový návrh, který měl podporu napříč zastupitelstvem. Vedla by ale k dalšímu zpoždění se zavedením participačního rozpočtu. Obdobné usnesení jsme neúspěšně předkládali už v roce 2017. V Prostějově jsme však již druhé období v opozici a schválení či neschválení návrhu závisí na tom, jak se rozhodne koaliční většina.
 

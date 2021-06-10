@@ -6,7 +6,7 @@ date: 2018-05-10
 tags: 
 - hranicko
 author: Hynek Kliment
-image: assets/img/articles/2018/2018-05-10-pirati-hranicko-ustaveni-mistniho-sdruzeni.jpg   #751x422 pixelu
+image: articles/2018/2018-05-10-pirati-hranicko-ustaveni-mistniho-sdruzeni.jpg   #751x422 pixelu
 ---
 Hranice, 10. 5. 2018 - V pondělí 7. května Piráti znovu usedli v Hranicích na Moravě na Masarykově náměstí, aby oficiálně založili místní sdružení Piráti Hranicko. Této příležitosti využili i k diskusi s lidmi o efektivním řízení města.
 

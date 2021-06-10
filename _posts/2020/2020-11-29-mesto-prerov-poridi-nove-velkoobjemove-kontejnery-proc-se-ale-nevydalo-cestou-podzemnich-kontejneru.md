@@ -6,7 +6,7 @@ date: 2020-11-29
 tags: 
 - přerov
 author: Josef Indra
-image: assets/img/articles/2020/2020-11-29-mesto-prerov-poridi-nove-velkoobjemove-kontejnery-proc-se-ale-nevydalo-cestou-podzemnich-kontejneru.jpg  #751x422 pixelu
+image: articles/2020/2020-11-29-mesto-prerov-poridi-nove-velkoobjemove-kontejnery-proc-se-ale-nevydalo-cestou-podzemnich-kontejneru.jpg  #751x422 pixelu
 ---
 Na zastupitelstvu města Přerova 7. prosince budou přerovští zastupitelé schvalovat záměr na pořízení velkoobjemových kontejnerů na směsný, ale i tříděný odpad. Celková investice, která nahradí až 70% stávajících kontejnerů přijde na 10 milionu, avšak bude nutné také zakoupit nové vozidla v hodnotě 20 milionů. Nové kontejnery budou sice „chytré” - umožní monitoring zaplněnosti, software bude plánovat svoz odpadu, aby se nemuselo jezdit zbytečně pro prázdné popelnice, ale stále se jedná o nepěkné řešení.
 

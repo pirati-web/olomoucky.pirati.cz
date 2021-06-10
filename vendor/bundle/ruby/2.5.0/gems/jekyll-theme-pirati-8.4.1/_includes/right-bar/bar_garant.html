@@ -1,5 +1,0 @@
-{% if page.garant %}
-  {% assign garant = site.people | where:"uid",page.garant | first %}
-  {% include people/profile-badge.html item=garant description="Garant" class="badge--condensed" %}
-{% endif %}
-

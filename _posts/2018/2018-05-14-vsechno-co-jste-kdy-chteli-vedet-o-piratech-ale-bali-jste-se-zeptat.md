@@ -6,7 +6,7 @@ date: 2018-05-13
 tags: 
 - picolo
 author: Tomáš Svoboda
-image: assets/img/articles/2018/2018-05-14-vsechno-co-jste-kdy-chteli-vedet-o-piratech-ale-bali-jste-se-zeptat.jpg   #751x422 pixelu
+image: articles/2018/2018-05-14-vsechno-co-jste-kdy-chteli-vedet-o-piratech-ale-bali-jste-se-zeptat.jpg   #751x422 pixelu
 ---
 Olomouc, 13. 5. 2018 - Další díl přednáškového cyklu Pirátské putovní univerzity proběhne 23. 5. v 18 hodin. Tentokrát na téma: Všechno, co jste kdy chtěli vědět o Pirátech, ale báli jste se zeptat.
 

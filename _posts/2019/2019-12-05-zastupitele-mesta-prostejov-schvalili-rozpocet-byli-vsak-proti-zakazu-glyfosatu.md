@@ -6,7 +6,7 @@ date: 2019-12-05
 tags: 
 - prostějov
 author: Mediální odbor
-image: assets/img/articles/2019/2019-12-05-zastupitele-mesta-prostejov-schvalili-rozpocet-byli-vsak-proti-zakazu-glyfosatu.jpg  #751x422 pixelu
+image: articles/2019/2019-12-05-zastupitele-mesta-prostejov-schvalili-rozpocet-byli-vsak-proti-zakazu-glyfosatu.jpg  #751x422 pixelu
 ---
 Prostějov, 5. 12. 2019 - Při jednání na zastupitelstvu padla od Pirátů jak podpora tak i objektivní kritika.
 

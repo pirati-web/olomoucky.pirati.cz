@@ -6,7 +6,7 @@ date: 2018-08-10
 tags: 
 - šumpersko
 author: Václav Doubrava
-image: assets/img/articles/2018/2018-08-10-komentar-vaclava-doubravy-vybudovani-dopravniho-hriste-v-sumperku-patri-k-nasim-prioritam.jpg  #751x422 pixelu
+image: articles/2018/2018-08-10-komentar-vaclava-doubravy-vybudovani-dopravniho-hriste-v-sumperku-patri-k-nasim-prioritam.jpg  #751x422 pixelu
 ---
 V současné době patří město Šumperk k těm městům Olomouckého kraje, které nedisponují vlastním dopravním hřištěm. Vzhledem k velikosti a počtu obyvatel Šumperka považujeme současný stav za nešťastný, neboť i řada menších měst svá dopravní hřiště má.
 
