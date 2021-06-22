@@ -1,0 +1,25 @@
+---
+layout: post
+category: CLANKY
+title: "Report Petra Kapounka z Prostějovského zastupitelstva"
+date: 2021-06-22
+tags: 
+- prostějov
+author: Josef Indra
+image: articles/2021/2021-06-22-report-petra-kapounka-z-prostejovskeho-zastupitelstva.jpg  #751x422 pixelu
+---
+V úterý 15. června proběhlo dvacáté čtvrté zasedání zastupitelstva města Prostějova v tomto volebním období. Na programu bylo mnoho témat, a tak jednání, které začalo v deset dopoledne, skončilo nepřekvapivě až v podvečerních hodinách. Přesto ale probíhalo v poklidné atmosféře a přineslo několik překvapení.
+
+Na úvod došlo k vyřazení dvou bodů – jednoho prodeje pozemků, na němž by zřejmě nebyla v zastupitelstvu shoda, a dále paušálního pravidla, že město odmítá prodej pozemků pro parkovací místo. To totiž nebylo úplně dobře formulované a zaslouží si další diskuzi. Následovaly personálie týkající se pravomocí rady a osadního výboru v Žešově, pak přišel čas na projednání účetní uzávěrky a závěrečného účtu na za rok 2020.
+
+Prvním překvapením by pro někoho mohlo být, že výpadek příjmů města za rok 2020 byl zanedbatelný v řádu jednotek milionů Kč. Toto jsme ale očekávali, a proto jsme kritizovali např. neochotu vládnoucí koalice zahrnout do investic i projektovou dokumentaci na 50m bazén. Na ten zřejmě bude šance čerpat dotaci, pokud nepromarníme příležitost. Po tomto bodu následovaly menší změny vyhlášek o záboru veřejných prostranství a o nočním klidu, dále několik dotací. Zajímavým bodem je též stažení žádosti o dotaci na inovační hub. Na něj se nepodařilo získat plnou výši dotace a upuštění od záměru tak považujeme za rozumný krok, protože podle nás projekt od počátku není dobře připraven.
+
+Větší diskuzi vyvolal až záměr na kompletní rekonstrukci fotbalového stadionu. U něj město postupuje klasickou salámovou metodou, když nejdříve zařadí do rozpočtu pouhé 3miliony a pak je z toho najednou kompletní rekonstrukce za cca 140 milionů. Sice zřejmě s dotací, ale také s zatím nejasným dofinancováním města, které může z uvedené částky tvořit velmi významnou část. Ano, město Prostějov si zaslouží kvalitní sportoviště, ale přednost by měly mít ty, které slouží pro širokou veřejnost. Např. bazén, který pro současné vedení města není prioritou. Okolo fotbalového stadionu navíc visí ve vzduchu otázka jeho umístění. Tedy visela. Současný stadion se totiž nachází na sídlišti, kde hluk a davy fanoušků znepříjemňují život místním. Pokud by byla šance, zbudovat nový a případně i multifunkční stadion na lepším místě, po nainvestování 140 milionů Kč se taková možnost uzavře.
+
+Další investiční záměry a dotace jsme jako opozici převážně podpořili. Jednalo se např. o běžecký tunel, sociální zázemí u hvězdárny nebo pořádání menších sportovních akcí. Další diskuze proběhla ohledně výkupu obtížně využitelného pozemku mezi ul. Brněnskou a dálnicí D46 za téměř 8 mil. Kč, s nímž nesouhlasíme.
+
+Značné překvapení ale přineslo projednání změny stanov společnosti Servisní společnost odpady Olomouckého kraje a.s. Ta se má v horizontu několika let stát hlavním zajišťovatelem likvidace komunálních odpadů v kraji a pomoci tak obcím vypořádat se úplným zákazem skládkování. Původní iniciátoři projektu prosazovali centralizované řešení, přičemž vycházeli z jediné studie, jejíž znění bylo z velká části tajné a s jejímž plným zněním neměli možnost se seznámit ani zastupitelstva obcí a kraje, kteří o projektu rozhodovali. Tento přístup vedl k pochopitelné nedůvěře mnoha obcí v kraji a řada z nich se nechtěla zapojit. Nové vedení kraje se snaží komunikaci s obcemi a jejich možnosti ovlivňovat směřování projektu zlepšit, proto předložilo změnu stanov, kdy řízení společnosti má postupně přejít na tzv. německý model, kdy představenstvo vybírá a kontroluje dozorčí rada. Nominování však za město Prostějov byli však představitelé zdejší koalice, vč. Mgr. Pospíšila, jehož jméno jsme brali jako zásadní překážku důvěryhodnosti projektu. K našemu překvapení ale jak Bc. Miloš Sklenka, navrhovaný do dozorčí rady, tak Mgr. Jiří Pospíšil, navrhovaný do představenstva, po naší kritice od nominace odstoupili a zastupitelstvo záhy schválilo naše opoziční kandidáty. Těmi jsou Ing. Aleš Matyášek (TOP09) do představenstva a Ing. Hana Naiclerová (STAN) do dozorčí rady. Tento vstřícný krok vítáme a očekáváme, že námi podpoření zástupci celý projekt pomohou ve spolupráci s vedením kraje zprůhlednit a získat pro něj důvěru obcí.
+
+V závěru zasedání jsme byli vyrozuměni, že otázka místního nádraží je stále otevřená, že město hledá cesty ke zbudování parkovacího domu v centru. Dále jsme se jako opozice informovali na stav kauzy nano-nástřiků ve školách. Dobrá zpráva je, že město konečně přiznává, že s nástřiky není vše v pořádku a začíná spolupracovat se státními orgány v řešení věci. Dosud vedení města tvrdohlavě tvrdilo, že postřiky jsou nezávadné a opozici dokonce obviňovalo z šíření dezinformací. I přes uvedený pokrok považuje současný postup města za laxní a za zbytečné zdržování a požadujeme, aby město jednalo proaktivně nástřiky co nejdříve odstranilo.
+
+Petr Kapounek, zastupitel, Piráti/Na rovinu!
