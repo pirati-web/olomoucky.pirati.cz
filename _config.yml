@@ -10,7 +10,7 @@ email: olomoucky@pirati.cz
 description: >-
   Česká pirátská strana - Krajské sdružení Olomoucký kraj
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: krajské sdružení, olomoucký, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost 
+keywords: krajské sdružení, olomoucký, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
 
@@ -26,7 +26,7 @@ organization:
   phone: +420 778 111 488
   address: |
     Picolo Olomouc
-    8. května 522/5, 
+    8. května 522/5,
     779 00 Olomouc
   residenceImg: https://a.pirati.cz/olomoucky/img/pice-mapa.png
   mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
@@ -68,7 +68,7 @@ facebook:
 
 twitter:
   loadSDK: true
-  profile: pirati_sck
+  profile: piratiOlomoucko
 
 instagram:
   profilePage: https://www.instagram.com/olomouctipirati/?hl=cs
