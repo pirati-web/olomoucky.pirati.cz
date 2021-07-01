@@ -1,12 +1,12 @@
 ---
 layout: post
 category: CLANKY
-title: "Olomoucký kraj může získat díky novým dotačním projektům až půl miliardy korun"
+title: "Projekt odpadů Olomouckého kraje zažívá skutečný restart"
 date: 2021-07-01
 tags:
 - olomoucký-kraj
 author: Josef Indra
-image: articles/2021/2021-07-01-olomoucky-kraj-muze-ziskat-diky-novym-dotacnim-projektum-az-pul-miliardy.jpg  #751x422 pixelu
+image: articles/2021/2021-07-01-projekt-odpadu-olomouckeho-kraje-zaziva-skutecny-restart.jpg  #751x422 pixelu
 ---
 **V krátkém sledu proběhla v Olomouckém kraji valná hromada Spolku Odpady Olomouckého kraje z. s. a Servisní společnosti Odpady Olomouckého kraje a. s.. Na valných hromadách bylo zvoleno nové vedení a schváleny nové stanovy. Olomoucký kraj i nadále deklaroval pozici koordinátora projektu a vyzval k zásadnímu restartu.** 
 
