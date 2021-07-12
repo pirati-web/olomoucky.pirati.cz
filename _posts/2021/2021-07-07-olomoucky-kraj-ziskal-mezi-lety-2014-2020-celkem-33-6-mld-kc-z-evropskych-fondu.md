@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Olomoucký kraj získal mezi lety 2014-2020 celkem 33,6 mld. Kč z evropských dotací"
-date: 2021-07-01
+date: 2021-07-07
 tags:
 - olomoucký-kraj
 author: Josef Indra
