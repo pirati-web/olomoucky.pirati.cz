@@ -37,13 +37,13 @@ V roce 2020 pak kandiduje v krajských volbách v koalici Pirátů a Starostů a
 
 ## Články
 
-[Komentář Martina Šmídy: Chráníme Bečvu na všech frontách. I před kontroverzní výstavbou přehrady Skalička.](https://olomoucky.pirati.cz/tiskove-zpravy/komentar-martina-smidy-chranime-becvu-na-vsech-frontach-i-pred-kontroverzni-vystavbou-prehrady-skalicka.html)
+[Komentář Martina Šmídy: Chráníme Bečvu na všech frontách. I před kontroverzní výstavbou přehrady Skalička.](https://olomoucky.pirati.cz/aktuality/komentar-martina-smidy-chranime-becvu-na-vsech-frontach-i-pred-kontroverzni-vystavbou-prehrady-skalicka.html)
 
-[Řešíme nebezpečnou skládku kalů v Kralicích na Hané.](https://olomoucky.pirati.cz/tiskove-zpravy/resime-nebezpecnou-skladku-kalu-v-kralicich-na-hane.html)
+[Řešíme nebezpečnou skládku kalů v Kralicích na Hané.](https://olomoucky.pirati.cz/aktuality/resime-nebezpecnou-skladku-kalu-v-kralicich-na-hane.html)
 
-[Martin Šmída: Chci posunout odpadové hospodářství v kraji správným směrem.](https://olomoucky.pirati.cz/tiskove-zpravy/martin-smida-chci-posunout-odpadove-hospodarstvi-v-kraji-spravnym-smerem.html)
+[Martin Šmída: Chci posunout odpadové hospodářství v kraji správným směrem.](https://olomoucky.pirati.cz/aktuality/martin-smida-chci-posunout-odpadove-hospodarstvi-v-kraji-spravnym-smerem.html)
 
-[Martin Šmída: Z Majetína do Olomouckého kraje.](https://olomoucky.pirati.cz/tiskove-zpravy/martin-smida-z-majetina-do-olomouckeho-kraje.html)
+[Martin Šmída: Z Majetína do Olomouckého kraje.](https://olomoucky.pirati.cz/aktuality/martin-smida-z-majetina-do-olomouckeho-kraje.html)
 
-[Komentář Martina Šmídy: Otrava Bečvy se musí řešit, chci jít příkladem.](https://olomoucky.pirati.cz/tiskove-zpravy/komentar-martina-smidy-otrava-becvy-se-musi-resit-chci-jit-prikladem.html)
+[Komentář Martina Šmídy: Otrava Bečvy se musí řešit, chci jít příkladem.](https://olomoucky.pirati.cz/aktuality/komentar-martina-smidy-otrava-becvy-se-musi-resit-chci-jit-prikladem.html)
 
