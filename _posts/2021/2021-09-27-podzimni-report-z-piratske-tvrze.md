@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Podzimní report z Pirátské Tvrze"
 date: 2021-09-27
-tags:
+tags: pirátská-tvrz
 author: Radek Vojtek
 image: articles/2021/2021-09-27-podzimni-report-z-piratske-tvrze.jpg  #751x422 pixelu
 ---
@@ -21,7 +21,3 @@ Vyvrcholením naších letních akcí poté byl 15. ročních legendárního fes
 Na samotném hudebním festivalu poté vystoupily kapely Nicotine heart (blues rock), Miserable Ones (surf rock´n´roll), The Neuminic (punk) a také domácí Session a překvapení večera Brodecké Untergrunt. O afterpárty se postupně postarali DJ Crackenn, Jungling Jay a Pan Pouštěč.
 I když nás od rána trošku strašilo počasí, nakonec se celý den krásně vydařil a návštěvníci si akci náležitě užili, za což patří všem organizátorům a pomocníkům velké díky.
 Jinak se samozřejmě podílíme na předvolební kampani Pirátů a Starostů. Můžeme se potkat nejen při rozdávání koaličních listů ,,Vraťme zemi budoucnost“ různě v celé působnosti Tvrze, ale rádi přivítáme další dobrovolníky, kteří chtějí přiložit ruku k dílu a nebo pomoct svými nápady.  Každopádně toto společné úsilí Pirátů a Starostů vyvrcholí sněmovními volbami 8. a 9. října.
-
-Radek Vojtek
-Předseda MS Pirátská Tvrz
-a kolektiv Pirátské Tvrze
