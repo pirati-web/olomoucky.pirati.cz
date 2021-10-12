@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Spolek Odpadů Olomouckého kraje posiluje"
 date: 2021-09-23
-tags:
+tags: pirati
 author: Josef Indra
 image: articles/2021/2021-09-23-spolek-odpadu-olomouckeho-kraje-posiluje.jpg  #751x422 pixelu
 ---
