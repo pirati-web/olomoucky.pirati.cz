@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Olomoucký kraj ocenil nejlépe třídící obce"
-date: 2021-09-27
+date: 2021-10-12
 tags: olomoucký-kraj
 author: Josef Indra
 image: articles/2021/2021-10-12-olomoucky-kraj-ocenil-nejlepe-tridici-obce.jpg  #751x422 pixelu
