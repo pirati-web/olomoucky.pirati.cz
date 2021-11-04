@@ -3,10 +3,10 @@ uid: vojtech.pikal
 name:     Vojtěch Pikal  	# běžně používáné jméno
 fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
-- poslanci
+- rp
 img: people/vojtech-pikal.jpg    # 165 x 220
 position: Člen republikového výboru
-description: 5. místopředseda sněmovny, člen republikového výboru	# kratký popis, max 160 znaků
+description: místopředseda ČPS, člen republikového výboru	# kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  778 702 714
@@ -22,7 +22,7 @@ ordpos: 1
 heroImg: banner-default.jpg
 published: true
 ---
-Vojtěch Pikal (19. února 1987) je člen republikového výboru České pirátské strany, 5. místopředseda PS PČR, poslanec za Olomoucký kraj a člen místního sdružení Pirátů Olomouc. Vystudoval bakalářský program informatiky na Univerzitě Palackého v Olomouci.
+Vojtěch Pikal (19. února 1987) je člen republikového výboru České pirátské strany a člen místního sdružení Pirátů Olomouc. Vystudoval bakalářský program informatiky na Univerzitě Palackého v Olomouci.
 
 Kromě politiky se dlouhodobě věnuje organizaci LARPů a dalších her pro mládež. Mezi jeho zájmy kromě rolových her patří společenský tanec, sledování infotainmentu na youtube či četba fantasy a sci-fi literatury.
 
