@@ -8,7 +8,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Předseda místního sdružení
 img: people/vojtech-nezval.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 1. místopředseda místního sdružení Přerov                # kratký popis, max 160 znaků
+description: Předseda místního sdružení               # kratký popis, max 160 znaků
 mail:
 - 
 mob:         
