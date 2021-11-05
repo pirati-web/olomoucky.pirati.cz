@@ -4,7 +4,8 @@ name:     Vojtěch Nezval          # běžně používáné jméno
 fullname: Vojtěch Nezval   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
-position: Místopředseda místního sdružení
+- predsedove-ms
+position: Předseda místního sdružení
 img: people/vojtech-nezval.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: 1. místopředseda místního sdružení Přerov                # kratký popis, max 160 znaků
