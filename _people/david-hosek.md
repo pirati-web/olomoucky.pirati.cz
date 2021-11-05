@@ -17,7 +17,6 @@ profiles:
   twitter:        
   flickr:  
 ordzask: 7
-ordmis: 4
 heroImg: banner-default.jpg
 published: true
 ---
