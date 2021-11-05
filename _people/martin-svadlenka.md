@@ -6,7 +6,7 @@ category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - kraj-zastupitele
 position:
 img: people/martin-svadlenka.jpg   # 165 x 220
-description: Člen KS Olomouckého kraje, krajský zastupitel v Olomouckém kraji           # kratký popis, max 160 znaků
+description: Člen KS Olomouckého kraje, zastupitel Olomouckého kraje           # kratký popis, max 160 znaků
 mail: martin.svadlenka@pirati.cz
 mob:        
 profiles:
