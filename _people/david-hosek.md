@@ -20,7 +20,7 @@ ordzask: 7
 heroImg: banner-default.jpg
 published: true
 ---
-David Hošek (* 28. 5. 1997) je krajský zastupitel a pochází z města Přerova kde vystudoval SPŠ v oboru strojírenství. Pracuje jako plánovač výroby ve slévárně v Přerově. Je členenm kontrolního výboru statutárního města Přerova.
+David Hošek (* 28. 5. 1997) je krajský zastupitel a pochází z města Přerova kde vystudoval SPŠ v oboru strojírenství. Pracuje jako plánovač výroby ve slévárně v Přerově. Je členem kontrolního výboru Olomouckého kraje a  statutárního města Přerova, zároveň působí jako člen majetkoprávní komise Olomouckého kraje.
 
 Členem Pirátské strany je od roku 2018. Podílí se na organizaci akcí v Přerově a samozřejmě i na akcích Pirátské strany. Svou činností také ovlivňuje výstupy na zastupitelstvu města Přerova a pomáhá s přípravou návrhů. Jedním z hlavních důvodů pro vstup do strany byl zájem o politické dění v Přerově, sympatie ke stranickému programu a liberální smýšlení. Považuje se za pravicového liberála. 
 
