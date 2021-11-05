@@ -16,7 +16,8 @@ profiles:
   github:
   facebook:       
   twitter:        
-  flickr:       
+  flickr: 
+ordmis: 4
 heroImg: banner-default.jpg
 published: true
 ---
