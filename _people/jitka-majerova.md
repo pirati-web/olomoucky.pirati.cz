@@ -4,7 +4,7 @@ name:     Jitka Majerová    # běžně používané jméno
 fullname: Jitka Majerová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
-position: 
+position: Místopředseda místního sdružení
 img: people/jitka-majerova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Členka KS Olomouckého kraje               # kratký popis, max 160 znaků
