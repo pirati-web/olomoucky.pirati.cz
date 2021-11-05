@@ -8,7 +8,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Místopředseda místního sdružení
 img: people/martin-morong.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 2. místopředseda místního sdružení Olomouc, krajský zastupitel v Olomouckém kraji                # kratký popis, max 160 znaků
+description: 2. místopředseda místního sdružení Olomouc, zastupitel Olomouckého kraje                # kratký popis, max 160 znaků
 mail: 
 - martin.morong@pirati.cz
 mob:         
