@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Místopředseda místního sdružení
 img: people/lenka-jungling.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Členka KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: Místopředsedkyně místního sdružení Přerov                # kratký popis, max 160 znaků
 mail:
 - lenkaxpospisil@gmail.com
 mob: 778 522 095
