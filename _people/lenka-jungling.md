@@ -19,10 +19,10 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
-Ing. Lenka Jüngling (* 1989) je členkou MS Přerov a také přerovskou rodačkou. Vždy prohlašovala, že až se jednou usadí, zapojí se do politiky. Tomu předcházela studia, bydlení a brigády v zahraničí.
+Ing. Lenka Jüngling (* 1989) je 1. místopředsedkyní MS Přerov. Zároveň je členkou výboru Olomouckého kraje pro regionální rozvoj a členkou komise Olomouckého kraje pro oblast rozvoje venkova a zemědělství. Vždy prohlašovala, že až se jednou usadí, zapojí se do politiky. Tomu předcházela studia, bydlení a brigády v zahraničí.
 
 Na bakaláři přes školní rok studovala Regionální Rozvoj, tancovala street dance, a přes léto prodávala knížky v Americe. Na magistrovi studovala dálkově Ekonomiku a Management na ČZU a do toho pracovala ve facilities managementu. Po studiích se vydala bydlet do Londýna. Šest let pracuje jako "Occupancy Planner" a plánuje různým korporátům efektivní využití kanceláří. Před třemi roky se začala intenzivněji zabývat studiem a učením jógy.
 
-Momentálně se chystá na poloviční úvazek, rozjet on-line jógu a více se věnovat komunální politice. Témata, která ji zajímají jsou životní prostředí, rozvoj regionů, venkova a zemědělství. Je členkou PePř týmu a plánuje organizaci mnoha přednášek, workshopů a dobročinných sbírek.
+Momentálně se věnuje komunální politice a vedle práce v kavárně vede lekce jógy. Témata, která ji zajímají jsou životní prostředí, rozvoj regionů, venkova a zemědělství. Je členkou PePř týmu a plánuje organizaci mnoha přednášek, workshopů a dobročinných sbírek.
 
 Kancelář: Palackého 24, Přerov 2, 75002, Czechia
