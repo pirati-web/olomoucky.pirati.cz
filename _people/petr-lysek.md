@@ -9,7 +9,7 @@ category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov-zastupitele
 position: Místopředseda místního sdružení
 img: people/petr-lysek.jpg   # 165 x 220
-description: 1. místopředseda místního sdružení Prostějov, zastupitel v Prostějově, krajský zastupitel v Olomouckém kraji           # kratký popis, max 160 znaků
+description: 1. místopředseda místního sdružení Prostějov, zastupitel v Prostějově, zastupitel Olomouckého kraje           # kratký popis, max 160 znaků
 mail:
 - petr.lysek@pirati.cz
 mob: 603 536 302   
