@@ -5,11 +5,10 @@ fullname: David Hošek   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 - kraj-zastupitele
-- predsedove-ms
-position: Předseda místního sdružení
+position:
 img: people/david-hosek.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Předseda místního sdružení Přerov, krajský zastupitel v Olomouckém kraji                # kratký popis, max 160 znaků
+description: zastupitel Olomouckého kraje                # kratký popis, max 160 znaků
 mail: david.hosek@pirati.cz
 mob: 731 811 105        
 profiles:
