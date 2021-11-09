@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Ondřej Moskal: Chceme v Prostějově prosadit studentský parlament"
-date: 2021-11-01
+date: 2021-11-04
 tags: prostějov
 author: Ondřej Moskal
 image: articles/2021/2021-11-04-ondrej-moskal-chceme-v-prostejove-prosadit-studentsky-parlament.jpg  #751x422 pixelu
