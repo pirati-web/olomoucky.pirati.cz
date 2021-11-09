@@ -4,7 +4,7 @@ category: CLANKY
 title: "Nový palác na hradě Helfštýn získal ocenění Stavba roku"
 date: 2021-11-09
 tags: Olomoucký-kraj
-author: Ondřej Moskal
+author: Josef Indra
 image: articles/2021/2021-11-09-novy-palac-na-hrade-helfstyn-ziskal-oceneni-stavba-roku.jpg  #751x422 pixelu
 ---
 Nově dokončený palác na hradě Helfštýn získal ocenění Stavba roku 2021. Cenu se podařilo získat především díky mimořádně citlivé rekonstrukci, která zpřístupnila palác a vytvořila tak novou část prohlídky hradu. Rekonstrukce si vyžádala ihned po otevření velký obdiv za svou jedinečnost a také zájem turistů.
