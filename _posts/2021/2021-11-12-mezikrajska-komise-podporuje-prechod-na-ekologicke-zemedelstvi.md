@@ -5,7 +5,7 @@ title: "Mezikrajská komise podporuje přechod na ekologické zemědělství"
 date: 2021-11-12
 tags: Olomoucký-kraj
 author: Josef Indra
-image: articles/2021/2021-11-14-mezikrajska-komise-podporuje-prechod-na-ekologicke-zemedelstvi.jpg  #751x422 pixelu
+image: articles/2021/2021-11-12-mezikrajska-komise-podporuje-prechod-na-ekologicke-zemedelstvi.jpg  #751x422 pixelu
 ---
 Radní Martin Šmída se zúčastnil jednání Komise pro zemědělství a venkov Rady Asociace krajů České republiky. Původně  se komise, měla uskutečnit v Olomouckém kraji fyzicky, ale kvůli nepříznivé epidemiologické situaci jednání proběhlo online. 
 
