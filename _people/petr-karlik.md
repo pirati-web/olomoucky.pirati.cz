@@ -18,7 +18,7 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
-Petr Karlík (* 27.4.1989) se narodil v Přerově. Povoláním je právník. Vystudoval Gymnázium Jakuba Škoda v Přerově a práva na Právnické fakultě Masarykovy Univerzity v Brně. 
+Mgr. Petr Karlík (* 27.4.1989) se narodil v Přerově. Povoláním je právník. Vystudoval Gymnázium Jakuba Škoda v Přerově a práva na Právnické fakultě Masarykovy Univerzity v Brně. 
 
 K Pirátům se přidal díky jejich transparentnosti. Tu mají v programech skoro všechny strany, ale Piráti jako jediní na jejím základě dlouhodobě fungují. Schůze a zápisy z nich jsou veřejné. 
 
