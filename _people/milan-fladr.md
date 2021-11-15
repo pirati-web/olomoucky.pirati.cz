@@ -19,4 +19,4 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
-Kuba Šmíd je členem MS Prostějov.
+Milan Fládr je členem MS Prostějov.
