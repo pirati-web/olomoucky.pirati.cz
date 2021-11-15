@@ -30,8 +30,7 @@ Angažuje se v hnutí, které upozorňuje na nesrovnalosti oficiální verze út
 
 Fanatický zastánce a uživatel opensource softwaru, pěšák v operaci [Hrajeme svobodnou hudbu](https://wiki.pirati.cz/hudba/start), která má osvobodit provozovatele od výpalného OSA, Intergramu či OAZA, autor návodu [pro distribuci svobodné hudby](https://wiki.pirati.cz/hudba/distribuce), amatérský fotomontér v GIMPu a spolupořadatel Prvního přerovského Vyosení.
 
-V Přerově úzce spolupracoval s komunálním sdružením [Společně pro Přerov](http://www.spolecneproprerov.cz/), pod jehož vlajkou kandidoval v komunálních volbách 2014, 2018. V období 2014 - 2018 předsedou Komise rady města Přerova pro otevřenou radnici, 
-v období 2017 - 2018 zastupitelem. V současné době krajským zastupitelem v Olomouckém kraji a členem redakční rady Přerovských listů.
+V Přerově úzce spolupracoval s komunálním sdružením [Společně pro Přerov](http://www.spolecneproprerov.cz/), pod jehož vlajkou kandidoval v komunálních volbách 2014, 2018. V období 2014 - 2018 předsedou Komise rady města Přerova pro otevřenou radnici, v období 2017 - 2018 zastupitelem. V současné době krajským zastupitelem v Olomouckém kraji a členem redakční rady Přerovských listů.
 
 Držitel zlaté Jánského plakety.
 
