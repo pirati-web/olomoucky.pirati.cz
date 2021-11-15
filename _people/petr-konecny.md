@@ -8,12 +8,12 @@ position:
 img: people/            # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje             # kratký popis, max 160 znaků
-mail: 
-mob: 
+mail: petr.konecny@pirati.cz
+mob: 732516520
 profiles:
   github:
-  facebook: 
-  twitter:         
+  facebook: https://www.facebook.com/petr.konecny.33
+  twitter: https://twitter.com/RatherWesy        
   flickr: 
 heroImg: banner-default.jpg
 published: true
