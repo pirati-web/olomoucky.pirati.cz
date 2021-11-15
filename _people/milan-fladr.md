@@ -9,7 +9,7 @@ img: people/           # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
-- jmilan.fladr@pirati.cz
+- milan.fladr@pirati.cz
 mob:         
 profiles:
   github:
