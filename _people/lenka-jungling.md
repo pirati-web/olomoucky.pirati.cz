@@ -9,7 +9,7 @@ img: people/lenka-jungling.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Místopředsedkyně místního sdružení Přerov                # kratký popis, max 160 znaků
 mail:
-- lenkaxpospisil@gmail.com
+- lenka.jungling@pirati.cz
 mob: 778 522 095
 profiles:
   github:
