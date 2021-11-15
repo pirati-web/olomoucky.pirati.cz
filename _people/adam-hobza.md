@@ -19,4 +19,4 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
-Adam Hobza je členem MS Přerov.
+Adam Hobza(*30.10.1997) je členem MS Přerov a zpěvák.
