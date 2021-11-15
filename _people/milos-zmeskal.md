@@ -20,7 +20,7 @@ heroImg: banner-default.jpg
 published: true
 ---
 
-Miloš Zmeškal (15. května 1987) je koordinátorem dobrovolníků pro Olomoucký kraj.
+Miloš Zmeškal (15. května 1987) je členem MS Olomouc.
 
 Studoval podnikání a management ve stavebnictví. Nějakou dobu se pak pohyboval ve stavebnictví, geodézii, pracoval s grafických databázemi GIS a také s jeho oblíbenými automobily. Potom našel smysl života se své drahé polovičce, opustil amatérské závody do vrchu a přestěhoval se z Moravské Třebové do Olomouce, kde aktuálně rekonstruuje dům.
 
