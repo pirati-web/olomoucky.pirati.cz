@@ -25,4 +25,4 @@ Na bakaláři přes školní rok studovala Regionální Rozvoj, tancovala street
 
 Momentálně se věnuje komunální politice a vedle práce v kavárně vede lekce jógy. Témata, která ji zajímají jsou životní prostředí, rozvoj regionů, venkova a zemědělství. Je členkou PePř týmu a plánuje organizaci mnoha přednášek, workshopů a dobročinných sbírek.
 
-Kancelář: Palackého 24, Přerov, 75003
+Kancelář: Palackého 24, Přerov, 75002
