@@ -23,4 +23,4 @@ Petr Stoklásek (*9.4.1996) je členem MS Přerov. kde žije od narození. Pracu
 
 První kontakt s Piráty měl díky akcím jako Ukliďme Česko apod. Líbí se mu otevřenost strany, pořádání akcí zaměřené na ekologii i společenské a kulturní programy.
 
-“Lepší je přidat ruku k dílu, než jen sedět a stěžovat si.”
+V životě se řídí mottem:„Lepší je přidat ruku k dílu, než jen sedět a stěžovat si.”
