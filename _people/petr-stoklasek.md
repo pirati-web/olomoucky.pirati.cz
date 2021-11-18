@@ -19,4 +19,8 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
-Petr Stoklásek je členem MS Přerov.
+Petr Stoklásek (*9.4.1996) je členem MS Přerov. kde žije od narození. Pracuje jako specialista zákaznické podpory s autodíly. Vystudoval obor Hotelnictví v Přerově.
+
+První kontakt s Piráty měl díky akcím jako Ukliďme Česko apod. Líbí se mu otevřenost strany, pořádání akcí zaměřené na ekologii i společenské a kulturní programy.
+
+“Lepší je přidat ruku k dílu, než jen sedět a stěžovat si.”
