@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
 - kraj-zastupitele
 position: Místopředseda místního sdružení
-img: people/martin-morong.jpg             # 165 x 220
+img: people/elias_martin.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: 2. místopředseda místního sdružení Olomouc, zastupitel Olomouckého kraje                # kratký popis, max 160 znaků
 mail: 
