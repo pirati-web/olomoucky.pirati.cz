@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 - kraj-zastupitele
 position:
-img: people/david-hosek.jpg             # 165 x 220
+img: people/hosek_david.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: zastupitel Olomouckého kraje                # kratký popis, max 160 znaků
 mail: david.hosek@pirati.cz
