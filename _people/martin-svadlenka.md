@@ -5,7 +5,7 @@ fullname: Martin Švadlenka   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - kraj-zastupitele
 position:
-img: people/martin-svadlenka.jpg   # 165 x 220
+img: people/svadlenka_martin.jpg   # 165 x 220
 description: Člen KS Olomouckého kraje, zastupitel Olomouckého kraje           # kratký popis, max 160 znaků
 mail: martin.svadlenka@pirati.cz
 mob:        
