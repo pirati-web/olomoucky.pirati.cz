@@ -12,7 +12,7 @@ img: people/michal-langer.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Koordinátor KS Olomouckého kraje             # kratký popis, max 160 znaků
 mail: michal.langer@pirati.cz
-mob: 
+mob: 770 113 650
 profiles:
   github:
   facebook: 
