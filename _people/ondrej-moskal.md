@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov
 - predsedove-ms
 position: Předseda místního sdružení
-img: people/ondrej-moskal.jpg             # 165 x 220
+img: people/moskal_ondrej.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení Prostějov                # kratký popis, max 160 znaků
 mail:
