@@ -5,7 +5,7 @@ keywords: picolo, pirátské-centrum, centrum
 title: Picolo - Pirátské centrum Olomouc
 shorthand: Picolo
 openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
-heroHeadline: Zbrusu nové krajské pirátské centrum!
+heroHeadline: Krajské pirátské centrum!
 heroDescription: Picolo - Pirátské centrum Olomouc
 heroImg: miscellaneous/picolo.jpg
 img: miscellaneous/picolo.jpg
