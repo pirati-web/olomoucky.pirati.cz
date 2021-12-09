@@ -6,7 +6,7 @@ category:
 - predsednictvo                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
 position: Místopředseda krajského sdružení
-img: people/zdenek-zak.jpg             # 165 x 220
+img: people/zak_zdenek.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: 2. místopředseda krajského sdružení Olomouckého kraje, 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
 mail:
