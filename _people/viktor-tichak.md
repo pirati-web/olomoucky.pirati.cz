@@ -14,7 +14,7 @@ img-full:                     # větší obrázek zobrazený na podrobném profi
 description: Předseda krajského sdružení Olomouckého kraje, zastupitel v Olomouci                # kratký popis, max 160 znaků
 mail:
 - viktor.tichak@pirati.cz
-mob:         
+mob: 777 152 528         
 profiles:
   github:
   facebook:       
