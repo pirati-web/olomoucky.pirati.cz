@@ -9,7 +9,7 @@ position: Předseda místního sdružení
 img: people/moskal_ondrej.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení Prostějov                # kratký popis, max 160 znaků
-mail:
+mail: ondrej.moskal@pirati.cz
 ordmis: 3
 heroImg: banner-default.jpg
 published: true
