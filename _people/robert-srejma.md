@@ -9,7 +9,7 @@ position: Předseda místního sdružení
 img: people/robert-srejma.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení Šumpersko               # kratký popis, max 160 znaků
-mail: 
+mail: robert.srejma@pirati.cz
 mob:
 profiles:
   github:
