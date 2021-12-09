@@ -8,12 +8,6 @@ groups:
   - name: Předsednictvo Olomouckého kraje
     category: predsednictvo
     sort: ordpre
-  - name: Manažeři a koordinátoři Olomouckého kraje
-    category: koordinatori
-    sort: ordkor
-  - name: Vedoucí krajských odborů
-    category: vedouci
-    sort: ordved
   - name: Poslanci
     category: poslanci
     sort: ordpos
@@ -26,6 +20,13 @@ groups:
   - name: Předsedové místních sdružení
     category: predsedove-ms
     sort: ordmis 
+  - name: Manažeři a koordinátoři Olomouckého kraje
+    category: koordinatori
+    sort: ordkor
+  - name: Vedoucí krajských odborů
+    category: vedouci
+    sort: ordved
+  
  
 ---
 
