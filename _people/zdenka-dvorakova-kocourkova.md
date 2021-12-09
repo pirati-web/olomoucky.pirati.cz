@@ -5,9 +5,9 @@ fullname: Ing. Zdeňka Dvořáková Kocourková   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - kraj-zastupitele
 position: Členka KS Olomouckého kraje
-img: people/zdenka-dvorakova-kocourkova.jpg             # 165 x 220
+img: people/dvorakova_zdenka.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Členka KS Olomouckého kraje, krajská zastupitelka v Olomouckém kraji               # kratký popis, max 160 znaků
+description: radní Olomouckého kraje              # kratký popis, max 160 znaků
 mail: 
 - dvorakovakocourkova@gmail.com
 mob:         
