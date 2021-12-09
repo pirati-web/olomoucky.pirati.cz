@@ -30,4 +30,4 @@ groups:
  
 ---
 
-<a href="https://forum.pirati.cz/ks-olomoucky-kraj-g38.html">Seznam členů Krajského sdružení Olomouckého kraje na Fóru Pirátské strany</a>
+<a href="https://lide.pirati.cz/regiony/26/">Seznam členů Krajského sdružení Olomouckého kraje na lide.pirati.cz</a>
