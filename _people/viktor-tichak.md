@@ -1,7 +1,7 @@
 ---
 uid: viktor.tichak
 name:     Viktor Tichák          # běžně používáné jméno
-fullname: Mgr. Viktor Tichák   # jméno s tituly etc.
+fullname: Mgr. Viktor Tichák, Ph.D.   # jméno s tituly etc.
 description: Předseda Olomouckého kraje
 category:
   - zastupitele
