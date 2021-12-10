@@ -21,7 +21,7 @@ ordzask: 5
 heroImg: banner-default.jpg
 published: true
 ---
-Martin Eliáš (* 2. září 1992) je členem České pirátské strany. Narodil se v Jeseníku a žije v Olomouci. Od října 2020 je zastupitelem Olomouckého kraje za koalici Piráti a Starostové.
+**MUDr. Martin Eliáš** (* 2. září 1992) je členem České pirátské strany. Narodil se v Jeseníku a žije v Olomouci. Od října 2020 je zastupitelem Olomouckého kraje za koalici Piráti a Starostové.
 
 Vystudoval gymnázium v Jeseníku, kde jej nejvíce bavily přírodní vědy. Zároveň inspirován svou maminkou, která je zdravotní sestra, se rozhodl pro studium lékařství, které absolvoval na Univerzitě Karlově v Praze. Nyní pracuje na Ústavu klinické a molekulární patologie FN Olomouc a LF UP, kde se kromě přípravy na atestaci z patologie věnuje také doktorskému studiu a výzkumu rakoviny prostaty. Hovoří plynule anglicky a mírně pokročile německy.
 
