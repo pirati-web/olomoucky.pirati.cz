@@ -4,12 +4,11 @@ name:     Hynek Melichar          # běžně používáné jméno
 fullname: Mgr. Hynek Melichar, Ph.D.   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
-- predsedove-ms
 - olomouc
-position: Předseda místního sdružení
+position: 
 img: people/hynek-melichar.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Předseda místního sdružení Olomouc, zastupitel v Olomouci                # kratký popis, max 160 znaků
+description: zastupitel v Olomouci                # kratký popis, max 160 znaků
 mail:
 - hynek.melichar@pirati.cz
 mob:         
@@ -19,7 +18,6 @@ profiles:
   twitter:        
   flickr:    
 ordzas: 4  
-ordmis: 1 
 heroImg: banner-default.jpg
 published: true
 ---
