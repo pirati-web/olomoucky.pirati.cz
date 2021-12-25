@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsedove-ms
 - olomouc
 position: Předseda místního sdružení
-img: people/vaclav-ranc.jpg             # 165 x 220
+img: people/ranc_vaclav.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení Olomouc               # kratký popis, max 160 znaků
 mail:
