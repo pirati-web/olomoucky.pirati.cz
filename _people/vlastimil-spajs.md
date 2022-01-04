@@ -5,7 +5,7 @@ fullname: Vlastimil Špajs  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 position: 
-img: people/vlastimil-spajs.jpg             # 165 x 220
+img: people/spajs_vlastimil.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description:          # kratký popis, max 160 znaků
 mail: 
