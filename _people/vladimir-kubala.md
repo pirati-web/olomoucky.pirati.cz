@@ -1,5 +1,5 @@
 ---
-uid: Vladimir.Kubala
+uid: vladimir.kubala
 name:     Vladimír Kubala     # běžně používáné jméno
 fullname: Vladimír Kubala   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
