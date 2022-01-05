@@ -28,6 +28,6 @@ profiles:
 
 ---
 
-Místní sdružení Pirátská Tvrz sdružuje Piráty z z Majetína, Grygova, Brodku u Přerova, Krčmaně, Kokor, Rokytnice, Císařova, Citova, Blatce, Bystročic, Čelechovic, Dubu nad Moravou, Charvát, Kožušan-Tážal, Tovačova, Troubek, Tršic, Velkého Týnce, Věrovan a Lukova.
+Místní sdružení Pirátská Tvrz sdružuje Piráty z z Majetína, Grygova, Brodku u Přerova, Lukové, Krčmaně, Kokor, Rokytnice, Císařova, Citova, Blatce, Bystročic, Čelechovic, Dubu nad Moravou, Charvát, Kožušan-Tážal, Tovačova, Troubek, Tršic, Velkého Týnce a Věrovan.
 
 Seznam kandidátů pro volby do zastupitelstev obcí konaných ve dnech 5. a 6. 10. 2018 v [Majetíně](/volby/komunalni/2018/majetin) a [Brodku u Přerova](/volby/komunalni/2018/brodek-u-prerova).
