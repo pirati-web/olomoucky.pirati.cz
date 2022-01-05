@@ -19,4 +19,5 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
-
+ 
+Narozen v Olomouci. Od dětství bydlí a žije v Majetine. Pracuje jako obsluha strojů v kovoobrábění. Je amatérským muzikantem v punkové kapele, kde hraje na basu. Rekreačně hraje nohejbal, ale nebrání se téměř žádnému sportu. Příznivcem Pirátů se stal v roce 2014 a členem strany je od dubna 2017. Od června 2020 je 2. místopředsedou MS Pirátská Tvrz.
