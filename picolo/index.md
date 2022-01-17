@@ -23,7 +23,7 @@ mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2586.111521
 
 Pirátské centrum slouží jako prostor pro širokou veřejnost a různorodé občanské aktivity. Můžete zde uspořádat přednášku, besedu, workshop, promítání atp. K dispozici je projektor s plátnem a také kamera pro záznam či streaming na YouTube.
 
-Picolo je k dispozici zcela ZDARMA a pro akce nekomerčního charakteru. Vyhrazujeme si právo akci odmítnout.
+Picolo je k dispozici pro akce nekomerčního i komerčního charakteru. Vyhrazujeme si právo akci odmítnout.
 
 - Adresa: 8. května 522/5, 779 00 Olomouc
 - Otevírací doba: Pondělí 9-13 hodin, mimo tuto dobu po domluvě
