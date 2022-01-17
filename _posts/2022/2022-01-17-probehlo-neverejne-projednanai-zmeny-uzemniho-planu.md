@@ -20,5 +20,3 @@ Lze předpokládat, že se k celé této věci povedou ještě další diskuze a
 
 Za Prostějovské Pirátstvo 
 Honza Mochťák
-
-![Proběhlo “ne/veřejné” projednání změny územního plánu](/assets/img/miscellaneous/probehlo-neverejne-projednanai-zmeny-uzemniho-planu.jpg)
