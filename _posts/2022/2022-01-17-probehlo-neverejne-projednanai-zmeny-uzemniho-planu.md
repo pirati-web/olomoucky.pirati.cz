@@ -5,7 +5,7 @@ title: "Proběhlo neveřejné projednání změny územního plánu v Prostějov
 date: 2022-01-17
 tags: prostějov
 author: Jan Mochťák
-image: articles/2022/2022-01-17-probehlo-neverejne-projednani-zmeny-uzemniho-planu.jpg  #751x422 pixelu
+image: articles/2022/2022-01-17-probehlo-neverejne-projednani-zmeny-uzemniho-planu-v-prostejove.jpg  #751x422 pixelu
 ---
 
 Dne 11. 1. 2022 proběhlo online “ne/veřejné” projednání návrhu V. změny územního plánu. Dovolím si s odstupem k této “smutné” akci několik poznámek. 
