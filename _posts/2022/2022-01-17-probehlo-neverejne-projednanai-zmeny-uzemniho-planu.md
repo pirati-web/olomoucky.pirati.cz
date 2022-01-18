@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Proběhlo “ne/veřejné” projednání změny územního plánu"
+title: "Proběhlo ne/veřejné projednání změny územního plánu v Prostějově"
 date: 2022-01-17
 tags: prostějov
 author: Jan Mochťák
