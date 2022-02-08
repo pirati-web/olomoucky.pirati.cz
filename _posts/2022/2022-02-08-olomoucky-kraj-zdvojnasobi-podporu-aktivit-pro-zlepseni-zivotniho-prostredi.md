@@ -5,7 +5,7 @@ title: "Olomoucký kraj zdvojnásobí podporu aktivit pro zlepšení životního
 date: 2022-02-08
 tags: Olomoucký-kraj
 author: Josef Indra
-image: 2022-02-08-olomoucky-kraj-zdvojnasobi-podporu-aktivit-pro-zlepseni-zivotniho-prostredi.jpg  #751x422 pixelu
+image: articles/2022/2022-02-08-olomoucky-kraj-zdvojnasobi-podporu-aktivit-pro-zlepseni-zivotniho-prostredi.jpg  #751x422 pixelu
 ---
 **Rada Olomouckého kraje schválila dotační program na podporu aktivit v oblasti životního prostředí a zemědělství. V minulém roce byla celková alokace 2 miliony korun, pro tento rok byla určená částka navýšena na 5 250 000,- Kč. Příští týden by mělo dojít k odsouhlasení zastupitelstvem. Podávat žádosti pak bude možné od 21. března 2022.**
 
