@@ -13,3 +13,5 @@ Pod záštitou Sportovně-kulturní komise v městysi Brodek u Přerova, jíž j
 *„Akce Vítání jara aktivním způsobem proběhne v neděli 6. března 2022 od 13 hodin. Start a cíl akce je v areálu střediska skautu. Aktivní procházkou se projde 10 stanovišť rozmístěných různě po celém městysi. Na každém stanovišti bude připraveno k plnění rozličné množství činností a úkolů. Jedno ze stanovišť bude mít i Pirátská Tvrz. Na něm účastníci akce prověří své vědomosti a dovednosti o historii a současnosti Brodku u Přerova a Lukové. Věřím, že si zajisté také oživí nebo se dozví mnohé nové zajímavosti o Brodku a okolí,“* říká spolupořadatel této akce Radek Vojtek.
 
 **[FB událost - Vítání jara aktivním způsobem 2022](https://www.facebook.com/events/373996761228990){:target='_blank'}**
+
+![Jarní akce v Brodku](https://a.pirati.cz/assets/img/plakat.jpg)
