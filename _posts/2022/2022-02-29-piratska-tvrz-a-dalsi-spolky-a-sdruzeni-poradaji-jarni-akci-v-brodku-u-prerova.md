@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Pirátská Tvrz a další spolky a sdružení pořádají jarní akci v Brodku u Přerova"
 date: 2022-02-29
-tags: Přerov
+tags: piratska-tvrz
 author: Radek Vojtek
 image: articles/2022/2022-02-29-piratska-tvrz-a-dalsi-spolky-a-sdruzeni-poradaji-jarni-akci-v-brodku-u-prerova.jpg  #751x422 pixelu
 ---
