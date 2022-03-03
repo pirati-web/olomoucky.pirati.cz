@@ -14,4 +14,4 @@ Pod záštitou Sportovně-kulturní komise v městysi Brodek u Přerova, jíž j
 
 **[FB událost - Vítání jara aktivním způsobem 2022](https://www.facebook.com/events/373996761228990){:target='_blank'}**
 
-![Jarní akce v Brodku](https://a.pirati.cz/assets/img/plakat.jpg)
+![Jarní akce v Brodku](a.pirati.cz/assets/olomoucky/img/plakat.jpg)
