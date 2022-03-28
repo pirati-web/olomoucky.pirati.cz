@@ -14,6 +14,6 @@ Hlavní termín letošní akce bude sobota 2. dubna. V Olomouci se Piráti letos
 Sraz dobrovolníků bude v 9 hodin dopoledne před Michelským výpadem. Jako každý rok se počítá 
 i s celou řadou dobrovolníků z řad obyvatel Olomouce. Pytle na sběr odpadu a rukavice zajistí organizátoři akce. Jediné, co budou dobrovolníci potřebovat je oblečení, které si mohou případně zašpinit, chuť do práce a dobrou náladu. 
 
-Mapu se všemi úklidy naleznete [zde] (https://www.uklidmecesko.cz/map/)
+Mapu se všemi úklidy naleznete [zde](https://www.uklidmecesko.cz/map/)
 
-Událost olomouckého úklidu naleznete [zde] (https://www.facebook.com/events/1016796412580788)
+Událost olomouckého úklidu naleznete [zde](https://www.facebook.com/events/1016796412580788)
