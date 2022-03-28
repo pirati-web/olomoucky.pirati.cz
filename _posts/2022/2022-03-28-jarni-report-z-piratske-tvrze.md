@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Jarní report z Pirátské Tvrze"
 date: 2022-03-28
-tags: piratska-tvrz
+tags: pirátská-tvrz
 author: Josef Indra
 image: articles/2022/2022-03-28-jarni-report-z-piratske-tvrze.jpg  #751x422 pixelu
 ---
