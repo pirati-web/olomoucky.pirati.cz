@@ -26,8 +26,6 @@ Přerov (německy Prerau) je okresní město v Olomouckém kraji, 21 km jihovýc
 
 Město je důležitou dopravní křižovatkou. Přerov bylo také městem vojenským, sídlila zde 23. základna vrtulníkového letectva Edvarda Beneše. V budoucnu by mohl být Přerov křižovatkou Průplavu Dunaj-Odra-Labe a jedním z jeho hlavních přístavů (uvažuje se o studii k tomuto projektu). Část historického jádra města (Horní Město) je od roku 1992 městskou památkovou zónou. Někdejší podhradí se označuje jako Dolní město.
 
-V komunálních volbách jsme kandidovali v koalici s názvem [Společně Pro Přerov](http://www.spolecneproprerov.cz/) (SPP).
-
 Místní sdružení Přerov sdružuje Piráty z Přerova a Dobrčic. 
 
 ## Mapa Plánu pro Přerov
