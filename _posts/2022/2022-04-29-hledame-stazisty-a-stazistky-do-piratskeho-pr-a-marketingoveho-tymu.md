@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Hledáme stážisty a stážistky do pirátského PR a marketigového týmu!"
 date: 2022-04-29
-tags: olomouc
+tags: olomoucky-kraj
 author: Jan Mach
 image: articles/2022/2022-04-29-hledame-stazisty-a-stazistky-do-piratskeho-pr-a-marketingoveho-tymu.jpg  #751x422 pixelu
 ---
