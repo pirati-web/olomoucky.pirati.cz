@@ -20,6 +20,6 @@ Po jarních aktivitách jako bylo ekologické uklízení Brodku v rámci Ukliďm
 
 Děkujeme za přízeň, užívejte si léta se svými blízkými a přáteli. My se s Vámi rádi potkáme na všech akcích.
 
-**Radek Vojtek
+**Radek Vojtek,
 Předseda MS Pirátská Tvrz
 a kolektiv Pirátské Tvrze**
