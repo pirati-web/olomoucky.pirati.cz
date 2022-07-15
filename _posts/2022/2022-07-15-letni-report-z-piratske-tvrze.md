@@ -5,7 +5,7 @@ title: "Letní report z Pirátské Tvrze"
 date: 2022-07-15
 tags: pirátská-tvrz
 author: Radek Vojtek
-image: 2022-07-15-letni-report-z-piratske-tvrze.jpg
+image: articles/2022/2022-07-15-letni-report-z-piratske-tvrze.jpg
 ---
 **Vážení čtenáři našich pravidelných reportů,** 
 s příchodem léta a letních dnů se tak nějak přirozeně uvolňuje i příjemná letní atmosféra a dostavuje se také široký výběr pestrosti různých kulturních či sportovních akcí pod širým nebem. 
