@@ -8,7 +8,6 @@ author: Jan Mach
 image: 
 ---
 **Vážení čtenáři našich pravidelných reportů,** 
-
 s příchodem léta a letních dnů se tak nějak přirozeně uvolňuje i příjemná letní atmosféra a dostavuje se také široký výběr pestrosti různých kulturních či sportovních akcí pod širým nebem. 
 
 V květnu jsme pomáhali organizovat druhý ročník setkání pirátských komunit, který proběhl v loňském roce právě v Brodku a letos toto setkání navázalo konáním u Máchova jezera. Zde se nám na celorepublikovém fotbalovém turnaji Pirátů podařilo zvítězit proti týmům od Plzně až po Brno a tak můžeme směle prohlásit, že nejlepší fotbal za Piráty se hraje právě u nás ve Tvrzi. 
