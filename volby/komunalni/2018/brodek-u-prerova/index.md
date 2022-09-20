@@ -5,18 +5,18 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 ---
 ## Seznam kandidátů
 
-1. [**Radek Vojtek**](/lide/radek-vojtek), 29 let, manager
-2. **Bc. Pavla Procházková**, 43 let, radiologický asistent
-3. **Jiří Vojtek**, 51 let, stavební technik
-4. **Tomáš Lacina**, 25 let, servisní technik
-5. **Jakub Pospíšil**, 26 let, OSVČ
-6. **Renáta Vojtková**, 33 let, zdravotní sestra
-7. **František Procházka**, 47 let, skladník
-8. **Lenka Horáková**, 33 let, pekařka
-9. **Vladimír Sasák**, 29 let, OSVČ
-10. **Radmila Vojtková**, 49 let, bankéř
-11. **Tomáš Sedlařík**, 28 let, tiskař
-12. **Petra Burjetová**, 43 let, mistr potravinářské výroby
-13. **Anežka Procházková**, 20 let, student
-14. **Marcel Burjeta**, 44 let, operátor
-15. **Michal Minařík**, 39 let, manager
+1. [**Radek Vojtek**](/lide/radek-vojtek), 33 let, manager, Brodek u Přerova, Piráti
+2. **Bc. Pavlína Procházková**, 46 let, radiologický asistent, Brodek u Přerova, BEZPP
+3. **Tomáš Lacina**, 29 let, mechanik, Brodek u Přerova, BEZPP
+4. **Jakub Pospíšil**, 30 let, zemědělec, Brodek u Přerova, BEZPP
+5. **Renáta Vojtková**, 37 let, zdravotní sestra, Brodek u Přerova, BEZPP
+6. **František Procházka**, 51 let, skladník, Brodek u Přerova, BEZPP
+7. **Vladimír Sasák**, 33 let, provnozní, Luková, BEZPP
+8. **Bc. Anežka Procházková**, 24 let, fyzioterapeut, Brodek u Přerova, BEZPP
+9. **Šimon Kocian**, 20 let, student, Brodek u Přerova, BEZPP
+10. **Jiří Vojtek**, 55 let, stavební technik, Brodek u Přerova, BEZPP
+11. **Petra Rozsívalová**, 37 let, asistentka, Brodek u Přerova, BEZPP
+12. **Štěpán Procházka**, 21 let, student, Brodek u Přerova, BEZPP
+13. **Radmila Vojtková**, 53 let, manažerka řízení distribuce investic, Brodek u Přerova, BEZPP
+14. **Mgr. Vít Holásek**, 29 let, softwarový architekt, Brodek u Přerova, BEZPP
+15. **Jiřina Vojtková**, 76 let, důchodce, Brodek u Přerova, BEZPP
