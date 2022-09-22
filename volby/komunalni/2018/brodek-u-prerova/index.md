@@ -21,14 +21,15 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 14. **Mgr. Vít Holásek**, 29 let, softwarový architekt, Brodek u Přerova, BEZPP
 15. **Jiřina Vojtková**, 76 let, důchodce, Brodek u Přerova, BEZPP
 
+
+
 # **Náš Program**
 
 ◉ Otevřený městys - usnadníme občanům styk s úřady. Zasadíme se o změnu, rozšíření a zkvalitnění webových stránek městyse, 
 tak aby stránky byly přehledné, obsahovaly veškeré potřebné dokumenty a aktuální informace. 
 Mohou také obsahovat užitečné aplikace (formuláře, informační systém pro komunikaci s úřadem, aktualizovaný kalendář akcí, ankety pro občany, atd.).
 
-◉ Pro usnadnění komunikace s úřadem a úsporu času občanů zajistíme umístění veškerých formulářů na stránkách městyse, 
-a to v otevřených formátech zpracovatelných zdarma dostupným softwarem.
+◉ Pro usnadnění komunikace s úřadem a úsporu času občanů zajistíme umístění veškerých formulářů na stránkách městyse,                                                  a to v otevřených formátech zpracovatelných zdarma dostupným softwarem.
 
 ◉ Kvalitní údržba silnic, chodníků, cyklostezek a drobného mobiliáře, jako jsou lavičky, odpadkové koše 
 a kontejnery na tříděný odpad je samozřejmostí.
@@ -71,14 +72,13 @@ budeme prosazovat vybudování hřišť a sportovišť nejen pro děti a mláde�
 Podklady musí zastupitelé dostat v dostatečném předstihu, aby se mohli řádně seznámit s problematikou a na zasedání hlasovali informovaně. 
 Zasedání zastupitelstva nesmí být jen bezduchá hlasovací mašinérie.
 
-◉ Zavazujeme se k řešení peticí, stížností a námětů občanů a to v jakékoliv podobě
-– na papíře, nebo elektronicky a při jejich řešení budeme využívat dotazníkové šetření.
+◉ Zavazujeme se k řešení peticí, stížností a námětů občanů a to v jakékoliv podobě – na papíře, nebo elektronicky a při jejich řešení budeme využívat dotazníkové šetření.
 
-◉ Zaměstnanci městyse mají dělat práci, na kterou mají kvalifikaci, a být za ni spravedlivě odměněni. 
-Na výpomoc při sezonních pracích je možné najmout další pracovníky, a to i s využitím dotací.
+◉ Zaměstnanci městyse mají dělat práci, na kterou mají kvalifikaci, a být za ni spravedlivě odměněni.                                                                  Na výpomoc při sezonních pracích je možné najmout další pracovníky, a to i s využitím dotací.
 
 + **PÁR PIRÁTSKÝCH VYCHYTÁVEK**
-Motivačního program pro občany, aby se dobře starali o své okolí (předzahrádky, apod.)
+
+Motivační program pro občany, aby se dobře starali o své okolí (předzahrádky, apod.)
 Vytvoříme parkovací místa, která Brodku zoufale chybí
 Pozvednutí léta upadajícího rozvoje nových zástaveb a stavebních míst obecně
 Free Wi-Fi na veřejných prostranstvích
