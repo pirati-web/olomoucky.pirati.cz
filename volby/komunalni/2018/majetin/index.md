@@ -3,7 +3,7 @@ layout: page
 title: Komunální volby 2022 v Majetíně
 description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií. Jsme tu osm let. Hájíme svobodu, přinášíme čerstvé nápady a nebojíme se říkat, co si myslíme. Politici slibují modré z nebe, světlé zítřky a další prázdná hesla. Piráti nabízí jasné a konkrétní cíle – černé na bílém. Pusťte nás na ně!
 ---
-## Seznam kandidátů
+# Seznam kandidátů
 
 1. **Ing. et Ing. Pavla Studená**, 32 let, ekonomka, MAjetín, BEZPP
 2. **Jaroslav Konečný**, 45 let, technik údržby, Majetín, BEZPP
@@ -17,7 +17,8 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 
 
 
-## **Náš program**
+# **Náš program**
+
 ◉ Otevřený městys - usnadníme občanům styk s úřady. Zasadíme se o změnu, rozšíření a zkvalitnění webových stránek městyse, tak aby stránky byly přehledné, obsahovaly veškeré potřebné dokumenty a aktuální informace. Mohou také obsahovat užitečné aplikace (formuláře,informační systém pro komunikaci s úřadem, aktualizovaný kalendář akcí, ankety pro občany,atd.).
 
 ◉ Pro usnadnění komunikace s úřadem a úsporu času občanů zajistíme umístění veškerých formulářů na stránkách městyse, a to v otevřených formátech zpracovatelných zdarma dostupným softwarem.
