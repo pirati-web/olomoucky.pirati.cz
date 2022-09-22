@@ -16,6 +16,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 9. **Jana Studená**, 18 let, studentka, Majetín, BEZPP
 
 
+
 ## **Náš program**
 ◉ Otevřený městys - usnadníme občanům styk s úřady. Zasadíme se o změnu, rozšíření a zkvalitnění webových stránek městyse, tak aby stránky byly přehledné, obsahovaly veškeré potřebné dokumenty a aktuální informace. Mohou také obsahovat užitečné aplikace (formuláře,informační systém pro komunikaci s úřadem, aktualizovaný kalendář akcí, ankety pro občany,atd.).
 
