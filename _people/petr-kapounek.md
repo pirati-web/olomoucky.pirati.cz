@@ -17,6 +17,6 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
-Petr Kapounek (* 9. prosince 1986, Prostějov) ječlen komise IT a Smart city na Olomouckém kraji. Vystudoval Střední průmyslovou školu elektrotechnickou. Pracuje jako projektový manažer v telekomunikační společnosti.
+Petr Kapounek (* 9. prosince 1986, Prostějov) je předseda komise IT a Smart city na Olomouckém kraji. Vystudoval Střední průmyslovou školu elektrotechnickou. Pracuje jako projektový manažer v telekomunikační společnosti.
 
 Dlouhodobě se zajímá o politické dění v ČR i zahraničí. Politicky se považuje za libertariána. Jeho zájmy jsou příroda, rekreační sporty (kolo, brusle), programování, linux, věda a technika, sci-fi.
