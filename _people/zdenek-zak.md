@@ -5,10 +5,11 @@ fullname: Zdeněk Žák   # jméno s tituly etc.
 category:
 - predsednictvo                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
+- - zastupitele
 position: Místopředseda krajského sdružení
 img: people/zak_zdenek.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: 2. místopředseda krajského sdružení Olomouckého kraje, 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
+description: zastupitel města Olmouce. 2. místopředseda krajského sdružení, 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
 mail:
 - zdenek.zak@pirati.cz
 mob: 777 080 459
@@ -17,11 +18,12 @@ profiles:
   facebook:       
   twitter:        
   flickr: 
-ordpre: 3        
+ordpre: 3   
+ordzas: 4
 heroImg: banner-default.jpg
 published: true
 ---
-Zdeněk Žák (* 19. srpna 1977) je členem Pirátské strany od března 2018. Narodil se v Zábřehu. Dlouhodobě žil v Mohelnici a Praze. V Olomouci žije od roku 2011. Od roku 2012 je ženatý. S manželkou mají 2 dcery.
+Zdeněk Žák (* 19. srpna 1977) je členem Pirátské strany od března 2018 a zastupitel města Olomouce od roku 2022. Narodil se v Zábřehu. Dlouhodobě žil v Mohelnici a Praze. V Olomouci žije od roku 2011. Od roku 2012 je ženatý. S manželkou mají 2 dcery.
 
 Má za sebou více než dvacetiletou pracovní kariéru v soukromém sektoru. Po maturitě na SPŠ elektrotechnické prošel několika obchodními, manažerskými i technickými pracovními pozicemi. Nyní pracuje v České spořitelně na pozici specialista pro podnikatele a firmy. Kromě zaměstnání se věnuje správě bytového domu jako předseda SVJ.
 
