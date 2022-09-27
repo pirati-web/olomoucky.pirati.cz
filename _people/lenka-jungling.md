@@ -5,7 +5,7 @@ fullname: Ing. Lenka Jüngling   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 position: Místopředseda místního sdružení
-img: people/junglin_lenka2.jpg             # 165 x 220
+img: people/stred.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: přerovská zastupitelka, Místopředsedkyně místního sdružení Přerov, podnikatelka                # kratký popis, max 160 znaků
 mail:
