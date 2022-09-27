@@ -3,11 +3,11 @@ uid: jaroslav.krejci
 name:     Jaroslav Krejčí     # běžně používané jméno
 fullname: Mgr. Jaroslav Krejčí   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
+- zastupitele
 position: 
-img: people/jaroslav-krejci.jpg             # 165 x 220
+img: people/krejci.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje               # kratký popis, max 160 znaků
+description: přerovský zastupitel, Člen KS Olomouckého kraje               # kratký popis, max 160 znaků
 mail: jaroslav.krejci@pirati.cz
 mob: 
 profiles:
@@ -15,6 +15,7 @@ profiles:
   facebook:       
   twitter:        
   flickr: 
+ordzas: 7
 heroImg: banner-default.jpg
 published: true
 ---
