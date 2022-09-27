@@ -4,12 +4,11 @@ name:     Petr Lysek   # běžně používáné jméno
 fullname: Ing. Petr Lysek   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov
-- zastupitele
 - kraj-zastupitele
 - prostejov-zastupitele
 position: Místopředseda místního sdružení
 img: people/lysek_petr.jpg   # 165 x 220
-description: 1. místopředseda místního sdružení Prostějov, zastupitel v Prostějově, zastupitel Olomouckého kraje           # kratký popis, max 160 znaků
+description: 1. místopředseda místního sdružení Prostějov, radní Olomouckého kraje           # kratký popis, max 160 znaků
 mail:
 - petr.lysek@pirati.cz
 mob: 603 536 302   
@@ -18,7 +17,6 @@ profiles:
   facebook:       
   twitter:      
   flickr:
-ordzas: 2
 ordzask: 4
 heroImg: banner-default.jpg
 published: true
