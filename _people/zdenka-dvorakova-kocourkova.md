@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Členka KS Olomouckého kraje
 img: people/dvorakova_zdenka.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: radní Olomouckého kraje              # kratký popis, max 160 znaků
+description: zastupitelka Olomouckého kraje              # kratký popis, max 160 znaků
 mail: 
 - dvorakovakocourkova@gmail.com
 mob:         
