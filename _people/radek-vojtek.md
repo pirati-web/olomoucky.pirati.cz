@@ -5,7 +5,7 @@ fullname: Radek Vojtek   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - piratska-tvrz
 - predsedove-ms
-- - zastupitele
+- zastupitele
 position: Předseda místního sdružení
 img: people/radek-vojtek.jpg   # 165 x 220
 description: zastupitel v Brodku u Přerova, Předseda místního sdružení Pirátská tvrz           # kratký popis, max 160 znaků
