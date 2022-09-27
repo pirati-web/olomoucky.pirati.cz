@@ -3,11 +3,11 @@ uid: lenka.jungling
 name:     Lenka Jüngling          # běžně používáné jméno
 fullname: Ing. Lenka Jüngling   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
--
+- zastupitele
 position: Místopředseda místního sdružení
 img: people/junglin_lenka2.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Místopředsedkyně místního sdružení Přerov, podnikatelka                # kratký popis, max 160 znaků
+description: přerovská zastupitelka, Místopředsedkyně místního sdružení Přerov, podnikatelka                # kratký popis, max 160 znaků
 mail:
 - lenka.jungling@pirati.cz
 mob: 778 522 095
@@ -15,11 +15,12 @@ profiles:
   github:
   facebook:       
   twitter:        
-  flickr:       
+  flickr:      
+ordzas: 1
 heroImg: banner-default.jpg
 published: true
 ---
-Ing. Lenka Jüngling (* 1989) je 1. místopředsedkyní MS Přerov. Zároveň je členkou výboru Olomouckého kraje pro regionální rozvoj a členkou komise Olomouckého kraje pro oblast rozvoje venkova a zemědělství. Vždy prohlašovala, že až se jednou usadí, zapojí se do politiky. Tomu předcházela studia, bydlení a brigády v zahraničí.
+Ing. Lenka Jüngling (* 1989) je přerovská zastupitelka 1. místopředsedkyní MS Přerov. Zároveň je členkou výboru Olomouckého kraje pro regionální rozvoj a členkou komise Olomouckého kraje pro oblast rozvoje venkova a zemědělství. Vždy prohlašovala, že až se jednou usadí, zapojí se do politiky. Tomu předcházela studia, bydlení a brigády v zahraničí.
 
 Na bakaláři přes školní rok studovala Regionální Rozvoj, tancovala street dance, a přes léto prodávala knížky v Americe. Na magistrovi studovala dálkově Ekonomiku a Management na ČZU a do toho pracovala ve facilities managementu. Po studiích se vydala bydlet do Londýna. Šest let pracuje jako "Occupancy Planner" a plánuje různým korporátům efektivní využití kanceláří. Před třemi roky se začala intenzivněji zabývat studiem a učením jógy. Je spolumajitelkou kavárny Nebe počká.
 
