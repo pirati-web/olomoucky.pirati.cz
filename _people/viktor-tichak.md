@@ -9,7 +9,7 @@ category:
   - koordinatori
   - kontaktni_osoba
 position: Předseda krajského sdružení
-img: people/tichak_viktor.jpg             # 165 x 220
+img: people/viktort.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda krajského sdružení Olomouckého kraje, zastupitel v Olomouci                # kratký popis, max 160 znaků
 mail:
