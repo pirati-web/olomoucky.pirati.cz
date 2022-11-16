@@ -11,7 +11,7 @@ category:
 position: Místopředseda krajského sdružení
 img: people/viktort.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Předseda krajského sdružení Olomouckého kraje, zastupitel v Olomouci                # kratký popis, max 160 znaků
+description: Náměstek primátora města Olomouce, Místopředseda Olomouckého kraje               # kratký popis, max 160 znaků
 mail:
 - viktor.tichak@pirati.cz
 mob: 777 152 528         
