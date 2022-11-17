@@ -5,11 +5,11 @@ fullname: Zdeněk Žák   # jméno s tituly etc.
 category:
 - predsednictvo                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
-- - zastupitele
-position: Místopředseda krajského sdružení
+- zastupitele
+position: zastuptel města Olomouce
 img: people/zakz.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: zastupitel města Olmouce. 2. místopředseda krajského sdružení, 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
+description: zastupitel města Olomouce, 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
 mail:
 - zdenek.zak@pirati.cz
 mob: 777 080 459
@@ -17,8 +17,7 @@ profiles:
   github:
   facebook:       
   twitter:        
-  flickr: 
-ordpre: 3   
+  flickr:    
 ordzas: 4
 heroImg: banner-default.jpg
 published: true
