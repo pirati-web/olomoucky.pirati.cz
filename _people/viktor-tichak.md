@@ -6,7 +6,6 @@ description: Náměstek primátora města Olomouce, Místopředseda Olomouckého
 category:
   - zastupitele
   - predsednictvo
-  - koordinatori
   - kontaktni_osoba
 position: Místopředseda krajského sdružení
 img: people/viktort.jpg             # 165 x 220
