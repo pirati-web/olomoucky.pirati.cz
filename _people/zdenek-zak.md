@@ -3,10 +3,10 @@ uid: zdenek.zak
 name:     Zdeněk Žák          # běžně používáné jméno
 fullname: Zdeněk Žák   # jméno s tituly etc.
 category:
-- predsednictvo                     # kategorie: rp, praha, vary, hradec, jmk, senat
+                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - olomouc
 - zastupitele
-position: zastuptel města Olomouce
+position: zastupitel města Olomouce
 img: people/zakz.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: zastupitel města Olomouce, 1. místopředseda místního sdružení Olomouc                # kratký popis, max 160 znaků
