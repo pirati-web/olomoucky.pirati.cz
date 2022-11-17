@@ -4,10 +4,11 @@ name:     Martin Šmída      		# běžně používáné jméno
 fullname: Ing. et Ing. Martin Šmída  	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kraj-zastupitele
+- predsednictvo
 position:
 img: people/smida_martin.jpg             # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
-description: radní Olomouckého kraje             		# kratký popis, max 160 znaků
+description: radní Olomouckého kraje, 2. místopředseda KS Olomoucký kraj             		# kratký popis, max 160 znaků
 mail:
 - martin.smida@pirati.cz
 mob:					721 661 311
@@ -17,6 +18,7 @@ profiles:
   twitter:				https://twitter.com/Martinpunkie
   flickr:				https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=martin%20%C5%A1m%C3%ADda
 ordzas: 3
+ordpre: 3
 ordzask: 2
 heroImg: banner-default.jpg
 published: true
