@@ -21,7 +21,7 @@ profiles:
   twitter:        
   flickr:       
 ordzas: 5
-ordpre: 1
+ordpre: 2
 heroImg: banner-default.jpg
 published: true
 ---
