@@ -1,11 +1,11 @@
 ---
 layout: post
 category: CLANKY
-title: "Olomoucký kraj schválil dotace v oblasti životního prostředí na příští rok"
+title: "Rada Olomouckého kraje schválila dotace v oblasti životního prostředí na příští rok"
 date: 2022-11-23
 tags: olomoucký kraj
 author: Jan Mach
-image: articles/2022/2022-11-23-Olomoucky-kraj-schvalil-dotace-v-oblasti-zivotniho-prostredi-na-pristi-rok.jpg  #751x422 pixelu
+image: articles/2022/2022-11-23-Rada-Olomouckeho-kraje-schvalila-dotace-v-oblasti-zivotniho-prostredi-na-pristi-rok.jpg  #751x422 pixelu
 ---
 **Na radě Olomouckého kraje jsme schválili dotace v oblasti životního prostředí.**
 
