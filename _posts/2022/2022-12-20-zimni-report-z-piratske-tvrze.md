@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Zimní report z Pirátské Tvrze"
-date: 2022-07-15
+date: 2022-12-20
 tags: pirátská-tvrz
 author: Radek Vojtek
 image: articles/2022/2022-12-20-zimni-report-z-piratske-tvrze.jpg
