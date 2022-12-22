@@ -3,8 +3,6 @@ uid: sona.pechova
 name:     Soňa Pechová   # běžně používáné jméno
 fullname: Soňa Pechová   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
-- piratska-tvrz
-- predsedove-ms
 - zastupitele
 position: 2. místopředsedkyně místního sdružení Pirátská tvrz
 img: people/sona-pechova.jpg   # 165 x 220
